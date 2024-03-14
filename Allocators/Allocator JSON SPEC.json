@@ -2,6 +2,7 @@
 "Allocators": [
  {
    "application_number": null,
+   "address": null,
    "name": null,
    "organization": null,
    "location": null,
@@ -28,7 +29,8 @@
          null
       ],
       "12m_requested": null,
-      "bookkeeping_repo": null
+      "github_handles": [],
+      "allocation_bookkeeping": null
    },
    "poc": {
       "slack": null,

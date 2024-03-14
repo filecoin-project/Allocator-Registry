@@ -1,0 +1,50 @@
+{
+  "application_number": 1094,
+  "adddress": null,
+  "name": "CIDgravity decentralized onboarding to self-selected SPs",
+  "organization": "Twinquasar - CIDgravity",
+  "location": "Europe",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f1e4cq352vsbxdj5mm32qcbqtikapie6m4wzgz6eq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Enterprise Data Clients",
+      "Small-scale developers or data owners",
+      "Individuals learning about Filecoin",
+      "Other (specified above)"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "2+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Private Commercial/Enterprise",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "s0nik42",
+      "ze42",
+      "FlorianRuen"
+    ],  
+    "allocation_bookkeeping": null
+  },
+  "poc": {
+    "slack": "@ Julien NOEL - Twin Quasar – CIDgravity @Adrien Urban @Florian Ruen – CID gravity",
+    "github_user": "Julien NOEL : @s0nik42 Adrien Urban : @ze42 Florian Ruen : @FlorianRuen"
+  },
+  "pathway_addresses": {
+    "msig": null,
+    "signer": [
+      null,
+      null,
+      null
+    ]
+  }
+}

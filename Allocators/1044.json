@@ -1,0 +1,43 @@
+{
+  "application_number": 1044,
+  "address": "f27j36upkm2mk3vrae25i7rhdtzmxjnntnvrxnasa",
+  "name": "FILWALLET",
+  "organization": "FILWALLET",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f14r3uqsnxj22zzzkojqpdh6n62tg75vbx5wl72vi",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 120,
+    "github_handles": [
+      "a1991car"
+    ],  
+    "allocation_bookkeeping": "https://github.com/a1991car"
+  },
+  "poc": {
+    "slack": "nike-m",
+    "github_user": "https://github.com/a1991car"
+  },
+  "pathway_addresses": {
+    "msig": "f27j36upkm2mk3vrae25i7rhdtzmxjnntnvrxnasa",
+    "signer": [
+      "f14r3uqsnxj22zzzkojqpdh6n62tg75vbx5wl72vi"
+    ]
+  }
+}

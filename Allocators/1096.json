@@ -1,0 +1,47 @@
+{
+  "application_number": 1096,
+  "address": null,
+  "name": "FF Social Impact",
+  "organization": "Filecoin Foundation (FF)",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "Created new multisig:  f02943486 f2lrh4szv7ymlmit7qprpk6re2cpksgjgcdth5f3a",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
+    },
+    "target_clients": [
+      "Other (specified above)"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "2+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Other (specified elsewhere)",
+      "Private Non-Profit/Social Impact",
+      "Public Open Commercial/Enterprise",
+      "Public Open Dataset (Research/Non-Profit)"
+    ],
+    "12m_requested": 5,
+    "github_handles": [
+      "dannyob",
+      "SeedingTrees",
+      "ianconsolata",
+      "Sankara-Jefferson"
+    ],  
+    "allocation_bookkeeping": null
+  },
+  "poc": {
+    "slack": "dannyob; Hunter Treseder; ianconsolata; Jefferson Sankara",
+    "github_user": "dannyob (Danny); SeedingTrees (Hunter); ianconsolata (Ian); Sankara-Jefferson (Sankara)"
+  },
+  "pathway_addresses": {
+    "msig": null,
+    "signer": [
+      null,
+      null,
+      null
+    ]
+  }
+}

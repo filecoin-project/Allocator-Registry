@@ -1,0 +1,46 @@
+{
+  "application_number": 996,
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Public Open Dataset Pathway",
+  "organization": "Data Preservation Institute",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
+    },
+    "target_clients": [
+      "Enterprise Data Clients",
+      "Small-scale developers or data owners",
+      "Individuals learning about Filecoin",
+      "Other (specified above)"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "2+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Commercial/Enterprise",
+      "Public Open Dataset (Research/Non-Profit)"
+    ],
+    "12m_requested": 330,
+    "github_handles": [
+      "kevzak",
+      "willscott",
+      "martapiekarska"
+    ],  
+    "allocation_bookkeeping": "https://github.com/fidlabs/Open-Data-Pathway"
+  },
+  "poc": {
+    "slack": "@Kevin Z @willscott @MPG @simonKim @RG",
+    "github_user": "@kevzak @willscott  @ Marta PG"
+  },
+  "pathway_addresses": {
+    "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+    "signer": [
+      "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
+      "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq"
+    ]
+  }
+}

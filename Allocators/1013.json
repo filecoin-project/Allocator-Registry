@@ -1,0 +1,43 @@
+{
+  "application_number": 1013,
+  "address": "f2jtkggchcjiqwp2jihe73bw7gnhfdzlwqskcgzhq",
+  "name": "Top Value Storage",
+  "organization": "Top Value",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1idj2ubpu4gl7cvz7yr63gypcyzhsyg6sigk723a",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
+    },
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Private Non-Profit/Social Impact",
+      "Private Commercial/Enterprise",
+      "Public Open Commercial/Enterprise",
+      "Public Open Dataset (Research/Non-Profit)"
+    ],
+    "12m_requested": 180,
+    "github_handles": [
+      "luobin544"
+    ],  
+    "allocation_bookkeeping": "https://github.com/TVLimited/top-value-storage"
+  },
+  "poc": {
+    "slack": "@Top Value Finance",
+    "github_user": "luobin544"
+  },
+  "pathway_addresses": {
+    "msig": "f2jtkggchcjiqwp2jihe73bw7gnhfdzlwqskcgzhq",
+    "signer": [
+      "f1tbd632f6w62glfaf7wjpimacbnjiz26poyoes2q"
+    ]
+  }
+}

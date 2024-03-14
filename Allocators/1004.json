@@ -1,0 +1,43 @@
+{
+  "application_number": 1004,
+  "address": "f2v4lcttpwtiou2wsijws5etsmy2spzvotxlaq6hi",
+  "name": "Blockchain World FIL+ DC Allocator(BCWFDA)",
+  "organization": "Blockchain World News",
+  "location": "Korea",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "F1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "4+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 200,
+    "github_handles": ["psh0691"],
+    "allocation_bookkeeping": "https://github.com/Blockchain-World-News/FIL-DC-Allocator"
+  },
+  "poc": {
+    "slack": "psh0691",
+    "github_user": "psh0691"
+  },
+  "pathway_addresses": {
+    "msig": "f2v4lcttpwtiou2wsijws5etsmy2spzvotxlaq6hi",
+    "signer": [
+      "f1nhqjphdxs4nusdmtnsvekwgzll3yji6egt5nqgq",
+      "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i"
+    ]
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "application_number": 1071,
+  "address": "f2fso7a5l3htwib3vzz2e7o2evxfnu7472e3kzn7a",
+  "name": "QC Data center",
+  "organization": "QC Data center",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1ylggnze72mmskm4xjcskf3kk5mp6duc2gztdboq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "4+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 80,
+    "github_handles": ["luhong123"],
+    "allocation_bookkeeping": "https://github.com/luhong123/QC-Data-center"
+  },
+  "poc": {
+    "slack": "U05P360RXME",
+    "github_user": "luhong123"
+  },
+  "pathway_addresses": {
+    "msig": "f2fso7a5l3htwib3vzz2e7o2evxfnu7472e3kzn7a",
+    "signer": [
+      "f1apw6of55wzdbpjpnnyenv56ensi4iisaxgmigzi",
+      "f1ylggnze72mmskm4xjcskf3kk5mp6duc2gztdboq"
+    ]
+  }
+}

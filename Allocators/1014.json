@@ -1,0 +1,41 @@
+{
+  "application_number": 1014,
+  "address": "f2ru35g5sjz7q5atm6mb6nh7bo7tastgluqydxsoa",
+  "name": "LendMi Storage",
+  "organization": "LendMi",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f17gyewdt3aviprhmhcl52xq2rtv3ihrakiv6bukq",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
+    },
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 170,
+    "github_handles": ["Rongze92"],
+    "allocation_bookkeeping": "https://github.com/LendMi-Finance/LendMi-Storage"
+  },
+  "poc": {
+    "slack": "contact@lendmi.finance",
+    "github_user": "Rongze92"
+  },
+  "pathway_addresses": {
+    "msig": "f2ru35g5sjz7q5atm6mb6nh7bo7tastgluqydxsoa",
+    "signer": [
+      "f12mckci3omexgzoeosjvstcfxfe4vqw7owdia3da"
+    ]
+  }
+}

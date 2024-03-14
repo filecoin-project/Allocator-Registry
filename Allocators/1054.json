@@ -1,0 +1,40 @@
+{
+  "application_number": 1054,
+  "address": "f2qlt2ancrjsiqvp72evgm5ifcplk5twdrol7mxgi",
+  "name": "RFfil",
+  "organization": "RFfil",
+  "location": "Hong Kong",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "3+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 150,
+    "github_handles": ["MikeH1999"],
+    "allocation_bookkeeping": "https://github.com/MikeH1999/RFfil"
+  },
+  "poc": {
+    "slack": "U02LJL10K6F",
+    "github_user": "MikeH1999"
+  },
+  "pathway_addresses": {
+    "msig": "f2qlt2ancrjsiqvp72evgm5ifcplk5twdrol7mxgi",
+    "signer": [
+      "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi"
+    ]
+  }
+}
