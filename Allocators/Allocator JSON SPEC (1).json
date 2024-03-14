@@ -1,0 +1,47 @@
+{
+"Allocators": [
+ {
+   "application_number": null,
+   "name": null,
+   "organization": null,
+   "location": null,
+   "status": null,
+   "metapathway_type": null,
+   "associated_org_addresses": null,
+   "application": {
+      "allocations": {
+         "standardized": null
+      },
+      "target_clients": [
+         null,
+         null,
+         null,
+         null
+      ],
+      "required_sps": null,
+      "required_replicas": null,
+      "data_types": [
+         null,
+         null,
+         null,
+         null,
+         null
+      ],
+      "12m_requested": null,
+      "bookkeeping_repo": null
+   },
+   "poc": {
+      "slack": null,
+      "github_user": null
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}
