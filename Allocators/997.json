@@ -1,0 +1,43 @@
+{
+  "application_number": 997,
+  "address": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
+  "name": "Enterprise Data Pathway",
+  "organization": "Data Preservation Labs",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "2+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Private Non-Profit/Social Impact",
+      "Private Commercial/Enterprise"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "kevzak",
+      "willscott",
+      "martapiekarska"
+    ],  
+    "allocation_bookkeeping": "https://github.com/fidlabs/Enterprise-Data-Pathway/"
+  },
+  "poc": {
+    "slack": "@Kevin Z @willscott @MPG",
+    "github_user": "@kevzak @willscott  @martapiekarska"
+  },
+  "pathway_addresses": {
+    "msig": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
+    "signer": [
+      "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
+      "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq"
+    ]
+  }
+}

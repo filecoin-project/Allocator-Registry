@@ -1,0 +1,41 @@
+{
+  "application_number": 1050,
+  "address": "f2djzdtcymz55csoxj4ounmdvurqif6kv6cjuzsey",
+  "name": "Hash Big Data",
+  "organization": "Hash Team",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1lldgcje747faqelcksrwgwcml4s5u3h7afhltey",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "4+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 100,
+    "github_handles": ["hash889900"],
+    "allocation_bookkeeping": "https://github.com/hash889900/HashTeam"
+  },
+  "poc": {
+    "slack": "U05J3B87S59",
+    "github_user": "hash889900"
+  },
+  "pathway_addresses": {
+    "msig": "f2djzdtcymz55csoxj4ounmdvurqif6kv6cjuzsey",
+    "signer": [
+      "f14oq4jctudvidvyhfmrp7qt6ndng7pr7ampp3miq",
+      "f1lldgcje747faqelcksrwgwcml4s5u3h7afhltey"
+    ]
+  }
+}

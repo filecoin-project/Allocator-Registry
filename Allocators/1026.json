@@ -1,0 +1,39 @@
+{
+  "application_number": 1026,
+  "address": "f2xllrict42lc2toycwjqpzxt2eii346dudpey2ta",
+  "name": "NDCloud",
+  "organization": "ND LABS",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "F1ydfdqffpgx4uc5ar3j7xif5btadxodoojftshsa",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
+    },
+    "target_clients": [
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "NDLABS-Leo"
+    ],  
+    "allocation_bookkeeping": "https://github.com/NDLABS-Leo/Allocator-Pathway-ND-CLOUD.git"
+  },
+  "poc": {
+    "slack": "Leo - ND labs",
+    "github_user": "ND labs - Leo"
+  },
+  "pathway_addresses": {
+    "msig": "f2xllrict42lc2toycwjqpzxt2eii346dudpey2ta",
+    "signer": [
+      "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei"
+    ]
+  }
+}

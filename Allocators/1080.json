@@ -1,0 +1,47 @@
+{
+  "application_number": 1080,
+  "address": "f2dl7rnxidgmzdqfzjkjtn2mjixgr5qi7gq6np3li",
+  "name": "New Web Group (E-Fil+)",
+  "organization": "New Web Group",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1knqrv2si4d4piqlw7deq4p3t5cejtn7e6nq4jxq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "4+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "newwebgroup"
+    ],  
+    "allocation_bookkeeping": "https://github.com/newwebgroup/Allocator-Pathway-New-Web-Group"
+  },
+  "poc": {
+    "slack": "Yuan   U027SDP1PGD",
+    "github_user": "https://github.com/newwebgroup"
+  },
+  "pathway_addresses": {
+    "msig": "f2dl7rnxidgmzdqfzjkjtn2mjixgr5qi7gq6np3li",
+    "signer": [
+      "f14snikfhhvoc6usho642whc6vf7tvx2pwnq3z6na",
+      "f1e77zuityhvvw6u2t6tb5qlnsegy2s67qs4lbbbq"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "application_number": 1024,
+  "address": "f17juxnqndilhyqetakbokzguubmku5qr3o2nsybq",
+  "name": "EasyOnboard Allocator",
+  "organization": "Tech Greedy",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f17juxnqndilhyqetakbokzguubmku5qr3o2nsybq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "xinaxu"
+    ],  
+    "allocation_bookkeeping": null
+  },
+  "poc": {
+    "slack": "Xinan Xu",
+    "github_user": "xinaxu"
+  },
+  "pathway_addresses": {
+    "msig": null,
+    "signer": [
+      null,
+      null,
+      null
+    ]
+  }
+}

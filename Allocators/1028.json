@@ -1,0 +1,45 @@
+{
+  "application_number": 1028,
+  "address": "f2pwkfr26r7h6db5laiwapjrs6f32sxkq2t65b75i",
+  "name": "SXX Future Data",
+  "organization": "SXX Future Data Technology Co.; Ltd.",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f13r7vha3bwdmupibamyr34sg653abb3ayfre2apq",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
+    },
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 150,
+    "github_handles": ["sxxfuture-official"],
+    "allocation_bookkeeping": "https://github.com/sxxfuture-official/filplus-allocator-sxxfuture"
+  },
+  "poc": {
+    "slack": "@Jintao - Sxxfuture @Xindy Tan",
+    "github_user": "https://github.com/sxxfuture-official"
+  },
+  "pathway_addresses": {
+    "msig": "f2pwkfr26r7h6db5laiwapjrs6f32sxkq2t65b75i",
+    "signer": [
+      "f1ejbgr4xhnhs554gromyennhsepgbpa7f4esigpy",
+      "f13r7vha3bwdmupibamyr34sg653abb3ayfre2apq"
+    ]
+  }
+}

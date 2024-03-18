@@ -1,0 +1,45 @@
+{
+  "application_number": 1012,
+  "address": "f2mkq7zjmtoinrjsk7em4i2gnq5vgw723vhhduvvy",
+  "name": "Future Storage",
+  "organization": "Origin Storage",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1yi7cv6evxqzgtsqab234h24qdhheasiwy2zjsfq",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
+    },
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "lifezou",
+      "chainupk",
+      "Tom-OriginStorage"
+    ],  
+    "allocation_bookkeeping": "https://github.com/Origin-Storage-IO/future-storage"
+  },
+  "poc": {
+    "slack": "cryptostack; derrick; kenneth goh; llifezou; tom",
+    "github_user": "lifezou; chainupk, Tom-OriginStorage"
+  },
+  "pathway_addresses": {
+    "msig": "f2mkq7zjmtoinrjsk7em4i2gnq5vgw723vhhduvvy",
+    "signer": [
+      "f1q6bpjlqia6iemqbrdaxr2uehrhpvoju3qh4lpga"
+    ]
+  }
+}

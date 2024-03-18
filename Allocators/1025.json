@@ -1,0 +1,39 @@
+{
+  "application_number": 1025,
+  "address": "f2xkccy6oyl5g6cdr3fgmpldifkxjv42mcnyrqjpi",
+  "name": "Enterprise data - HK CyberPort pathway",
+  "organization": "ND LABS",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "F1s5sho3yqbxjuk4pavpo2sc5gpka2cnm3egjcaga",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
+    },
+    "target_clients": [
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 150,
+    "github_handles": [
+      "NDLABS-Leo"
+    ],  
+    "allocation_bookkeeping": "https://github.com/NDLABS-Leo/Allocator-Pathway-Enterprise-data.git"
+  },
+  "poc": {
+    "slack": "Leo - ND labs",
+    "github_user": "ND labs - Leo"
+  },
+  "pathway_addresses": {
+    "msig": "f2xkccy6oyl5g6cdr3fgmpldifkxjv42mcnyrqjpi",
+    "signer": [
+      "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei"
+    ]
+  }
+}

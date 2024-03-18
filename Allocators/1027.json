@@ -1,0 +1,44 @@
+{
+    "application_number": 1027,
+    "address": "f2puyjzpbpgzgizmjt4uwjmajsjfqlfmhaidrvfpi",
+    "name": "BDX Fil+ Allocator",
+    "organization": "BigData Exchange",
+    "location": "Singapore",
+    "status": "Active",
+    "metapathway_type": "Market-based",
+    "associated_org_addresses": "f1sj3dlgezobhqrozumf6x3bjr6cjyynnwck2vwpi",
+    "application": {
+        "allocations": {
+            "standardized": "Yes; standardized"
+        },
+        "target_clients": [
+            "Individuals learning about Filecoin",
+            "Small-scale developers or data owners",
+            "Enterprise Data Clients"
+        ],
+        "required_sps": "5+",
+        "required_replicas": "5+",
+        "tooling": [],
+        "data_types": [
+            "Private Non-Profit/Social Impact",
+            "Private Commercial/Enterprise",
+            "Public Open Commercial/Enterprise",
+            "Public Open Dataset (Research/Non-Profit)"
+        ],
+        "12m_requested": 200,
+        "github_handles": [
+            "cryptoAmandaL"
+        ],
+        "allocation_bookkeeping": "https://github.com/cryptoAmandaL/BDE-Allocator"
+    },
+    "poc": {
+        "slack": "Amanda L",
+        "github_user": "cryptoAmandaL"
+    },
+    "pathway_addresses": {
+        "msig": "f2puyjzpbpgzgizmjt4uwjmajsjfqlfmhaidrvfpi",
+        "signer": [
+            "f1sj3dlgezobhqrozumf6x3bjr6cjyynnwck2vwpi"
+        ]
+    }
+}

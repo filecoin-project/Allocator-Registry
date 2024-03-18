@@ -1,0 +1,41 @@
+{
+  "application_number": 1070,
+  "address": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
+  "name": "Storify Data Fortress",
+  "organization": "Storify LLC.",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f13a6ov3nrxllvyqkduwczpyashgu3luivodwyvgq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Individuals learning about Filecoin",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": ["common_ui"],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 100,
+    "github_handles": ["shizhigu"],
+    "allocation_bookkeeping": "https://github.com/Storify-LLC/Storify-Data-Pathway"
+  },
+  "poc": {
+    "slack": "U046HSTPYDD (mike gu); U03MPDJ3CKA（Zhuo Chen）",
+    "github_user": "shizhigu (github.com/shizhigu); chenzhuodd@sina.com (Zhuo Chen)"
+  },
+  "pathway_addresses": {
+    "msig": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
+    "signer": [
+      "f13a6ov3nrxllvyqkduwczpyashgu3luivodwyvgq"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+    "application_number": 1092,
+    "address": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
+    "name": "ZetaCubeAllen",
+    "organization": "ZetaCube Inc",
+    "location": "Korea",
+    "status": "Active",
+    "metapathway_type": "Manual",
+    "associated_org_addresses": "f1kth524kqjwd5r6pfkw23y5ef73c5e33edurjroa",
+    "application": {
+        "allocations": {
+            "standardized": "Yes; standardized"
+        },
+        "target_clients": [
+            "Individuals learning about Filecoin",
+            "Small-scale developers or data owners",
+            "Enterprise Data Clients",
+            "Other (specified above)"
+        ],
+        "required_sps": "5+",
+        "required_replicas": "5+",
+        "tooling": ["common_ui"],
+        "data_types": [
+            "Public Open Dataset (Research/Non-Profit)",
+            "Public Open Commercial/Enterprise",
+            "Private Commercial/Enterprise",
+            "Private Non-Profit/Social Impact",
+            "Other (specified elsewhere)"
+        ],
+        "12m_requested": 3000,
+        "github_handles": [
+            "ipfsAllen"
+        ],
+        "allocation_bookkeeping": "https://github.com/ipfsAllen/Fil-DC-Allocator-Allen"
+    },
+    "poc": {
+        "slack": "@Allen Cho (Allen)",
+        "github_user": "ipfsAllen"
+    },
+    "pathway_addresses": {
+        "msig": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
+        "signer": [
+            "f1s5v3clres7a63cidjotn6gfhzmy3go6ne5retri"
+        ]
+    }
+}

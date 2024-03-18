@@ -1,0 +1,44 @@
+{
+  "application_number": 990,
+  "address": "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
+  "name": "Kernelogic Fil+ Datacap Allocator",
+  "organization": "Kernelogic",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
+    },
+    "target_clients": [
+      "Enterprise Data Clients",
+      "Other (specified above)",
+      "Small-scale developers or data owners"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "2+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 250,
+    "github_handles": [
+      "kernelogic"
+    ],  
+    "allocation_bookkeeping": null
+  },
+  "poc": {
+    "slack": "Fei Yan",
+    "github_user": "kernelogic"
+  },
+  "pathway_addresses": {
+    "msig": null,
+    "signer": [
+      null,
+      null,
+      null
+    ]
+  }
+}

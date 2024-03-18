@@ -1,0 +1,46 @@
+{
+  "application_number": 1048,
+  "address": "f1gjfz3qnbqjcdal6geo5vemmdqvseaia2l6kwj7i",
+  "name": "Ehume",
+  "organization": "YugaTech",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f1gjfz3qnbqjcdal6geo5vemmdqvseaia2l6kwj7i",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 120,
+    "github_handles": [
+      "EHume"
+    ],  
+    "allocation_bookkeeping": null
+  },
+  "poc": {
+    "slack": "Slack ID---U03KZT2KRJ9  Slack handle---Ehume",
+    "github_user": "EHume"
+  },
+  "pathway_addresses": {
+    "msig": null,
+    "signer": [
+      null,
+      null,
+      null
+    ]
+  }
+}
