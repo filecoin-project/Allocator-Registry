@@ -1,0 +1,38 @@
+name: Update active allocators
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'Allocators/*.json'
+
+jobs:
+  watch_jsons:
+    runs-on: ubuntu-latest
+    env:
+      BACKEND_URL: https://fp-core-prod.dp04sa0tdc6pk.us-east-1.cs.amazonlightsail.com
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+        with:
+          fetch-depth: 0
+          
+      - name: Find changed JSON files
+        id: find_json
+        run: |
+          echo "Identifying JSON files..."
+          FILE_CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep 'Allocators/.*\.json$' | head -n 1)
+          echo "File changed: $FILE_CHANGED"
+          echo "::set-output name=file_changed::$FILE_CHANGED"
+      
+      - name: Notify Backend Service
+        if: steps.find_json.outputs.file_changed != '' 
+        run: |
+          FILE_JSON="{\"file_changed\":\"${{ steps.find_json.outputs.file_changed }}\"}"
+          echo "JSON being sent: $FILE_JSON"
+          curl --header "Content-Type: application/json" \
+               --request POST \
+               --data "$FILE_JSON" \
+               "${BACKEND_URL}/allocator/create"
