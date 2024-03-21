@@ -5,7 +5,7 @@ on:
     branches:
       - main
     paths:
-      - 'Allocators/*.json'
+      - 'active/**/*.json'
 
 jobs:
   watch_jsons:
@@ -19,20 +19,21 @@ jobs:
         with:
           fetch-depth: 0
           
-      - name: Find changed JSON files
+      - name: Find changed JSON files in Active folder
         id: find_json
         run: |
-          echo "Identifying JSON files..."
-          FILE_CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep 'Allocators/.*\.json$' | head -n 1)
-          echo "File changed: $FILE_CHANGED"
-          echo "::set-output name=file_changed::$FILE_CHANGED"
+          echo "Searching for JSON files in 'active' folder..."
+          FILES_CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep 'active/.*\.json$' | while read -r line; do echo -n "\"$line\","; done)
+          FILES_CHANGED="${FILES_CHANGED%,}" # Remove the trailing comma
+          echo "Files changed: $FILES_CHANGED"
+          echo "::set-output name=files_changed::$FILES_CHANGED"
       
       - name: Notify Backend Service
-        if: steps.find_json.outputs.file_changed != '' 
+        if: steps.find_json.outputs.files_changed != ''
         run: |
-          FILE_JSON="{\"file_changed\":\"${{ steps.find_json.outputs.file_changed }}\"}"
-          echo "JSON being sent: $FILE_JSON"
+          FILES_JSON="{\"files_changed\":[$(echo ${{ steps.find_json.outputs.files_changed }} | sed 's/\([^,]*\)/"\1"/g')]}"
+          echo "JSON being sent: $FILES_JSON"
           curl --header "Content-Type: application/json" \
                --request POST \
-               --data "$FILE_JSON" \
+               --data "$FILES_JSON" \
                "${BACKEND_URL}/allocator/create"
