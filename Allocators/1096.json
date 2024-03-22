@@ -30,18 +30,18 @@
       "ianconsolata",
       "Sankara-Jefferson"
     ],  
-    "allocation_bookkeeping": null
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/FF-Social-Impact"
   },
   "poc": {
     "slack": "dannyob; Hunter Treseder; ianconsolata; Jefferson Sankara",
     "github_user": "dannyob (Danny); SeedingTrees (Hunter); ianconsolata (Ian); Sankara-Jefferson (Sankara)"
   },
   "pathway_addresses": {
-    "msig": null,
+    "msig": "f2lrh4szv7ymlmit7qprpk6re2cpksgjgcdth5f3a",
     "signer": [
-      null,
-      null,
-      null
+      "f1k6wwevxvp466ybil7y2scqlhtnrz5atjkkyvm4a",
+      "f1ufoy2xrgqtwbnykgm3a26pbbtahypucqrpfs7uy",
+      "f13kcetuvgmoebigp2efnpbiynmcpmenrspygwcpi"
     ]
   }
 }

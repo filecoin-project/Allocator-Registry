@@ -1,0 +1,44 @@
+{
+    "application_number": 1020,
+    "address": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
+    "name": "OpenGate Datacap Allocator",
+    "organization": "OpenGate",
+    "location": "Australia",
+    "status": "Active",
+    "metapathway_type": "Manual",
+    "associated_org_addresses": "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq",
+    "application": {
+        "allocations": {
+            "standardized": "No; client specific"
+        },
+        "target_clients": [
+            "Individuals learning about Filecoin",
+            "Small-scale developers or data owners",
+            "Enterprise Data Clients"
+        ],
+        "required_sps": "5+",
+        "required_replicas": "5+",
+        "tooling": [],
+        "data_types": [
+            "Public Open Dataset (Research/Non-Profit)",
+            "Public Open Commercial/Enterprise",
+            "Private Commercial/Enterprise",
+            "Private Non-Profit/Social Impact"
+        ],
+        "12m_requested": 100,
+        "github_handles": [
+            "OpenGate01"
+        ],
+        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/OpenGate-Datacap-Allocator"
+    },
+    "poc": {
+        "slack": "Official： slack1：OpenGate01;  slack2：OpenGate NFT",
+        "github_user": "Github1：  OpenGate01   ; Github2：  OpenGate NFT"
+    },
+    "pathway_addresses": {
+        "msig": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
+        "signer": [
+            "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq"
+        ]
+    }
+}
