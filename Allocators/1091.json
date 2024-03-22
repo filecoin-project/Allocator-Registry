@@ -1,12 +1,12 @@
 {
-    "application_number": 1097,
-    "address": "f2bf754c63irlnomlmaacnrq6lfreynxnkhamwh3q",
-    "name": "Titan Network",
-    "organization": "Titan Network",
-    "location": "Singapore",
+    "application_number": 1091,
+    "address": "f2nnwazenqu7spvte45f6m4lajso4xoxmxwjwckti",
+    "name": "Power Meta Corp",
+    "organization": "Power Meta Corp",
+    "location": "North America",
     "status": "Active",
     "metapathway_type": "Manual",
-    "associated_org_addresses": "f1nns66tt2vmcfxu74n5glbf4dclf62pod5ecdnay",
+    "associated_org_addresses": "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea",
     "application": {
         "allocations": {
             "standardized": "Yes; standardized"
@@ -17,7 +17,7 @@
             "Enterprise Data Clients",
             "Other (specified above)"
         ],
-        "required_sps": "5+",
+        "required_sps": "2+",
         "required_replicas": "3+",
         "tooling": ["common_ui"],
         "data_types": [
@@ -27,21 +27,20 @@
             "Private Non-Profit/Social Impact",
             "Other (specified elsewhere)"
         ],
-        "12m_requested": 50,
+        "12m_requested": 30,
         "github_handles": [
-            "TitanNet"
+            "PowerMetaCorp"
         ],
-        "allocation_bookkeeping": "https://github.com/TitanNet/Allocator-Pathway-Titan-Network"
+        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Power-Meta-Corp"
     },
     "poc": {
-        "slack": "Neo Ge UHKK5336F",
-        "github_user": "https://github.com/TitanNet"
+        "slack": "Andromeda’s Handle: @andromedaH; Andromeda’s Slack ID: U0489BU3LM9; Dailon’s Handle: @dailon; Dailon’s Slack ID:  U04THCA3NKY",
+        "github_user": "Both Dailon and Andromeda will be using the company Github @PowerMetaCorp"
     },
     "pathway_addresses": {
-        "msig": "f2bf754c63irlnomlmaacnrq6lfreynxnkhamwh3q",
+        "msig": "f2nnwazenqu7spvte45f6m4lajso4xoxmxwjwckti",
         "signer": [
-            "f1hxtvuuzxpeboxr7k6g5npx2kkj4g5a6w2stiv4i",
-            "f1nns66tt2vmcfxu74n5glbf4dclf62pod5ecdnay"
+            "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea"
         ]
     }
 }
