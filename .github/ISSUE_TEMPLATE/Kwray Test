@@ -1,21 +1,21 @@
-name: Bug Report
-description: File a bug report
-title: "[Bug]: "
+name: Allocator JSON Update
+description: Submit to file a request for support to update fields for your Organization
+title: "[Allocator Change]: "
 labels: ["bug", "triage"]
 projects: ["octo-org/1", "octo-org/44"]
 assignees:
-  - octocat
+  - Kevin-ff-usa
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this report!
   - type: input
     id: contact
     attributes:
       label: Contact Details
       description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      placeholder: ex. kevin-ff-usa
     validations:
       required: false
   - type: textarea
