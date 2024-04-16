@@ -1,6 +1,12 @@
 name: Update active allocators
 
 on:
+  pull_request:
+    types: [ synchronize ]
+    branches:
+      - main
+    paths:
+      - 'active/**/*.json'
   push:
     branches:
       - main
