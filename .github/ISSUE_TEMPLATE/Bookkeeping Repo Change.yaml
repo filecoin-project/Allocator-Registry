@@ -8,7 +8,7 @@ body:
       # Book Keeping Repo Changes
       To apply for a change to your JSON file,  please fill out the following form
 - type: dropdown
-  id: version
+  id: Application Number
   attributes:
       label: Version
       description: Schema File Version
@@ -18,27 +18,21 @@ body:
     required: true
 - type: input
   attributes:
-    label: DataCap Applicant
+    label: Application Number
   validations:
     required: true
 - type: input
   attributes:
-    label: Project ID
+    label: Organization Name
   validations:
     required: true
-- type: markdown
-  attributes:
-    value: |
-      # Core Information
 - type: input
   attributes:
-    label: Data Owner Name
+    label: Previous Bookkeeping Repo
   validations:
     required: true
-- type: dropdown
+- type: input
   attributes:
-    label: Data Owner Country/Region
-    options:
-      - Afghanistan
-      - Åland Islands
-      - Albania
+    label: Updated Bookkeeping Repo
+  validations:
+    required: true
