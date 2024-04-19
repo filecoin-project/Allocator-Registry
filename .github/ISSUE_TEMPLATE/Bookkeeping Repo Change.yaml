@@ -24,16 +24,6 @@ body:
     required: true
 - type: input
   attributes:
-    label: Organization Name
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: Previous Bookkeeping Repo
-  validations:
-    required: true
-- type: input
-  attributes:
     label: Updated Bookkeeping Repo
   validations:
     required: true
