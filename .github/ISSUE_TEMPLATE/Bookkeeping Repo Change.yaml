@@ -13,39 +13,119 @@ body:
   - type: input
     id: contact
     attributes:
-      label: Contact Details
+      label: Organization
       description: What is your Organization?
       placeholder: ex. Filecoin Foundation
     validations:
       required: false
   - type: textarea
-    id: what-happened
+    id: What is the New Address
     attributes:
-      label: What happened?
-      description: Also tell us, what did you expect to happen?
+      label: Updated URL to the Bookkeeping repo you would like linked to your JSON for the Allocator Organization
+      description: What is the new address you would like to list for the Bookkeeping?
       placeholder: Tell us what you see!
-      value: "A bug happened!"
+      value: "Bookkeeping address"
     validations:
       required: true
   - type: dropdown
     id: browsers
     attributes:
-      label: What browsers are you seeing the problem on?
+      label: What is the Application number for your organization?
       multiple: true
       options:
         - 1001
         - 1003
+        - 1001
+        - 1003
+        - 1004
+        - 1005
+        - 1006
+        - 1007
+        - 1009
+        - 1010
+        - 1012
+        - 1013
+        - 1014
+        - 1015
+        - 1016
+        - 1017
+        - 1019
+        - 1020
+        - 1022
+        - 1023
+        - 1024
+        - 1025
+        - 1026
+        - 1027
+        - 1028
+        - 1029
+        - 1030
+        - 1033
+        - 1034
+        - 1035
+        - 1038
+        - 1039
+        - 1040
+        - 1041
+        - 1042
+        - 1044
+        - 1045
+        - 1046
+        - 1047
+        - 1048
+        - 1050
+        - 1052
+        - 1053
+        - 1054
+        - 1056
+        - 1057
+        - 1058
+        - 1059
+        - 1060
+        - 1064
+        - 1065
+        - 1067
+        - 1068
+        - 1069
+        - 1070
+        - 1071
+        - 1073
+        - 1074
+        - 1075
+        - 1076
+        - 1077
+        - 1078
+        - 1080
+        - 1081
+        - 1083
+        - 1084
+        - 1085
+        - 1086
+        - 1088
+        - 1089
+        - 1091
+        - 1092
+        - 1093
+        - 1094
+        - 1095
+        - 1096
+        - 1097
+        - 1099
+        - 990
+        - 992
+        - 996
+        - 997
   - type: textarea
     id: logs
     attributes:
-      label: Relevant log output
-      description: Please copy and paste any relevant log output. This will be automatically formatted into code, so no need for backticks.
+      label: Any adittional details
+      description: Please provide any additional details for this request?
       render: shell
   - type: checkboxes
     id: terms
     attributes:
-      label: Code of Conduct
-      description: By submitting this issue, you agree to follow our [Code of Conduct](https://example.com). 
+      label: Confirmation
+      description: By submitting this issue, you confirm that you are the . 
       options:
-        - label: I agree to follow this project's Code of Conduct
+        - label: The Github used to file this ticket is also the same Github ID that is connected to the Organization
           required: true
