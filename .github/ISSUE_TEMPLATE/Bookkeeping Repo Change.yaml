@@ -1,6 +1,3 @@
-name: Bookkeeping Repo Change
-description: Allocators should use this form to submit a request to change the Bookkeeping Github repo for their diligence checks.
-title: "[DataCap Application] <Organization> - <Project Name>"
 body:
 - type: markdown
   attributes:
