@@ -1,13 +1,11 @@
 name: Bookkeeping Repo Change
 description: Allocators should use this form to submit a request to change the Bookkeeping Github repo for their diligence checks.
-
 body:
 - type: markdown
   attributes:
     value: |
       # Book Keeping Repo Changes
       To apply for a change to your JSON file,  please fill out the following form
-
 - type: dropdown
   id: Application Number
   attributes:
