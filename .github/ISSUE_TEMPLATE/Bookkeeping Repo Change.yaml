@@ -9,13 +9,13 @@ body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to fill out this bug report!
+        Thanks for taking the time to fill out this change request!
   - type: input
     id: contact
     attributes:
       label: Contact Details
-      description: How can we get in touch with you if we need more info?
-      placeholder: ex. email@example.com
+      description: What is your Organization?
+      placeholder: ex. Filecoin Foundation
     validations:
       required: false
   - type: textarea
@@ -28,26 +28,14 @@ body:
     validations:
       required: true
   - type: dropdown
-    id: version
-    attributes:
-      label: Version
-      description: What version of our software are you running?
-      options:
-        - 1.0.2 (Default)
-        - 1.0.3 (Edge)
-      default: 0
-    validations:
-      required: true
-  - type: dropdown
     id: browsers
     attributes:
       label: What browsers are you seeing the problem on?
       multiple: true
       options:
-        - Firefox
-        - Chrome
-        - Safari
-        - Microsoft Edge
+        - Update existing repo
+        - Add initial repo
+        - Other
   - type: textarea
     id: logs
     attributes:
