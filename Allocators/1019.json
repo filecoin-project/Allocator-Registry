@@ -6,7 +6,7 @@
     "location": "China",
     "status": "Active",
     "metapathway_type": "Manual",
-    "associated_org_addresses": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+    "associated_org_addresses": "f1ldkhvk55psquvhc727udmdl2tgm55exndh2meqa",
     "application": {
         "allocations": {
             "standardized": "No; client specific"
@@ -38,7 +38,8 @@
     "pathway_addresses": {
         "msig": "f2m4ljkbqkw4rljq7mhu2xmdchnvbcuwqox4hebnq",
         "signer": [
-            "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri"
+            "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+            "f1ldkhvk55psquvhc727udmdl2tgm55exndh2meqa"
         ]
     }
 }
