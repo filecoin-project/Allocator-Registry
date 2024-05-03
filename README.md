@@ -45,6 +45,42 @@ A log of the state of fil+ allocators
 [1045](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1045.json) | Decentralised Storage Provider Accelerator (DSPA), DSPA Filecoin Pathway | Manual | https://github.com/pandacrypto/DSPA-Allocator | Singapore
 [1046](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1046.json) | TOP POOL |Market based | https://github.com/TOPPOOL-LEE/Allocator-Pathway-TOP-POOL | Singapore
 [1047](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1047.json) | 1475, E-Fil+ | Manual | https://github.com/1475Notary/1475-Allocator | China
-[1048](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1048.json) | YugaTech, Ehume | https://github.com/Ehume/Ehume | China
+[1048](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1048.json) | YugaTech, Ehume | Automatic | https://github.com/Ehume/Ehume | China
 [1050](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1050.json) | Hash Team, Hash Big Data | Manual | https://github.com/hash889900/HashTeam | China
-[1052](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1052.json) Antalpha, Ant Steve | Manual | https://github.com/Antalpha-Web3/Ant-Steve | Singapore
+[1052](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1052.json) | Antalpha, Ant Steve | Manual | https://github.com/Antalpha-Web3/Ant-Steve | Singapore
+[1053](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1053.json) | DCENT BV., DCENT Fil+ | Manual | https://github.com/cryptowhizzard/Fil-A-1 | Europe
+[1054](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1054.json) | RFfil | Manual | https://github.com/MikeH1999/RFfil | Hong Kong
+[1056](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1056.json) | EF | Manual | https://github.com/Lind111/EF | China
+[1057](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1057.json) | Marshall | Manual | https://github.com/Marshall-btc/Marshall-Fil-Data-Pathway | China
+[1058](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1058.json) | DCENT, Dcent - Fil+ - NC | Manual | https://github.com/cryptowhizzard/Fil-A-2 | Europe
+[1059](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1059.json) | Herony |  Market-based | https://github.com/herony-fil/herony-data-pathway | China
+[1060](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1060.json) | CoinSummer Labs, Max | Manual | https://github.com/filplus-bookkeeping/Max-CoinSummer-Labs | Hong Kong
+[1064](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1064.json) | Caro Allocator | Manual | https://github.com/Carohere/Caro-Allocator | Europe
+[1065](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1065.json) | MinerDAO, Max | Manual | https://github.com/filplus-bookkeeping/Max-MinerDAO | Hong Kong 
+[1067](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1067.json) | web3mine AG | Manual | https://github.com/filplus-bookkeeping/web3mine-AG | Europe
+[1068](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1068.json) | Nebula Block | Manual | https://github.com/Nebula-Block-Data/Nebula-Block-Data-Pathway | North America
+[1069](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1069.json) | TopBlocks | Manual | https://github.com/filplus-bookkeeping/TopBlocks | North America
+[1070](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1070.json) | Storify LLC., Storify Data Fortress | Manual | https://github.com/Storify-LLC/Storify-Data-Pathway | North America
+[1071](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1071.json) | QC Data center | Manual | https://github.com/luhong123/QC-Data-center | China
+[1073](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1073.json) | FBG Capital, FBG Allocator | Market-based | https://github.com/filplus-bookkeeping/FBG-Allocator | Singapore
+[1074](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1074.json) | ZhongYiGuoLian, Patapon | Manual | https://github.com/filplus-bookkeeping/Patapon | China 
+[1075](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1075.json) | VSTAR | Manual | https://github.com/FIL-VSTAR/v5-notary | Europe
+[1076](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1076.json) | Bitmain USA | Manual | https://github.com/filecoin-bitmain/file | North America
+[1077](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1077.json) | XnMatrix | Manual | https://github.com/filplus-bookkeeping/XnMatrix | North America
+[1078](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1078.json) | SUPERB GRACE LIMITED, RRM Global | Manual | https://github.com/EthanLauWJ/RRM-Global | Hong Kong
+[1080](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1080.json) | New Web Group, New Web Group (E-Fil+) | Manual | https://github.com/newwebgroup/Allocator-Pathway-New-Web-Group | China
+[1081](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1081.json) | NiwanDao | Automatic | https://github.com/NiwanDao/NiwanPathway | China
+[1083](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1083.json) | Dataswap | Automatic | https://github.com/dataswap | China
+[1084](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1084.json) | Lighthouse.Storage, Nandit Mehra | Manual | https://github.com/filplus-bookkeeping/Nandit-Mehra-Lighthouse.Storage | Singapore
+[1085](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1085.json) | Storswift, (StorSwift) Manual | Manual | https://github.com/StorSwift-team/fil-allocator-bookkeeping | Singapore
+[1086](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1086.json) | IPFSCN | Manual | https://github.com/filplus-bookkeeping/IPFSCN | China
+[1088](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1088.json) | ANTPOOL, ANTPOOL Pathway | Manual | https://github.com/filplus-bookkeeping/ANTPOOL-Pathway | Singapore
+[1089](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1089.json) | DeStor | Manual | https://github.com/filplus-bookkeeping/DeStor | North America
+[1091](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1091.json) | Power Meta Corp | Manual | https://github.com/filplus-bookkeeping/Power-Meta-Corp | North America
+[1092](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1092.json) | ZetaCube Inc" | Manual | https://github.com/ipfsAllen/Fil-DC-Allocator-Allen | Korea
+[1093](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1093.json) | Twinquasar - CIDgravity, CIDgravity decentralized onboarding to the mix | Automatic | - | Europe
+[1094](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1094.json) | Twinquasar - CIDgravity, CIDgravity decentralized onboarding to self-selected SPs | Automatic | - | Europe
+[1095](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1095.json) | Twinquasar - CIDgravity, CIDgravity data preparation and onboarding | Automatic | - |Europe
+[1096](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1096.json) | Filecoin Foundation (FF), FF Social Impact | Manual | https://github.com/filplus-bookkeeping/FF-Social-Impact | North America
+[1097](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1097.json) | Titan Network | Manual | https://github.com/TitanNet/Allocator-Pathway-Titan-Network | Singapore
+[1099](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1099.json) | Official name pending; currently referred to as Flamenco team; spinning out from Protocol Labs.",   "location": "North America, Deep Kapur | Manual | https://github.com/filplus-bookkeeping/Flamenco | North America
