@@ -125,7 +125,7 @@ body:
     id: terms
     attributes:
       label: Confirmation
-      description: By submitting this issue, you confirm that you are the . 
+      description: By submitting this issue, you confirm that your GITHUB account is already registered with the Organization. 
       options:
         - label: The Github used to file this ticket is also the same Github ID that is connected to the Organization
           required: true
