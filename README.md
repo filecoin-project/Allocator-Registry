@@ -1,6 +1,22 @@
-# Allocator-Registry
-A log of the state of fil+ allocators
+# Allocator Support
+To file a support issue please open an [ISSUE](https://github.com/filecoin-project/Allocator-Registry/issues). 
+This can be used for technical support, adding or chaning the Organization's contact information, or requesting additional Datacap.
 
+
+
+
+
+*Helpful other support references*  
+- For information on the open and pending DataCap deals, please see [FIDL's Allocator.tech](https://allocator.tech)
+- For information on the governance and open proposals, please see [Github Goverance Repo](https://github.com/filecoin-project/Allocator-Governance)
+- For getting in touch, please reach out in [SLACK](https://filecoinfoundation.slack.com/archives/C01DLAPKDGX)
+- For learning more about the program, check out the bi-weekly recorded governance meetings on [Youtube](https://www.youtube.com/playlist?list=PLp3zrT1ewY0kYN1hJpERMUxTCbFC4yZwN)
+
+ 
+
+
+# Allocators
+The contact information and application repository for all active Allocators.  To select and work with an Allocator, select the organiztions application link below.
 
 | Number | Organization | Type | Bookkeeping Repo | Location
 | --- | --- | --- | --- | --- |
