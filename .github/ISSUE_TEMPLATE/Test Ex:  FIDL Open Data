@@ -1,0 +1,529 @@
+name: Large Dataset Datacap Application
+description: Clients should use this application form to request a DataCap allocation via a LDN for a dataset
+title: "[DataCap Application] <Organization> - <Project Name>"
+labels: 'LDN'
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Large Dataset Notary Application - Version 1
+      To apply for DataCap to onboard your dataset to Filecoin, please fill out the following form
+- type: markdown
+  attributes:
+    value: |
+      # Application Info
+- type: dropdown
+  id: version
+  attributes:
+      label: Version
+      description: Schema File Version
+      options:
+        - 1
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: On Chain Address
+    description: Make sure the address exists on the chain. This cannot be changed once input here. Also make sure that this address is not used for other applications.
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      # Client Info
+- type: input
+  attributes:
+    label: Name
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Region
+    options:
+      - Afghanistan
+      - Åland Islands
+      - Albania
+      - Algeria
+      - American Samoa
+      - Andorra
+      - Angola
+      - Anguilla
+      - Antarctica
+      - Antigua and Barbuda
+      - Argentina
+      - Armenia
+      - Aruba
+      - Australia
+      - Austria
+      - Azerbaijan
+      - Bahamas
+      - Bahrain
+      - Bangladesh
+      - Barbados
+      - Belarus
+      - Belgium
+      - Belize
+      - Benin
+      - Bermuda
+      - Bhutan
+      - Bolivia
+      - "Bonaire, Sint Eustatius and Saba"
+      - Bosnia and Herzegovina
+      - Botswana
+      - Bouvet Island
+      - Brazil
+      - British Indian Ocean Territory
+      - Brunei Darussalam
+      - Bulgaria
+      - Burkina Faso
+      - Burundi
+      - Cambodia
+      - Cameroon
+      - Canada
+      - Cape Verde
+      - Cayman Islands
+      - Central African Republic
+      - Chad
+      - Chile
+      - China
+      - Christmas Island
+      - Cocos (Keeling) Islands
+      - Colombia
+      - Comoros
+      - Congo
+      - "Congo, the Democratic Republic of the"
+      - Cook Islands
+      - Costa Rica
+      - Côte d'Ivoire
+      - Croatia
+      - Cuba
+      - Curaçao
+      - Cyprus
+      - Czech Republic
+      - Denmark
+      - Djibouti
+      - Dominica
+      - Dominican Republic
+      - Ecuador
+      - Egypt
+      - El Salvador
+      - Equatorial Guinea
+      - Eritrea
+      - Estonia
+      - Ethiopia
+      - Falkland Islands (Malvinas)
+      - Faroe Islands
+      - Fiji
+      - Finland
+      - France
+      - French Guiana
+      - French Polynesia
+      - French Southern Territories
+      - Gabon
+      - Gambia
+      - Georgia
+      - Germany
+      - Ghana
+      - Gibraltar
+      - Greece
+      - Greenland
+      - Grenada
+      - Guadeloupe
+      - Guam
+      - Guatemala
+      - Guernsey
+      - Guinea
+      - Guinea-Bissau
+      - Guyana
+      - Haiti
+      - Heard Island and McDonald Islands
+      - Holy See (Vatican City State)
+      - Honduras
+      - Hong Kong
+      - Hungary
+      - Iceland
+      - India
+      - Indonesia
+      - "Iran, Islamic Republic of"
+      - Iraq
+      - Ireland
+      - Isle of Man
+      - Israel
+      - Italy
+      - Jamaica
+      - Japan
+      - Jersey
+      - Jordan
+      - Kazakhstan
+      - Kenya
+      - Kiribati
+      - "Korea, Democratic People's Republic of"
+      - "Korea, Republic of"
+      - Kuwait
+      - Kyrgyzstan
+      - Lao People's Democratic Republic
+      - Latvia
+      - Lebanon
+      - Lesotho
+      - Liberia
+      - Libya
+      - Liechtenstein
+      - Lithuania
+      - Luxembourg
+      - Macao
+      - "Macedonia, the Former Yugoslav Republic of"
+      - Madagascar
+      - Malawi
+      - Malaysia
+      - Maldives
+      - Mali
+      - Malta
+      - Marshall Islands
+      - Martinique
+      - Mauritania
+      - Mauritius
+      - Mayotte
+      - Mexico
+      - "Micronesia, Federated States of"
+      - "Moldova, Republic of"
+      - Monaco
+      - Mongolia
+      - Montenegro
+      - Montserrat
+      - Morocco
+      - Mozambique
+      - Myanmar
+      - Namibia
+      - Nauru
+      - Nepal
+      - Netherlands
+      - New Caledonia
+      - New Zealand
+      - Nicaragua
+      - Niger
+      - Nigeria
+      - Niue
+      - Norfolk Island
+      - Northern Mariana Islands
+      - Norway
+      - Oman
+      - Pakistan
+      - Palau
+      - "Palestine, State of"
+      - Panama
+      - Papua New Guinea
+      - Paraguay
+      - Peru
+      - Philippines
+      - Pitcairn
+      - Poland
+      - Portugal
+      - Puerto Rico
+      - Qatar
+      - Réunion
+      - Romania
+      - Russian Federation
+      - Rwanda
+      - Saint Barthélemy
+      - "Saint Helena, Ascension and Tristan da Cunha"
+      - Saint Kitts and Nevis
+      - Saint Lucia
+      - Saint Martin (French part)
+      - Saint Pierre and Miquelon
+      - Saint Vincent and the Grenadines
+      - Samoa
+      - San Marino
+      - Sao Tome and Principe
+      - Saudi Arabia
+      - Senegal
+      - Serbia
+      - Seychelles
+      - Sierra Leone
+      - Singapore
+      - Sint Maarten (Dutch part)
+      - Slovakia
+      - Slovenia
+      - Solomon Islands
+      - Somalia
+      - South Africa
+      - South Georgia and the South Sandwich Islands
+      - South Sudan
+      - Spain
+      - Sri Lanka
+      - Sudan
+      - Suriname
+      - Svalbard and Jan Mayen
+      - Swaziland
+      - Sweden
+      - Switzerland
+      - Syrian Arab Republic
+      - Taiwan
+      - Tajikistan
+      - "Tanzania, United Republic of"
+      - Thailand
+      - Timor-Leste
+      - Togo
+      - Tokelau
+      - Tonga
+      - Trinidad and Tobago
+      - Tunisia
+      - Turkey
+      - Turkmenistan
+      - Turks and Caicos Islands
+      - Tuvalu
+      - Uganda
+      - Ukraine
+      - United Arab Emirates
+      - United Kingdom
+      - United States
+      - United States Minor Outlying Islands
+      - Uruguay
+      - Uzbekistan
+      - Vanuatu
+      - "Venezuela, Bolivarian Republic of"
+      - Viet Nam
+      - "Virgin Islands, British"
+      - "Virgin Islands, U.S."
+      - Wallis and Futuna
+      - Western Sahara
+      - Yemen
+      - Zambia
+      - Zimbabwe
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Industry
+    options:
+      - Life Science / Healthcare
+      - Arts & Recreation
+      - Education & Training
+      - Environment
+      - Web3 / Crypto
+      - IT & Technology Services
+      - Professional Services (Legal, Consulting, Advising)
+      - Government
+      - Not-for-Profit
+      - Financial Services
+      - Utilities
+      - Resources, Agriculture & Fisheries
+      - Construction, Property & Real Estate
+      - Information, Media & Telecommunications
+      - Transport Services
+      - Other
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Website
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Social Media
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Social Media Type
+    options:
+      - Slack
+      - Twitter
+      - Facebook
+      - WeChat
+      - Other
+- type: dropdown
+  attributes:
+    label: Role    
+    options:
+      - Dataset Owner
+      - Data Preparer
+      - Storage provider filling out application on behalf of the data owner
+      - Data onramp entity that provides data onboarding services to multiple clients
+      - Other
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      # Project Info
+- type: input
+  attributes:
+    label: Project ID
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Brief history of your project and organization
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Is this project associated with other projects/ecosystem stakeholders?
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Describe the data being stored onto Filecoin
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Where was the data currently stored in this dataset sourced from
+    options:
+      - AWS Cloud
+      - Google Cloud
+      - Azure Cloud
+      - My Own Storage Infra
+      - Other
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: How do you plan to prepare the dataset
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Please share a sample of the data (a link to a file, an image, a table, etc., are good ways to do this.
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Confirm that this is a public dataset that can be retrieved by anyone on the network (i.e., no specific permissions or access rights are required to view the data)
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: What is the expected retrieval frequency for this data
+    options:
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      - Sporadic
+      - Never
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: For how long do you plan to keep this dataset stored on Filecoin
+    options:
+      - Less than 1 year
+      - 1 to 1.5 years
+      - 1.5 to 2 years
+      - 2 to 3 years
+      - More than 3 years
+      - Permanently
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: In which geographies do you plan on making storage deals
+    multiple: true
+    options:
+      - Greater China
+      - Asia other than Greater China
+      - Africa
+      - North America
+      - South America
+      - Europe
+      - Australia (continent)
+      - Antarctica
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: How will you be distributing your data to storage providers
+    multiple: true
+    options:
+      - Cloud storage (i.e. S3)
+      - HTTP or FTP server
+      - IPFS
+      - Shipping hard drives
+      - Lotus built-in data transfer
+      - Venus built-in data transfer
+      - I don't know yet
+      - Others
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Please list the provider IDs and location of the storage providers you will be working with. Note that it is a requirement to list a minimum of 5 unique provider IDs, and that your client address will be verified against this list in the future
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Can you confirm that you will follow the Fil+ guideline (Data owner should engage at least 4 SPs and no single SP ID should receive >30% of a client's allocated DataCap)
+    options:
+      - "No"
+      - "Yes"
+  validations:
+    required: true
+- type: markdown
+  attributes:
+    value: |
+      # Datacap Info
+- type: dropdown
+  attributes:
+    label: Group
+    options:
+      - ldn-v3
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Type
+    options:
+      - Slingshot
+      - Public, Open Dataset (Research/Non-Profit)
+      - Public, Open Commercial/Enterprise
+      - Private Commercial/Enterprise
+      - Private Non-Profit / Social impact
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Total Requested Amount
+    description: i.e - 500GiB, 1000TiB, 2.5PiB
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Single Size Dataset
+    description: i.e - 500GiB, 1000TiB, 2.5PiB
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Replicas
+    options:
+      - 4
+      - 5
+      - 6
+      - 7
+      - 8
+      - 9
+      - 10
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Weekly Allocation
+    description: This amount is usually between 1 TiB and 1000 TiB - i.e - 500GiB, 1000TiB, 2.5PiB
+  validations:
+    required: true
+- type: checkboxes
+  attributes:
+    label: Custom multisig 
+    description: Check this box off if you have explicitly been asked to by the governance team.
+    options:
+      - label: "Use Custom Multisig"
+- type: input
+  attributes:
+    label: Identifier
+    description: If needed Filecoin team will fill up this field later on. You can skip this field.
+  validations:
+    required: false
+
+        
