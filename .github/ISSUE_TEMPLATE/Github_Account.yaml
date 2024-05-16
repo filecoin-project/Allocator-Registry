@@ -47,5 +47,11 @@ body:
       - "Yes"
   validations:
     required: true
+- type: input
+  attributes:
+    label: Additional Information 
+    description: Any additional information you with to provide?
+  validations:
+    required: true
 
         
