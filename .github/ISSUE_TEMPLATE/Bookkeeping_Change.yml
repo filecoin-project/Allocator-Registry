@@ -18,6 +18,13 @@ body:
     description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: Would you like to 
+    options:
+      - Modify/Update an existing URL
+      - Add new URL
+      - Other
 - type: input
   attributes:
     label: Updated Bookkeeping URL 
@@ -30,13 +37,6 @@ body:
     description: If this new url is to REPLACE an existing url, please provide previous bookkeeping url
   validations:
     required: false
-- type: dropdown
-  attributes:
-    label: Would you like to 
-    options:
-      - Modify/Update an existing URL
-      - Add new URL
-      - Other
 - type: dropdown
   attributes:
     label: Is the Github Account used to file this request is already recorded on the Allocator JSON for your organization? 
