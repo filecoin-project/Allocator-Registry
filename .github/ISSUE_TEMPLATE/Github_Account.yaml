@@ -34,10 +34,10 @@ body:
       - Other
 - type: dropdown
   attributes:
-    label: Please confirm that the Github Account used to file this request is already recorded on the Allocator JSON for your organization. 
+    label: Is the Github Account used to file this request is already recorded on the Allocator JSON for your organization? 
     options:
-      - "No"
       - "Yes"
+      - "No"
   validations:
     required: true
 - type: input
