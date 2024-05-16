@@ -1,5 +1,5 @@
-name: "Bookkeeping URL Location Modification"
-description: "Update the url for an Allocator Bookkeeping repository"
+name: "Bookkeeping URL Update"
+description: "Issue Template for submitting a change to url for an Allocator Bookkeeping repository"
 body:
 - type: markdown
   attributes:
