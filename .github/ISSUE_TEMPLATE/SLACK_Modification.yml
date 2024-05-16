@@ -18,6 +18,18 @@ body:
     description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
   validations:
     required: true
+- type: input
+  attributes:
+    label: Slack Handle  
+    description: What is the handle name for the Slack account you wish to modify? (ex:  Kevin-Foundation)
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Slack ID  
+    description: What is the handle ID?  (This can be found by viewing the profile in slack) (ex: D02KTGPJ36F)
+  validations:
+    required: true
 - type: dropdown
   attributes:
     label: Would you like to 
