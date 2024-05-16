@@ -36,7 +36,7 @@ body:
     label: New address 
     description: What is the address you would like to be added?
   validations:
-    required: true
+    required: false
 - type: dropdown
   attributes:
     label: Do you need Foundation Governance support to create the Multisig?
