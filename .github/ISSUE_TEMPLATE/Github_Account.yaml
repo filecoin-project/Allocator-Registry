@@ -15,7 +15,7 @@ body:
 - type: input
   attributes:
     label: Applicaiton Number  
-    description: The Application number linked to your organization [JSON #](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
+    description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
   validations:
     required: true
 - type: input
