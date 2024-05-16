@@ -5,7 +5,7 @@ body:
   attributes:
     value: |
       # Pathway Address Modification
-      To change/add a Pathway Address authorized for your Allocator please fill out the following form.  This will allow an authorized member to be added to [fil-plus-allocator](https://filecoinproject.slack.com/archives/C06MTBZ44P2) and speak on behalf of the organiztion.
+      To change/add a Pathway Address authorized for your Allocator please fill out the following form. 
 - type: input
   attributes:
     label: Organization 
@@ -24,23 +24,22 @@ body:
     options:
       - Change an existing Multisig Address
       - Add or Remove a Signer
-      - Add a new authorized SLACK handle
       - Other
 - type: input
   attributes:
     label: Previous address  
-    description: What is the address you wish to modify?
+    description: What is the (previous) address you wish to modify?
   validations:
-    required: true
+    required: false
 - type: input
   attributes:
     label: New address 
-    description: What is the address you would like to changed to?
+    description: What is the address you would like to be added?
   validations:
     required: true
 - type: dropdown
   attributes:
-    label: Do you need Foundation Governance support to create the Multisig for this address?
+    label: Do you need Foundation Governance support to create the Multisig?
     options:
       - "Yes"
       - "No"
