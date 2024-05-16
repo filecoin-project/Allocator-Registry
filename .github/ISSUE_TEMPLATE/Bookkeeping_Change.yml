@@ -24,6 +24,12 @@ body:
     description: The updated url information for the Allocator account you are wishing to update (Remove/Add/Modify)
   validations:
     required: true
+- type: input
+  attributes:
+    label: Previous Bookkeeping URL 
+    description: If this new url is to REPLACE an existing url, please provide previous bookkeeping url
+  validations:
+    required: false
 - type: dropdown
   attributes:
     label: Would you like to 
