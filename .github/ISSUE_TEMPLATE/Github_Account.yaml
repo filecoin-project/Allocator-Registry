@@ -52,6 +52,6 @@ body:
     label: Additional Information 
     description: Any additional information you with to provide?
   validations:
-    required: true
+    required: false
 
         
