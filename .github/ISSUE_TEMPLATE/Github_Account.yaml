@@ -25,6 +25,12 @@ body:
     label: Application Number
   validations:
     required: true
+- type: input
+  attributes:
+    label: Updated Github  
+    description: The name of the updated Github account you are wishing to update
+  validations:
+    required: true
 - type: dropdown
   attributes:
     label: Would you like to 
