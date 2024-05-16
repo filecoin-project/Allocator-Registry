@@ -6,10 +6,6 @@ body:
     value: |
       # Github Authorized account modification
       To change the Github account authorized for your Allocator please fill out the following form
-- type: markdown
-  attributes:
-    value: |
-      Application Info
 - type: input
   attributes:
     label: Organization 
@@ -23,6 +19,12 @@ body:
 - type: input
   attributes:
     label: Application Number
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Applicaiton Number  
+    description: The Application number linked to your organization [JSON #](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
   validations:
     required: true
 - type: input
