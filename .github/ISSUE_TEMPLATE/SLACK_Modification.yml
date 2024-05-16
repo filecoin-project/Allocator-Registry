@@ -18,19 +18,13 @@ body:
     description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
   validations:
     required: true
-- type: input
-  attributes:
-    label: Updated Github  
-    description: The updated account information for the Github account you are wishing to update (Remove/Add/Modify)
-  validations:
-    required: true
 - type: dropdown
   attributes:
     label: Would you like to 
     options:
-      - Remove an existing Github Handle
-      - Modify an existing Github Handle
-      - Add new Github Handle
+      - Remove an existing authorized SLACK handle
+      - Modify an existing authorized SLACK handle
+      - Add a new authorized SLACK handle
       - Other
 - type: dropdown
   attributes:
