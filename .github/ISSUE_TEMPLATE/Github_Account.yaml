@@ -12,7 +12,7 @@ body:
       # Application Info
 - type: input
   attributes:
-    label: Organization Name
+    label: Organization 
     description: The name of the Allocator Organization you are wishing to update an Authorized Github account for
   validations:
     required: true
@@ -22,7 +22,7 @@ body:
       # Applicaiton Number (The JSON #) for the Organization
 - type: input
   attributes:
-    label: Name
+    label: Application Number
   validations:
     required: true
 - type: dropdown
