@@ -1,8 +1,9 @@
 blank_issues_enabled: false
 contact_links:
+  - name: Tooling Issues
+    url: https://github.com/fidlabs/allocator-tooling
+    about: File a request for support to tooling issues here (Lotus Malfuction, Trigger Not working, issues with the Allocator.tech site)
   - name: Allocator Applications
     url: https://allocator.tech/
     about: See open and pending DataCap applications here.
-  - name: Allocator Governance
-    url: https://github.com/filecoin-project/Allocator-Governance
-    about: Please review program overview here.
+ 
