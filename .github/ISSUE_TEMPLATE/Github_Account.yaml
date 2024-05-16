@@ -21,7 +21,7 @@ body:
 - type: input
   attributes:
     label: Updated Github  
-    description: The name of the Github account you are wishing to update (Remove/Add/Modify)
+    description: The updated account information for the Github account you are wishing to update (Remove/Add/Modify)
   validations:
     required: true
 - type: dropdown
