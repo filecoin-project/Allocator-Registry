@@ -1,5 +1,4 @@
 Initial Allocators receive 5Pib of DataCap distribution.  Once the Allocator has distributed 75% of this DataCap they are able to request an additional allocation of DataCap. This DataCap distribution will follow the guideliness requested in the Applicaiton [#7] DataCap Requested for allocator for 12 months of activity.
-
 name: Datacap Allocation Refresh
 description: Allocators should use this application form to request an addtional amount of DataCap
 title: "[DataCap Application] <Organization> - <Project Name>"
