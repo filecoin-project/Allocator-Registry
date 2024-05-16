@@ -1,9 +1,12 @@
 ---
 name: Custom issue template
-about: Describe this issue template's purpose here.
-title: ''
-labels: ''
-assignees: ''
+about: Please only use this form if submitting an issue that is outside the list of options provided.
+Organization: ''
+Application Number: ''
+Github Handle: ''
+Slack Handle: ''
+Description of Issue: ''
+
 
 ---
 
