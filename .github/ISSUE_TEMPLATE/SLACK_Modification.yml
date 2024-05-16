@@ -18,6 +18,14 @@ body:
     description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: Would you like to 
+    options:
+      - Remove an existing authorized SLACK handle
+      - Modify an existing authorized SLACK handle
+      - Add a new authorized SLACK handle
+      - Other
 - type: input
   attributes:
     label: Slack Handle  
@@ -30,14 +38,6 @@ body:
     description: What is the handle ID?  (This can be found by viewing the profile in slack) (example D02KTGPJ36F)
   validations:
     required: true
-- type: dropdown
-  attributes:
-    label: Would you like to 
-    options:
-      - Remove an existing authorized SLACK handle
-      - Modify an existing authorized SLACK handle
-      - Add a new authorized SLACK handle
-      - Other
 - type: dropdown
   attributes:
     label: Is the Github Account used to file this request is already recorded on the Allocator JSON for your organization? 
