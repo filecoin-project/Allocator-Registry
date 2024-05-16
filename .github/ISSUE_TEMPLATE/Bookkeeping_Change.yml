@@ -22,8 +22,8 @@ body:
   attributes:
     label: Would you like to 
     options:
-      - Modify/Update an existing URL
-      - Add new URL
+      - Add a Bookkeeping url (for the first time)
+      - Update the url for an existing bookkeping repo
       - Other
 - type: input
   attributes:
