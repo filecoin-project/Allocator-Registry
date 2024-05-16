@@ -21,7 +21,7 @@ body:
 - type: input
   attributes:
     label: Slack Handle  
-    description: What is the handle name for the Slack account you wish to modify? (ex: Kevin-Foundation)
+    description: What is the handle name for the Slack account you wish to modify? (example Kevin-Foundation)
   validations:
     required: true
 - type: input
