@@ -1,0 +1,50 @@
+name: "SLACK Authroization"
+description: "Issue Template for submitting a request to modify/remove an authorized Slack Handle for your Allocator"
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Github Authorized Account Modification
+      To change/add a the Slack authorized for your Allocator please fill out the following form.  This will allow an authorized member to be added to [fil-plus-allocator](https://filecoinproject.slack.com/archives/C06MTBZ44P2)speak on behalf of the organiztion in the privat
+- type: input
+  attributes:
+    label: Organization 
+    description: The name of the Allocator Organization you are wishing to update an Authorized Github account for
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Applicaiton Number  
+    description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Updated Github  
+    description: The updated account information for the Github account you are wishing to update (Remove/Add/Modify)
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Would you like to 
+    options:
+      - Remove an existing Github Handle
+      - Modify an existing Github Handle
+      - Add new Github Handle
+      - Other
+- type: dropdown
+  attributes:
+    label: Is the Github Account used to file this request is already recorded on the Allocator JSON for your organization? 
+    options:
+      - "Yes"
+      - "No"
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Additional Information 
+    description: Any additional information you with to provide?
+  validations:
+    required: false
+
+        
