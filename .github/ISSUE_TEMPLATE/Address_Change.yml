@@ -1,0 +1,62 @@
+name: "Pathway Address Modification"
+description: "Issue Template for submitting a request to modify/update the Pathway Address for Allocator"
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Pathway Address Modification
+      To change/add a Pathway Address authorized for your Allocator please fill out the following form.  This will allow an authorized member to be added to [fil-plus-allocator](https://filecoinproject.slack.com/archives/C06MTBZ44P2) and speak on behalf of the organiztion.
+- type: input
+  attributes:
+    label: Organization 
+    description: The name of the Allocator Organization you are wishing to update
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Applicaiton Number  
+    description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Would you like to 
+    options:
+      - Change an existing Multisig Address
+      - Add or Remove a Signer
+      - Add a new authorized SLACK handle
+      - Other
+- type: input
+  attributes:
+    label: Previous address  
+    description: What is the address you wish to modify?
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: New address 
+    description: What is the address you would like to changed to?
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Do you need Foundation Governance support to create the Multisig for this address?
+    options:
+      - "Yes"
+      - "No"
+- type: dropdown
+  attributes:
+    label: Is the Github Account used to file this request is already recorded on the Allocator JSON for your organization? 
+    options:
+      - "Yes"
+      - "No"
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Additional Information 
+    description: Any additional information you with to provide?
+  validations:
+    required: false
+
+        
