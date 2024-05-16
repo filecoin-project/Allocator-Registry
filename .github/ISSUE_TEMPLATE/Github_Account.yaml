@@ -9,7 +9,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      # Application Info
+      Application Info
 - type: input
   attributes:
     label: Organization 
