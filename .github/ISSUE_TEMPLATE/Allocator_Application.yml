@@ -15,7 +15,7 @@ body:
 - type: input
   attributes:
     label: Github Handle  
-    description: The Github handles which will be authorized on the Allocator
+    description: The Github handle(s) which will be authorized on the Allocator
   validations:
     required: true
 - type: dropdown
