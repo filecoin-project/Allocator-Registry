@@ -282,3 +282,14 @@ body:
       - Other
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: For how long do you plan to keep this dataset stored on Filecoin
+    options:
+      - Less than 1 year
+      - 1 to 1.5 years
+      - 2 to 3 years
+      - More than 3 Years
+      - Permanently
+  validations:
+    required: true
