@@ -173,3 +173,11 @@ body:
     description:   
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: Is this project associated with other projects/ecosystem stakeholders?
+    options:
+      - (Yes)
+      - (No)
+  validations:
+    required: true
