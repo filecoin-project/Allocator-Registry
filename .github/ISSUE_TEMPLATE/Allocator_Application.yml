@@ -20,11 +20,13 @@ body:
     required: true
 - type: dropdown
   attributes:
-    label: Would you like to 
+    label: Which Pathway is this for? 
     options:
-      - Change an existing Multisig Address
-      - Add or Remove a Signer
+      - Open Data Pathway
+      - Enterprise Private Data Pathway
       - Other
+  validations:
+    required: true
 - type: input
   attributes:
     label: Previous address  
