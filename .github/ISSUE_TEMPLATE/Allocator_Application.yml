@@ -111,7 +111,8 @@ body:
     description:   
   validations:
     required: true
-type: dropdown
+    
+- type: dropdown
   attributes:
     label: Number of replicas to store
     options:
