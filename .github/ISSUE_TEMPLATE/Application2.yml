@@ -609,9 +609,26 @@ body:
     label: 39. Detail how you will announce updates to tooling, pathway guidelines, parameters, and process alterations.
   validations:
     required: false
+- type: input
+  attributes:
+    label: 40. How long will you allow the community to provide feedback before implementing changes?
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 41. Regarding security, how will you structure and secure the on-chain notary address? If you will utilize a multisig, how will it be structured? Who will have administrative & signatory rights?
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 42. Will you deploy smart contracts for program or policy procedures? If so, how will you track and fund them?
+  validations:
+    required: false
 
 
 
+
+    
 - type: dropdown
   attributes:
     label: Can you confirm that you will follow the Fil+ guidelines
