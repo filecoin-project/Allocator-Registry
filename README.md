@@ -1,6 +1,6 @@
 # Allocator Support
 To file a support issue please open an [ISSUE](https://github.com/filecoin-project/Allocator-Registry/issues). 
-This can be used for governance support, adding or chaning the Organization's contact information, or requesting additional Datacap.   
+This can be used for governance support, adding or changing the Organization's contact information, or requesting additional Datacap.   
 If you wish to report an issue with the tooling please submit an issue directly to FIDL at https://github.com/fidlabs/allocator-tooling
 
 
