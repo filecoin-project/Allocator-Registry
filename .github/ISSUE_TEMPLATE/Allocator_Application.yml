@@ -337,3 +337,9 @@ body:
     description:   
   validations:
     required: false
+- type: input
+  attributes:
+    label: Please list the provider IDs and location of the storage providers you will be working with.
+    description:   
+  validations:
+    required: true
