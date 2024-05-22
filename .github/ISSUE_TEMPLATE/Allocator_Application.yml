@@ -293,3 +293,17 @@ body:
       - Permanently
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: In which geographies do you plan on making storage deals
+    options:
+      - Greater China
+      - Asia other than Greater China
+      - Africa
+      - North America
+      - South America
+      - Europe
+      - Australia (continent)
+      - Antarctica
+  validations:
+    required: true
