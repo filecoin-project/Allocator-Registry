@@ -263,3 +263,9 @@ body:
       - (No)
   validations:
     required: true
+- type: input
+  attributes:
+    label: If you chose not to confirm, what was the reason
+    description:   
+  validations:
+    required: false
