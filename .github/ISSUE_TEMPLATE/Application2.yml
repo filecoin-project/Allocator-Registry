@@ -504,7 +504,18 @@ body:
       - (No)
   validations:
     required: false   
-
+- type: dropdown
+  attributes:
+    label: 28. As an allocator, do you support clients that engage in deal-making with SPs utilizing a VPN?
+    description: What tools will you use
+    options:
+      - Data Cap Removal Bot
+      - Spark
+      - Smart Contracts
+      - Custom Built
+      - Other
+  validations:
+    required: false
 
 
 
