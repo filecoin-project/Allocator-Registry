@@ -8,10 +8,10 @@ body:
       To apply to become an Allocator, please fill complete the following form.  Application turn around time is typically 5 business days. 
 - type: input
   attributes:
-    label: Organization 
-    description: The name of the Allocator Organization you are wishing to update
+    label: Email 
+    description: The email for your Organization that you wish to setup for an Allocator
   validations:
-    required: true
+    required: false
 - type: input
   attributes:
     label: Applicaiton Number  
@@ -31,26 +31,13 @@ body:
     description: What is the (previous) address you wish to modify?
   validations:
     required: false
-- type: input
-  attributes:
-    label: New address 
-    description: What is the address you would like to be added?
-  validations:
-    required: false
-- type: dropdown
-  attributes:
-    label: Do you need Foundation Governance support to create the Multisig?
-    options:
-      - "Yes"
-      - "No"
-- type: dropdown
-  attributes:
-    label: Is the Github Account used to file this request is already recorded on the Allocator JSON for your organization? 
-    options:
-      - "Yes"
-      - "No"
-  validations:
-    required: true
+
+
+
+
+
+
+    
 - type: input
   attributes:
     label: Additional Information 
