@@ -546,6 +546,23 @@ body:
       - (No)
   validations:
     required: false
+- type: dropdown
+  attributes:
+    label: 32. What tooling will you use to construct messages and send allocations to clients?
+    description: How are you connected to Filecoin ecosystem?
+    options:
+      - previous allocator
+      - previous notary
+      - code contributor
+      - big data contributor
+      - hackathon winner
+      - supporter at events
+      - sponsor of events
+      - open source tooling builder
+      - root key holder
+      - other
+  validations:
+    required: false
 
 
 - type: dropdown
