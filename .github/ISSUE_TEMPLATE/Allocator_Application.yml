@@ -4,8 +4,12 @@ body:
 - type: markdown
   attributes:
     value: |
-      # Pathway Address Modification
+      # Application to become an Allocator
       To apply to become an Allocator, please fill complete the following form.  Application turn around time is typically 5 business days. 
+- type: markdown
+  attributes:
+    value: |
+      # Core Information
 - type: input
   attributes:
     label: Email 
@@ -413,6 +417,10 @@ body:
     description:   
   validations:
     required: false
+- type: markdown
+  attributes:
+    value: |
+      # Project Details
 - type: input
   attributes:
     label: Share a brief history of your project and organization
@@ -433,6 +441,10 @@ body:
     description:   
   validations:
     required: false
+- type: markdown
+  attributes:
+    value: |
+      # Use-Case Details
 - type: input
   attributes:
     label: Describe the data being stored onto Filecoin
