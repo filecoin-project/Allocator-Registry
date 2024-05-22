@@ -204,3 +204,9 @@ body:
       - Other
   validations:
     required: true
+- type: input
+  attributes:
+    label: If you answered "Other" in the previous question, enter the details here
+    description:   
+  validations:
+    required: false
