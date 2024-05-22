@@ -157,8 +157,8 @@ body:
   attributes:
     label: Custom multisig
     options:
-      - Yes
-      - No
+      - (Yes)
+      - (No)
   validations:
     required: true
 - type: input
