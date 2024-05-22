@@ -351,7 +351,7 @@ body:
 - type: dropdown
   attributes:
     label: 12. Please specify how many questions you'll ask, and provide a brief overview of the questions
-    description: Due Diligence Process on your Clients: 
+    description: Due Diligence Process on your Clients
     options: 
     - KYC / KYB
     - In person interviews
