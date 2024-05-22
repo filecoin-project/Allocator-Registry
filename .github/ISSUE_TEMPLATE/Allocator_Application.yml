@@ -307,3 +307,16 @@ body:
       - Antarctica
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: How will you be distributing your data to storage providers
+    options:
+      - Cloud storage (i.e. S3)
+      - HTTP or FTP server
+      - IPFS
+      - Shipping hard drives
+      - Lotus built-in data transfer
+      - I dont know yet
+      - others
+  validations:
+    required: true
