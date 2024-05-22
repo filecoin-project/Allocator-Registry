@@ -249,3 +249,9 @@ body:
     description:   
   validations:
     required: false
+- type: input
+  attributes:
+    label: Please share a sample of the data
+    description:   
+  validations:
+    required: true
