@@ -529,7 +529,7 @@ body:
     required: false
 - type: dropdown
   attributes:
-    label: 30. Allocation Tranche Schedule to clients:
+    label: 30. Allocation Tranche Schedule to clients
     description: Monetization Models
     options:
       - Fees
