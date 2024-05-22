@@ -424,7 +424,6 @@ body:
     options:
       - Spark
       - Manual
-      - None
       - My clients will are only interested in archival services
   validations:
     required: false
