@@ -450,7 +450,15 @@ body:
       - Other
   validations:
     required: false
-
+- type: dropdown
+  attributes:
+    label: 23. What geographic or regional distribution will you require?
+    description: What types of data preparation will you support or require
+    options:
+      - Sealing
+      - Client-provided
+  validations:
+    required: false
 
 
 
