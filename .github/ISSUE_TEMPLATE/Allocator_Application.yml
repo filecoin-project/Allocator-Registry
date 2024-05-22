@@ -29,22 +29,8 @@ body:
     required: true
 - type: input
   attributes:
-    label: Previous address  
-    description: What is the (previous) address you wish to modify?
+    label: Data Owner Organization Name  
+    description: Enter the Organization name which will represent and control this Allocator.
   validations:
-    required: false
-
-
-
-
-
-
-    
-- type: input
-  attributes:
-    label: Additional Information 
-    description: Any additional information you with to provide?
-  validations:
-    required: false
-
+    required: true
         
