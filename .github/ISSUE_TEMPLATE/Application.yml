@@ -286,10 +286,18 @@ body:
     required: true
 - type: dropdown
   attributes:
-    label: 5. Region of Operations? 
+    label: 5. Region of Operations?
+    description: Where you will provide your services
     options:
-      - Open Data Pathway
-      - Enterprise Private Data Pathway
+      - United States
+      - South America
+      - China
+      - South Korea
+      - Africa
+      - Singapore
+      - Japan
+      - Africa
+      - Oceania
       - Other
 
 
