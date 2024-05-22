@@ -33,4 +33,13 @@ body:
     description: Enter the Organization name which will represent and control this Allocator.
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: Country or Region 
+    options:
+      - USA
+      - Canada
+      - China
+  validations:
+    required: true
         
