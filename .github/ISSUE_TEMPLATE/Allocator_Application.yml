@@ -116,6 +116,7 @@ body:
   attributes:
     label: Number of replicas to store
     options:
+      - 1
       - 2
       - 3
       - 4
