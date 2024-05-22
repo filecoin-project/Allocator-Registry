@@ -586,7 +586,12 @@ body:
     description:
   validations:
     required: false
-
+- type: input
+  attributes:
+    label: 36. Where will you keep your records for bookkeeping? How will you maintain transparency in your allocation decisions?
+    description:
+  validations:
+    required: false
 
 
 
