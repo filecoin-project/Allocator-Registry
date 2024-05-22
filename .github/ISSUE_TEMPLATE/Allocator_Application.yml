@@ -356,3 +356,9 @@ body:
       - Other/custom tool
   validations:
     required: false
+- type: input
+  attributes:
+    label: If you answered "Others/custom tool" in the previous question, enter the details here
+    description:   
+  validations:
+    required: false
