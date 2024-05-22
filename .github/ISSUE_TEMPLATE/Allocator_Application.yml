@@ -105,3 +105,9 @@ body:
     description:   
   validations:
     required: true
+- type: input
+  attributes:
+    label: Expected size of single dataset (one copy)
+    description:   
+  validations:
+    required: true
