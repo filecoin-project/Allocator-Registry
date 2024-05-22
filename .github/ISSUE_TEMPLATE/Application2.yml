@@ -527,6 +527,16 @@ body:
       - Open source code
   validations:
     required: false
+- type: dropdown
+  attributes:
+    label: 30. Allocation Tranche Schedule to clients:
+    description: Monetization Models
+      - Fees
+      - %of the feels
+      - Other
+  validations:
+    required: false
+
 
 
 - type: dropdown
