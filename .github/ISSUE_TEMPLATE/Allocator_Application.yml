@@ -135,3 +135,9 @@ body:
     description: 
   validations:
     required: true
+- type: input
+  attributes:
+    label: On-chain address for first allocation  
+    description: 
+  validations:
+    required: true
