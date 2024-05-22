@@ -301,7 +301,17 @@ body:
 - type: dropdown
   attributes:
     label: 6. Type of Allocator
-    description: If manual, please explain why and how different it is from existing allocators
+    description: Type of Allocator: (Multiple choice - Automated, Market-based, Programmatic, Manual)
+If manual, please explain why and how different it is from existing allocators
+    options:
+      - Automated
+      - Market-Based
+      - Programmatic
+      - Manual
+- type: dropdown
+  attributes:
+    label: 7. Amount of DataCap requested for 12 months
+    description: nitially you will only receive 5 PiBs of DataCap. After auditing, you will be able to apply for 10PiBs, then 20 PiBs etc. How much DataCap do you expect to allocate in the next 12 months? (Below 5 PiBs; 5-50 PiBs; 50 - 70PiBs, 70-80 PiBs; 80-100PiBs; 100-200PiBs; above 200PiBs)
     options:
       - Automated
       - Market-Based
@@ -311,15 +321,43 @@ body:
 
 
 
-- type: dropdown
-  attributes:
-    label: Which Pathway is this for? 
-    options:
-      - Open Data Pathway
-      - Enterprise Private Data Pathway
-      - Other
-  validations:
-    required: true
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 - type: dropdown
   attributes:
     label: Can you confirm that you will follow the Fil+ guidelines
