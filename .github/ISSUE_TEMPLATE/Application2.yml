@@ -532,7 +532,7 @@ body:
     label: 30. Allocation Tranche Schedule to clients:
     description: Monetization Models
       - Fees
-      - %of the feels
+      - Percentage of the feels
       - Other
   validations:
     required: false
