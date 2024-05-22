@@ -310,12 +310,20 @@ body:
 - type: dropdown
   attributes:
     label: 7. Amount of DataCap requested for 12 months
-    description: Initially you will only receive 5 PiBs of DataCap. After auditing, you will be able to apply for 10PiBs, then 20 PiBs etc. How much DataCap do you expect to allocate in the next 12 months? (Below 5 PiBs; 5-50 PiBs; 50 - 70PiBs, 70-80 PiBs; 80-100PiBs; 100-200PiBs; above 200PiBs)
+    description: Initially you will only receive 5 PiBs of DataCap. After auditing, you will be able to apply for 10PiBs, then 20 PiBs etc. How much DataCap do you expect to allocate in the next 12 months? All selections in terms of PiB
     options:
-      - 1-4.99PiB
-      - 5PiB
-      - 6-10PiB
-      - 10-50PiB
+      - 1-4.99
+      - 5
+      - 6-10
+      - 10-50
+      - 50-70 
+      - 70-80
+      - 80-100
+      - 100
+      - 101-200
+      - 200-299
+      - 300
+      - 301-500
 - type: input
   attributes:
     label: 8. About your Pathway 
