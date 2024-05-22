@@ -193,3 +193,14 @@ body:
     description:   
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: Where was the data currently stored in this dataset sourced from
+    options:
+      - AWS Cloud
+      - Azure Cloud
+      - Google Cloud
+      - My Own Storage Infra
+      - Other
+  validations:
+    required: true
