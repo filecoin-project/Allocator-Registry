@@ -516,7 +516,17 @@ body:
       - Other
   validations:
     required: false
-
+- type: dropdown
+  attributes:
+    label: 29. Will you use standardized DataCap allocations to clients?
+    description: How will you ensure the security of your allocator?
+    options:
+      - Single address
+      - Multisig
+      - Audit
+      - Open source code
+  validations:
+    required: false
 
 
 - type: dropdown
