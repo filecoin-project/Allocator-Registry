@@ -361,7 +361,12 @@ body:
     options:
       - (Yes)
       - (No)
-
+- type: input
+  attributes:
+    label: 14. Can any client apply to your pathway, or will you be closed to only your own internal clients? (eg: bizdev or self-referral)
+    description: Do you require equal percentage distribution for your clients to their chosen SPs? (Multiple choice - Yes, No)
+  validations:
+    required: false
 
 
 
