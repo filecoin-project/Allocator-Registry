@@ -167,3 +167,9 @@ body:
     description:   
   validations:
     required: false
+- type: input
+  attributes:
+    label: Share a brief history of your project and organization
+    description:   
+  validations:
+    required: true
