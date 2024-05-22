@@ -403,7 +403,20 @@ body:
       - Other
   validations:
     required: false
-
+- type: dropdown
+  attributes:
+    label: 19. How will you ensure the data meets local & regional legal requirements?
+    description: What type of data will you be storing?
+    options:
+      - Research/Non-Profit
+      - Public Open Commercial/Enterprise
+      - Private Commercial/Enterprise(Encrypted)
+      - Private Non-Profit/Social Impact
+      - Blockchain Archival
+      - NFTs
+      - Other
+  validations:
+    required: false
 
 
 
