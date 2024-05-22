@@ -269,3 +269,16 @@ body:
     description:   
   validations:
     required: false
+- type: dropdown
+  attributes:
+    label: Where was the data currently stored in this dataset sourced from
+    options:
+  - Daily
+  - Weekly
+  - Monthly
+  - Yearly
+  - Sporadic
+  - Never
+  - Other
+  validations:
+    required: true
