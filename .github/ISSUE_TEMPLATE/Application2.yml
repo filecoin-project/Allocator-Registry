@@ -624,10 +624,26 @@ body:
     label: 42. Will you deploy smart contracts for program or policy procedures? If so, how will you track and fund them?
   validations:
     required: false
-
-
-
-
+- type: input
+  attributes:
+    label: 43. Outline your monetization models for the services you provide as a notary allocator pathway.
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 44. Describe your organization's structure, such as the legal entity and other business & market ventures.
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 45. Where will accounting for fees be maintained?
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 46. If you've received DataCap allocation privileges before, please link to prior notary applications.
+  validations:
+    required: false
     
 - type: dropdown
   attributes:
