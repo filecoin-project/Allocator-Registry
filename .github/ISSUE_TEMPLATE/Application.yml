@@ -334,6 +334,7 @@ body:
   attributes:
     label: Program Acknowledgement 
     description: As a member in the Filecoin Community, I acknowledge that I must adhere to the Community Code of Conduct, as well other End User License Agreements for accessing various tools and services, such as GitHub and Slack. Additionally, I will adhere to all local & regional laws & regulations that may relate to my role as a business partner, organization, notary, or other operating entity.  You can read the Filecoin Code of Conduct here: https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md
+    options: 
       - label: "Program Acknowledgement"
 
 
