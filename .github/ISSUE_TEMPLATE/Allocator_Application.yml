@@ -88,3 +88,14 @@ body:
       - Other
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: What is your role related to the dataset 
+    options:
+      - Data Owner
+      - Data Preparer
+      - Storage provider filling out application on behalf of the data owner
+      - Data onramp entity that provides data onboarding services to multiple clients
+      - Other
+  validations:
+    required: true
