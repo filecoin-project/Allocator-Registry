@@ -71,3 +71,9 @@ body:
     description: What is the website for your organization?  
   validations:
     required: false  
+- type: input
+  attributes:
+    label: Social Media Handle  
+    description:
+  validations:
+    required: true
