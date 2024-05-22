@@ -129,3 +129,9 @@ body:
       - Other
   validations:
     required: true
+- type: input
+  attributes:
+    label: Weekly allocation of DataCap requested  
+    description: 
+  validations:
+    required: true
