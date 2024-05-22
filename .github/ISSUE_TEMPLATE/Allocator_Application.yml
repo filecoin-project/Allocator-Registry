@@ -14,8 +14,8 @@ body:
     required: true
 - type: input
   attributes:
-    label: Applicaiton Number  
-    description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
+    label: Github Handle  
+    description: The Github handles which will be authorized on the Allocator
   validations:
     required: true
 - type: dropdown
