@@ -563,6 +563,23 @@ body:
       - other
   validations:
     required: false
+- type: dropdown
+  attributes:
+    label: 33. Describe the process for granting additional DataCap to previously verified clients.
+    description: How are you estimating your client demand and pathway usage?
+    options:
+      - Existing clients
+      - New clients
+      - Active BizDev
+      - Other
+  validations:
+    required: true
+
+
+
+
+
+
 
 
 - type: dropdown
