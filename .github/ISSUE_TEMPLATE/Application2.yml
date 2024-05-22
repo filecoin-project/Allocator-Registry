@@ -417,7 +417,17 @@ body:
       - Other
   validations:
     required: false
-
+- type: dropdown
+  attributes:
+    label: 20. What types of data preparation will you support or require?
+    description: What checks for retrievability of data will you perform?
+    options:
+      - Spark
+      - Manual
+      - None
+      - My clients will are only interested in archival services
+  validations:
+    required: false
 
 
 
