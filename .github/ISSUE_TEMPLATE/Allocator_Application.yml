@@ -331,3 +331,9 @@ body:
       - Others
   validations:
     required: true
+- type: input
+  attributes:
+    label: If you answered "Others" in the previous question, what is the tool or platform you used
+    description:   
+  validations:
+    required: false
