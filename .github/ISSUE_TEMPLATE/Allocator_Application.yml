@@ -42,4 +42,27 @@ body:
       - China
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: Allocator Industry Specialization
+    options:
+      - Agriculture 
+      - Arts 
+      - Construction
+      - Education
+      - Enviroment
+      - Financial 
+      - Government
+      - HealthCare
+      - IT & Technology
+      - Media and Telecommunications
+      - Not-for-Profit
+      - Research 
+      - Professional Services (Legal, consulting, advertising) 
+      - Transportation
+      - Utilities
+      - Web3 or Crypto
+      - Other
+  validations:
+    required: true
         
