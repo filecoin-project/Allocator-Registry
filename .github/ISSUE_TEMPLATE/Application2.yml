@@ -576,7 +576,7 @@ body:
     required: False
 - type: input
   attributes:
-    label: 34. Describe in as much detail as possible the tools used for: • client discoverability & applications 
+    label: 34. Describe in as much detail as possible the tools used for client discoverability & applications 
     description:
   validations:
     required: false
