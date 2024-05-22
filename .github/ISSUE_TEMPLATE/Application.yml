@@ -298,7 +298,15 @@ body:
       - Japan
       - Oceania
       - Other
-
+- type: dropdown
+  attributes:
+    label: 6. Type of Allocator
+    description: If manual, please explain why and how different it is from existing allocators
+    options:
+      - Automated
+      - Market-Based
+      - Programmatic
+      - Manual
 
 
 
