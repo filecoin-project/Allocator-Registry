@@ -370,7 +370,7 @@ body:
 - type: input
   attributes:
     label: 15.  How do you plan to track the rate at which DataCap is being distributed to your clients?
-    description: Allocation Tranche Schedule to clients: (Numerical input)
+    description: Allocation Tranche Schedule to clients (Numerical input)
   validations:
     required: false
 
