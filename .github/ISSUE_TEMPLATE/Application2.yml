@@ -459,6 +459,23 @@ body:
       - Client-provided
   validations:
     required: false
+- type: dropdown
+  attributes:
+    label: 24. How many Storage Provider owner/operators will you require to meet programmatic requirements for distribution?
+    description: How many replicas will you require to meet programmatic requirements for distribution?
+    options:
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6+
+  validations:
+    required: false
+
+
+
+
 
 
 
