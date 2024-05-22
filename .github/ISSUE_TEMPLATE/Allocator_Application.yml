@@ -65,4 +65,9 @@ body:
       - Other
   validations:
     required: true
-        
+- type: input
+  attributes:
+    label: Organization Website 
+    description: What is the website for your organization?  
+  validations:
+    required: false  
