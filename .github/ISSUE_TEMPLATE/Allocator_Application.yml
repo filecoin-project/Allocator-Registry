@@ -343,3 +343,16 @@ body:
     description:   
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: How do you plan to make deals to your storage providers
+    options:
+      - Boost client
+      - Lotus client
+      - Droplet client
+      - Bidbot
+      - Singularity
+      - I dont know yet
+      - Other/custom tool
+  validations:
+    required: false
