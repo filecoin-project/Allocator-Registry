@@ -332,10 +332,16 @@ body:
     required: true
 - type: checkboxes
   attributes:
-    label: Program Acknowledgement 
+    label: 9. Program Acknowledgement 
     description: I will adhere to all local & regional laws & regulations that may relate to my role as a business partner, organization, notary, or other operating entity. I will follow the Code of Conduct [here](https://github.com/filecoin-project/community/blob/master/CODE_OF_CONDUCT.md)
     options: 
       - label: "I adhere"
+- type: input
+  attributes:
+    label: 10. Who are your target clients? 
+    description: Describe how your pathway will evaluate potential clients and decide on whom to give DataCap. This is the most important question of this form, so try to give as much detail as you can
+  validations:
+    required: false
 
 
 
