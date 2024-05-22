@@ -598,7 +598,17 @@ body:
     description:
   validations:
     required: false
-
+- type: input
+  attributes:
+    label: 38. Describe your process for handling disputes. Highlight response times, transparency, and accountability mechanisms.
+    description:
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 39. Detail how you will announce updates to tooling, pathway guidelines, parameters, and process alterations.
+  validations:
+    required: false
 
 
 
