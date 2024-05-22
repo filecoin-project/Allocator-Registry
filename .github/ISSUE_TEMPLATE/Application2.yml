@@ -392,8 +392,17 @@ body:
       - Private Non-Profit/Social Impact
       - Other (specified elsewhere)
   validations:
-    required: true
-
+    required: false
+- type: dropdown
+  attributes:
+    label: 18. How will you verify a client's data ownership? Will you use 3rd-party KYB (know your business) service to verify enterprise clients?
+    description: How do you plan to track the rate at which DataCap is being distributed to your clients?
+    options:
+      - Automated tool
+      - Manual monitoring
+      - Other
+  validations:
+    required: false
 
 
 
