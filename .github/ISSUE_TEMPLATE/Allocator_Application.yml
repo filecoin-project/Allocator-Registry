@@ -255,3 +255,11 @@ body:
     description:   
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: Confirm that this is a public dataset that can be retrieved by anyone on the Network
+    options:
+      - (Confirm)
+      - (No)
+  validations:
+    required: true
