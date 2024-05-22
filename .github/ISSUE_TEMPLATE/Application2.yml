@@ -381,14 +381,18 @@ body:
       - On chain
       - Spreadsheets
       - Github
-- type: input
+- type: dropdown
   attributes:
     label: 17. What type(s) of data would be applicable for your pathway?
-    description: Describe your process for handling disputes. Highlight response times, transparency, and accountability mechanisms.
+    description: Kevin to return
+    options:
+      - Public Open Dataset (Research/Non-Profit)
+      - Public Open Commercial/Enterprise
+      - Private Commercial/Enterprise
+      - Private Non-Profit/Social Impact
+      - Other (specified elsewhere)
   validations:
-    required: false
- 
-
+    required: true
 
 
 
