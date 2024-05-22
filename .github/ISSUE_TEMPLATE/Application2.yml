@@ -533,7 +533,7 @@ body:
     description: Monetization Models
     options:
       - Fees
-      - % of the feels
+      - Percentage of the feels
       - Other
   validations:
     required: false
