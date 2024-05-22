@@ -472,7 +472,16 @@ body:
       - 6+
   validations:
     required: false
-
+- type: dropdown
+  attributes:
+    label: 25. Do you require equal percentage distribution for your clients to their chosen SPs? Will you require preliminary SP distribution plans from the client before allocating any DataCap?
+    description: Geographical Distribution
+    options:
+      - Multiple Continents
+      - Multiple countries within one continent
+      - Multiple regions within one country
+  validations:
+    required: false
 
 
 
