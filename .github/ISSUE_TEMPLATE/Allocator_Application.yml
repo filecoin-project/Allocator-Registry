@@ -320,3 +320,14 @@ body:
       - others
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: How did you find your storage providers
+    options:
+      - Big Data Exchange
+      - Filmine
+      - Partners
+      - Slack
+      - Others
+  validations:
+    required: true
