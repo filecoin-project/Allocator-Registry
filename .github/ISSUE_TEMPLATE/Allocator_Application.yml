@@ -186,4 +186,4 @@ body:
     label: If answered yes, what are the other projects/ecosystem stakeholders
     description:   
   validations:
-    required: true
+    required: false
