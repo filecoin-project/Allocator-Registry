@@ -231,3 +231,9 @@ body:
       - Austria
   validations:
     required: false
+- type: input
+  attributes:
+    label: If you are a data preparer, how will the data be prepared? Please include tooling used and technical details?
+    description:   
+  validations:
+    required: false
