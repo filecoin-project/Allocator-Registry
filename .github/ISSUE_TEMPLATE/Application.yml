@@ -348,10 +348,16 @@ body:
     description: Describe how your pathway will evaluate potential clients and decide on whom to give DataCap. This is the most important question of this form, so try to give as much detail as you can
   validations:
     required: false
-- type: input
+- type: dropdown
   attributes:
     label: 12. Please specify how many questions you'll ask, and provide a brief overview of the questions
-    description: Due Diligence Process on your Clients: (Multiple choice -KYC; KYB; In person interviews; Proof of Payment; Proof of Humanity; Verified Wallet Address; AI/ML based solution; None; Other)
+    description: Due Diligence Process on your Clients: 
+    options: 
+    - KYC / KYB
+    - In person interviews
+    - Organization form
+    - Proof of Payment
+    - Other
 Details if other:
   validations:
     required: false
