@@ -383,7 +383,7 @@ body:
       - Github
   - type: input
   attributes:
-    label: 17.  What type(s) of data would be applicable for your pathway?
+    label: 17.  What types of data would be applicable for your pathway?
     description: Describe your process for handling disputes. Highlight response times, transparency, and accountability mechanisms.
   validations:
     required: false
