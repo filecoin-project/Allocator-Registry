@@ -323,21 +323,10 @@ body:
     required: false  
 - type: input
   attributes:
-    label: Social Media Handle  
+    label: Do you have a public facing Social account?   
     description:
   validations:
-    required: true
-- type: dropdown
-  attributes:
-    label: Social Media Type
-    options:
-      - Facebook
-      - Slack
-      - Twitter
-      - WeChat
-      - Other
-  validations:
-    required: true
+    required: false
 - type: dropdown
   attributes:
     label: What is your role related to the dataset 
