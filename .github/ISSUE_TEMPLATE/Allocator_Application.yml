@@ -364,9 +364,11 @@ body:
     required: false
 - type: dropdown
   attributes:
-    label: Can you confirm that you will follow the Fil+ guideline
+    label: Can you confirm that you will follow the Fil+ guidelines
+    description: https://docs.filecoin.io/basics/how-storage-works/filecoin-plus
     options:
       - (Yes)
       - (No)
   validations:
     required: true
+    https://docs.filecoin.io/basics/how-storage-works/filecoin-plus
