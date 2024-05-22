@@ -438,8 +438,18 @@ body:
       - Client promise/attestation
       - Other
   validations:
-    required: true
-
+    required: false
+- type: dropdown
+  attributes:
+    label: 22. How many replicas will you require to meet programmatic requirements for distribution?
+    description: How will you ensure the data meets local & regional legal requirements?
+    options:
+      - Automated checks
+      - Legal review
+      - Client Attestation
+      - Other
+  validations:
+    required: false
 
 
 
