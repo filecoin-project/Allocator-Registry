@@ -286,7 +286,7 @@ body:
     required: true
 - type: dropdown
   attributes:
-    label: 5. Region of Operation
+    label: 5 Regions of Operation
     description: Regions of operations where will you provide your services.
     options:
        - North America
