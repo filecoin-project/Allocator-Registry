@@ -181,3 +181,9 @@ body:
       - (No)
   validations:
     required: true
+- type: input
+  attributes:
+    label: If answered yes, what are the other projects/ecosystem stakeholders
+    description:   
+  validations:
+    required: true
