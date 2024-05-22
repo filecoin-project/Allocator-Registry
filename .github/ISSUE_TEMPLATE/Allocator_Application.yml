@@ -210,3 +210,24 @@ body:
     description:   
   validations:
     required: false
+- type: dropdown
+  attributes:
+    label: If you are a data preparer. What is your location (Country/Region)
+    options:
+      - Afghanistan
+      - Aland Islands
+      - Albania
+      - Algeria
+      - American Samoa
+      - Andorra
+      - Angola
+      - Anguilla
+      - Antarctica
+      - Antigua and Barbuda
+      - Argentina
+      - Armenia
+      - Aruba
+      - Australia
+      - Austria
+  validations:
+    required: false
