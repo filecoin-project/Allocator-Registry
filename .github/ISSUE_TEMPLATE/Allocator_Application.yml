@@ -77,3 +77,14 @@ body:
     description:
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: Social Media Type
+    options:
+      - Facebook
+      - Slack
+      - Twitter
+      - WeChat
+      - Other
+  validations:
+    required: true
