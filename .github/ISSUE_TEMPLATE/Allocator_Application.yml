@@ -99,3 +99,9 @@ body:
       - Other
   validations:
     required: true
+- type: input
+  attributes:
+    label: Total amount of DataCap being requested
+    description:   
+  validations:
+    required: true
