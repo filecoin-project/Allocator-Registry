@@ -644,6 +644,17 @@ body:
     label: 46. If you've received DataCap allocation privileges before, please link to prior notary applications.
   validations:
     required: false
+- type: input
+  attributes:
+    label: 47. How are you connected to the Filecoin ecosystem? Describe your (or your organization's) Filecoin relationships, investments, or ownership.
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 48. How are you estimating your client demand and pathway usage? Do you have existing clients and an onboarding funnel?
+  validations:
+    required: false
+
     
 - type: dropdown
   attributes:
