@@ -373,7 +373,15 @@ body:
     description: Allocation Tranche Schedule to clients (Numerical input)
   validations:
     required: false
-  - type: input
+- type: dropdown
+  attributes:
+    label: 16. As an operating entity in the Filecoin Community, you are required to follow all local & regional regulations relating to any data, digital and otherwise. This may include PII and data deletion requirements, as well as the storing, transmitting, or accessing of data.
+    description: Where will you keep your records for bookkeeping? How will you maintain transparency in your allocation decisions?
+    options:
+      - On chain
+      - Spreadsheets
+      - Github
+- type: input
   attributes:
     label: 17. What type(s) of data would be applicable for your pathway?
     description: Do you require equal percentage distribution for your clients to their chosen SPs? (Multiple choice - Yes, No)
