@@ -150,5 +150,20 @@ body:
       - Public, Open Commercial / Enterprise
       - Private Commercial / Enterprise
       - Private Non-Profit / Social impact
+      - Other
   validations:
     required: true
+- type: dropdown
+  attributes:
+    label: Custom multisig
+    options:
+      - Yes
+      - No
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Identifier
+    description:   
+  validations:
+    required: false
