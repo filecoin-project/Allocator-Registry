@@ -427,6 +427,18 @@ body:
       - My clients will are only interested in archival services
   validations:
     required: false
+- type: dropdown
+  attributes:
+    label: 21. What tools or methodology will you use to sample and verify the data aligns with your pathway?
+    description: Client Data Ownership Verification
+    options:
+      - KYC/KYB Service
+      - Manual Verification
+      - Proof of provenance
+      - Client promise/attestation
+      - Other
+  validations:
+    required: true
 
 
 
