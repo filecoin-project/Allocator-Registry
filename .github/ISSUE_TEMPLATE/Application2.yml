@@ -384,9 +384,10 @@ body:
 - type: input
   attributes:
     label: 17. What type(s) of data would be applicable for your pathway?
-    description: Do you require equal percentage distribution for your clients to their chosen SPs? (Multiple choice - Yes, No)
+    description: Describe your process for handling disputes. Highlight response times, transparency, and accountability mechanisms.
   validations:
     required: false
+ 
 
 
 
