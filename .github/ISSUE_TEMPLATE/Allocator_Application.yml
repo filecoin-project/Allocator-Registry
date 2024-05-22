@@ -11,7 +11,7 @@ body:
     label: Email 
     description: The email for your Organization that you wish to setup for an Allocator
   validations:
-    required: false
+    required: true
 - type: input
   attributes:
     label: Applicaiton Number  
