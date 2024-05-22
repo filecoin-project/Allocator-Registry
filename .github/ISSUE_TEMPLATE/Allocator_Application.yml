@@ -243,3 +243,9 @@ body:
     description:   
   validations:
     required: false
+- type: input
+  attributes:
+    label: Has this dataset been stored on the Filecoin network before? If so, please explain and make the case why you would like to store this dataset again to the network. Provide details on preparation and/or SP distribution.
+    description:   
+  validations:
+    required: false
