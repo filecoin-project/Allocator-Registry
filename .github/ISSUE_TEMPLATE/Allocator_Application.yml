@@ -271,14 +271,14 @@ body:
     required: false
 - type: dropdown
   attributes:
-    label: Where was the data currently stored in this dataset sourced from
+    label: What is the expected retrieval frequency for this data
     options:
-  - Daily
-  - Weekly
-  - Monthly
-  - Yearly
-  - Sporadic
-  - Never
-  - Other
+      - Daily
+      - Weekly
+      - Monthly
+      - Yearly
+      - Sporadic
+      - Never
+      - Other
   validations:
     required: true
