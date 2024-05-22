@@ -354,7 +354,13 @@ body:
     description: Kevin to return
   validations:
     required: false
-
+- type: dropdown
+  attributes:
+    label: 13.  Will you use a 3rd-party "Know your client" (KYC) service?
+    description: What client auditing will you perform?
+    options:
+      - Yes
+      - No
 
 
 
