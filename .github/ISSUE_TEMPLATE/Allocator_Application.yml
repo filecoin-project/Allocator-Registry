@@ -187,3 +187,9 @@ body:
     description:   
   validations:
     required: false
+- type: input
+  attributes:
+    label: Describe the data being stored onto Filecoin
+    description:   
+  validations:
+    required: true
