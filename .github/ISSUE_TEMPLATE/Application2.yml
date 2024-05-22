@@ -495,7 +495,14 @@ body:
       - 6+
   validations:
     required: false
-
+- type: dropdown
+  attributes:
+    label: 27. How will clients meet SP distribution requirements?
+    description: As an allocator, do you support clients that engage in deal-making with SPs utilizing a VPN?
+      - (Yes)
+      - (No)
+  validations:
+    required: true
 
 
 
