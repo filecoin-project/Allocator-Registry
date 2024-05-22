@@ -373,7 +373,23 @@ body:
     description: Allocation Tranche Schedule to clients (Numerical input)
   validations:
     required: false
-
+- type: dropdown
+  attributes:
+    label: 16. As an operating entity in the Filecoin Community, you are required to follow all local & regional regulations relating to any data, digital and otherwise. This may include PII and data deletion requirements, as well as the storing, transmitting, or accessing of data.
+    description: Initially you will only receive 5 PiBs of DataCap. After auditing, you will be able to apply for 10PiBs, then 20 PiBs etc. How much DataCap do you expect to allocate in the next 12 months? All selections in terms of PiB
+    options:
+      - 1-4.99
+      - 5
+      - 6-10
+      - 10-50
+      - 50-70 
+      - 70-80
+      - 80-100
+      - 100
+      - 101-200
+      - 200-299
+      - 300
+      - 301-500
 
 
 
