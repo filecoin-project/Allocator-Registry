@@ -362,3 +362,11 @@ body:
     description:   
   validations:
     required: false
+- type: dropdown
+  attributes:
+    label: Can you confirm that you will follow the Fil+ guideline
+    options:
+      - (Yes)
+      - (No)
+  validations:
+    required: true
