@@ -284,21 +284,6 @@ body:
       - Zimbabwe
   validations:
     required: true
-- type: dropdown
-  attributes:
-    label: 5 Regions of Operation
-    description: Regions of operations where will you provide your services.
-    options:
-       - North America
-      - Sourth America
-      - China
-      - Greater China
-      - Oceania
-      - Europe
-      - Africa
-
-
-
 
 
 
