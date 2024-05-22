@@ -30,7 +30,7 @@ body:
     required: true
 - type: dropdown
   attributes:
-    label: Country or Region 
+    label: 4. Country or Region 
     description: Where is your business registered/if individual - country of residence
     options:
       - Afghanistan
@@ -284,7 +284,20 @@ body:
       - Zimbabwe
   validations:
     required: true
-
+- type: dropdown
+  attributes:
+    label: 5. Region of Operation  
+    description: The address you will use for DataCap distributions
+  validations:
+  options:
+      - North America
+      - Sourth America
+      - China
+      - Greater China
+      - Oceania
+      - Europe
+      - Africa
+    required: true
 
 
 
