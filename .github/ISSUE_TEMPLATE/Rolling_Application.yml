@@ -46,7 +46,6 @@ body:
       - I have an existing f2 address already setup
       - I will need support to setup an f2 address 
       - Other
-        required: true
 - type: dropdown
   attributes:
     label: Country or Region 
