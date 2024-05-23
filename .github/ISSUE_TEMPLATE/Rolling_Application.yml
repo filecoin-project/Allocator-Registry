@@ -37,38 +37,16 @@ body:
       - Europe
       - Australia 
       - Other
-- type: dropdown
-    attributes:
-      label: Existing On-Chain Address
-      description:   
-      options:
-        - label: I confirm that we already have an existing f2 multisig addresss
-          required: true
-
+      
 - type: dropdown 
   attributes:
-    label: On-Chain Address
+    label: Existing OnChain Address
     description: In order to receive DataCap from RKH, address must be initialized on-chain. To use FIDL tooling, must be an f2 multisig address.
     options:
       - I have an existing f2 address already setup
       - I will need support to setup an f2 address 
       - Other
-     required: true
-- type: dropdown
-  attributes:
-    label: Which Pathway is this for? 
-    options:
-      - Open Data Pathway
-      - Enterprise Private Data Pathway
-      - Other
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: Data Owner Organization Name  
-    description: Enter the Organization name which will represent and control this Allocator.
-  validations:
-    required: true
+        required: true
 - type: dropdown
   attributes:
     label: Country or Region 
