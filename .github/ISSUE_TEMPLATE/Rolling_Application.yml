@@ -37,19 +37,23 @@ body:
       - Europe
       - Australia 
       - Other
-- type: checkboxes
+- type: dropdown
     attributes:
       label: Existing On-Chain Address
-      description: In order to receive DataCap from RKH, address must be initialized on-chain. To use FIDL tooling, must be an f2 multisig address.  
+      description:   
       options:
         - label: I confirm that we already have an existing f2 multisig addresss
           required: true
-- type: input
+
+- type: dropdown 
   attributes:
-    label: Existing On-Chain Address  
-    description: The name of the Organization applying to become an authorized Allocator
-  validations:
-    required: true
+    label: On-Chain Address
+    description: In order to receive DataCap from RKH, address must be initialized on-chain. To use FIDL tooling, must be an f2 multisig address.
+    options:
+      - I have an existing f2 address already setup
+      - I will need support to setup an f2 address 
+      - Other
+     required: true
 - type: dropdown
   attributes:
     label: Which Pathway is this for? 
