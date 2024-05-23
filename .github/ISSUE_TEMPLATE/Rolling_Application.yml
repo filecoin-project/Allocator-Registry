@@ -37,7 +37,6 @@ body:
       - Europe
       - Australia 
       - Other
-      
 - type: dropdown 
   attributes:
     label: Existing OnChain Address
@@ -48,7 +47,7 @@ body:
       - Other
 - type: dropdown
   attributes:
-    label: Country or Region 
+    label: Country your Organizaiton is based in
     options:
       - Afghanistan
       - Åland Islands
@@ -301,43 +300,6 @@ body:
       - Zimbabwe
   validations:
     required: true
-
-- type: input
-  attributes:
-    label: Total amount of DataCap being requested
-    description:   
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: Expected size of single dataset (one copy)
-    description:   
-  validations:
-    required: true
-    
-- type: dropdown
-  attributes:
-    label: Number of replicas to store
-    options:
-      - 1
-      - 2
-      - 3
-      - 4
-      - 5
-      - 6
-      - 7
-      - 8
-      - 9
-      - 10
-      - Other
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: Weekly allocation of DataCap requested  
-    description: 
-  validations:
-    required: true
 - type: input
   attributes:
     label: If you have previously applied or served as an Allocator/Notary, please provide the url to your past application(s)  
@@ -346,13 +308,14 @@ body:
     required: true
 - type: dropdown
   attributes:
-    label: Data Type of Application
+    label: Type of Allocator and RFA List
     options:
-      - Slingshot
-      - Public, Open Dataset (Research/Non-Profit)
-      - Public, Open Commercial / Enterprise
-      - Private Commercial / Enterprise
-      - Private Non-Profit / Social impact
+      - RFA, Automated Github
+      - RFA, Automated Social Media or WeChat
+      - RFA, Market Staking
+      - Manual, Existing Dimilar Diligence
+      - Automated, Novel Pathway
+      - Market Based, Novel Pathway
       - Other
   validations:
     required: true
