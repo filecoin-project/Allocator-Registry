@@ -321,7 +321,7 @@ body:
     required: true
 - type: dropdown
   attributes:
-    label: Custom multisig
+    label: Please confirm that you understand that in addition to submitting this Github issue, you will need to complete and submit the Airtable [Form](https://airtable.com/)
     options:
       - (Yes)
       - (No)
@@ -330,7 +330,7 @@ body:
 
 - type: dropdown
   attributes:
-    label: Can you confirm that you will follow the Fil+ guidelines
+    label: Please confirm that you have read and understand the Fil+ guidelines and your role as an Allocator
     description: https://docs.filecoin.io/basics/how-storage-works/filecoin-plus
     options:
       - (Yes)
