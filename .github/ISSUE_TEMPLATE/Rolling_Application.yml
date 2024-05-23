@@ -14,14 +14,33 @@ body:
       # Core Information
 - type: input
   attributes:
-    label: Email 
-    description: The email for your Organization that you wish to setup for an Allocator
+    label: Allocator Pathway Name 
+    description: Unique descriptive name of your allocator onboarding pathway	
   validations:
     required: true
 - type: input
   attributes:
-    label: Github Handle  
-    description: The Github handle(s) which will be authorized on the Allocator
+    label: Organization Name  
+    description: The name of the Organization applying to become an authorized Allocator
+  validations:
+    required: true
+- type: dropdown 
+  attributes:
+    label: Region of Operation
+    description: Which geographic regions will you be primarily working with partners in?
+    options:
+      - Greater China Region
+      - Asia minus Greater China Region
+      - Africa
+      - North America
+      - South America
+      - Europe
+      - Australia 
+      - Other
+- type: input
+  attributes:
+    label: Existing On-Chain Address  
+    description: The name of the Organization applying to become an authorized Allocator
   validations:
     required: true
 - type: dropdown
@@ -294,52 +313,7 @@ body:
       - Zimbabwe
   validations:
     required: true
-- type: dropdown
-  attributes:
-    label: Allocator Industry Specialization
-    options:
-      - Agriculture 
-      - Arts 
-      - Construction
-      - Education
-      - Enviroment
-      - Financial 
-      - Government
-      - HealthCare
-      - IT & Technology
-      - Media and Telecommunications
-      - Not-for-Profit
-      - Research 
-      - Professional Services (Legal, consulting, advertising) 
-      - Transportation
-      - Utilities
-      - Web3 or Crypto
-      - Other
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: Organization Website 
-    description: What is the website for your organization?  
-  validations:
-    required: false  
-- type: input
-  attributes:
-    label: Do you have a public facing Social account?   
-    description:
-  validations:
-    required: false
-- type: dropdown
-  attributes:
-    label: What is your role related to the dataset 
-    options:
-      - Data Owner
-      - Data Preparer
-      - Storage provider filling out application on behalf of the data owner
-      - Data onramp entity that provides data onboarding services to multiple clients
-      - Other
-  validations:
-    required: true
+
 - type: input
   attributes:
     label: Total amount of DataCap being requested
@@ -378,7 +352,7 @@ body:
     required: true
 - type: input
   attributes:
-    label: On-chain address for first allocation  
+    label: If you have previously applied or served as an Allocator/Notary, please provide the url to your past application(s)  
     description: 
   validations:
     required: true
@@ -402,219 +376,7 @@ body:
       - (No)
   validations:
     required: true
-- type: input
-  attributes:
-    label: Identifier
-    description:   
-  validations:
-    required: false
-- type: markdown
-  attributes:
-    value: |
-      # Project Details
-- type: input
-  attributes:
-    label: Share a brief history of your project and organization
-    description:   
-  validations:
-    required: true
-- type: dropdown
-  attributes:
-    label: Is this project associated with other projects/ecosystem stakeholders?
-    options:
-      - (Yes)
-      - (No)
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: If answered yes, what are the other projects/ecosystem stakeholders
-    description:   
-  validations:
-    required: false
-- type: markdown
-  attributes:
-    value: |
-      # Use-Case Details
-- type: input
-  attributes:
-    label: Describe the data being stored onto Filecoin
-    description:   
-  validations:
-    required: true
-- type: dropdown
-  attributes:
-    label: Where was the data currently stored in this dataset sourced from
-    options:
-      - AWS Cloud
-      - Azure Cloud
-      - Google Cloud
-      - My Own Storage Infra
-      - Other
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: If you answered "Other" in the previous question, enter the details here
-    description:   
-  validations:
-    required: false
-- type: dropdown
-  attributes:
-    label: If you are a data preparer. What is your location (Country/Region)
-    options:
-      - Afghanistan
-      - Aland Islands
-      - Albania
-      - Algeria
-      - American Samoa
-      - Andorra
-      - Angola
-      - Anguilla
-      - Antarctica
-      - Antigua and Barbuda
-      - Argentina
-      - Armenia
-      - Aruba
-      - Australia
-      - Austria
-  validations:
-    required: false
-- type: input
-  attributes:
-    label: If you are a data preparer, how will the data be prepared? Please include tooling used and technical details?
-    description:   
-  validations:
-    required: false
-- type: input
-  attributes:
-    label: If you are not preparing the data, who will prepare the data?  (Provide name and business)
-    description:   
-  validations:
-    required: false
-- type: input
-  attributes:
-    label: Has this dataset been stored on the Filecoin network before? If so, please explain and make the case why you would like to store this dataset again to the network. Provide details on preparation and/or SP distribution.
-    description:   
-  validations:
-    required: false
-- type: input
-  attributes:
-    label: Please share a sample of the data
-    description:   
-  validations:
-    required: true
-- type: dropdown
-  attributes:
-    label: Confirm that this is a public dataset that can be retrieved by anyone on the Network
-    options:
-      - (Confirm)
-      - (No)
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: If you chose not to confirm, what was the reason
-    description:   
-  validations:
-    required: false
-- type: dropdown
-  attributes:
-    label: What is the expected retrieval frequency for this data
-    options:
-      - Daily
-      - Weekly
-      - Monthly
-      - Yearly
-      - Sporadic
-      - Never
-      - Other
-  validations:
-    required: true
-- type: dropdown
-  attributes:
-    label: For how long do you plan to keep this dataset stored on Filecoin
-    options:
-      - Less than 1 year
-      - 1 to 1.5 years
-      - 2 to 3 years
-      - More than 3 Years
-      - Permanently
-  validations:
-    required: true
-- type: markdown
-  attributes:
-    value: |
-      # DataCap Allocation Plan
-- type: dropdown 
-  attributes:
-    label: In which geographies do you plan on making storage deals
-    options:
-      - Greater China
-      - Asia other than Greater China
-      - Africa
-      - North America
-      - South America
-      - Europe
-      - Australia (continent)
-      - Antarctica
-  validations:
-    required: true
-- type: dropdown
-  attributes:
-    label: How will you be distributing your data to storage providers
-    options:
-      - Cloud storage (i.e. S3)
-      - HTTP or FTP server
-      - IPFS
-      - Shipping hard drives
-      - Lotus built-in data transfer
-      - I dont know yet
-      - others
-  validations:
-    required: true
-- type: dropdown
-  attributes:
-    label: How did you find your storage providers
-    options:
-      - Big Data Exchange
-      - Filmine
-      - Partners
-      - Slack
-      - Others
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: If you answered "Others" in the previous question, what is the tool or platform you used
-    description:   
-  validations:
-    required: false
-- type: input
-  attributes:
-    label: Please list the provider IDs and location of the storage providers you will be working with.
-    description:   
-  validations:
-    required: true
-- type: dropdown
-  attributes:
-    label: How do you plan to make deals to your storage providers
-    options:
-      - Boost client
-      - Lotus client
-      - Droplet client
-      - Bidbot
-      - Singularity
-      - I dont know yet
-      - Other/custom tool
-  validations:
-    required: false
-- type: input
-  attributes:
-    label: If you answered "Others/custom tool" in the previous question, enter the details here
-    description:   
-  validations:
-    required: false
+
 - type: dropdown
   attributes:
     label: Can you confirm that you will follow the Fil+ guidelines
