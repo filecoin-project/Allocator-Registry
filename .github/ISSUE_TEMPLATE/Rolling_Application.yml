@@ -38,7 +38,6 @@ body:
       - Australia 
       - Other
 - type: checkboxes
-    id: terms
     attributes:
       label: Existing On-Chain Address
       description: In order to receive DataCap from RKH, address must be initialized on-chain. To use FIDL tooling, must be an f2 multisig address.  
