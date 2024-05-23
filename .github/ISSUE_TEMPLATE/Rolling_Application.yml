@@ -37,14 +37,6 @@ body:
       - Europe
       - Australia 
       - Other
-- type: dropdown 
-  attributes:
-    label: Existing OnChain Address
-    description: In order to receive DataCap from RKH, address must be initialized on-chain. To use FIDL tooling, must be an f2 multisig address.
-    options:
-      - I have an existing f2 address already setup
-      - I will need support to setup an f2 address 
-      - Other
 - type: dropdown
   attributes:
     label: Country your Organizaiton is based in
@@ -299,13 +291,13 @@ body:
       - Zambia
       - Zimbabwe
   validations:
-    required: true
+    required: false
 - type: input
   attributes:
     label: If you have previously applied or served as an Allocator/Notary, please provide the url to your past application(s)  
     description: 
   validations:
-    required: true
+    required: false
 - type: dropdown
   attributes:
     label: Type of Allocator and RFA List
@@ -319,9 +311,17 @@ body:
       - Other
   validations:
     required: true
+- type: dropdown 
+  attributes:
+    label: Existing OnChain Address
+    description: In order to receive DataCap from RKH, address must be initialized on-chain. To use FIDL tooling, must be an f2 multisig address.
+    options:
+      - I have an existing f2 address already setup
+      - I will need support to setup an f2 address 
+      - Other
 - type: dropdown
   attributes:
-    label: Please confirm that you understand that in addition to submitting this Github issue, you will need to complete and submit the Airtable [Form](https://airtable.com/)
+    label: Please confirm that you understand that in addition to submitting this Github issue, you will need to complete and submit the Airtable [Form](https://airtable.com)
     options:
       - (Yes)
       - (No)
