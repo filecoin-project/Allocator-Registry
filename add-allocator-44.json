@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] anna", "body": "{
+"Allocators": [
+ {
+   "application_number": 24,
+   "address": qwdfegr,
+   "name": anna,
+   "organization": wdfe,
+   "location": Africa,
+   "status": "Open",
+   "metapathway_type": Automated - Novel pathway,
+   "associated_org_addresses":  ,
+   "application": {
+      "allocations": {
+         "standardized": Standardized scaling tranche schedule
+      },
+      "target_clients": [
+        Nonprofit organizations,Commercial/Enterprise
+      ],
+      "required_sps": 4+,
+      "required_replicas": 1+,
+      "tooling": [Yes, some tools],
+      "data_types": [
+        Private encrypted with on-chain deal pricing
+      ],
+      "12m_requested": 5-50PiB,
+      "github_handles": [],
+      "allocation_bookkeeping"github.com: 
+   },
+   "poc": {
+      "slack": null,
+      "github_user": martapiekarska
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}"}
