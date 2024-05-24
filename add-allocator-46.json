@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] ", "body": "{
+"Allocators": [
+ {
+   "application_number": 28,
+   "address": ,
+   "name": ,
+   "organization": ,
+   "location": ,
+   "status": "Open",
+   "metapathway_type": ,
+   "associated_org_addresses":  ,
+   "application": {
+      "allocations": {
+         "standardized": 
+      },
+      "target_clients": [
+        
+      ],
+      "required_sps": ,
+      "required_replicas": ,
+      "tooling": [],
+      "data_types": [
+        
+      ],
+      "12m_requested": ,
+      "github_handles": [],
+      "allocation_bookkeeping": 
+   },
+   "poc": {
+      "slack": null,
+      "github_user": martapiekarska
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}"}
