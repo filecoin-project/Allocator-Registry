@@ -7,7 +7,7 @@ on:
 jobs:
   create_pull_request:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, '[Allocator Application]')
+    if: startsWith(github.event.issue.title, '[Allocator Application]') && github.event.issue.user.login == 'martapiekarska'
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -29,7 +29,6 @@ jobs:
       - name: Push changes
         uses: ad-m/github-push-action@master
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           branch: add-allocator-${{ github.event.issue.number }}
 
       - name: Create Pull Request
@@ -37,6 +36,5 @@ jobs:
         with:
           source_branch: "add-allocator-${{ github.event.issue.number }}"
           destination_branch: "main"
-          github_token: ${{ secrets.GITHUB_TOKEN }}
           pr_title: "PR for Add Allocator Issue #${{ github.event.issue.number }}"
           pr_body: "This PR contains the contents of issue #${{ github.event.issue.number }} as a JSON file."
