@@ -1,6 +1,6 @@
 {
   "application_number": 1048,
-  "address": "f410fvwp5dwsfcicqhmpspdoloo43xzvzpyelhqelg2y",
+  "address": "f2kwpzj7pzyjaxpcwlvzdip5lcqcn2ugvawhxdu4i",
   "name": "Ehume",
   "organization": "YugaTech",
   "location": "China",
@@ -36,11 +36,9 @@
     "github_user": "EHume"
   },
   "pathway_addresses": {
-    "msig": null,
+    "msig": "f2kwpzj7pzyjaxpcwlvzdip5lcqcn2ugvawhxdu4i",
     "signer": [
-      null,
-      null,
-      null
+      "f1gjfz3qnbqjcdal6geo5vemmdqvseaia216kwj7i"
     ]
   }
 }
