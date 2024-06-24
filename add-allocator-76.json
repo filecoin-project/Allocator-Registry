@@ -1,0 +1,43 @@
+{"title": "[Allocator Application] <Filecoin Incentive Design Labs>< Gitcoin verified Allocator>", "body": "{
+"Allocators": [
+ {
+   "application_number": "54",
+   "address": "f2g24hk5zgpguw2netrc22mv34gtrbdevph22zdpa",
+   "name": "Gitcoin verified Allocator",
+   "organization": "Filecoin Incentive Design Labs",
+   "location": "North America",
+   "status": open,
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
+   "application": {
+      "allocations": {
+         "standardized": "Single size allocation"
+      },
+      "target_clients": [
+       "Open/Public,Individuals,Nonprofit organizations,Web3 developers"
+      ],
+      "required_sps": "1+",
+      "required_replicas": "1+",
+      "tooling": ["Yes, some tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable,Proof of concept, network utilities"
+      ],
+      "12m_requested": "<5PiB",
+      "github_handles": ["willscott,,mpg"],
+      "allocation_bookkeeping": "github.com/fidlabs"
+   },
+   "poc": {
+      "slack": "@KZ",
+      "github_user": "kevzak"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}"}
