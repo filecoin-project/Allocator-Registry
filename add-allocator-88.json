@@ -1,0 +1,43 @@
+{"title": "[Allocator Application] <Rivtower>< Allocator-Rivtower> PR #66 from Allocator Applucation #66", "body": "{
+"Allocators": [
+ {
+   "application_number": "66",
+   "address": "I have a multisig I want to provide now",
+   "name": "Allocator-Rivtower",
+   "organization": "Rivtower",
+   "location": "Asia minus GCR,Greater China Region,North America",
+   "status": open,
+   "metapathway_type": "Novel allocator not on RFA",
+   "associated_org_addresses": "f1stjz2inu3og7qm3jgwnshcx37tgjpydyluxgnea",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Commercial/Enterprise,Open/Public,Other,Individuals"
+      ],
+      "required_sps": "4+",
+      "required_replicas": "4+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": [""],
+      "allocation_bookkeeping": "https://github.com/Rivtower-work/Allocator-Rivtower"
+   },
+   "poc": {
+      "slack": "Rivtower",
+      "github_user": "Rivtower-work"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}"}
