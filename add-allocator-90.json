@@ -1,0 +1,43 @@
+{"title": "[Allocator Application] <StudyBlock>< StudyBlock Allocator> PR #70 from Allocator Applucation #70", "body": "{
+"Allocators": [
+ {
+   "application_number": "70",
+   "address": "I will provide an address on a later date",
+   "name": "StudyBlock Allocator",
+   "organization": "StudyBlock",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+   "status": open,
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1i7m7xzuajypjo7424lh2adah2hsjiuuldlnkoiq",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Commercial/Enterprise,Nonprofit organizations,Individuals,Open/Public"
+      ],
+      "required_sps": "4+",
+      "required_replicas": "4+",
+      "tooling": ["Yes, some tools"],
+      "data_types": [
+        "Public, open, and retrievable"
+      ],
+      "12m_requested": "50-75PiB",
+      "github_handles": [""],
+      "allocation_bookkeeping": "https://github.com/filecoin-project/Allocator-Governance/pull/70"
+   },
+   "poc": {
+      "slack": "Edison",
+      "github_user": "Neilneil333"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}"}
