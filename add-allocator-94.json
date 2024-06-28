@@ -1,0 +1,43 @@
+{"title": "[Allocator Application] <Shenyang Dongya Medical Research Institute Co.>< SDMR> PR #75 from Allocator Applucation #75", "body": "{
+"Allocators": [
+ {
+   "application_number": "75",
+   "address": "I have a multisig I want to provide now",
+   "name": "SDMR",
+   "organization": "Shenyang Dongya Medical Research Institute Co.",
+   "location": "Asia minus GCR,Europe,Greater China Region,North America,South America,Oceania",
+   "status": open,
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+      ],
+      "required_sps": "3+",
+      "required_replicas": "3+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable,Proof of concept, network utilities"
+      ],
+      "12m_requested": "100-200PiB",
+      "github_handles": [""],
+      "allocation_bookkeeping": "https://github.com/Hunter3576/SDMR"
+   },
+   "poc": {
+      "slack": "U05LPA27T8V",
+      "github_user": "Hunter3576"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}"}
