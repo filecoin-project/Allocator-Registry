@@ -17,7 +17,7 @@ jobs:
 
       - name: Create JSON file from issue
         run: |
-          echo '{"title": "${{ github.event.issue.title }}", "body": ${{ github.event.issue.body }}}' > add-allocator-${{ github.event.issue.number }}.json
+          echo '{"title": "${{ github.event.issue.title }}", "body": "${{ github.event.issue.body }}"}' > add-allocator-${{ github.event.issue.number }}.json
 
       - name: Commit JSON file
         run: |
@@ -36,5 +36,5 @@ jobs:
         with:
           source_branch: "add-allocator-${{ github.event.issue.number }}"
           destination_branch: "main"
-          pr_title: "PR for ${{ github.event.issue.title }} "
+          pr_title: "PR for Add Allocator Issue #${{ github.event.issue.number }}"
           pr_body: "This PR contains the contents of issue #${{ github.event.issue.number }} as a JSON file."
