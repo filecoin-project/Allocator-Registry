@@ -36,5 +36,5 @@ jobs:
         with:
           source_branch: "add-allocator-${{ github.event.issue.number }}"
           destination_branch: "main"
-          pr_title: "PR for #${{ github.event.issue.title }}"
+          pr_title: "PR for ${{ github.event.issue.title }} "
           pr_body: "This PR contains the contents of issue #${{ github.event.issue.number }} as a JSON file."
