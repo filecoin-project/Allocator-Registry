@@ -1,0 +1,44 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #73", "body": "{
+"Allocators": [
+ {
+   "application_number": "73",
+   "address": "I have a multisig I want to provide now",
+   "name": "LaughStorage Allocator",
+   "organization": "LaughStorage",
+   "location": "Greater China Region",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f1rezheyjsdejlxgssaqkvtg5buhsiubevgsbyjsa
+",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+      ],
+      "required_sps": "3+",
+      "required_replicas": "3+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable"
+      ],
+      "12m_requested": "100-200PiB",
+      "github_handles": ["kevzak, willscott, martapiekarska"],
+      "allocation_bookkeeping": "https://github.com/26dos/AllocatorBookkeeping"
+   },
+   "poc": {
+      "slack": "Laugh Storage",
+      "github_user": "26dos"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}"}
