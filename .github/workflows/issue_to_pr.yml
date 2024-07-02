@@ -17,7 +17,7 @@ jobs:
 
       - name: Create JSON file from issue
         run: |
-          echo '{"title": "${{ github.event.issue.title }}", "body": "${{ github.event.issue.body }}"}' > add-allocator-${{ github.event.issue.number }}.json
+          echo '{"title": "${{ github.event.issue.title }}", "body": ${{ github.event.issue.body }}}' > add-allocator-${{ github.event.issue.number }}.json
 
       - name: Commit JSON file
         run: |
