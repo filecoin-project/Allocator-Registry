@@ -1,40 +1,42 @@
 {
-    "application_number": 1017,
-    "address": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
-    "name": "Waterdrop Lab",
-    "organization": "SSDMINER CLOUD INTELLIGENT",
-    "location": "Hong Kong",
-    "status": "Active",
-    "metapathway_type": "Automatic",
-    "associated_org_addresses": "f1i2znbisevlalmctotghgnroprplkioss73ka24i",
-    "application": {
-        "allocations": {
-            "standardized": "No; client specific"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": [],
-        "data_types": [
-            "Public Open Commercial/Enterprise",
-            "Public Open Dataset (Research/Non-Profit)"
-        ],
-        "12m_requested": 120,
-        "github_handles": [
-            "amiclan666"
-        ],
-        "allocation_bookkeeping": "https://github.com/amiclan666/WaterdropLab"
+  "application_number": 1017,
+  "address": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
+  "name": "Waterdrop Lab",
+  "organization": "SSDMINER CLOUD INTELLIGENT",
+  "location": "Hong Kong",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f1i2znbisevlalmctotghgnroprplkioss73ka24i",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-        "slack": "SSD-sdw",
-        "github_user": "https://github.com/amiclan666"
-    },
-    "pathway_addresses": {
-        "msig": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
-        "signer": [
-            "f1i2znbisevlalmctotghgnroprplkioss73ka24i"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Commercial/Enterprise",
+      "Public Open Dataset (Research/Non-Profit)"
+    ],
+    "12m_requested": 120,
+    "github_handles": [
+      "amiclan666"
+    ],
+    "allocation_bookkeeping": "https://github.com/amiclan666/WaterdropLab"
+  },
+  "poc": {
+    "slack": "SSD-sdw",
+    "github_user": "https://github.com/amiclan666"
+  },
+  "pathway_addresses": {
+    "msig": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1gyub4w33xd273hw4n2lii5txpaj64hktqjbb7sa",
+      "f1n6m3b3bgqpzd67xmvatjqpaxhepgtoscepigs4y"
+    ]
+  }
 }

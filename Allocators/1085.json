@@ -1,41 +1,46 @@
 {
-    "application_number": 1085,
-    "address": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
-    "name": "(StorSwift) Manual",
-    "organization": "StorSwift",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise"
-        ],
-        "12m_requested": 100,
-        "github_handles": [
-            "spaceT9", "caoyoungyoung", "acfreemanwl"
-        ],
-        "allocation_bookkeeping": "https://github.com/StorSwift-team/fil-allocator-bookkeeping"
+  "application_number": 1085,
+  "address": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
+  "name": "(StorSwift) Manual",
+  "organization": "StorSwift",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "@Li Bihai @Young@acfreeman@coder-lb",
-        "github_user": "@euler271828x@gmail.com @spaceT9 @caoyoungyoung @ acfreemanwl"
-    },
-    "pathway_addresses": {
-        "msig": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
-        "signer": [
-            "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "spaceT9",
+      "caoyoungyoung",
+      "acfreemanwl"
+    ],
+    "allocation_bookkeeping": "https://github.com/StorSwift-team/fil-allocator-bookkeeping"
+  },
+  "poc": {
+    "slack": "@Li Bihai @Young@acfreeman@coder-lb",
+    "github_user": "@euler271828x@gmail.com @spaceT9 @caoyoungyoung @ acfreemanwl"
+  },
+  "pathway_addresses": {
+    "msig": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va"
+    ]
+  }
 }

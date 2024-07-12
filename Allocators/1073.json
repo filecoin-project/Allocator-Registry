@@ -1,42 +1,42 @@
 {
-    "application_number": 1073,
-    "address": "f2hplpfwybkysrztfwsf4og52wj4nwvydglxy7idy",
-    "name": "FBG Allocator",
-    "organization": "FBG Capital",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Market-based",
-    "associated_org_addresses": "f1zffqhxwq2rrg7rtot6lmkl6hb2xyrrseawprzsq",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Individuals learning about Filecoin",
-        "Enterprise Data Clients"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "5+",
-      "tooling": [],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact"
-      ],
-      "12m_requested": 150,
-      "github_handles": [],
-      "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/FBG-Allocator"
+  "application_number": 1073,
+  "address": "f2hplpfwybkysrztfwsf4og52wj4nwvydglxy7idy",
+  "name": "FBG Allocator",
+  "organization": "FBG Capital",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Market-based",
+  "associated_org_addresses": "f1zffqhxwq2rrg7rtot6lmkl6hb2xyrrseawprzsq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "gary.gao@fbg.capital",
-      "github_user": "gary.gao@fbg.capital"
-    },
-    "pathway_addresses": {
-      "msig": "f2hplpfwybkysrztfwsf4og52wj4nwvydglxy7idy",
-      "signer": [
-        "f1zffqhxwq2rrg7rtot6lmkl6hb2xyrrseawprzsq"
-      ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 150,
+    "github_handles": [],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/FBG-Allocator"
+  },
+  "poc": {
+    "slack": "gary.gao@fbg.capital",
+    "github_user": "gary.gao@fbg.capital"
+  },
+  "pathway_addresses": {
+    "msig": "f2hplpfwybkysrztfwsf4og52wj4nwvydglxy7idy",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1zffqhxwq2rrg7rtot6lmkl6hb2xyrrseawprzsq"
+    ]
   }
-  
+}

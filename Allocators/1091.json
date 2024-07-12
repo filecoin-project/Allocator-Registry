@@ -1,46 +1,49 @@
 {
-    "application_number": 1091,
-    "address": "f2nnwazenqu7spvte45f6m4lajso4xoxmxwjwckti",
-    "name": "Power Meta Corp",
-    "organization": "Power Meta Corp",
-    "location": "North America",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Other (specified above)"
-        ],
-        "required_sps": "2+",
-        "required_replicas": "3+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact",
-            "Other (specified elsewhere)"
-        ],
-        "12m_requested": 30,
-        "github_handles": [
-            "PowerMetaCorp"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Power-Meta-Corp"
+  "application_number": 1091,
+  "address": "f2nnwazenqu7spvte45f6m4lajso4xoxmxwjwckti",
+  "name": "Power Meta Corp",
+  "organization": "Power Meta Corp",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Andromeda’s Handle: @andromedaH; Andromeda’s Slack ID: U0489BU3LM9; Dailon’s Handle: @dailon; Dailon’s Slack ID:  U04THCA3NKY",
-        "github_user": "Both Dailon and Andromeda will be using the company Github @PowerMetaCorp"
-    },
-    "pathway_addresses": {
-        "msig": "f2nnwazenqu7spvte45f6m4lajso4xoxmxwjwckti",
-        "signer": [
-            "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "3+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 30,
+    "github_handles": [
+      "PowerMetaCorp"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Power-Meta-Corp"
+  },
+  "poc": {
+    "slack": "Andromeda’s Handle: @andromedaH; Andromeda’s Slack ID: U0489BU3LM9; Dailon’s Handle: @dailon; Dailon’s Slack ID:  U04THCA3NKY",
+    "github_user": "Both Dailon and Andromeda will be using the company Github @PowerMetaCorp"
+  },
+  "pathway_addresses": {
+    "msig": "f2nnwazenqu7spvte45f6m4lajso4xoxmxwjwckti",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea"
+    ]
+  }
 }

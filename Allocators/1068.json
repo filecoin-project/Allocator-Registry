@@ -1,43 +1,46 @@
 {
-    "application_number": 1068,
-    "address": "f2ugbpgnae63gcz77xx6z35v465yrhwdxkpupkjfq",
-    "name": "Nebula Block",
-    "organization": "Nebula Block",
-    "location": "North America",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Private Commercial/Enterprise",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 150,
-        "github_handles": [
-            "bq1024"
-        ],
-        "allocation_bookkeeping": "https://github.com/Nebula-Block-Data/Nebula-Block-Data-Pathway"
+  "application_number": 1068,
+  "address": "f2ugbpgnae63gcz77xx6z35v465yrhwdxkpupkjfq",
+  "name": "Nebula Block",
+  "organization": "Nebula Block",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Boqian - NebulaBlock",
-        "github_user": "https://github.com/bq1024"
-    },
-    "pathway_addresses": {
-        "msig": "f2ugbpgnae63gcz77xx6z35v465yrhwdxkpupkjfq",
-        "signer": [
-            "f1vsrfjdgi3acyi7ijhpu25bhmlat23eenoy52aqa"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Private Commercial/Enterprise",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 150,
+    "github_handles": [
+      "bq1024"
+    ],
+    "allocation_bookkeeping": "https://github.com/Nebula-Block-Data/Nebula-Block-Data-Pathway"
+  },
+  "poc": {
+    "slack": "Boqian - NebulaBlock",
+    "github_user": "https://github.com/bq1024"
+  },
+  "pathway_addresses": {
+    "msig": "f2ugbpgnae63gcz77xx6z35v465yrhwdxkpupkjfq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1vsrfjdgi3acyi7ijhpu25bhmlat23eenoy52aqa"
+    ]
+  }
 }

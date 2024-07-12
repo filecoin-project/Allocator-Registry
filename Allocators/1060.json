@@ -1,45 +1,48 @@
 {
-    "application_number": 1060,
-    "address": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
-    "name": "Max",
-    "organization": "CoinSummer Labs",
-    "location": "Hong Kong",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1gn6jq55uyx5eir2a7isc6t63fq7lmhrcpgdo2wy",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Individuals learning about Filecoin",
-            "Enterprise Data Clients",
-            "Other (specified above)"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Private Non-Profit/Social Impact",
-            "Private Commercial/Enterprise",
-            "Public Open Commercial/Enterprise",
-            "Public Open Dataset (Research/Non-Profit)"
-        ],
-        "12m_requested": 300,
-        "github_handles": [
-            "maxvint"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Max-CoinSummer-Labs"
+  "application_number": 1060,
+  "address": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
+  "name": "Max",
+  "organization": "CoinSummer Labs",
+  "location": "Hong Kong",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1gn6jq55uyx5eir2a7isc6t63fq7lmhrcpgdo2wy",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Max",
-        "github_user": "maxvint"
-    },
-    "pathway_addresses": {
-        "msig": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
-        "signer": [
-            "f1gn6jq55uyx5eir2a7isc6t63fq7lmhrcpgdo2wy"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Individuals learning about Filecoin",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Private Non-Profit/Social Impact",
+      "Private Commercial/Enterprise",
+      "Public Open Commercial/Enterprise",
+      "Public Open Dataset (Research/Non-Profit)"
+    ],
+    "12m_requested": 300,
+    "github_handles": [
+      "maxvint"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Max-CoinSummer-Labs"
+  },
+  "poc": {
+    "slack": "Max",
+    "github_user": "maxvint"
+  },
+  "pathway_addresses": {
+    "msig": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1gn6jq55uyx5eir2a7isc6t63fq7lmhrcpgdo2wy"
+    ]
+  }
 }

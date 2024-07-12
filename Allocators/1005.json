@@ -1,38 +1,38 @@
 {
-    "application_number": 1005,
-    "address": "f2pk34lqjjck5jgsbtd2dnvu5z6pm7tiuujvv6cuy",
-    "name": "Starlight (Enterprise Data Management System)",
-    "organization": "Nebula Data Pte. Ltd.",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Automatic",
-    "associated_org_addresses": "f156aar7hywagok2o23bzepkinnl5q2z4vhqdpgmi",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "3+",
-        "required_replicas": "5+",
-        "tooling": [],
-        "data_types": [
-            "Private Commercial/Enterprise"
-        ],
-        "12m_requested": 5,
-        "github_handles": [
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Starlight-Enterprise-Data-Management-System"
+  "application_number": 1005,
+  "address": "f2pk34lqjjck5jgsbtd2dnvu5z6pm7tiuujvv6cuy",
+  "name": "Starlight (Enterprise Data Management System)",
+  "organization": "Nebula Data Pte. Ltd.",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f156aar7hywagok2o23bzepkinnl5q2z4vhqdpgmi",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "CEO Daniel (Daniel-Nebula Data): U06AJSCDC3V   CTO Daren (Daren Leong): U05RVQM5TM3   COO Lik Khai (Yeo Lik khai): U05SMMS5AM6",
-        "github_user": "COO Yeo Lik Khai (likkhai-nebula): likkhai@nebula-data.io   CEO Daniel: daniel@nebula-data.io   CTO Daren: daren@nebula-data.io"
-    },
-    "pathway_addresses": {
-        "msig": "f2pk34lqjjck5jgsbtd2dnvu5z6pm7tiuujvv6cuy",
-        "signer": [
-            "f156aar7hywagok2o23bzepkinnl5q2z4vhqdpgmi"
-        ]
-    }
+    "target_clients": [
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Private Commercial/Enterprise"
+    ],
+    "12m_requested": 5,
+    "github_handles": [],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Starlight-Enterprise-Data-Management-System"
+  },
+  "poc": {
+    "slack": "CEO Daniel (Daniel-Nebula Data): U06AJSCDC3V   CTO Daren (Daren Leong): U05RVQM5TM3   COO Lik Khai (Yeo Lik khai): U05SMMS5AM6",
+    "github_user": "COO Yeo Lik Khai (likkhai-nebula): likkhai@nebula-data.io   CEO Daniel: daniel@nebula-data.io   CTO Daren: daren@nebula-data.io"
+  },
+  "pathway_addresses": {
+    "msig": "f2pk34lqjjck5jgsbtd2dnvu5z6pm7tiuujvv6cuy",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f156aar7hywagok2o23bzepkinnl5q2z4vhqdpgmi"
+    ]
+  }
 }

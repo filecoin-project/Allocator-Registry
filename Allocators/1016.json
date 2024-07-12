@@ -1,45 +1,48 @@
 {
-    "application_number": 1016,
-    "address": "f2p4lym5klogvenjp45zbux77kmbuniizzs22j7za",
-    "name": "Pluskit",
-    "organization": "Wellhealth International Limited.",
-    "location": "Hong Kong",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1tgnlhtcmhwipfm7thsftxhn5k52velyjlazpvka",
-    "application": {
-        "allocations": {
-            "standardized": "No; client specific"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Other (specified above)"
-        ],
-        "required_sps": "4+",
-        "required_replicas": "3+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Private Commercial/Enterprise",
-            "Public Open Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 200,
-        "github_handles": [
-            "PluskitOfficial"
-        ],
-        "allocation_bookkeeping": "https://github.com/PluskitOfficial/bookkeeping"
+  "application_number": 1016,
+  "address": "f2p4lym5klogvenjp45zbux77kmbuniizzs22j7za",
+  "name": "Pluskit",
+  "organization": "Wellhealth International Limited.",
+  "location": "Hong Kong",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1tgnlhtcmhwipfm7thsftxhn5k52velyjlazpvka",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-        "slack": "@PluskitOfficial",
-        "github_user": "@PluskitOfficial"
-    },
-    "pathway_addresses": {
-        "msig": "f2p4lym5klogvenjp45zbux77kmbuniizzs22j7za",
-        "signer": [
-            "f1tgnlhtcmhwipfm7thsftxhn5k52velyjlazpvka"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "3+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Private Commercial/Enterprise",
+      "Public Open Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "PluskitOfficial"
+    ],
+    "allocation_bookkeeping": "https://github.com/PluskitOfficial/bookkeeping"
+  },
+  "poc": {
+    "slack": "@PluskitOfficial",
+    "github_user": "@PluskitOfficial"
+  },
+  "pathway_addresses": {
+    "msig": "f2p4lym5klogvenjp45zbux77kmbuniizzs22j7za",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1tgnlhtcmhwipfm7thsftxhn5k52velyjlazpvka"
+    ]
+  }
 }

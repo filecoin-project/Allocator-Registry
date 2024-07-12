@@ -1,43 +1,47 @@
 {
-    "application_number": 1074,
-    "address": "f22rkakf23oyzevmr75f663tcl76pezewbsk2oqvq",
-    "name": "Patapon",
-    "organization": "ZhongYiGuoLian",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1n7slqdxhxi3n3ljmfjzsbdhaemz53bcaslu5sii",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Individuals learning about Filecoin",
-        "Small-scale developers or data owners",
-        "Enterprise Data Clients"
-      ],
-      "required_sps": "4+",
-      "required_replicas": "5+",
-      "tooling": ["common_ui"],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact"
-      ],
-      "12m_requested": 250,
-      "github_handles": ["patapon0702"],
-      "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Patapon"
+  "application_number": 1074,
+  "address": "f22rkakf23oyzevmr75f663tcl76pezewbsk2oqvq",
+  "name": "Patapon",
+  "organization": "ZhongYiGuoLian",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1n7slqdxhxi3n3ljmfjzsbdhaemz53bcaslu5sii",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "Patapon",
-      "github_user": "patapon0702"
-    },
-    "pathway_addresses": {
-      "msig": "f22rkakf23oyzevmr75f663tcl76pezewbsk2oqvq",
-      "signer": [
-        "f1n7slqdxhxi3n3ljmfjzsbdhaemz53bcaslu5sii"
-      ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 250,
+    "github_handles": [
+      "patapon0702"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Patapon"
+  },
+  "poc": {
+    "slack": "Patapon",
+    "github_user": "patapon0702"
+  },
+  "pathway_addresses": {
+    "msig": "f22rkakf23oyzevmr75f663tcl76pezewbsk2oqvq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1n7slqdxhxi3n3ljmfjzsbdhaemz53bcaslu5sii"
+    ]
   }
-  
+}

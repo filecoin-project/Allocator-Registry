@@ -1,42 +1,46 @@
 {
-    "application_number": 1030,
-    "address": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
-    "name": "Data Preparer Pathway",
-    "organization": "FileDrive Labs",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q",
-    "application": {
-      "allocations": {
-        "standardized": "No; client specific"
-      },
-      "target_clients": [
-        "Other (specified above)",
-        "Small-scale developers or data owners"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "3+",
-      "tooling": ["common_ui"],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact"
-      ],
-      "12m_requested": 200,
-      "github_handles": ["laurarenpanda"],
-      "allocation_bookkeeping": "https://github.com/filedrive-team/Filecoin-Plus-Pathway"
+  "application_number": 1030,
+  "address": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
+  "name": "Data Preparer Pathway",
+  "organization": "FileDrive Labs",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-      "slack": "Laura Panda",
-      "github_user": "laurarenpanda"
-    },
-    "pathway_addresses": {
-      "msig": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
-      "signer": [
-        "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q"
-      ]
-    }
+    "target_clients": [
+      "Other (specified above)",
+      "Small-scale developers or data owners"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "3+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "laurarenpanda"
+    ],
+    "allocation_bookkeeping": "https://github.com/filedrive-team/Filecoin-Plus-Pathway"
+  },
+  "poc": {
+    "slack": "Laura Panda",
+    "github_user": "laurarenpanda"
+  },
+  "pathway_addresses": {
+    "msig": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q"
+    ]
   }
-  
+}

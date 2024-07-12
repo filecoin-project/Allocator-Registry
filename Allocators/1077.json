@@ -1,45 +1,49 @@
 {
-    "application_number": 1077,
-    "address": "f262hsabfg4hjrk7u77istvf3fffgg4tworhth5fa",
-    "name": "XnMatrix",
-    "organization": "XnMatrix",
-    "location": "North America",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1bcvvwv3w6az7ivhdzory7anha54ocrlkxazm3yq",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Individuals learning about Filecoin",
-        "Small-scale developers or data owners",
-        "Enterprise Data Clients",
-        "Other (specified above)"
-      ],
-      "required_sps": "2+",
-      "required_replicas": "3+",
-      "tooling": ["common_ui"],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact",
-        "Other (specified elsewhere)"
-      ],
-      "12m_requested": 20,
-      "github_handles": ["XnMatrixSV"],
-      "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/XnMatrix"
+  "application_number": 1077,
+  "address": "f262hsabfg4hjrk7u77istvf3fffgg4tworhth5fa",
+  "name": "XnMatrix",
+  "organization": "XnMatrix",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1bcvvwv3w6az7ivhdzory7anha54ocrlkxazm3yq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "Slack Handle: @XnMatrix  ID: U01RS364Q9H",
-      "github_user": "Github Handle: @XnMatrixSV"
-    },
-    "pathway_addresses": {
-      "msig": "f262hsabfg4hjrk7u77istvf3fffgg4tworhth5fa",
-      "signer": [
-        "f1bcvvwv3w6az7ivhdzory7anha54ocrlkxazm3yq"
-      ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "3+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 20,
+    "github_handles": [
+      "XnMatrixSV"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/XnMatrix"
+  },
+  "poc": {
+    "slack": "Slack Handle: @XnMatrix  ID: U01RS364Q9H",
+    "github_user": "Github Handle: @XnMatrixSV"
+  },
+  "pathway_addresses": {
+    "msig": "f262hsabfg4hjrk7u77istvf3fffgg4tworhth5fa",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1bcvvwv3w6az7ivhdzory7anha54ocrlkxazm3yq"
+    ]
   }
-  
+}

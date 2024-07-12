@@ -1,43 +1,47 @@
 {
-    "application_number": 1084,
-    "address": "f2acflimlivomkevkhc63mhvppk465b26tszfb7ii",
-    "name": "Nandit Mehra",
-    "organization": "Lighthouse.Storage",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1x66qujypjp5miucjypizfdwruef6sbv33nxxpza",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "2+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 5,
-        "github_handles": [
-            "nandit123", "ravish1729"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Nandit-Mehra-Lighthouse.Storage"
+  "application_number": 1084,
+  "address": "f2acflimlivomkevkhc63mhvppk465b26tszfb7ii",
+  "name": "Nandit Mehra",
+  "organization": "Lighthouse.Storage",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1x66qujypjp5miucjypizfdwruef6sbv33nxxpza",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "@nanditmehra",
-        "github_user": "https://github.com/nandit123/  https://github.com/ravish1729/"
-    },
-    "pathway_addresses": {
-        "msig": "f2acflimlivomkevkhc63mhvppk465b26tszfb7ii",
-        "signer": [
-            "f1x66qujypjp5miucjypizfdwruef6sbv33nxxpza"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "2+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 5,
+    "github_handles": [
+      "nandit123",
+      "ravish1729"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Nandit-Mehra-Lighthouse.Storage"
+  },
+  "poc": {
+    "slack": "@nanditmehra",
+    "github_user": "https://github.com/nandit123/  https://github.com/ravish1729/"
+  },
+  "pathway_addresses": {
+    "msig": "f2acflimlivomkevkhc63mhvppk465b26tszfb7ii",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1x66qujypjp5miucjypizfdwruef6sbv33nxxpza"
+    ]
+  }
 }

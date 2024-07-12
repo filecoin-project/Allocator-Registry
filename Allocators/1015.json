@@ -1,46 +1,49 @@
 {
-    "application_number": 1015,
-    "address": "f2p2yz6iv33uiz6snsbgheuvwa4cjclcpi46fpbkq",
-    "name": "Bitengine Reeta FIL+",
-    "organization": "Bit Engine Pte Ltd.",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f15x23zuhctuqz77tvkzthow3xkpvn3q4kjgxpgya",
-    "application": {
-        "allocations": {
-            "standardized": "No; client specific"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Other (specified above)"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact",
-            "Other (specified elsewhere)"
-        ],
-        "12m_requested": 100,
-        "github_handles": [
-            "Bitengine-reeta"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Bitengine-Reeta-Filplus"
+  "application_number": 1015,
+  "address": "f2p2yz6iv33uiz6snsbgheuvwa4cjclcpi46fpbkq",
+  "name": "Bitengine Reeta FIL+",
+  "organization": "Bit Engine Pte Ltd.",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f15x23zuhctuqz77tvkzthow3xkpvn3q4kjgxpgya",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-        "slack": "@bitengine-reeta",
-        "github_user": "https://github.com/Bitengine-reeta"
-    },
-    "pathway_addresses": {
-        "msig": "f2p2yz6iv33uiz6snsbgheuvwa4cjclcpi46fpbkq",
-        "signer": [
-            "f15x23zuhctuqz77tvkzthow3xkpvn3q4kjgxpgya"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "Bitengine-reeta"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Bitengine-Reeta-Filplus"
+  },
+  "poc": {
+    "slack": "@bitengine-reeta",
+    "github_user": "https://github.com/Bitengine-reeta"
+  },
+  "pathway_addresses": {
+    "msig": "f2p2yz6iv33uiz6snsbgheuvwa4cjclcpi46fpbkq",
+    "signer": [
+      "f15x23zuhctuqz77tvkzthow3xkpvn3q4kjgxpgya",
+      "f1km6utrorrtqh572e3ybfu7jq2gfktkgfghscr6i"
+    ]
+  }
 }

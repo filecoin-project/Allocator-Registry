@@ -1,43 +1,47 @@
 {
-    "application_number": 1076,
-    "address": "f2trnpa3qxldhtpxaf4u5pu75kzvus3pqbnl6ttiq",
-    "name": "Bitmain USA",
-    "organization": "Bitmain USA",
-    "location": "North America",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1n7bbtyuxpudbjiomiob4c7rhwofxlhv5dbi33uy",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Individuals learning about Filecoin",
-        "Small-scale developers or data owners",
-        "Enterprise Data Clients"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "5+",
-      "tooling": ["common_ui"],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact"
-      ],
-      "12m_requested": 150,
-      "github_handles": ["taft-bitmain"],
-      "allocation_bookkeeping": "https://github.com/filecoin-bitmain/file"
+  "application_number": 1076,
+  "address": "f2trnpa3qxldhtpxaf4u5pu75kzvus3pqbnl6ttiq",
+  "name": "Bitmain USA",
+  "organization": "Bitmain USA",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1n7bbtyuxpudbjiomiob4c7rhwofxlhv5dbi33uy",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "Slack ID: U06EELD500K          Slack Name: taft(Bitmain)",
-      "github_user": "GitHub : taft-bitmain"
-    },
-    "pathway_addresses": {
-      "msig": "f2trnpa3qxldhtpxaf4u5pu75kzvus3pqbnl6ttiq",
-      "signer": [
-        "f1foffaxmwijkw7hlhoqd5weighivmhkcr5xfeqsy"
-      ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 150,
+    "github_handles": [
+      "taft-bitmain"
+    ],
+    "allocation_bookkeeping": "https://github.com/filecoin-bitmain/file"
+  },
+  "poc": {
+    "slack": "Slack ID: U06EELD500K          Slack Name: taft(Bitmain)",
+    "github_user": "GitHub : taft-bitmain"
+  },
+  "pathway_addresses": {
+    "msig": "f2trnpa3qxldhtpxaf4u5pu75kzvus3pqbnl6ttiq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1foffaxmwijkw7hlhoqd5weighivmhkcr5xfeqsy"
+    ]
   }
-  
+}

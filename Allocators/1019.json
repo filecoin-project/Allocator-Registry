@@ -1,45 +1,46 @@
 {
-    "application_number": 1019,
-    "address": "f2m4ljkbqkw4rljq7mhu2xmdchnvbcuwqox4hebnq",
-    "name": "Genesis",
-    "organization": "Genesis",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1ldkhvk55psquvhc727udmdl2tgm55exndh2meqa",
-    "application": {
-        "allocations": {
-            "standardized": "No; client specific"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": [],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 70,
-        "github_handles": [
-            "Chuangshi1"
-        ],
-        "allocation_bookkeeping": "https://github.com/Chuangshi1/Genesis"
+  "application_number": 1019,
+  "address": "f2m4ljkbqkw4rljq7mhu2xmdchnvbcuwqox4hebnq",
+  "name": "Genesis",
+  "organization": "Genesis",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1ldkhvk55psquvhc727udmdl2tgm55exndh2meqa",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-        "slack": "Genesis",
-        "github_user": "Chuangshi1"
-    },
-    "pathway_addresses": {
-        "msig": "f2m4ljkbqkw4rljq7mhu2xmdchnvbcuwqox4hebnq",
-        "signer": [
-            "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
-            "f1ldkhvk55psquvhc727udmdl2tgm55exndh2meqa"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 70,
+    "github_handles": [
+      "Chuangshi1"
+    ],
+    "allocation_bookkeeping": "https://github.com/Chuangshi1/Genesis"
+  },
+  "poc": {
+    "slack": "Genesis",
+    "github_user": "Chuangshi1"
+  },
+  "pathway_addresses": {
+    "msig": "f2m4ljkbqkw4rljq7mhu2xmdchnvbcuwqox4hebnq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1ldkhvk55psquvhc727udmdl2tgm55exndh2meqa",
+      "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri"
+    ]
+  }
 }

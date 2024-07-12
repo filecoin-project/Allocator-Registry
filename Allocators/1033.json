@@ -1,38 +1,42 @@
 {
-    "application_number": 1033,
-    "address": "f2c3kxkjidd4zndo3scdio4mlimy553m7i6q3kmea",
-    "name": "FilscanOfficial",
-    "organization": "Filscan.io",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "",
-    "application": {
-      "allocations": {
-        "standardized": "No; client specific"
-      },
-      "target_clients": [
-        "Other (specified above)"
-      ],
-      "required_sps": "2+",
-      "required_replicas": "2+",
-      "tooling": ["common_ui"],
-      "data_types": [
-        "Other (specified above)"
-      ],
-      "12m_requested": 40,
-      "github_handles": ["remakeZK"],
-      "allocation_bookkeeping": "https://github.com/FilscanOfficial/filscan-backend"
+  "application_number": 1033,
+  "address": "f2c3kxkjidd4zndo3scdio4mlimy553m7i6q3kmea",
+  "name": "FilscanOfficial",
+  "organization": "Filscan.io",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-      "slack": "filscan.io",
-      "github_user": "https://github.com/remakeZK"
-    },
-    "pathway_addresses": {
-      "msig": "f2c3kxkjidd4zndo3scdio4mlimy553m7i6q3kmea",
-      "signer": [
-        "f16mbzjnlccbifopyt4fnd6u4iyd6mmojxtxcki7q"
-      ]
-    }
+    "target_clients": [
+      "Other (specified above)"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "2+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Other (specified above)"
+    ],
+    "12m_requested": 40,
+    "github_handles": [
+      "remakeZK"
+    ],
+    "allocation_bookkeeping": "https://github.com/FilscanOfficial/filscan-backend"
+  },
+  "poc": {
+    "slack": "filscan.io",
+    "github_user": "https://github.com/remakeZK"
+  },
+  "pathway_addresses": {
+    "msig": "f2c3kxkjidd4zndo3scdio4mlimy553m7i6q3kmea",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f16mbzjnlccbifopyt4fnd6u4iyd6mmojxtxcki7q"
+    ]
   }
-  
+}

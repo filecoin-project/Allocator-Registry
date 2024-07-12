@@ -1,41 +1,43 @@
 {
-    "application_number": 1078,
-    "address": "f22dfonsrkelpms453jr63h3elyw2lyxlrw2fkuyq",
-    "name": "RRM Global",
-    "organization": "SUPERB GRACE LIMITED",
-    "location": "Hong Kong",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1yjozxfuz2btlroysqgrgyel6o5mbqueeo7cicda",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners"
-        ],
-        "required_sps": "2+",
-        "required_replicas": "3+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise"
-        ],
-        "12m_requested": 25,
-        "github_handles": [
-            "EthanLauWJ"
-        ],
-        "allocation_bookkeeping": "https://github.com/EthanLauWJ/RRM-Global"
+  "application_number": 1078,
+  "address": "f22dfonsrkelpms453jr63h3elyw2lyxlrw2fkuyq",
+  "name": "RRM Global",
+  "organization": "SUPERB GRACE LIMITED",
+  "location": "Hong Kong",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1yjozxfuz2btlroysqgrgyel6o5mbqueeo7cicda",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "@Ethan Lau",
-        "github_user": "https://github.com/EthanLauWJ"
-    },
-    "pathway_addresses": {
-        "msig": "f22dfonsrkelpms453jr63h3elyw2lyxlrw2fkuyq",
-        "signer": [
-            "f1yjozxfuz2btlroysqgrgyel6o5mbqueeo7cicda"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "3+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 25,
+    "github_handles": [
+      "EthanLauWJ"
+    ],
+    "allocation_bookkeeping": "https://github.com/EthanLauWJ/RRM-Global"
+  },
+  "poc": {
+    "slack": "@Ethan Lau",
+    "github_user": "https://github.com/EthanLauWJ"
+  },
+  "pathway_addresses": {
+    "msig": "f22dfonsrkelpms453jr63h3elyw2lyxlrw2fkuyq",
+    "signer": [
+      "f1cg5bo25wloki5xri34tmavpuqj55ob3rzw6u34a"
+    ]
+  }
 }

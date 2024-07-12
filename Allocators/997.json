@@ -16,7 +16,9 @@
     ],
     "required_sps": "2+",
     "required_replicas": "2+",
-    "tooling": ["common_ui"],
+    "tooling": [
+      "common_ui"
+    ],
     "data_types": [
       "Private Non-Profit/Social Impact",
       "Private Commercial/Enterprise"
@@ -26,7 +28,7 @@
       "kevzak",
       "willscott",
       "martapiekarska"
-    ],  
+    ],
     "allocation_bookkeeping": "https://github.com/fidlabs/Enterprise-Data-Pathway/"
   },
   "poc": {
@@ -36,8 +38,11 @@
   "pathway_addresses": {
     "msig": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
     "signer": [
+      "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
       "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
-      "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq"
+      "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
+      "f1tmewdaoz2wmoocpyforkqamwevw65jehxszct6i",
+      "f1fpfw2wp7wu6ej47mblkbsx2etadscqp53viwckq"
     ]
   }
 }

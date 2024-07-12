@@ -1,44 +1,47 @@
 {
-    "application_number": 1007,
-    "address": "f2v3zv6qw2w4gslejsqmetpmelcupdnecsktdcxcq",
-    "name": "PiKNiK FIL+",
-    "organization": "PiKNiK",
-    "location": "North America",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1knvu3opxqmavyh73hmu3z53q2skxxdp6zwqjnzy",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "2+",
-        "required_replicas": "2+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 50,
-        "github_handles": [
-            "Jamerduhgamer"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/PiKNiK-FILplus"
+  "application_number": 1007,
+  "address": "f2v3zv6qw2w4gslejsqmetpmelcupdnecsktdcxcq",
+  "name": "PiKNiK FIL+",
+  "organization": "PiKNiK",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1knvu3opxqmavyh73hmu3z53q2skxxdp6zwqjnzy",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "James - ESPA; Jessie8o8 - ESPA",
-        "github_user": "Jamerduhgamer"
-    },
-    "pathway_addresses": {
-        "msig": "f2v3zv6qw2w4gslejsqmetpmelcupdnecsktdcxcq",
-        "signer": [
-            "f1knvu3opxqmavyh73hmu3z53q2skxxdp6zwqjnzy"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "2+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 50,
+    "github_handles": [
+      "Jamerduhgamer"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/PiKNiK-FILplus"
+  },
+  "poc": {
+    "slack": "James - ESPA; Jessie8o8 - ESPA",
+    "github_user": "Jamerduhgamer"
+  },
+  "pathway_addresses": {
+    "msig": "f2v3zv6qw2w4gslejsqmetpmelcupdnecsktdcxcq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1knvu3opxqmavyh73hmu3z53q2skxxdp6zwqjnzy"
+    ]
+  }
 }

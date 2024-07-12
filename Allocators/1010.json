@@ -1,42 +1,45 @@
 {
-    "application_number": 1010,
-    "address": "f2gbzkcgemun7xu6qbbxgqad5tksaqihmf5ykf6fi",
-    "name": "DAYOU",
-    "organization": "BigFrog Technology",
-    "location": "Hong Kong",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise"
-        ],
-        "12m_requested": 100,
-        "github_handles": [
-            "DaYouGroup"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/DAYOU"
+  "application_number": 1010,
+  "address": "f2gbzkcgemun7xu6qbbxgqad5tksaqihmf5ykf6fi",
+  "name": "DAYOU",
+  "organization": "BigFrog Technology",
+  "location": "Hong Kong",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Slack ID: U02JXSWV6N9; Handles: @Chow Dao DAYOU",
-        "github_user": "@DaYouGroup"
-    },
-    "pathway_addresses": {
-        "msig": "f2gbzkcgemun7xu6qbbxgqad5tksaqihmf5ykf6fi",
-        "signer": [
-            "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "DaYouGroup"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/DAYOU"
+  },
+  "poc": {
+    "slack": "Slack ID: U02JXSWV6N9; Handles: @Chow Dao DAYOU",
+    "github_user": "@DaYouGroup"
+  },
+  "pathway_addresses": {
+    "msig": "f2gbzkcgemun7xu6qbbxgqad5tksaqihmf5ykf6fi",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq"
+    ]
+  }
 }
