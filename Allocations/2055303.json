@@ -427,5 +427,31 @@
     "termMax": 3896640,
     "expiration": 4119124,
     "height": 4085463
+  },
+  {
+    "id": 68441597,
+    "clientId": 2055303,
+    "providerId": 3055029,
+    "pieceCid": {
+      "/": "baga6ea4seaqerjrnrooumgpncbe3tmc7zcg6kinpwnm3znymytxchmc2svncioa"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 3637440,
+    "termMax": 3896640,
+    "expiration": 4119124,
+    "height": 4085531
+  },
+  {
+    "id": 68442656,
+    "clientId": 2055303,
+    "providerId": 3055029,
+    "pieceCid": {
+      "/": "baga6ea4seaqkewdmab7ugadpruyoyxexbuje4vlnh437oua7m7kr5ad6rxb4qcy"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 3637440,
+    "termMax": 3896640,
+    "expiration": 4119124,
+    "height": 4085563
   }
 ]
