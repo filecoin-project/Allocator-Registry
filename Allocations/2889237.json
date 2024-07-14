@@ -7083,5 +7083,187 @@
     "termMax": 1800000,
     "expiration": 4095840,
     "height": 4087277
+  },
+  {
+    "id": 68504577,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqftlh3l3em2vkuodajkmvmurlh6caxbsuso25smqma4vjsh2dygli"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4096080,
+    "height": 4087489
+  },
+  {
+    "id": 68504576,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqkvnigwfeiho7pw2fc46vhd7smhtnn2axxacscarqdo4ywoonfaaa"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4096080,
+    "height": 4087489
+  },
+  {
+    "id": 68504924,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqbq5w7xi33krzj6pdzsg72acqkx6q67kw52umgpjjhh7jdcxrhshi"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4096080,
+    "height": 4087495
+  },
+  {
+    "id": 68504923,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqbnjo45glwntw4nwbt35xvxebj26zlczcxttxvuuus2jv7gfskima"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4096080,
+    "height": 4087495
+  },
+  {
+    "id": 68505964,
+    "clientId": 2889237,
+    "providerId": 3091958,
+    "pieceCid": {
+      "/": "baga6ea4seaqgnol7qob3ltqxts4poziqlqq6yimw57q6iwuhohlqpkqj2envshq"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4095840,
+    "height": 4087521
+  },
+  {
+    "id": 68505963,
+    "clientId": 2889237,
+    "providerId": 3091958,
+    "pieceCid": {
+      "/": "baga6ea4seaqb7gf35bt4vnhgm5eoe6yb6srl7fhijc32tclmep3mldn7f6nfclq"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4095840,
+    "height": 4087521
+  },
+  {
+    "id": 68506083,
+    "clientId": 2889237,
+    "providerId": 3091958,
+    "pieceCid": {
+      "/": "baga6ea4seaqlq5ieokwkzqtm5d3btglk4i7nbagkj4jumhg7spid426qtf7oaoy"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4095840,
+    "height": 4087525
+  },
+  {
+    "id": 68506082,
+    "clientId": 2889237,
+    "providerId": 3091958,
+    "pieceCid": {
+      "/": "baga6ea4seaqdv3mwf5gq7buqjimqsyv7o7nb4g4qmxte7qsvqtb4wwaqifr2sfi"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4095840,
+    "height": 4087525
+  },
+  {
+    "id": 68507025,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqeqihfreczks3ifrmzrkpx33eoakvr7aijq44uoksfk4n57wxueoi"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4096080,
+    "height": 4087550
+  },
+  {
+    "id": 68507024,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqdbedf5ecg7kyxmklmnemepdvjjsfqtvbqpdd2p4cvdrfoet3wmda"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4095960,
+    "height": 4087550
+  },
+  {
+    "id": 68507035,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqizkitk7kbuaxzjffy57g5n2pf4djdk2kfoncyw44alyskaremukq"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4095960,
+    "height": 4087551
+  },
+  {
+    "id": 68507034,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqkywtg62ukvwcyiw2zvyeokhxcimeukuwqjhnpwjgohcosrbptkfq"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4095960,
+    "height": 4087551
+  },
+  {
+    "id": 68507201,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqnepztljin4pyszhr4pfuilykzbibhjvjsht4kqaefukuswev3kji"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4095960,
+    "height": 4087556
+  },
+  {
+    "id": 68507200,
+    "clientId": 2889237,
+    "providerId": 3134685,
+    "pieceCid": {
+      "/": "baga6ea4seaqhksankn2lpx6tgcdqzigm4ghz6qdag25dgjtpr2ev5fy7tczm2fy"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1540800,
+    "termMax": 1800000,
+    "expiration": 4095960,
+    "height": 4087556
   }
 ]
