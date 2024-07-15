@@ -11906,5 +11906,83 @@
     "termMax": 1756800,
     "expiration": 4099206,
     "height": 4090675
+  },
+  {
+    "id": 68607570,
+    "clientId": 3051688,
+    "providerId": 1222595,
+    "pieceCid": {
+      "/": "baga6ea4seaqmolzgyf73andmibfkpfxd377a3lgbhrascru5omevrq7aarze4ii"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1497600,
+    "termMax": 1756800,
+    "expiration": 4099258,
+    "height": 4090780
+  },
+  {
+    "id": 68607569,
+    "clientId": 3051688,
+    "providerId": 1222595,
+    "pieceCid": {
+      "/": "baga6ea4seaqdm64vauqc65tv3ehobsusmxrm6xfmvd3dey2gmqdsdqd6z3n44oa"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1497600,
+    "termMax": 1756800,
+    "expiration": 4099260,
+    "height": 4090780
+  },
+  {
+    "id": 68608008,
+    "clientId": 3051688,
+    "providerId": 187709,
+    "pieceCid": {
+      "/": "baga6ea4seaqic6tu3ie6vrkpk7wn5mvsayuj4hcshpopvxdt6ugcm2r4zhfykli"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1497600,
+    "termMax": 1756800,
+    "expiration": 4099326,
+    "height": 4090796
+  },
+  {
+    "id": 68608007,
+    "clientId": 3051688,
+    "providerId": 187709,
+    "pieceCid": {
+      "/": "baga6ea4seaqnsruo3ci3cykvpaxkxjfremfw2qp6n5wxydqvlessx6tny4mbkkq"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1497600,
+    "termMax": 1756800,
+    "expiration": 4099326,
+    "height": 4090796
+  },
+  {
+    "id": 68608006,
+    "clientId": 3051688,
+    "providerId": 187709,
+    "pieceCid": {
+      "/": "baga6ea4seaqmexn7yk3hpzx3iawix4x53mt3kupys36cztdp7qrqmtpkpyjkedy"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1497600,
+    "termMax": 1756800,
+    "expiration": 4099326,
+    "height": 4090796
+  },
+  {
+    "id": 68608009,
+    "clientId": 3051688,
+    "providerId": 187709,
+    "pieceCid": {
+      "/": "baga6ea4seaqcuwe54pln6bzj6vrp6tnyfxn2t4h4l5p5jbkuoc3cudtsaei2udy"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1497600,
+    "termMax": 1756800,
+    "expiration": 4099446,
+    "height": 4090796
   }
 ]
