@@ -3300,5 +3300,18 @@
     "termMax": 1785600,
     "expiration": 4099372,
     "height": 4091384
+  },
+  {
+    "id": 68641455,
+    "clientId": 3079189,
+    "providerId": 10479,
+    "pieceCid": {
+      "/": "baga6ea4seaqbqcmh7ig7h3rwbf26kbcaohwpw7pj74aodae7najz3aoq4ca4coa"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1526400,
+    "termMax": 1785600,
+    "expiration": 4099925,
+    "height": 4091430
   }
 ]
