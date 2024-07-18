@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #95", "body": {
+"Allocators": [
+ {
+   "application_number": "95",
+   "address": "I have a multisig I want to provide now",
+   "name": "CineVault Allocator",
+   "organization": "CineVault",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1t7da4eq6qj7k7i4blwx2qkaztcry7gp66mbyxua",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Commercial/Enterprise,Open/Public,Nonprofit organizations,Web3 developers,Individuals"
+      ],
+      "required_sps": "4+",
+      "required_replicas": "4+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable,Proof of concept, network utilities"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": ["himomo007, If, there"],
+      "allocation_bookkeeping": "https://github.com/himomo007/CineVault-Allocator"
+   },
+   "poc": {
+      "slack": "himomo",
+      "github_user": "himomo007"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
