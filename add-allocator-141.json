@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #103", "body": {
+"Allocators": [
+ {
+   "application_number": "103",
+   "address": "I have a multisig I want to provide now",
+   "name": "Yunphant Allocator",
+   "organization": "Yunphant",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1tn2hm3fxn7n565ggkldzbmbmq5twp5ocukxf7xa",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+      ],
+      "required_sps": "3+",
+      "required_replicas": "3+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable,Proof of concept, network utilities"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": ["leier1987, If, there"],
+      "allocation_bookkeeping": "https://github.com/leier1987/Yunphant-Allocator"
+   },
+   "poc": {
+      "slack": "Lei",
+      "github_user": "leier1987"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
