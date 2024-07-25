@@ -1,0 +1,22 @@
+name: Validate JSON
+
+on:
+  push:
+    branches-ignore: [master]
+  pull_request:
+    branches: [master]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Code
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: jsonlint
+        uses: super-linter/super-linter/slim@v5
+        env:
+          VALIDATE_JSON: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
