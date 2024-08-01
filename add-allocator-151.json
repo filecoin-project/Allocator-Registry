@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #120", "body": {
+"Allocators": [
+ {
+   "application_number": "120",
+   "address": "I have a multisig I want to provide now",
+   "name": "top-value-storage",
+   "organization": "Top Value",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1tbd632f6w62glfaf7wjpimacbnjiz26poyoes2q",
+   "application": {
+      "allocations": {
+         "standardized": "Standardized scaling tranche schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+      ],
+      "required_sps": "4+",
+      "required_replicas": "4+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable,Proof of concept, network utilities"
+      ],
+      "12m_requested": ">200PiB",
+      "github_handles": ["TVLimited, If, there"],
+      "allocation_bookkeeping": "https://github.com/TVLimited/top-value-storage"
+   },
+   "poc": {
+      "slack": "@Top Value Finance",
+      "github_user": "TVLimited"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
