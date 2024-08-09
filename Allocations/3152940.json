@@ -16560,5 +16560,83 @@
     "termMax": 1785600,
     "expiration": 4300000,
     "height": 4163097
+  },
+  {
+    "id": 71079387,
+    "clientId": 3152940,
+    "providerId": 1930832,
+    "pieceCid": {
+      "/": "baga6ea4seaqcqiunnq7xbmjf265rkhqfhlw6oi3aer3bfv256e6vs2lf7bozepy"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1526400,
+    "termMax": 1785600,
+    "expiration": 4300000,
+    "height": 4163187
+  },
+  {
+    "id": 71079386,
+    "clientId": 3152940,
+    "providerId": 1930832,
+    "pieceCid": {
+      "/": "baga6ea4seaqpxjmabxe4f7weu7z76ttcu2sgpbxqdj5ldeivbbhwcbevlwyhqha"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1526400,
+    "termMax": 1785600,
+    "expiration": 4300000,
+    "height": 4163187
+  },
+  {
+    "id": 71079385,
+    "clientId": 3152940,
+    "providerId": 1930832,
+    "pieceCid": {
+      "/": "baga6ea4seaqi2zclcdgbff4j46l234f62ijbdcv2eof3jyd3qurzmbgwh4vncoa"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1526400,
+    "termMax": 1785600,
+    "expiration": 4300000,
+    "height": 4163187
+  },
+  {
+    "id": 71079384,
+    "clientId": 3152940,
+    "providerId": 1930832,
+    "pieceCid": {
+      "/": "baga6ea4seaqalrtbx5mwdrpv3fkgoxkpd3zwo7xl4sxh2wyf6a33jha4q4ugkfy"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1526400,
+    "termMax": 1785600,
+    "expiration": 4300000,
+    "height": 4163187
+  },
+  {
+    "id": 71079383,
+    "clientId": 3152940,
+    "providerId": 1930832,
+    "pieceCid": {
+      "/": "baga6ea4seaqki5lkjib5sj5x2dicap3o2in7bcyez7dccn4hnzf3mssrfxyuacy"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1526400,
+    "termMax": 1785600,
+    "expiration": 4300000,
+    "height": 4163187
+  },
+  {
+    "id": 71079382,
+    "clientId": 3152940,
+    "providerId": 1930832,
+    "pieceCid": {
+      "/": "baga6ea4seaqoyrppuvtk3p6wntdiv55q7tump2imdlyas3lm23stshw2zwafgli"
+    },
+    "pieceSize": 34359738368,
+    "termMin": 1526400,
+    "termMax": 1785600,
+    "expiration": 4300000,
+    "height": 4163187
   }
 ]
