@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #118", "body": {
+"Allocators": [
+ {
+   "application_number": "118",
+   "address": "I have a multisig I want to provide now",
+   "name": "FunAllocator",
+   "organization": "Funclub",
+   "location": "Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America,Africa",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f16kkmwdfwu7ehzvpa22pdoxberf26le7yc7puliy",
+   "application": {
+      "allocations": {
+         "standardized": "Standardized scaling tranche schedule"
+      },
+      "target_clients": [
+       "Nonprofit organizations,Web3 developers,Commercial/Enterprise,Individuals,Open/Public"
+      ],
+      "required_sps": "4+",
+      "required_replicas": "4+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable,Proof of concept, network utilities"
+      ],
+      "12m_requested": "50-75PiB",
+      "github_handles": ["Fredaquan, If, there"],
+      "allocation_bookkeeping": "https://github.com/Fredaquan/FUNALLOCATOR/issues"
+   },
+   "poc": {
+      "slack": "Freda",
+      "github_user": "Fredaquan"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
