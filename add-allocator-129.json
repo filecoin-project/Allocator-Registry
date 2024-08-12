@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #87", "body": {
+"Allocators": [
+ {
+   "application_number": "87",
+   "address": "I have a multisig I want to provide now",
+   "name": "CMay_MarketAllocator",
+   "organization": "CMay",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f1h4brap6vi3b3ral3rovfnv5xss67t2uyjo62ria",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Individuals,Open/Public,Commercial/Enterprise"
+      ],
+      "required_sps": "3+",
+      "required_replicas": "4+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable,Proof of concept, network utilities"
+      ],
+      "12m_requested": "50-75PiB",
+      "github_handles": ["PonnyWang4, If, there"],
+      "allocation_bookkeeping": "https://github.com/PonnyWang4/CMay_MarketAllocator"
+   },
+   "poc": {
+      "slack": "PonnyWang",
+      "github_user": "PonnyWang4"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
