@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #132", "body": {
+"Allocators": [
+ {
+   "application_number": "132",
+   "address": "I would like the governance team to create a multisig for me",
+   "name": "OulaAllocator",
+   "organization": "Oula Team",
+   "location": "Asia minus GCR,Greater China Region,North America,Europe",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f1w2g7fpx2bm65b6w4znea45emnw37de5my56mykq",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Nonprofit organizations,Commercial/Enterprise,Open/Public"
+      ],
+      "required_sps": "2+",
+      "required_replicas": "2+",
+      "tooling": ["Yes, some tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable,Proof of concept, network utilities"
+      ],
+      "12m_requested": "5-50PiB",
+      "github_handles": ["AlexIbrahim859, If, there"],
+      "allocation_bookkeeping": "https://github.com/AlexIbrahim859/OulaAllocator"
+   },
+   "poc": {
+      "slack": "alex.novalink@gmail.com",
+      "github_user": "AlexIbrahim859"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
