@@ -2,16 +2,17 @@ name: Update active allocators
 
 on:
   pull_request:
-    types: [ synchronize ]
+    types:
+      - closed
     branches:
       - main
     paths:
-      - 'active/**/*.json'
+      - 'Allocators/**/*.json'
   push:
     branches:
       - main
     paths:
-      - 'active/**/*.json'
+      - 'Allocators/**/*.json'
 
 jobs:
   watch_jsons:
@@ -25,11 +26,11 @@ jobs:
         with:
           fetch-depth: 0
           
-      - name: Find changed JSON files in Active folder
+      - name: Find changed JSON files in Allocator folder
         id: find_json
         run: |
-          echo "Searching for JSON files in 'active' folder..."
-          FILES_CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep 'active/.*\.json$' | while read -r line; do echo -n "\"$line\","; done)
+          echo "Searching for JSON files in 'Allocators' folder..."
+          FILES_CHANGED=$(git diff --name-only ${{ github.event.before }} ${{ github.event.after }} | grep 'Allocators/.*\.json$' | while read -r line; do echo -n "\"$line\","; done)
           FILES_CHANGED="${FILES_CHANGED%,}" # Remove the trailing comma
           echo "Files changed: $FILES_CHANGED"
           echo "::set-output name=files_changed::$FILES_CHANGED"
