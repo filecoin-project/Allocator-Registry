@@ -29,7 +29,7 @@
     "allocation_bookkeeping": "https://github.com/stcloudlisa/Allocator-Pathway-Data"
   },
   "poc": {
-    "slack": "LISA", "Berry"
+    "slack": ["LISA", "Berry"],
     "github_user": "https://github.com/stcloudlisa"
   },
   "pathway_addresses": {
