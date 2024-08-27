@@ -4,12 +4,12 @@ body:
 - type: markdown
   attributes:
     value: |
-      # Bookkeeping Modification
+      # DatCap Request
       To provide/update the location of your Allocator diligence and bookkeeping repository. 
 - type: input
   attributes:
     label: Organization 
-    description: The name of the Allocator Organization you are wishing to update bookkeeping url for
+    description: The name of the Allocator Organization you are wishing to request DataCap on behalf of.
   validations:
     required: true
 - type: input
