@@ -1,0 +1,61 @@
+name: "[Support] DataCap Refresh Review"
+description: "Issue Template for submitting a request to receive addtional DataCap for allocation"
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Bookkeeping Modification
+      To provide/update the location of your Allocator diligence and bookkeeping repository. 
+- type: input
+  attributes:
+    label: Organization 
+    description: The name of the Allocator Organization you are wishing to update bookkeeping url for
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Applicaiton Number  
+    description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Would you like to 
+    options:
+      - Add a Bookkeeping url (for the first time)
+      - Update the url for an existing bookkeping repo
+      - Other
+- type: input
+  attributes:
+    label: Updated Bookkeeping URL 
+    description: The updated url information for the Allocator account you are wishing to update (Remove/Add/Modify)
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Previous Bookkeeping URL 
+    description: If this new url is to REPLACE an existing url, please provide previous bookkeeping url
+  validations:
+    required: false
+- type: dropdown
+  attributes:
+    label: Is the Github Account used to file this request is already recorded on the Allocator JSON for your organization? 
+    options:
+      - "Yes"
+      - "No"
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Reason for the change 
+    description: Please provide a brief reason for the change to the Allocator bookkeeping information.
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: Additional Information 
+    description: Any additional information you with to provide?
+  validations:
+    required: false
+
+        
