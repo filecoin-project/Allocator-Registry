@@ -1,12 +1,12 @@
 {
     "application_number": 1060,
-    "address": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
+    "address": "f23q74wvk6zq2dfopfe4wbt2tal2fkwicexcqui5q",
     "name": "Max",
     "organization": "CoinSummer Labs",
     "location": "Hong Kong",
     "status": "Active",
     "metapathway_type": "Manual",
-    "associated_org_addresses": "f1gn6jq55uyx5eir2a7isc6t63fq7lmhrcpgdo2wy",
+    "associated_org_addresses": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
     "application": {
         "allocations": {
             "standardized": "Yes; standardized"
@@ -37,9 +37,9 @@
         "github_user": "maxvint"
     },
     "pathway_addresses": {
-        "msig": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
+        "msig": "f23q74wvk6zq2dfopfe4wbt2tal2fkwicexcqui5q",
         "signer": [
-            "f1gn6jq55uyx5eir2a7isc6t63fq7lmhrcpgdo2wy"
+            "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy"
         ]
     }
 }
