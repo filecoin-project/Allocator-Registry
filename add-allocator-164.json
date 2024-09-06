@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #156", "body": {
+"Allocators": [
+ {
+   "application_number": "156",
+   "address": "I will provide an address on a later date",
+   "name": "IPFSYUN",
+   "organization": "Wuhan Jinyu Information Technology Center",
+   "location": "Asia minus GCR,Europe,Greater China Region,North America,South America",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f22yzezugt24abipxkm3ncqss2s4dd6tryiyvxx7q",
+   "application": {
+      "allocations": {
+         "standardized": "Single size allocation"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise"
+      ],
+      "required_sps": "5+",
+      "required_replicas": "5+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": ["martapiekarska, , no"],
+      "allocation_bookkeeping": "https://github.com/nike-mp/IPFSYUN-Allocator"
+   },
+   "poc": {
+      "slack": "Ke di",
+      "github_user": "martapiekarska "
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
