@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #160", "body": {
+"Allocators": [
+ {
+   "application_number": "160",
+   "address": "I would like the governance team to create a multisig for me",
+   "name": "Xman Allocator",
+   "organization": "Xman Team",
+   "location": "Greater China Region,Asia minus GCR",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f1rto7zthkzfazt7baq6kpls4mozpmh2m7oxehcqy",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Commercial/Enterprise,Nonprofit organizations,Open/Public,Individuals"
+      ],
+      "required_sps": "5+",
+      "required_replicas": "5+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": ["Finonaa, If, there"],
+      "allocation_bookkeeping": "https://github.com/Finonaa/Allocator-Governance"
+   },
+   "poc": {
+      "slack": "Mee",
+      "github_user": "Finonaa"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
