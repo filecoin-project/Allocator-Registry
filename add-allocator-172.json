@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #164", "body": {
+"Allocators": [
+ {
+   "application_number": "164",
+   "address": "I will provide an address on a later date",
+   "name": "Akave",
+   "organization": "Akave Inc",
+   "location": "North America,Europe",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f1j44hd5rxindqftcnp2einqvei4wjrlk5mcgutey",
+   "application": {
+      "allocations": {
+         "standardized": "Single size allocation"
+      },
+      "target_clients": [
+       "Web3 developers,Commercial/Enterprise,Nonprofit organizations"
+      ],
+      "required_sps": "1+",
+      "required_replicas": "1+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Proof of concept, network utilities,Public, open, and retrievable"
+      ],
+      "12m_requested": "5-50PiB",
+      "github_handles": ["stef-sf, Angelo-gh3990, dleonx"],
+      "allocation_bookkeeping": "https://github.com/stef-sf/Allocator-Registry"
+   },
+   "poc": {
+      "slack": "@stefaanvervaet",
+      "github_user": "@stef-sf"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
