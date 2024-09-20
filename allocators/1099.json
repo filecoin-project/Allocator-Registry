@@ -1,0 +1,36 @@
+{
+  "application_number": 1099,
+  "address": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
+  "name": "Deep Kapur ",
+  "organization": "Official name pending, currently referred to as Flamenco team, spinning out from Protocol Labs.",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
+  "application": {
+    "allocations": {
+      "standardized": "Yes, standardized"
+    },
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 10,
+    "github_handles": [
+      "@dkkapur"
+    ],
+    "allocation_bookkeeping": "https://github.com/CloudX-Lab/filecion"
+  },
+  "poc": {
+    "slack": "CloudX Lab",
+    "github_user": "CloudX-Lab"
+  }
+}
