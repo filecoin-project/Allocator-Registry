@@ -29,13 +29,14 @@
       "allocation_bookkeeping": "https://github.com/filedrive-team/Filecoin-Plus-Pathway"
     },
     "poc": {
-      "slack": "Laura Panda",
-      "github_user": "laurarenpanda"
+      "slack": "Laura Panda, Filedrive-ops",
+      "github_user": "laurarenpanda, Filedrive-ops"
     },
     "pathway_addresses": {
       "msig": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
       "signer": [
         "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q"
+        "f1hhfjedejpwi44wffdqrs3xl6bnygzfjfj3tzpaq"
       ]
     }
   }
