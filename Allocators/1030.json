@@ -25,12 +25,15 @@
         "Private Non-Profit/Social Impact"
       ],
       "12m_requested": 200,
-      "github_handles": ["laurarenpanda"],
+      "github_handles": [
+          "laurarenpanda",
+          "Filedrive-ops"
+      ],
       "allocation_bookkeeping": "https://github.com/filedrive-team/Filecoin-Plus-Pathway"
     },
     "poc": {
       "slack": "Laura Panda, Filedrive-ops",
-      "github_user": "laurarenpanda, Filedrive-ops"
+      "github_user": "Filedrive-ops"
     },
     "pathway_addresses": {
       "msig": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
