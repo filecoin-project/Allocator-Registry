@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #172", "body": {
+"Allocators": [
+ {
+   "application_number": "172",
+   "address": "I will provide an address on a later date",
+   "name": "Nick",
+   "organization": "Nick",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1ijiofxywl7xxfhzvvmvd5ickmlzry2yxvfybw7i",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Commercial/Enterprise,Individuals"
+      ],
+      "required_sps": "3+",
+      "required_replicas": "3+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable"
+      ],
+      "12m_requested": "5-50PiB",
+      "github_handles": ["Hugh-Top, If, there"],
+      "allocation_bookkeeping": "https://github.com/Hugh-Top/DataCap-Bookkeeping"
+   },
+   "poc": {
+      "slack": "nickcoming",
+      "github_user": "Hugh-Top"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
