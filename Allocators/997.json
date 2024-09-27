@@ -23,21 +23,22 @@
     ],
     "12m_requested": 100,
     "github_handles": [
-      "kevzak",
+      "martplo",
       "willscott",
       "martapiekarska"
     ],  
     "allocation_bookkeeping": "https://github.com/fidlabs/Enterprise-Data-Pathway/"
   },
   "poc": {
-    "slack": "@Kevin Z @willscott @MPG",
-    "github_user": "@kevzak @willscott @martapiekarska @martplo"
+    "slack": "@willscott @MPG",
+    "github_user": "@willscott @martapiekarska @martplo"
   },
   "pathway_addresses": {
     "msig": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
     "signer": [
+      "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy",
       "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
-      "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq"
+      "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq"
     ]
   }
 }
