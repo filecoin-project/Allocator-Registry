@@ -1,44 +1,47 @@
 {
-    "application_number": 1022,
-    "address": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
-    "name": "NonEntropy",
-    "organization": "NonEntropy Technology Pte. Ltd.",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1uzljppxtnmsekck6jt5lmuwxtzo3u5s2udizsai",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "4+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 20,
-        "github_handles": [
-            "joshua-ne"
-        ],
-        "allocation_bookkeeping": "https://github.com/joshua-ne/FIL_DC_Allocator_1022"
+  "application_number": 1022,
+  "address": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
+  "name": "NonEntropy",
+  "organization": "NonEntropy Technology Pte. Ltd.",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1uzljppxtnmsekck6jt5lmuwxtzo3u5s2udizsai",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "@Josh",
-        "github_user": "@joshua-ne"
-    },
-    "pathway_addresses": {
-        "msig": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
-        "signer": [
-            "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 20,
+    "github_handles": [
+      "joshua-ne"
+    ],
+    "allocation_bookkeeping": "https://github.com/joshua-ne/FIL_DC_Allocator_1022"
+  },
+  "poc": {
+    "slack": "@Josh",
+    "github_user": "@joshua-ne"
+  },
+  "pathway_addresses": {
+    "msig": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
+    "signer": [
+      "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry",
+      "f1e3gesx3bp4pspt2afurzgu7lmuzkzwsqynrvglq"
+    ]
+  }
 }

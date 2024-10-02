@@ -1,41 +1,44 @@
 {
-    "application_number": 1086,
-    "address": "f2t2oqruezktqwcinpcf5yrir6227gytyliu5fdgy",
-    "name": "IPFSCN",
-    "organization": "IPFSCN",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1rjnxs24ymqlez3cjgzeniwcnhhj4gohmip5gp4q",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise"
-        ],
-        "12m_requested": 50,
-        "github_handles": [
-            "ipfscn"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/IPFSCN"
+  "application_number": 1086,
+  "address": "f2t2oqruezktqwcinpcf5yrir6227gytyliu5fdgy",
+  "name": "IPFSCN",
+  "organization": "IPFSCN",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1rjnxs24ymqlez3cjgzeniwcnhhj4gohmip5gp4q",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Nic-IPFS Metaverse Community",
-        "github_user": "https://github.com/ipfscn"
-    },
-    "pathway_addresses": {
-        "msig": "f2t2oqruezktqwcinpcf5yrir6227gytyliu5fdgy",
-        "signer": [
-            "f1rjnxs24ymqlez3cjgzeniwcnhhj4gohmip5gp4q"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 50,
+    "github_handles": [
+      "ipfscn"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/IPFSCN"
+  },
+  "poc": {
+    "slack": "Nic-IPFS Metaverse Community",
+    "github_user": "https://github.com/ipfscn"
+  },
+  "pathway_addresses": {
+    "msig": "f2t2oqruezktqwcinpcf5yrir6227gytyliu5fdgy",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1rjnxs24ymqlez3cjgzeniwcnhhj4gohmip5gp4q"
+    ]
+  }
 }

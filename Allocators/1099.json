@@ -1,42 +1,45 @@
 {
-    "application_number": 1099,
-    "address": "f2e6lube4xsam3sywpmlsjmmuen7ezawfgzmts5uq",
-    "name": "Deep Kapur",
-    "organization": "Official name pending; currently referred to as Flamenco team; spinning out from Protocol Labs.",
-    "location": "North America",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "3+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 50,
-        "github_handles": [
-            "dkkapur"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Flamenco"
+  "application_number": 1099,
+  "address": "f2e6lube4xsam3sywpmlsjmmuen7ezawfgzmts5uq",
+  "name": "Deep Kapur",
+  "organization": "Official name pending; currently referred to as Flamenco team; spinning out from Protocol Labs.",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "@Deep Kapur",
-        "github_user": "@dkkapur"
-    },
-    "pathway_addresses": {
-        "msig": "f2e6lube4xsam3sywpmlsjmmuen7ezawfgzmts5uq",
-        "signer": [
-            "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 50,
+    "github_handles": [
+      "dkkapur"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Flamenco"
+  },
+  "poc": {
+    "slack": "@Deep Kapur",
+    "github_user": "@dkkapur"
+  },
+  "pathway_addresses": {
+    "msig": "f2e6lube4xsam3sywpmlsjmmuen7ezawfgzmts5uq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny"
+    ]
+  }
 }

@@ -1,42 +1,45 @@
 {
-    "application_number": 1067,
-    "address": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
-    "name": "web3mine AG",
-    "organization": "web3mine AG",
-    "location": "Europe",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
-    "application": {
-        "allocations": {
-            "standardized": "No; client specific"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "3+",
-        "required_replicas": "3+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Private Commercial/Enterprise",
-            "Public Open Commercial/Enterprise"
-        ],
-        "12m_requested": 100,
-        "github_handles": [
-            "lksbrssr",
-            "vvkio"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/web3mine-AG"
+  "application_number": 1067,
+  "address": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
+  "name": "web3mine AG",
+  "organization": "web3mine AG",
+  "location": "Europe",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-        "slack": "lksbrssr; vvk",
-        "github_user": "lksbrssr; vvkio"
-    },
-    "pathway_addresses": {
-        "msig": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
-        "signer": [
-            "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "3+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Private Commercial/Enterprise",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "lksbrssr",
+      "vvkio"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/web3mine-AG"
+  },
+  "poc": {
+    "slack": "lksbrssr; vvk",
+    "github_user": "lksbrssr; vvkio"
+  },
+  "pathway_addresses": {
+    "msig": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca"
+    ]
+  }
 }

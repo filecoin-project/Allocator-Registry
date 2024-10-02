@@ -1,45 +1,47 @@
 {
-    "application_number": 1035,
-    "address": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
-    "name": "Venus Fil+ Datacap Allocator (VFDA)",
-    "organization": "Venus Team",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1wdnx2g2rffbg2pmu2ilguedw2oxg25ettfjl5fy",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Individuals learning about Filecoin",
-        "Small-scale developers or data owners",
-        "Other (specified above)",
-        "Enterprise Data Clients"
-      ],
-      "required_sps": "4+",
-      "required_replicas": "2+",
-      "tooling": [],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact",
-        "Other (specified elsewhere)"
-      ],
-      "12m_requested": 200,
-      "github_handles": ["VenusOfficial"],
-      "allocation_bookkeeping": "https://github.com/VenusOfficial/Pathway-VFDA"
+  "application_number": 1035,
+  "address": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
+  "name": "Venus Fil+ Datacap Allocator (VFDA)",
+  "organization": "Venus Team",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1wdnx2g2rffbg2pmu2ilguedw2oxg25ettfjl5fy",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "@Joss-Venus",
-      "github_user": "@VenusOfficial"
-    },
-    "pathway_addresses": {
-      "msig": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
-      "signer": [
-        "f1wzmrjlhu244jyjlpsjlyhp7en35ue4wpwbfsv3y"
-      ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Other (specified above)",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "2+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "VenusOfficial"
+    ],
+    "allocation_bookkeeping": "https://github.com/VenusOfficial/Pathway-VFDA"
+  },
+  "poc": {
+    "slack": "@Joss-Venus",
+    "github_user": "@VenusOfficial"
+  },
+  "pathway_addresses": {
+    "msig": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1mkeafrmvg3tiuugtcwpyumjbuyeoey3t2exa4ba"
+    ]
   }
-  
+}
