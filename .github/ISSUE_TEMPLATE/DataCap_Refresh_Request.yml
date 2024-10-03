@@ -28,7 +28,7 @@ body:
     label: Allocator Pathway Name 
     description: Unique descriptive name of your allocator pathway 
   validations:
-    required: true
+    required: false
 - type: input
   attributes:
     label: Organization Name  
@@ -37,8 +37,8 @@ body:
     required: true
 - type: input
   attributes:
-    label: Please provide the url to your Allocator [APPLICATION] (https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
-    description: 
+    label: Please provide the url to your Allocator 
+    description: This can be found at [APPLICATION](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
   validations:
     required: false
 - type: input
