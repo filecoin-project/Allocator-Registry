@@ -21,11 +21,6 @@ body:
       - Automated, Novel Pathway
       - Market Based, Novel Pathway
       - Other
-- type: markdown
-  attributes:
-    value: |
-      ## Subheader
-      More details about the subheader.
   validations:
     required: false
 - type: input
@@ -60,6 +55,11 @@ body:
       - "Yes"
       - "No" 
       - Other
+- type: markdown
+  attributes:
+    value: |
+      ## DataCap that was distributed 
+      Please provide detailed fields to annotate how the DataCap was issued.
 - type: dropdown
   attributes:
     label: How many Datacap refill requests have already been submitted for this organization and pathway
