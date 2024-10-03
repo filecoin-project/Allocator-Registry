@@ -59,7 +59,7 @@ body:
   attributes:
     value: |
       ## Past Refresh Review 
-      Please provide details on how the DataCap was issued.
+      Please provide link to any previoud Refresh requests submitted for this pathway.
 - type: dropdown
   attributes:
     label: How many Datacap refill requests have already been submitted for this pathway
@@ -91,6 +91,14 @@ body:
     description: This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
   validations:
     required: false
+
+- type: markdown
+  attributes:
+    value: |
+      ## Distributions in this round 
+      Provide the nessesary information to verify the DataCap dispursed in this round maintained your Pathway standards.
+
+      
 - type: markdown
   attributes:
     value: |
