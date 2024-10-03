@@ -11,6 +11,19 @@ body:
   attributes:
     value: |
       # Core Information
+- type: dropdown
+  attributes:
+    label: Type of Allocator 
+    options:
+      - RFA, Automated Github
+      - RFA, Automated Social Media or WeChat
+      - RFA, Market Staking
+      - Manual
+      - Automated, Novel Pathway
+      - Market Based, Novel Pathway
+      - Other
+  validations:
+    required: false
 - type: input
   attributes:
     label: Allocator Pathway Name 
@@ -25,7 +38,7 @@ body:
     required: true
 - type: input
   attributes:
-    label: Please provide the url to your Allocator [APPLICATION](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
+    label: Please provide the url to your Allocator [APPLICATION] (https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
     description: 
   validations:
     required: false
@@ -38,8 +51,8 @@ body:
     
 - type: dropdown 
   attributes:
-    label: Github Account Verified
-    description: Does the Github account used to submit this request match the Organizational authorized in the JSON?
+    label: Account Authorization
+    description: Does the Github account used to submit this request match the Organizational authorized in the Registry for your organization?
     options:
       - "Yes"
       - "No" 
@@ -64,19 +77,6 @@ body:
     description: 
   validations:
     required: false
-- type: dropdown
-  attributes:
-    label: Type of Allocator 
-    options:
-      - RFA, Automated Github
-      - RFA, Automated Social Media or WeChat
-      - RFA, Market Staking
-      - Manual
-      - Automated, Novel Pathway
-      - Market Based, Novel Pathway
-      - Other
-  validations:
-    required: false
 - type: dropdown 
   attributes:
     label: Existing OnChain Address
@@ -87,7 +87,7 @@ body:
       - Other
 - type: dropdown
   attributes:
-    label: Please confirm that you understand that in addition to submitting this Github issue, you will need to complete and submit the Airtable [Form](https://airtable.com)
+    label: Please confirm that you understand that in addition to submitting this Github issue, you will be receiving a diligence review that will require you return to this issue to provide update clarification.
     options:
       - (Yes)
       - (No)
@@ -96,7 +96,7 @@ body:
 
 - type: dropdown
   attributes:
-    label: Please confirm that you have read and understand the Fil+ guidelines and your role as an Allocator
+    label: Please confirm that you have met the standards set forward in your application for each dispursment of DataCap and you understand the Fil+ guidelines and your role as an Allocator.
     description: https://docs.filecoin.io/basics/how-storage-works/filecoin-plus
     options:
       - (Yes)
