@@ -57,3 +57,45 @@ body:
     description: Please link the past Bookkeeping records for the client discovery that conducted to verify the client's data met the onboarding standards of your application, and the data was stored within requirements.
   validations: 
     required: false
+- type: input
+  attributes:
+    label: Previous Bookkeeping URL 
+    description: Please link the past Bookkeeping records for the client discovery that conducted to verify the client's data met the onboarding standards of your application, and the data was stored within requirements.
+  validations: 
+    required: false
+body:
+- type: markdown
+  attributes:
+    value: |
+      # DatCap Request
+      To provide/update the location of your Allocator diligence and bookkeeping repository. 
+- type: input
+  attributes:
+    label: Retreival Rate for each dispursement 
+    description: Please link the past Bookkeeping records for the client discovery that conducted to verify the client's data met the onboarding standards of your application, and the data was stored within requirements.
+  validations: 
+    required: false
+- type: input
+  attributes:
+    label: Previous Bookkeeping URL 
+    description: Please link the past Bookkeeping records for the client discovery that conducted to verify the client's data met the onboarding standards of your application, and the data was stored within requirements.
+  validations: 
+    required: false
+- type: input
+  attributes:
+    label: Previous Bookkeeping URL 
+    description: Please link the past Bookkeeping records for the client discovery that conducted to verify the client's data met the onboarding standards of your application, and the data was stored within requirements.
+  validations: 
+    required: false
+- type: input
+  attributes:
+    label: Previous Bookkeeping URL 
+    description: Please link the past Bookkeeping records for the client discovery that conducted to verify the client's data met the onboarding standards of your application, and the data was stored within requirements.
+  validations: 
+    required: false
+- type: input
+  attributes:
+    label: Additional Information 
+    description: Any additional information you with to provide?
+  validations:
+    required: false
