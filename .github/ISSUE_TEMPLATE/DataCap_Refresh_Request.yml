@@ -4,8 +4,8 @@ body:
 - type: markdown
   attributes:
     value: |
-      # Application to become an Allocator
-      To receive a refill of Datacap, please fill complete to provide the nessesary information to confirm compliance. 
+      # Application to receive additional DataCap 
+      To receive a refill of Datacap, please complete this issue with the nessesary information to confirm compliance. 
       
 - type: markdown
   attributes:
@@ -14,21 +14,28 @@ body:
 - type: input
   attributes:
     label: Allocator Pathway Name 
-    description: Unique descriptive name of your allocator onboarding pathway	
+    description: Unique descriptive name of your allocator pathway 
   validations:
     required: true
 - type: input
   attributes:
     label: Organization Name  
-    description: The name of the Organization applying to become an authorized Allocator
+    description: The name of the Organization 
   validations:
     required: true
 - type: input
   attributes:
-    label: Please provide the url to your Allocator application  
+    label: Please provide the url to your Allocator [Application](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
     description: 
   validations:
     required: false
+- type: input
+  attributes:
+    label: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators) 
+    description: 
+  validations:
+    required: false
+    
 - type: dropdown 
   attributes:
     label: Github Account Verified
@@ -50,6 +57,7 @@ body:
       - 6
   validations:
     required: false
+
 - type: input
   attributes:
     label: Please provide the url to your past application(s) for DataCap refresh  
