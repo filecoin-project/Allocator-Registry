@@ -25,6 +25,7 @@ body:
       - Yes
       - No
       - Other (please specify in comments)
+  validations:
     required: true
 - type: dropdown
   attributes:
@@ -36,13 +37,12 @@ body:
       - 4
       - 5
       - 5+
+  validations:
     required: true
 - type: input
   attributes:
     label: Past DataCap Refresh  
     description: Please link the past Applications from any Diligence Audits
-  validations:
-   
 - type: dropdown
   attributes:
     label: How many clients did you distrbute DataCap to with this most recent allocation?
@@ -55,4 +55,5 @@ body:
   attributes:
     label: Previous Bookkeeping URL 
     description: Please link the past Bookkeeping records for the client discovery that conducted to verify the client's data met the onboarding standards of your application, and the data was stored within requirements.
+  validations: 
     required: false
