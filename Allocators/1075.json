@@ -1,43 +1,47 @@
 {
-    "application_number": 1075,
-    "address": "f2i2j6cizkwslawsl2xey4axnytkmmrkbaostw6ey",
-    "name": "VSTAR",
-    "organization": "VSTAR",
-    "location": "Europe",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1t2hzgr25r7vwod46hglcvm32tldw2asj74b6rli",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Individuals learning about Filecoin",
-        "Small-scale developers or data owners",
-        "Enterprise Data Clients"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "4+",
-      "tooling": ["common_ui"],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact"
-      ],
-      "12m_requested": 100,
-      "github_handles": ["DDUPA"],
-      "allocation_bookkeeping": "https://github.com/FIL-VSTAR/v5-notary"
+  "application_number": 1075,
+  "address": "f2i2j6cizkwslawsl2xey4axnytkmmrkbaostw6ey",
+  "name": "VSTAR",
+  "organization": "VSTAR",
+  "location": "Europe",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1t2hzgr25r7vwod46hglcvm32tldw2asj74b6rli",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "Elio",
-      "github_user": "DDUPA"
-    },
-    "pathway_addresses": {
-      "msig": "f2i2j6cizkwslawsl2xey4axnytkmmrkbaostw6ey",
-      "signer": [
-        "f1h3fwbql5ctvvtargtcivfd4yenqbcybyw6cfghi"
-      ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "4+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "DDUPA"
+    ],
+    "allocation_bookkeeping": "https://github.com/FIL-VSTAR/v5-notary"
+  },
+  "poc": {
+    "slack": "Elio",
+    "github_user": "DDUPA"
+  },
+  "pathway_addresses": {
+    "msig": "f2i2j6cizkwslawsl2xey4axnytkmmrkbaostw6ey",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1h3fwbql5ctvvtargtcivfd4yenqbcybyw6cfghi"
+    ]
   }
-  
+}

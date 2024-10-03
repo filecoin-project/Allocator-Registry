@@ -1,44 +1,45 @@
 {
-    "application_number": 1059,
-    "address": "f2k6v3ojauf7oeghthmucwn7podfr4xslymtkl5mq",
-    "name": "Herony",
-    "organization": "Herony",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Market-based",
-    "associated_org_addresses": "f1i5ghwv6m4wsn5rsqsnjl2rgrgxtbc3osgkddbei",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Individuals learning about Filecoin",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "3+",
-        "required_replicas": "5+",
-        "tooling": [],
-        "data_types": [
-            "Private Non-Profit/Social Impact",
-            "Private Commercial/Enterprise",
-            "Public Open Commercial/Enterprise",
-            "Public Open Dataset (Research/Non-Profit)"
-        ],
-        "12m_requested": 100,
-        "github_handles": [
-            "Herony-fil"
-        ],
-        "allocation_bookkeeping": "https://github.com/herony-fil/herony-data-pathway"
+  "application_number": 1059,
+  "address": "f2k6v3ojauf7oeghthmucwn7podfr4xslymtkl5mq",
+  "name": "Herony",
+  "organization": "Herony",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Market-based",
+  "associated_org_addresses": "f1i5ghwv6m4wsn5rsqsnjl2rgrgxtbc3osgkddbei",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Herony.fil",
-        "github_user": "herony-fil"
-    },
-    "pathway_addresses": {
-        "msig": "f2k6v3ojauf7oeghthmucwn7podfr4xslymtkl5mq",
-        "signer": [
-            "f1i5ghwv6m4wsn5rsqsnjl2rgrgxtbc3osgkddbei"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Individuals learning about Filecoin",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Private Non-Profit/Social Impact",
+      "Private Commercial/Enterprise",
+      "Public Open Commercial/Enterprise",
+      "Public Open Dataset (Research/Non-Profit)"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "Herony-fil"
+    ],
+    "allocation_bookkeeping": "https://github.com/herony-fil/herony-data-pathway"
+  },
+  "poc": {
+    "slack": "Herony.fil",
+    "github_user": "herony-fil"
+  },
+  "pathway_addresses": {
+    "msig": "f2k6v3ojauf7oeghthmucwn7podfr4xslymtkl5mq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1i5ghwv6m4wsn5rsqsnjl2rgrgxtbc3osgkddbei"
+    ]
+  }
 }

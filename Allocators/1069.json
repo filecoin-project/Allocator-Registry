@@ -1,43 +1,48 @@
 {
-    "application_number": 1069,
-    "address": "f2rybsy4kv2pniezl6lhcbpojvhdmxwqeymootesy",
-    "name": "TopBlocks",
-    "organization": "TopBlocks",
-    "location": "North America",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1ez4nfx4lbqmddefk3gpqisf2xcfr3g6qm4qes7i",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Other (specified above)"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise"
-        ],
-        "12m_requested": 150,
-        "github_handles": [
-            "woshidama323", "peter6wei"
-        ],
-        "allocation_bookkeeping": "https://github.com/TopBlocks/TopBlocks_Allocator"
+  "application_number": 1069,
+  "address": "f2rybsy4kv2pniezl6lhcbpojvhdmxwqeymootesy",
+  "name": "TopBlocks",
+  "organization": "TopBlocks",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1ez4nfx4lbqmddefk3gpqisf2xcfr3g6qm4qes7i",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "U017R30J55X",
-        "github_user": "woshidama323 and peter6wei"
-    },
-    "pathway_addresses": {
-        "msig": "f2rybsy4kv2pniezl6lhcbpojvhdmxwqeymootesy",
-        "signer": [
-            "f1ez4nfx4lbqmddefk3gpqisf2xcfr3g6qm4qes7i"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 150,
+    "github_handles": [
+      "woshidama323",
+      "peter6wei"
+    ],
+    "allocation_bookkeeping": "https://github.com/TopBlocks/TopBlocks_Allocator"
+  },
+  "poc": {
+    "slack": "U017R30J55X",
+    "github_user": "woshidama323 and peter6wei"
+  },
+  "pathway_addresses": {
+    "msig": "f2rybsy4kv2pniezl6lhcbpojvhdmxwqeymootesy",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f13scefkwue5cpivykug4qod4tkcmuqf4bgu7yzsy",
+      "f1ez4nfx4lbqmddefk3gpqisf2xcfr3g6qm4qes7i"
+    ]
+  }
 }

@@ -1,46 +1,50 @@
 {
-    "application_number": 1088,
-    "address": "f2yz73r5qvr257jpifsdxyinpfnkhnyzl6p2qot2q",
-    "name": "ANTPOOL Pathway",
-    "organization": "ANTPOOL",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1ylwkezohcn7ggbkids25xqu5yudllsqg6pyhmii",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Individuals learning about Filecoin",
-            "Other (specified above)"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "4+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact",
-            "Other (specified elsewhere)"
-        ],
-        "12m_requested": 100,
-        "github_handles": [
-            "Davisson2025"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/ANTPOOL-Pathway"
+  "application_number": 1088,
+  "address": "f2yz73r5qvr257jpifsdxyinpfnkhnyzl6p2qot2q",
+  "name": "ANTPOOL Pathway",
+  "organization": "ANTPOOL",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1ylwkezohcn7ggbkids25xqu5yudllsqg6pyhmii",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "salck ID: U06ESEJ3XRS slack name: Davission ANTPOOL",
-        "github_user": "https://github.com/Davisson2025"
-    },
-    "pathway_addresses": {
-        "msig": "f2yz73r5qvr257jpifsdxyinpfnkhnyzl6p2qot2q",
-        "signer": [
-            "f1ylwkezohcn7ggbkids25xqu5yudllsqg6pyhmii"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Individuals learning about Filecoin",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "4+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "Davisson2025"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/ANTPOOL-Pathway"
+  },
+  "poc": {
+    "slack": "salck ID: U06ESEJ3XRS slack name: Davission ANTPOOL",
+    "github_user": "https://github.com/Davisson2025"
+  },
+  "pathway_addresses": {
+    "msig": "f2yz73r5qvr257jpifsdxyinpfnkhnyzl6p2qot2q",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1acun2mgluaau5nx4ixbzwyo422k3i2ghkptqaoy",
+      "f1ylwkezohcn7ggbkids25xqu5yudllsqg6pyhmii"
+    ]
+  }
 }
