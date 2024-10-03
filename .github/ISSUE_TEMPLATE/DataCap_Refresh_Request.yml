@@ -25,7 +25,7 @@ body:
     required: true
 - type: input
   attributes:
-    label: Please provide the url to your Allocator [Application](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
+    label: Please provide the url to your Allocator [APPLICATION](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
     description: 
   validations:
     required: false
