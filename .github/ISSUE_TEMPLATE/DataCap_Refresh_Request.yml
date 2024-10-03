@@ -91,7 +91,11 @@ body:
     description: This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
   validations:
     required: false
-  
+- type: markdown
+  attributes:
+    value: |
+      ## Verification 
+      Confirm that you have complied with the program guidelines.
 - type: dropdown
   attributes:
     label: Please confirm that you understand that in addition to submitting this Github issue, you will be receiving a diligence review that will require you return to this issue to provide update clarification.
@@ -100,14 +104,9 @@ body:
       - (No)
   validations:
     required: true
-- type: markdown
-  attributes:
-    value: |
-      ## Verification 
-      Confirm that you have complied with the program guidelines.
 - type: dropdown
   attributes:
-    label: Please confirm that you have met the standards set forward in your application for each dispursment issued to clients and you understand the Fil+ guidelines and your role as an Allocator.
+    label: Please confirm that you have maintained the standards set forward in your application for each dispursment issued to clients and you understand the Fil+ guidelines and your role as an Allocator.
     description: https://docs.filecoin.io/basics/how-storage-works/filecoin-plus
     options:
       - (Yes)
