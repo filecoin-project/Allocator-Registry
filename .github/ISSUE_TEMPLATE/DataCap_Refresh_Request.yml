@@ -58,11 +58,11 @@ body:
 - type: markdown
   attributes:
     value: |
-      ## DataCap that was distributed 
-      Please provide detailed fields to annotate how the DataCap was issued.
+      ## DataCap Verification 
+      Please provide details on how the DataCap was issued.
 - type: dropdown
   attributes:
-    label: How many Datacap refill requests have already been submitted for this organization and pathway
+    label: How many Datacap refill requests have already been submitted for this pathway
     options:
       - 0
       - 1
@@ -76,16 +76,22 @@ body:
 - type: input
   attributes:
     label: Please provide the url to your past application for DataCap refresh 1 (submit for all that apply)
-    description: 
+    description: This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
   validations:
-    required: false
-      
+    required: false   
 - type: input
   attributes:
-    label: Please provide the url to your past application(s) for DataCap refresh 2  (submit for all that apply)
-    description: 
+    label: Please provide the url to your past application(s) for DataCap Refresh 2  (submit for all that apply)
+    description:  This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
   validations:
     required: false
+- type: input
+  attributes:
+    label: Please provide the url to your past application(s) for DataCap Refresh 3  (submit for all that apply)
+    description: This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
+  validations:
+    required: false
+  
 - type: dropdown
   attributes:
     label: Please confirm that you understand that in addition to submitting this Github issue, you will be receiving a diligence review that will require you return to this issue to provide update clarification.
