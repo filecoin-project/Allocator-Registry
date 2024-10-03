@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #181", "body": {
+"Allocators": [
+ {
+   "application_number": "181",
+   "address": "I will provide an address on a later date",
+   "name": "Client Vetted Pathway",
+   "organization": "Haven DP",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,South America,Oceania",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1mhd5x2d3gybsplhi2apqluxk6ircldusszf4miy",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Commercial/Enterprise"
+      ],
+      "required_sps": "1+",
+      "required_replicas": "1+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": ["haven-allocator, , "],
+      "allocation_bookkeeping": "https://github.com/haven-allocator/vetted-client-dataset"
+   },
+   "poc": {
+      "slack": "@kz",
+      "github_user": "@haven-allocator"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
