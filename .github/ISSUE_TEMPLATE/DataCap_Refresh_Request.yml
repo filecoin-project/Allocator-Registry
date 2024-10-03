@@ -58,7 +58,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      ## DataCap Verification 
+      ## Past Refresh Review 
       Please provide details on how the DataCap was issued.
 - type: dropdown
   attributes:
@@ -100,7 +100,11 @@ body:
       - (No)
   validations:
     required: true
-
+- type: markdown
+  attributes:
+    value: |
+      ## Verification 
+      Confirm that you have complied with the program guidelines.
 - type: dropdown
   attributes:
     label: Please confirm that you have met the standards set forward in your application for each dispursment issued to clients and you understand the Fil+ guidelines and your role as an Allocator.
