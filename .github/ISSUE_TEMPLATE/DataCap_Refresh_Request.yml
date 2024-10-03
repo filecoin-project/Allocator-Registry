@@ -70,14 +70,14 @@ body:
     required: false
 - type: input
   attributes:
-    label: Please provide the url to your past application(s) for DataCap refresh  
+    label: Please provide the url to your past application for DataCap refresh 1 (submit for all that apply)
     description: 
   validations:
     required: false
       
 - type: input
   attributes:
-    label: Please provide the url to your past application(s) for DataCap refresh  
+    label: Please provide the url to your past application(s) for DataCap refresh 2  (submit for all that apply)
     description: 
   validations:
     required: false
