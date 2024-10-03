@@ -36,7 +36,7 @@ body:
       - 4
       - 5
       - 5+
-       required: true
+    required: true
 - type: input
   attributes:
     label: Past DataCap Refresh  
