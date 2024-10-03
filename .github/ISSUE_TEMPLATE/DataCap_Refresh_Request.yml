@@ -1,5 +1,5 @@
 name: "[Apply] Datacap Allocation Refresh"
-description: "Once the Allocator has distributed 75% of this DataCap they are able to request an additional allocation of DataCap. This DataCap distribution will follow the guideliness requested in the Applicaiton [#7] DataCap Requested for allocator for 12 months of activity." 
+description: "Once the Allocator has distributed 75% of this DataCap they are able to request an additional allocation of DataCap." 
 body:
 - type: markdown
   attributes:
