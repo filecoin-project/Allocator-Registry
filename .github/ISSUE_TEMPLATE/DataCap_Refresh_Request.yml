@@ -9,7 +9,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      # Core Information
+      # Allocator Information
 - type: dropdown
   attributes:
     label: Type of Allocator 
@@ -40,13 +40,13 @@ body:
     label: Please provide the url to your Allocator Application
     description: This can be found at [APPLICATION](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
   validations:
-    required: false
+    required: true
 - type: input
   attributes:
     label: The Application number linked to your organization 
     description: This can be found at [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators) 
   validations:
-    required: false 
+    required: true 
 - type: dropdown 
   attributes:
     label: Account Authorization
@@ -59,7 +59,7 @@ body:
   attributes:
     value: |
       ## Past Refresh Review 
-      Please provide link to any previoud Refresh requests submitted for this pathway.
+      Please provide previous Refresh requests submitted for this pathway.
 - type: dropdown
   attributes:
     label: How many Datacap refill requests have already been submitted for this pathway
@@ -75,7 +75,7 @@ body:
     required: false
 - type: input
   attributes:
-    label: Please provide the url to your past application for DataCap refresh 1 (submit for all that apply)
+    label: Please provide the url to your past application for DataCap refresh 1 (submit for all that apply) (If this is the first, leave blank)(
     description: This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
   validations:
     required: false   
@@ -95,7 +95,7 @@ body:
 - type: markdown
   attributes:
     value: |
-      ## Distributions in this round 
+      ## Distributions  
       Provide the nessesary information to verify the DataCap dispursed in this round maintained your Pathway standards.
 
       
