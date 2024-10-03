@@ -14,48 +14,45 @@ body:
     required: true
 - type: input
   attributes:
-    label: Applicaiton Number  
-    description: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
+    label: JSON Number  
+    description: The Application tracking JSON linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators)
   validations:
     required: true
 - type: dropdown
   attributes:
-    label: Would you like to 
+    label: Is the Github account being used to create this refill request issue listed as an authorized user in the JSON linked above? 
     options:
-      - Add a Bookkeeping url (for the first time)
-      - Update the url for an existing bookkeping repo
-      - Other
+      - Yes
+      - No
+      - Other (please specify in comments)
+    required: true
+- type: dropdown
+  attributes:
+    label: How many times has your pathway received a DataCap refresh review? 
+    options:
+      - First Time
+      - 2
+      - 3
+      - 4
+      - 5
+      - 5+
+       required: true
 - type: input
   attributes:
-    label: Updated Bookkeeping URL 
-    description: The updated url information for the Allocator account you are wishing to update (Remove/Add/Modify)
+    label: Past DataCap Refresh  
+    description: Please link the past Applications from any Diligence Audits
   validations:
-    required: true
+   
+- type: dropdown
+  attributes:
+    label: How many clients did you distrbute DataCap to with this most recent allocation?
+    options:
+      - 1
+      - 2
+      - 3
+      - 4
 - type: input
   attributes:
     label: Previous Bookkeeping URL 
-    description: If this new url is to REPLACE an existing url, please provide previous bookkeeping url
-  validations:
+    description: Please link the past Bookkeeping records for the client discovery that conducted to verify the client's data met the onboarding standards of your application, and the data was stored within requirements.
     required: false
-- type: dropdown
-  attributes:
-    label: Is the Github Account used to file this request is already recorded on the Allocator JSON for your organization? 
-    options:
-      - "Yes"
-      - "No"
-  validations:
-    required: true
-- type: input
-  attributes:
-    label: Reason for the change 
-    description: Please provide a brief reason for the change to the Allocator bookkeeping information.
-  validations:
-    required: false
-- type: input
-  attributes:
-    label: Additional Information 
-    description: Any additional information you with to provide?
-  validations:
-    required: false
-
-        
