@@ -21,6 +21,11 @@ body:
       - Automated, Novel Pathway
       - Market Based, Novel Pathway
       - Other
+- type: markdown
+  attributes:
+    value: |
+      ## Subheader
+      More details about the subheader.
   validations:
     required: false
 - type: input
@@ -37,14 +42,14 @@ body:
     required: true
 - type: input
   attributes:
-    label: Please provide the url to your Allocator 
+    label: Please provide the url to your Allocator Application
     description: This can be found at [APPLICATION](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
   validations:
     required: false
 - type: input
   attributes:
-    label: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators) 
-    description: 
+    label: The Application number linked to your organization 
+    description: This can be found at [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators) 
   validations:
     required: false 
 - type: dropdown 
