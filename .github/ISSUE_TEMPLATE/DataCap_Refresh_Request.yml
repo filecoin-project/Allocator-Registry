@@ -75,10 +75,17 @@ body:
     description: 
   validations:
     required: false
+body:
 - type: markdown
   attributes:
     value: |
-      # Dispursement Review
+      # Dispursment Information 
+      
+- type: markdown
+  attributes:
+    value: |
+      # Self Reporting
+
 - type: input
   attributes:
     label: Please provide the url to your past application(s) for DataCap refresh  
