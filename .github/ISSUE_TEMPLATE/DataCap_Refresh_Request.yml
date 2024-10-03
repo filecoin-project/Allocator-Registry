@@ -75,11 +75,6 @@ body:
     description: 
   validations:
     required: false
-
-- type: markdown
-  attributes:
-    value: |
-      # Dispursment Information 
       
 - type: input
   attributes:
