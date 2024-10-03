@@ -22,8 +22,8 @@ body:
   attributes:
     label: Is the Github account being used to create this refill request issue listed as an authorized user in the JSON linked above? 
     options:
-      - Yes
-      - No
+      - "Yes"
+      - "No"
       - Other (please specify in comments)
   validations:
     required: true
