@@ -47,12 +47,11 @@ body:
     label: The Application number linked to your organization [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators) 
     description: 
   validations:
-    required: false
-    
+    required: false 
 - type: dropdown 
   attributes:
     label: Account Authorization
-    description: Does the Github account used to submit this request match the Organizational authorized in the Registry for your organization?
+    description: Does the Github account used to submit this request match the Github account authorized in the Registry for your organization?
     options:
       - "Yes"
       - "No" 
@@ -70,21 +69,22 @@ body:
       - 6
   validations:
     required: false
-
 - type: input
   attributes:
     label: Please provide the url to your past application(s) for DataCap refresh  
     description: 
   validations:
     required: false
-- type: dropdown 
+- type: markdown
   attributes:
-    label: Existing OnChain Address
-    description: In order to receive DataCap from RKH, address must be initialized on-chain. To use FIDL tooling, must be an f2 multisig address.
-    options:
-      - I have an existing f2 address already setup
-      - I will need support to setup an f2 address 
-      - Other
+    value: |
+      # Core Information
+- type: input
+  attributes:
+    label: Please provide the url to your past application(s) for DataCap refresh  
+    description: 
+  validations:
+    required: false
 - type: dropdown
   attributes:
     label: Please confirm that you understand that in addition to submitting this Github issue, you will be receiving a diligence review that will require you return to this issue to provide update clarification.
@@ -96,7 +96,7 @@ body:
 
 - type: dropdown
   attributes:
-    label: Please confirm that you have met the standards set forward in your application for each dispursment of DataCap and you understand the Fil+ guidelines and your role as an Allocator.
+    label: Please confirm that you have met the standards set forward in your application for each dispursment issued to clients and you understand the Fil+ guidelines and your role as an Allocator.
     description: https://docs.filecoin.io/basics/how-storage-works/filecoin-plus
     options:
       - (Yes)
