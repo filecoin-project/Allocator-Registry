@@ -1,0 +1,104 @@
+Allocators DataCap distribution.  Once the Allocator has distributed 75% of this DataCap they are able to request an additional allocation of DataCap. This DataCap distribution will follow the guideliness requested in the Applicaiton [#7] DataCap Requested for allocator for 12 months of activity.
+name: Datacap Allocation Refresh
+description: Allocators should use this application form to request an addtional amount of DataCap
+body:
+
+
+
+name: "[Apply] Datacap Allocation Refresh"
+description: "Once the Allocator has distributed 75% of this DataCap they are able to request an additional allocation of DataCap. This DataCap distribution will follow the guideliness requested in the Applicaiton [#7] DataCap Requested for allocator for 12 months of activity." 
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Application to become an Allocator
+      To receive a refill of Datacap, please fill complete to provide the nessesary information to confirm compliance. 
+      
+- type: markdown
+  attributes:
+    value: |
+      # Core Information
+- type: input
+  attributes:
+    label: Allocator Pathway Name 
+    description: Unique descriptive name of your allocator onboarding pathway	
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Organization Name  
+    description: The name of the Organization applying to become an authorized Allocator
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Please provide the url to your Allocator application  
+    description: 
+  validations:
+    required: false
+- type: dropdown 
+  attributes:
+    label: Github Account Verified
+    description: Does the Github account used to submit this request match the Organizational authorized in the JSON?
+    options:
+      - "Yes"
+      - "No" 
+      - Other
+- type: dropdown
+  attributes:
+    label: How many Datacap refill requests have already been submitted for this organization and pathway
+    options:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: Please provide the url to your past application(s) for DataCap refresh  
+    description: 
+  validations:
+    required: false
+- type: dropdown
+  attributes:
+    label: Type of Allocator 
+    options:
+      - RFA, Automated Github
+      - RFA, Automated Social Media or WeChat
+      - RFA, Market Staking
+      - Manual
+      - Automated, Novel Pathway
+      - Market Based, Novel Pathway
+      - Other
+  validations:
+    required: false
+- type: dropdown 
+  attributes:
+    label: Existing OnChain Address
+    description: In order to receive DataCap from RKH, address must be initialized on-chain. To use FIDL tooling, must be an f2 multisig address.
+    options:
+      - I have an existing f2 address already setup
+      - I will need support to setup an f2 address 
+      - Other
+- type: dropdown
+  attributes:
+    label: Please confirm that you understand that in addition to submitting this Github issue, you will need to complete and submit the Airtable [Form](https://airtable.com)
+    options:
+      - (Yes)
+      - (No)
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Please confirm that you have read and understand the Fil+ guidelines and your role as an Allocator
+    description: https://docs.filecoin.io/basics/how-storage-works/filecoin-plus
+    options:
+      - (Yes)
+      - (No)
+  validations:
+    required: true
