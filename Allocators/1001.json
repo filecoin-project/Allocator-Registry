@@ -1,44 +1,46 @@
 {
-    "application_number": 1001,
-    "address": "f2o2obeorcnu4zp6zbs6i2pxkzqppxyxommqpsefi",
-    "name": "CloudX Lab",
-    "organization": "YunXiang Technology",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Automatic",
-    "associated_org_addresses": "f1mkrrydd5xdjgtpnlsljkmdy5w3tphzz3orb32di",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": [],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 10,
-        "github_handles": [
-            "CloudX-Lab"
-        ],
-        "allocation_bookkeeping": "https://github.com/CloudX-Lab/filecion"
+  "application_number": 1001,
+  "address": "f2o2obeorcnu4zp6zbs6i2pxkzqppxyxommqpsefi",
+  "name": "CloudX Lab",
+  "organization": "YunXiang Technology",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": "f1mkrrydd5xdjgtpnlsljkmdy5w3tphzz3orb32di",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "CloudX Lab",
-        "github_user": "CloudX-Lab"
-    },
-    "pathway_addresses": {
-        "msig": "f2o2obeorcnu4zp6zbs6i2pxkzqppxyxommqpsefi",
-        "signer": [
-            "f1mkrrydd5xdjgtpnlsljkmdy5w3tphzz3orb32di"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 10,
+    "github_handles": [
+      "CloudX-Lab"
+    ],
+    "allocation_bookkeeping": "https://github.com/CloudX-Lab/filecion"
+  },
+  "poc": {
+    "slack": "CloudX Lab",
+    "github_user": "CloudX-Lab"
+  },
+  "pathway_addresses": {
+    "msig": "f2o2obeorcnu4zp6zbs6i2pxkzqppxyxommqpsefi",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1mkrrydd5xdjgtpnlsljkmdy5w3tphzz3orb32di",
+      "f1xnjscyxj6bur34xkut32uk34bfwf2g7p7frsajq"
+    ]
+  }
 }

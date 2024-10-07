@@ -1,44 +1,48 @@
 {
-    "application_number": 1052,
-    "address": "f2easi46ap54rihqik5cck2wr55hwm4rmmi2c2wxy",
-    "name": "Ant Steve",
-    "organization": "Antalpha",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1wptpz63azsjoxu7z46zo34d2rjb3nssdrvn75iq",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Individuals learning about Filecoin",
-        "Small-scale developers or data owners",
-        "Enterprise Data Clients"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "4+",
-      "tooling": ["common_ui"],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact",
-        "Other (specified elsewhere)"
-      ],
-      "12m_requested": 100,
-      "github_handles": ["nj-steve"],
-      "allocation_bookkeeping": "https://github.com/Antalpha-Web3/Ant-Steve"
+  "application_number": 1052,
+  "address": "f2easi46ap54rihqik5cck2wr55hwm4rmmi2c2wxy",
+  "name": "Ant Steve",
+  "organization": "Antalpha",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1wptpz63azsjoxu7z46zo34d2rjb3nssdrvn75iq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "Slack ID：US21MNDJR    handles: https://filecoinproject.slack.com/team/US21MNDJR      Slack Name: Steve-Antalpha",
-      "github_user": "https://github.com/nj-steve"
-    },
-    "pathway_addresses": {
-      "msig": "f2easi46ap54rihqik5cck2wr55hwm4rmmi2c2wxy",
-      "signer": [
-        "f1xx6555qijma7igpnjspyvdunc4vfxkawnpqy5ii"
-      ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "4+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "nj-steve"
+    ],
+    "allocation_bookkeeping": "https://github.com/Antalpha-Web3/Ant-Steve"
+  },
+  "poc": {
+    "slack": "Slack ID：US21MNDJR    handles: https://filecoinproject.slack.com/team/US21MNDJR      Slack Name: Steve-Antalpha",
+    "github_user": "https://github.com/nj-steve"
+  },
+  "pathway_addresses": {
+    "msig": "f2easi46ap54rihqik5cck2wr55hwm4rmmi2c2wxy",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1xx6555qijma7igpnjspyvdunc4vfxkawnpqy5ii"
+    ]
   }
-  
+}

@@ -1,40 +1,43 @@
 {
-    "application_number": 992,
-    "address": "f2dk2pgsc6fzs4fjrqv5vcquvzbmq3qhfli5khohy",
-    "name": "Bewell Technology Limited Fil+ Datacap Allocator (BWTDA)",
-    "organization": "Bewell Technology Limited",
-    "location": "Hong Kong",
-    "status": "In-Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1mtfp6whtd2mawpezya4vcfnvjvogdpp53i45ubq",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "3+",
-        "required_replicas": "3+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise"
-        ],
-        "12m_requested": 100,
-        "github_handles": [
-            "Aaron01230"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Bewell-Technology-Limited"
+  "application_number": 992,
+  "address": "f2dk2pgsc6fzs4fjrqv5vcquvzbmq3qhfli5khohy",
+  "name": "Bewell Technology Limited Fil+ Datacap Allocator (BWTDA)",
+  "organization": "Bewell Technology Limited",
+  "location": "Hong Kong",
+  "status": "In-Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1mtfp6whtd2mawpezya4vcfnvjvogdpp53i45ubq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "U03FCT8MDC4",
-        "github_user": "handles:Aaron01230"
-    },
-    "pathway_addresses": {
-        "msig": "f2dk2pgsc6fzs4fjrqv5vcquvzbmq3qhfli5khohy",
-        "signer": [
-            "f1mtfp6whtd2mawpezya4vcfnvjvogdpp53i45ubq"
-        ]
-    }
+    "target_clients": [
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "3+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "Aaron01230"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Bewell-Technology-Limited"
+  },
+  "poc": {
+    "slack": "U03FCT8MDC4",
+    "github_user": "handles:Aaron01230"
+  },
+  "pathway_addresses": {
+    "msig": "f2dk2pgsc6fzs4fjrqv5vcquvzbmq3qhfli5khohy",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1mtfp6whtd2mawpezya4vcfnvjvogdpp53i45ubq"
+    ]
+  }
 }

@@ -1,44 +1,45 @@
 {
-    "application_number": 1003,
-    "address": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
-    "name": "FrogHub",
-    "organization": "FrogHub Tech",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1a7ngs2e6vb2mlwjqjazk44c7dzck5yuslb5tgcy",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Enterprise Data Clients",
-            "Small-scale developers or data owners"
-        ],
-        "required_sps": "3+",
-        "required_replicas": "5+",
-        "tooling": [],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Private Non-Profit/Social Impact",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise"
-        ],
-        "12m_requested": 50,
-        "github_handles": [
-            "FroghubMan"
-        ],
-        "allocation_bookkeeping": "https://github.com/FroghubMan/filplus"
+  "application_number": 1003,
+  "address": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
+  "name": "FrogHub",
+  "organization": "FrogHub Tech",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1a7ngs2e6vb2mlwjqjazk44c7dzck5yuslb5tgcy",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "@yuzhou_Froghub",
-        "github_user": "@FroghubMan"
-    },
-    "pathway_addresses": {
-        "msig": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
-        "signer": [
-            "f1a7ngs2e6vb2mlwjqjazk44c7dzck5yuslb5tgcy",
-            "f1we33qh5zzzx2cuedwirpphotlkexh6tvbujok2y"
-        ]
-    }
+    "target_clients": [
+      "Enterprise Data Clients",
+      "Small-scale developers or data owners"
+    ],
+    "required_sps": "3+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Private Non-Profit/Social Impact",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise"
+    ],
+    "12m_requested": 50,
+    "github_handles": [
+      "FroghubMan"
+    ],
+    "allocation_bookkeeping": "https://github.com/FroghubMan/filplus"
+  },
+  "poc": {
+    "slack": "@yuzhou_Froghub",
+    "github_user": "@FroghubMan"
+  },
+  "pathway_addresses": {
+    "msig": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
+    "signer": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1a7ngs2e6vb2mlwjqjazk44c7dzck5yuslb5tgcy",
+      "f1we33qh5zzzx2cuedwirpphotlkexh6tvbujok2y"
+    ]
+  }
 }
