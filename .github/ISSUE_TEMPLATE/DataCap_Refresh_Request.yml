@@ -1,5 +1,5 @@
 name: "[Apply] Datacap Allocation Refresh"
-description: "Once the Allocator has distributed 75% of this DataCap they are able to request an additional allocation of DataCap." 
+description: "Once the Allocator has distributed 75% of DataCap they are able to request an additional allocation of DataCap." 
 body:
 - type: markdown
   attributes:
@@ -75,30 +75,75 @@ body:
     required: false
 - type: input
   attributes:
-    label: Please provide the url to your past application for DataCap refresh 1 (submit for all that apply) (If this is the first, leave blank)(
+    label: 1st Refresh - Please provide the url to your first application for DataCap refresh (submit for all that apply) (If this is the first, leave blank)
     description: This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
   validations:
     required: false   
+- type: dropdown
+  attributes:
+    label: 1st Refresh - How much DataCap did you receive in this refresh application
+    options:
+      - 2.5 Pib
+      - 5 Pib
+      - 10 Pib
+      - Other
+  validations:
+    required: false
 - type: input
   attributes:
-    label: Please provide the url to your past application(s) for DataCap Refresh 2  (submit for all that apply)
+    label: 1st Refresh - What compliance guidance were given to this pathway?
+    description: This would be the comment in the application from Galen on the Governance Team.
+  validations:
+    required: false      
+- type: input
+  attributes:
+    label: 2nd Refresh - Please provide the url to your past application for DataCap Refresh 2  (submit for all that apply)(If this is the first, leave blank)
     description:  This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
   validations:
     required: false
+- type: dropdown
+  attributes:
+    label: 2nd Refresh - How much DataCap did you receive in this refresh application
+    options:
+      - 2.5 Pib
+      - 5 Pib
+      - 10 Pib
+      - Other
+  validations:
+    required: false
 - type: input
   attributes:
-    label: Please provide the url to your past application(s) for DataCap Refresh 3  (submit for all that apply)
+    label: 2nd Refresh - What compliance guidance were given to this pathway?
+    description: This would be the comment in the application from Galen from the Governance Team.
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 3rd Refresh - Please Please provide the url to your past application(s) for DataCap Refresh 3 (submit for all that apply)(If this is the first, leave blank)
     description: This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
   validations:
     required: false
-
+- type: dropdown
+  attributes:
+    label: 3rd Refresh - How much DataCap did you receive in this refresh application
+    options:
+      - 2.5 Pib
+      - 5 Pib
+      - 10 Pib
+      - Other
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 3rd Refresh - What compliance guidance were given to this pathway?
+    description: This would be the comment from Galen (from the Governance Team) as in application.
+  validations:
+    required: false
 - type: markdown
   attributes:
     value: |
       ## Distributions  
       Provide the nessesary information to verify the DataCap dispursed in this round maintained your Pathway standards.
-
-      
 - type: markdown
   attributes:
     value: |
