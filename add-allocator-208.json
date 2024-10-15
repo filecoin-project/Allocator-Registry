@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #179", "body": {
+"Allocators": [
+ {
+   "application_number": "179",
+   "address": "I have a multisig I want to provide now",
+   "name": "Open Dataset",
+   "organization": "Haven DP",
+   "location": "Europe,North America,South America,Oceania,Greater China Region,Asia minus GCR,Africa",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1mhd5x2d3gybsplhi2apqluxk6ircldusszf4miy",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Open/Public,Nonprofit organizations,Individuals"
+      ],
+      "required_sps": "2+",
+      "required_replicas": "2+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable"
+      ],
+      "12m_requested": "100-200PiB",
+      "github_handles": ["haven-allocator, kevzak, "],
+      "allocation_bookkeeping": "https://github.com/haven-allocator/open-dataset"
+   },
+   "poc": {
+      "slack": "@KZ",
+      "github_user": "@haven-allocator"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
