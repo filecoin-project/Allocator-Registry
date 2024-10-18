@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #146", "body": {
+"Allocators": [
+ {
+   "application_number": "146",
+   "address": "I have a multisig I want to provide now",
+   "name": "Origin-Automated-Allocator-Application",
+   "organization": "Origin Storage",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f1q6bpjlqia6iemqbrdaxr2uehrhpvoju3qh4lpga",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+      ],
+      "required_sps": "1+",
+      "required_replicas": "1+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable,Private encrypted with on-chain deal pricing,Proof of concept, network utilities"
+      ],
+      "12m_requested": ">200PiB",
+      "github_handles": ["chainupk, If, there"],
+      "allocation_bookkeeping": "https://github.com/Origin-Storage-IO/automated-staking-storage"
+   },
+   "poc": {
+      "slack": "kenneth goh",
+      "github_user": "chainupk"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
