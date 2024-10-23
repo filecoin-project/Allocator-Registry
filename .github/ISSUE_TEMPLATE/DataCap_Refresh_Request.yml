@@ -1,0 +1,168 @@
+name: "[Apply] Datacap Allocation Refresh"
+description: "Once the Allocator has distributed 75% of DataCap they are able to request an additional allocation of DataCap." 
+body:
+- type: markdown
+  attributes:
+    value: |
+      # Application to receive additional DataCap 
+      To receive a refill of Datacap, please complete this issue with the nessesary information to confirm compliance. Once submitted you will receive a comment in Issue from the Community or Watchdog account.  Please respond to any questions raised to ensure timely refill. Typical turnaround for DataCap refill decision is ~2weeks.
+- type: markdown
+  attributes:
+    value: |
+      # Allocator Information
+- type: dropdown
+  attributes:
+    label: Type of Allocator 
+    options:
+      - RFA, Automated Github
+      - RFA, Automated Social Media or WeChat
+      - RFA, Market Staking
+      - Manual
+      - Automated, Novel Pathway
+      - Market Based, Novel Pathway
+      - Other
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: Allocator Pathway Name 
+    description: Unique descriptive name of your allocator pathway 
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: Organization Name  
+    description: The name of the Organization 
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: Please provide the url to your Allocator Application
+    description: This can be found at [APPLICATION](https://github.com/filecoin-project/notary-governance/issues?q=is%3Aissue+is%3Aopen+label%3A%22Round+5+-+Allocator%22)
+  validations:
+    required: true
+- type: input
+  attributes:
+    label: The Application number linked to your organization 
+    description: This can be found at [JSON](https://github.com/filecoin-project/Allocator-Registry/tree/main/Allocators) 
+  validations:
+    required: true 
+- type: dropdown 
+  attributes:
+    label: Account Authorization
+    description: Does the Github account used to submit this request match the Github account authorized in the Registry for your organization?
+    options:
+      - "Yes"
+      - "No" 
+      - Other
+- type: markdown
+  attributes:
+    value: |
+      ## Past Refresh Review 
+      Please provide previous Refresh requests submitted for this pathway.
+- type: dropdown
+  attributes:
+    label: How many Datacap refill requests have already been submitted for this pathway
+    options:
+      - 0
+      - 1
+      - 2
+      - 3
+      - 4
+      - 5
+      - 6
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 1st Refresh - Please provide the url to your first application for DataCap refresh (submit for all that apply) (If this is the first, leave blank)
+    description: This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
+  validations:
+    required: false   
+- type: dropdown
+  attributes:
+    label: 1st Refresh - How much DataCap did you receive in this refresh application
+    options:
+      - 2.5 Pib
+      - 5 Pib
+      - 10 Pib
+      - Other
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 1st Refresh - What compliance guidance were given to this pathway?
+    description: This would be the comment in the application from Galen on the Governance Team.
+  validations:
+    required: false      
+- type: input
+  attributes:
+    label: 2nd Refresh - Please provide the url to your past application for DataCap Refresh 2  (submit for all that apply)(If this is the first, leave blank)
+    description:  This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
+  validations:
+    required: false
+- type: dropdown
+  attributes:
+    label: 2nd Refresh - How much DataCap did you receive in this refresh application
+    options:
+      - 2.5 Pib
+      - 5 Pib
+      - 10 Pib
+      - Other
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 2nd Refresh - What compliance guidance were given to this pathway?
+    description: This would be the comment in the application from Galen from the Governance Team.
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 3rd Refresh - Please Please provide the url to your past application(s) for DataCap Refresh 3 (submit for all that apply)(If this is the first, leave blank)
+    description: This can be located in the [Governance Repo](https://github.com/filecoin-project/Allocator-Governance/issues?q=is%3Aissue+is%3Aopen+label%3ARefresh)
+  validations:
+    required: false
+- type: dropdown
+  attributes:
+    label: 3rd Refresh - How much DataCap did you receive in this refresh application
+    options:
+      - 2.5 Pib
+      - 5 Pib
+      - 10 Pib
+      - Other
+  validations:
+    required: false
+- type: input
+  attributes:
+    label: 3rd Refresh - What compliance guidance were given to this pathway?
+    description: This would be the comment from Galen (from the Governance Team) as in application.
+  validations:
+    required: false
+- type: markdown
+  attributes:
+    value: |
+      ## Distributions  
+      Provide the nessesary information to verify the DataCap dispursed in this round maintained your Pathway standards.
+- type: markdown
+  attributes:
+    value: |
+      ## Verification 
+      Confirm that you have complied with the program guidelines.
+- type: dropdown
+  attributes:
+    label: Please confirm that you understand that in addition to submitting this Github issue, you will be receiving a diligence review that will require you return to this issue to provide update clarification.
+    options:
+      - (Yes)
+      - (No)
+  validations:
+    required: true
+- type: dropdown
+  attributes:
+    label: Please confirm that you have maintained the standards set forward in your application for each dispursment issued to clients and you understand the Fil+ guidelines and your role as an Allocator.
+    description: https://docs.filecoin.io/basics/how-storage-works/filecoin-plus
+    options:
+      - (Yes)
+      - (No)
+  validations:
+    required: true
