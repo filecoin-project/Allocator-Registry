@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #204", "body": {
+"Allocators": [
+ {
+   "application_number": "204",
+   "address": "I would like the governance team to create a multisig for me",
+   "name": "LUCKYPOOL",
+   "organization": "LUCKYPOOL",
+   "location": "Asia minus GCR,Europe,Oceania,Greater China Region",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f15ahraahohahm6qdf3lhiohgg3kvboztfge22o7q",
+   "application": {
+      "allocations": {
+         "standardized": "Standardized scaling tranche schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Open/Public"
+      ],
+      "required_sps": "5+",
+      "required_replicas": "5+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": ["ssnks1, no, "],
+      "allocation_bookkeeping": "https://github.com/ssnks1/Allocator-LUCKYPOOL"
+   },
+   "poc": {
+      "slack": "wilson",
+      "github_user": "ssnks1"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
