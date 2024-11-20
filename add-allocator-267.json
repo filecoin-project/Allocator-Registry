@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #230", "body": {
+"Allocators": [
+ {
+   "application_number": "230",
+   "address": "I have a multisig I want to provide now",
+   "name": "Starry",
+   "organization": "Hong Kong Starry Blue Ocean Technology Co., Limited",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f1fioa3lf45tceovtaiuq7pd6d4sfalevm6ag7ghq",
+   "application": {
+      "allocations": {
+         "standardized": "Standardized scaling tranche schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Individuals,Open/Public,Commercial/Enterprise,Nonprofit organizations"
+      ],
+      "required_sps": "3+",
+      "required_replicas": "3+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable,Proof of concept, network utilities"
+      ],
+      "12m_requested": "100-200PiB",
+      "github_handles": ["yangxufengjx987, If, there"],
+      "allocation_bookkeeping": "https://github.com/yangxufengjx987/Starry"
+   },
+   "poc": {
+      "slack": "Starry",
+      "github_user": "yangxufengjx987"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
