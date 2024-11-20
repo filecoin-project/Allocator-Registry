@@ -22,9 +22,11 @@
     ],
     "required_sps": "2+",
     "required_replicas": "2+",
+    "tooling": null,
     "data_types": [
       "Public, open, and retrievable"
     ],
+    "12m_requested": null,
     "github_handles": [
       "asynctomatic"
     ],
@@ -34,6 +36,12 @@
     "slack": "asynctomatic",
     "github_user": "asynctomatic"
   },
+  "application_instructions": [
+    {
+      "method": "META_ALLOCATOR",
+      "amount": 1337
+    }
+  ],
   "pathway_addresses": {
     "msig": "f2rclvb7liuexvpznfwrhozwm7wlv3vjxsrfgj6oy",
     "signer": [
