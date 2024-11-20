@@ -1,0 +1,50 @@
+{
+  "application_number": 1337,
+  "address": "0xd66684AC13a43Dd09e03d799A18C1Fbc4DF33Be9",
+  "name": "Three Sigma",
+  "organization": "Three Sigma",
+  "location": [
+    "Europe"
+  ],
+  "status": "Active",
+  "metapathway_type": "Automatic",
+  "associated_org_addresses": [
+    "0xd66684AC13a43Dd09e03d799A18C1Fbc4DF33Be9",
+    "f1ys5qqiciehcml3sp764ymbbytfn3qoar5fo3iwy"
+  ],
+  "application": {
+    "allocations": {
+      "standardized": []
+    },
+    "target_clients": [
+      "Web3 developers",
+      "Commercial/Enterprise"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "2+",
+    "data_types": [
+      "Public, open, and retrievable"
+    ],
+    "github_handles": [
+      "asynctomatic"
+    ],
+    "allocation_bookkeeping": "https://github.com/threesigmaxyz/fidl-bookkeep"
+  },
+  "poc": {
+    "slack": "asynctomatic",
+    "github_user": "asynctomatic"
+  },
+  "application_instructions": [
+    {
+      "method": "META_ALLOCATOR",
+      "amount": 1337
+    }
+  ],
+  "pathway_addresses": {
+    "msig": "0xd66684AC13a43Dd09e03d799A18C1Fbc4DF33Be9",
+    "signer": [
+      "s1",
+      "s2"
+    ]
+  }
+}
