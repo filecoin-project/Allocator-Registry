@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #257", "body": {
+"Allocators": [
+ {
+   "application_number": "257",
+   "address": "I have a multisig I want to provide now",
+   "name": "StellarStake Allocator",
+   "organization": "Stellar",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f1eekcbnnnj5v6ilthik2odtel7ivp2p2sthiyodi",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+      ],
+      "required_sps": "3+",
+      "required_replicas": "3+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable,Private encrypted with on-chain deal pricing,Proof of concept, network utilities"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": ["fengfeihuimin, If, there"],
+      "allocation_bookkeeping": "https://github.com/fengfeihuimin/StellarStake-Allocator"
+   },
+   "poc": {
+      "slack": "StellarStake",
+      "github_user": "fengfeihuimin"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
