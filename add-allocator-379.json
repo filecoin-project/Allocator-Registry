@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #278", "body": {
+"Allocators": [
+ {
+   "application_number": "278",
+   "address": "I will provide an address on a later date",
+   "name": "SmartEase",
+   "organization": "HK SmartEase Connect Technology Limited",
+   "location": "Greater China Region,Asia minus GCR",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f3vbuvjbglu42hwmcxehzjgnibkabwo6nm5y5hauinwlymcavqqcwfacdv3uromy5yafhgre2ik5j4mcfegfpa",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Commercial/Enterprise,Web3 developers,Individuals,Nonprofit organizations"
+      ],
+      "required_sps": "5+",
+      "required_replicas": "5+",
+      "tooling": ["No"],
+      "data_types": [
+        "Public, open, and retrievable,Private encrypted with on-chain deal pricing,Proof of concept, network utilities"
+      ],
+      "12m_requested": "100-200PiB",
+      "github_handles": ["MaverickEthos, If, there"],
+      "allocation_bookkeeping": "https://github.com/MaverickEthos/filecoinplus"
+   },
+   "poc": {
+      "slack": "geist831@gmail.com",
+      "github_user": "MaverickEthos"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
