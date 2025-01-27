@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #167", "body": {
+"Allocators": [
+ {
+   "application_number": "167",
+   "address": "I will provide an address on a later date",
+   "name": "CoffeeCloud Gen2 Allocation Pathway",
+   "organization": "Coffee Cloud Company Limited",
+   "location": "Asia minus GCR",
+   "status": "open",
+   "metapathway_type": "RFA",
+   "associated_org_addresses": "f14qmuid2b6ne4342m5dk56f4rcr7y5sz4sg5fiwy",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Commercial/Enterprise,Individuals"
+      ],
+      "required_sps": "1+",
+      "required_replicas": "1+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable"
+      ],
+      "12m_requested": "5-50PiB",
+      "github_handles": ["ccnick, If, there"],
+      "allocation_bookkeeping": "https://github.com/coffeecloud-info/DataCap-Bookkeeping"
+   },
+   "poc": {
+      "slack": "nixklai",
+      "github_user": "ccnick"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
