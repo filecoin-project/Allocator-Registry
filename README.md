@@ -1,6 +1,7 @@
 # Allocator Support
 To file a support issue please open an [ISSUE](https://github.com/filecoin-project/Allocator-Registry/issues). 
-This can be used for governance support, adding or changing the Organization's contact information, or requesting additional Datacap.   
+This can be used for any technical issues that impact an Allocator Pathway. Templates are prepopulated for the most common issues.  The requestor of the change must be already listed in the JSON or able to verify their authoirzation within the organization.
+
 If you wish to report an issue with the tooling please submit an issue directly to FIDL at https://github.com/fidlabs/allocator-tooling
 
 
@@ -115,3 +116,7 @@ Did not pass Diligence
 [1013](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1013.json) | Top Value, Top Value Storage | Singapore | https://github.com/TVLimited/top-value-storage | Singapore
 [1081](https://github.com/filecoin-project/Allocator-Registry/blob/main/Allocators/1081.json) | NiwanDao | Manual | https://github.com/NiwanDao/NiwanPathway | China 
 
+
+** **  
+## Maintainer
+This project is maintained by 💼 @Kevin-FF-USA    💼 @galen-mcandrew
