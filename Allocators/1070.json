@@ -1,6 +1,6 @@
 {
   "application_number": 1070,
-  "address": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Storify Data Fortress",
   "organization": "Storify LLC.",
   "location": "North America",
@@ -19,7 +19,7 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": ["common_ui"],
+    "tooling": ["common_ui", "smart_contract_allocator"],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise"
