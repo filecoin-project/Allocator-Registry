@@ -1,6 +1,6 @@
 {
     "application_number": 1064,
-    "address": "f26opx5wbhpfytt4tmcbebkbvkdzl2emypxzvzzba",
+    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
     "name": "Caro Allocator",
     "organization": "",
     "location": "Europe",
@@ -19,7 +19,7 @@
         ],
         "required_sps": "5+",
         "required_replicas": "5+",
-        "tooling": ["common_ui"],
+        "tooling": ["common_ui", "smart_contract_allocator"],
         "data_types": [
             "Public Open Dataset (Research/Non-Profit)",
             "Public Open Commercial/Enterprise",
