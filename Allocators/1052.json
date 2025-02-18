@@ -1,6 +1,6 @@
 {
   "application_number": 1052,
-  "address": "f2easi46ap54rihqik5cck2wr55hwm4rmmi2c2wxy",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Ant Steve",
   "organization": "Antalpha",
   "location": "Singapore",
@@ -19,7 +19,7 @@
     "required_sps": "5+",
     "required_replicas": "4+",
     "tooling": [
-      "common_ui"
+      "common_ui", "smart_contract_allocator"
     ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",

@@ -1,6 +1,6 @@
 {
   "application_number": 1014,
-  "address": "f2ru35g5sjz7q5atm6mb6nh7bo7tastgluqydxsoa",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "LendMi Storage",
   "organization": "LendMi",
   "location": "Singapore",
@@ -17,7 +17,7 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": ["common_ui"],
+    "tooling": ["common_ui", "smart_contract_allocator"],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",

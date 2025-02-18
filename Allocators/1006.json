@@ -1,6 +1,6 @@
 {
   "application_number": 1006,
-  "address": "f27au4b3z7a243fz43y55hqwfdrso6kcfdork7moa",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "IPFSTT",
   "organization": "Huineng Network",
   "location": "China",
@@ -18,7 +18,7 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": [],
+    "tooling": ["smart_contract_allocator"],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",

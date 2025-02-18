@@ -1,6 +1,6 @@
 {
     "application_number": 1092,
-    "address": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
+    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
     "name": "ZetaCubeAllen",
     "organization": "ZetaCube Inc",
     "location": "Korea",
@@ -19,7 +19,7 @@
         ],
         "required_sps": "5+",
         "required_replicas": "5+",
-        "tooling": ["common_ui"],
+        "tooling": ["common_ui", "smart_contract_allocator"],
         "data_types": [
             "Public Open Dataset (Research/Non-Profit)",
             "Public Open Commercial/Enterprise",
