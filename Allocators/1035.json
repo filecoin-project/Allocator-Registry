@@ -1,6 +1,6 @@
 {
   "application_number": 1035,
-  "address": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Venus Fil+ Datacap Allocator (VFDA)",
   "organization": "Venus Team",
   "location": "China",
@@ -19,7 +19,7 @@
     ],
     "required_sps": "4+",
     "required_replicas": "2+",
-    "tooling": [],
+    "tooling": ["smart_contract_allocator"],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
