@@ -7,7 +7,7 @@ on:
 jobs:
   create_pull_request:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, '[Add Allocator]') && github.event.issue.user.login == 'martapiekarska'
+    if: startsWith(github.event.issue.title, 'add-allocator-') && github.event.issue.user.login == 'martapiekarska'
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
@@ -17,13 +17,13 @@ jobs:
 
       - name: Create JSON file from issue
         run: |
-          echo '{"title": "${{ github.event.issue.title }}", "body": ${{ github.event.issue.body }}}' > add-allocator-${{ github.event.issue.number }}.json
+          echo '{"title": "${{ github.event.issue.title }}", "body": ${{ github.event.issue.body }}}' > "${{ github.event.issue.title }}".json
 
       - name: Commit JSON file
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add add-allocator-${{ github.event.issue.number }}.json
+          git add "${{ github.event.issue.title }}".json
           git commit -m "Add JSON file for issue #${{ github.event.issue.number }}"
 
       - name: Push changes
