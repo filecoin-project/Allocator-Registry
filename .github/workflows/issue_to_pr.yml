@@ -17,13 +17,13 @@ jobs:
 
       - name: Create JSON file from issue
         run: |
-          echo '{"title": "${{ github.event.issue.title }}", "body": ${{ github.event.issue.body }}}' > add-allocator-${{ github.event.issue.number }}.json
+          echo '{${{ github.event.issue.body }}}' > ./Allocators/${{ github.event.issue.number }}.json
 
       - name: Commit JSON file
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add add-allocator-${{ github.event.issue.number }}.json
+          git add ${{ github.event.issue.number }}.json
           git commit -m "Add JSON file for issue #${{ github.event.issue.number }}"
 
       - name: Push changes
