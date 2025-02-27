@@ -40,7 +40,7 @@ jobs:
         run: |
           FILES_JSON="{\"files_changed\":[$(echo ${{ steps.find_json.outputs.files_changed }} | sed 's/\([^,]*\)/"\1"/g')]}"
           echo "JSON being sent: $FILES_JSON"
-          curl --header "Content-Type: application/json" \
+          curl -f --header "Content-Type: application/json" \
                --request POST \
                --data "$FILES_JSON" \
                "${BACKEND_URL}/allocator/create"
