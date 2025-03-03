@@ -25,6 +25,12 @@ If you wish to report an issue with the tooling please submit an issue directly 
 
  Governance Repository - Provide links to past datacap refresh for every pathway as well as application numbers. - https://github.com/filecoin-project/Allocator-Governance/discussions/58
 
+# Automation
+
+Some portions of the JSON records here are maintained autoamtically by bot service accounts.
+
+* https://github.com/threesigmaxyz/filplus-allocator-bot runs as a github action periodically and syncs multisig signers from chain back to allocator records when they change, and loads in new records of allocations as they occur.
+
 ** **  
 ## Maintainer
 This project is maintained by 💼 @Kevin-FF-USA    💼 @galen-mcandrew
