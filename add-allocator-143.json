@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #100", "body": {
+"Allocators": [
+ {
+   "application_number": "100",
+   "address": "I have a multisig I want to provide now",
+   "name": "Cyberhash_Allocator",
+   "organization": "Cyberhash",
+   "location": "Asia minus GCR,Europe,Greater China Region,North America",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f12ae7jvpql6bsglahxkwe5hqrp3trkzphli2euta",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+      ],
+      "required_sps": "5+",
+      "required_replicas": "5+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable,Private encrypted with on-chain deal pricing,Proof of concept, network utilities"
+      ],
+      "12m_requested": "5-50PiB",
+      "github_handles": ["Heim94, If, there"],
+      "allocation_bookkeeping": "https://github.com/Heim94/Cyberhash-Allocator"
+   },
+   "poc": {
+      "slack": "Heim",
+      "github_user": "Heim94"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
