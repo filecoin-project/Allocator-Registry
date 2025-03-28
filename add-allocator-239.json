@@ -1,0 +1,43 @@
+{"title": "[Add Allocator] to tooling from Allocator Application #207", "body": {
+"Allocators": [
+ {
+   "application_number": "207",
+   "address": "I have a multisig I want to provide now",
+   "name": "Cryptomint Allocator",
+   "organization": "cryptomint.space",
+   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1zscxskjplygxts3n35u4wwzq253fwsislypoc2a",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+      ],
+      "required_sps": "4+",
+      "required_replicas": "4+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Public, open, and retrievable"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": ["mr-assume, If, there"],
+      "allocation_bookkeeping": "https://github.com/mr-assume/Cryptomint-Allocator"
+   },
+   "poc": {
+      "slack": "wyth",
+      "github_user": "mr-assume"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}}
