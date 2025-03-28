@@ -7,7 +7,7 @@ on:
 jobs:
   create_pull_request:
     runs-on: ubuntu-latest
-    if: startsWith(github.event.issue.title, '[Add Allocator]') && github.event.issue.user.login == 'martapiekarska'
+    if: startsWith(github.event.issue.title, 'add-allocator-') && github.event.issue.user.login == 'martapiekarska'
     steps:
       - name: Checkout repo
         uses: actions/checkout@v3
