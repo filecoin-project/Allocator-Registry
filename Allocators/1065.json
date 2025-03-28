@@ -1,7 +1,7 @@
 {
     "application_number": 1065,
     "address": "f2uib6cqjmos6ir4ajx4aqt4pbglrrsd7w6ubovki",
-    "name": "Max",
+    "name": "Fortneo",
     "organization": "MinerDAO",
     "location": "Hong Kong",
     "status": "Active",
@@ -24,13 +24,13 @@
         ],
         "12m_requested": 200,
         "github_handles": [
-            "maxvint"
+            "Fortneo"
         ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Max-MinerDAO"
+        "allocation_bookkeeping": "https://github.com/Fortneo/minerdao"
     },
     "poc": {
-        "slack": "Max",
-        "github_user": "maxvint"
+        "slack": "Fortneo",
+        "github_user": "Fortneo"
     },
     "pathway_addresses": {
         "msig": "f2uib6cqjmos6ir4ajx4aqt4pbglrrsd7w6ubovki",
