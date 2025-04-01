@@ -1,7 +1,7 @@
 {
     "application_number": 1060,
     "address": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
-    "name": "Max",
+    "name": "Fortneo",
     "organization": "CoinSummer Labs",
     "location": "Hong Kong",
     "status": "Active",
@@ -28,13 +28,13 @@
         ],
         "12m_requested": 300,
         "github_handles": [
-            "maxvint"
+            "Fortneo"
         ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Max-CoinSummer-Labs"
+        "allocation_bookkeeping": "https://github.com/Fortneo/CoinSummer-Labs"
     },
     "poc": {
-        "slack": "Max",
-        "github_user": "maxvint"
+        "slack": "Fortneo",
+        "github_user": "Fortneo"
     },
     "pathway_addresses": {
         "msig": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
