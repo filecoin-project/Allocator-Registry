@@ -1,0 +1,38 @@
+ {
+   "application_number": "327",
+   "address": "f2ie5kumtwqhhelv5evb6iyqxguveucupaiyhkwvi",
+   "name": "Guazi Dynamic",
+   "organization": "Guazi Dynamic",
+   "location": "Asia minus GCR,Greater China Region",
+   "status": "open",
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1j3u7crhjzwb2cj5mq7vodlt4o66yoyci7lhcauy",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Open/Public,Individuals,Commercial/Enterprise,Nonprofit organizations,Web3 developers"
+      ],
+      "required_sps": "5+",
+      "required_replicas": "5+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable,Proof of concept, network utilities,Proof of concept,network utilities"
+      ],
+      "12m_requested": "5-50PiB",
+      "github_handles": ["fatman13, If, there"],
+      "allocation_bookkeeping": "https://github.com/py-guazi/GZ-FIP0078-Pathway"
+   },
+   "poc": {
+      "slack": "fatman13",
+      "github_user": "fatman13"
+   },
+   "pathway_addresses": {
+      "msig": "f2ie5kumtwqhhelv5evb6iyqxguveucupaiyhkwvi",
+      "signer": [
+       "f410fokc3puzer7pbzt46bb4zh7p4phwfjnkkzz37n3q" ,
+       "f410f3k5oq6fw2ecfvfax5lzmyqua3pcrb47wocnp2qq"
+      ]
+   }
+}
