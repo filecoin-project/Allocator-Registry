@@ -1,6 +1,6 @@
 {
   "application_number": 1019,
-  "address": "f2m4ljkbqkw4rljq7mhu2xmdchnvbcuwqox4hebnq",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Genesis",
   "organization": "Genesis",
   "location": "China",
@@ -18,7 +18,7 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": [],
+    "tooling": ["smart_contract_allocator"],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
