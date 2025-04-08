@@ -1,6 +1,6 @@
 {
   "application_number": 1016,
-  "address": "f2p4lym5klogvenjp45zbux77kmbuniizzs22j7za",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Pluskit",
   "organization": "Wellhealth International Limited.",
   "location": "Hong Kong",
@@ -20,7 +20,8 @@
     "required_sps": "4+",
     "required_replicas": "3+",
     "tooling": [
-      "common_ui"
+      "common_ui",
+      "smart_contract_allocator"
     ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
