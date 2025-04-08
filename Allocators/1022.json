@@ -1,6 +1,6 @@
 {
   "application_number": 1022,
-  "address": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "NonEntropy",
   "organization": "NonEntropy Technology Pte. Ltd.",
   "location": "Singapore",
@@ -19,7 +19,8 @@
     "required_sps": "4+",
     "required_replicas": "5+",
     "tooling": [
-      "common_ui"
+      "common_ui",
+      "smart_contract_allocator"
     ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
