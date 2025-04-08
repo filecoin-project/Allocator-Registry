@@ -1,6 +1,6 @@
 {
     "application_number": 1039,
-    "address": "f2bqrqbxlrubzwdhwjdutccxsozk6p4i7lvml3vma",
+    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
     "name": "Destore",
     "organization": "ByteBase",
     "location": "China",
@@ -19,7 +19,10 @@
       ],
       "required_sps": "5+",
       "required_replicas": "5+",
-      "tooling": ["common_ui"],
+      "tooling": [
+          "common_ui",
+          "smart_contract_allocator"
+      ],
       "data_types": [
         "Public Open Dataset (Research/Non-Profit)",
         "Public Open Commercial/Enterprise",
