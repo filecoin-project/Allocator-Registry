@@ -1,0 +1,43 @@
+{"title": "[Allocator Application] <ANE College>< education data> PR #65 from Allocator Applucation #65", "body": "{
+"Allocators": [
+ {
+   "application_number": "65",
+   "address": "I will provide an address on a later date",
+   "name": "education data",
+   "organization": "ANE College",
+   "location": "Oceania",
+   "status": open,
+   "metapathway_type": "Similar to existing allocator pathways",
+   "associated_org_addresses": "f1abddx3pfijiqt3lvftrfev6lom2vvuivtsocnta",
+   "application": {
+      "allocations": {
+         "standardized": "Manual or other allocation schedule"
+      },
+      "target_clients": [
+       "Commercial/Enterprise"
+      ],
+      "required_sps": "3+",
+      "required_replicas": "3+",
+      "tooling": ["Yes, all available tools"],
+      "data_types": [
+        "Private encrypted with on-chain deal pricing,Public, open, and retrievable"
+      ],
+      "12m_requested": "75-100PiB",
+      "github_handles": [""],
+      "allocation_bookkeeping": "https://github.com/anecollege/allocator-bookkeeping-repo"
+   },
+   "poc": {
+      "slack": "Bhattarai Suman",
+      "github_user": "anecollege"
+   },
+   "pathway_addresses": {
+      "msig": null,
+      "signer": [
+         null,
+         null,
+         null
+      ]
+   }
+}
+]
+}"}
