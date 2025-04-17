@@ -1,0 +1,31 @@
+{
+  "application_number": 1337,
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Public Open Dataset Pathway",
+  "organization": "Data Preservation Institute",
+  "metapathway_type": "MA",
+  "ma_address": "0x15a9d9b81e3c67b95ffedfb4416d25a113c8c6df",
+  "associated_org_addresses": "f1v2…",
+  "application": {
+    "audit": [],
+    "distribution": [],
+    "required_sps": "1",
+    "required_replicas": "2",
+    "tooling": [],
+    "github_handles": [
+      "asynctomatic"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1744874313750",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+    "signer": []
+  }
+}
