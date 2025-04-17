@@ -1,0 +1,49 @@
+{
+  "application_number": 1337,
+  "address": "f410fdyktk7zff72e2lhl5km73mpaqwabrthbajj3l5q",
+  "name": "Testing This Flow",
+  "organization": "FIDL",
+  "metapathway_type": "MA",
+  "ma_address": "0x15a9d9b81e3c67b95ffedfb4416d25a113c8c6df",
+  "associated_org_addresses": "f410ffywjz745slad2zomf4nxellwel5uwgabmwz3icq",
+  "application": {
+    "audit": [],
+    "distribution": [],
+    "required_sps": "3",
+    "required_replicas": "3",
+    "tooling": [],
+    "github_handles": [
+      "martapiekarska",
+      "d",
+      "a",
+      "m",
+      "i",
+      "p",
+      "u",
+      "d",
+      ",",
+      " ",
+      "w",
+      "i",
+      "l",
+      "l",
+      "s",
+      "c",
+      "o",
+      "t",
+      "t"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1744874260264",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f410fdyktk7zff72e2lhl5km73mpaqwabrthbajj3l5q",
+    "signer": []
+  }
+}
