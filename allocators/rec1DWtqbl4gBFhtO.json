@@ -1,0 +1,35 @@
+{
+  "application_number": 1337,
+  "address": "f410fdyktk7zff72e2lhl5km73mpaqwabrthbajj3l5q",
+  "name": "Verification Pathway",
+  "organization": "FIDL",
+  "metapathway_type": "MA",
+  "ma_address": "0x15a9d9b81e3c67b95ffedfb4416d25a113c8c6df",
+  "associated_org_addresses": "f410fdyktk7zff72e2lhl5km73mpaqwabrthbajj3l5q",
+  "application": {
+    "audit": [],
+    "distribution": [],
+    "required_sps": "1",
+    "required_replicas": "4",
+    "tooling": [],
+    "github_handles": [
+      "martapiekarska",
+      "n",
+      "o",
+      "n",
+      "e"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1744985979157",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f410fdyktk7zff72e2lhl5km73mpaqwabrthbajj3l5q",
+    "signer": []
+  }
+}
