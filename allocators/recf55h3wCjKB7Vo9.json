@@ -1,0 +1,36 @@
+{
+  "application_number": 1337,
+  "address": "0xabDb0d7b047F928f24c26dEBB5351B9C1FCC444b",
+  "name": "test2",
+  "organization": "test2",
+  "metapathway_type": "MA",
+  "ma_address": "0x15a9d9b81e3c67b95ffedfb4416d25a113c8c6df",
+  "associated_org_addresses": "0xabDb0d7b047F928f24c26dEBB5351B9C1FCC444b",
+  "application": {
+    "audit": [],
+    "distribution": [],
+    "required_sps": "1",
+    "required_replicas": "1",
+    "tooling": [],
+    "github_handles": [
+      "test2",
+      "t",
+      "e",
+      "s",
+      "t",
+      "2"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1745498095200",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "0xabDb0d7b047F928f24c26dEBB5351B9C1FCC444b",
+    "signer": []
+  }
+}
