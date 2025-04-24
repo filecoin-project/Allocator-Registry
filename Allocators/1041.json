@@ -1,6 +1,6 @@
 {
     "application_number": 1041,
-    "address": "f2jrkwdnzmmzkgwuhv7bzts474kupilkp5kjfly2a",
+    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
     "name": "Greaterheat",
     "organization": "Greaterheat Pte.Ltd.",
     "location": "Singapore",
@@ -19,7 +19,7 @@
         ],
         "required_sps": "4+",
         "required_replicas": "4+",
-        "tooling": [],
+        "tooling": ["smart_contract_allocator"],
         "data_types": [
             "Public Open Dataset (Research/Non-Profit)",
             "Public Open Commercial/Enterprise",
