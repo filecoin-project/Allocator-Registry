@@ -1,6 +1,6 @@
 {
   "application_number": 1071,
-  "address": "f2fso7a5l3htwib3vzz2e7o2evxfnu7472e3kzn7a",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "QC Data center",
   "organization": "QC Data center",
   "location": "China",
@@ -18,7 +18,9 @@
     ],
     "required_sps": "4+",
     "required_replicas": "4+",
-    "tooling": ["common_ui"],
+    "tooling": ["common_ui",
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise"
