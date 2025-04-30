@@ -4,7 +4,7 @@
   "name": "Nebula Block",
   "organization": "Nebula Block",
   "location": "North America",
-  "status": "In-Active",
+  "status": "inactive",
   "metapathway_type": "Manual",
   "associated_org_addresses": "",
   "application": {
@@ -42,5 +42,6 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1vsrfjdgi3acyi7ijhpu25bhmlat23eenoy52aqa"
     ]
-  }
+  },
+  "allocator_id": "f03019861"
 }
