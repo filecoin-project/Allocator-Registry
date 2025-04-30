@@ -16,7 +16,9 @@
     ],
     "required_sps": "2+",
     "required_replicas": "2+",
-    "tooling": ["common_ui"],
+    "tooling": [
+      "common_ui"
+    ],
     "data_types": [
       "Other (specified elsewhere)",
       "Private Non-Profit/Social Impact",
@@ -29,7 +31,7 @@
       "SeedingTrees",
       "ianconsolata",
       "Sankara-Jefferson"
-    ],  
+    ],
     "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/FF-Social-Impact"
   },
   "poc": {
@@ -43,5 +45,6 @@
       "f1ufoy2xrgqtwbnykgm3a26pbbtahypucqrpfs7uy",
       "f13kcetuvgmoebigp2efnpbiynmcpmenrspygwcpi"
     ]
-  }
+  },
+  "allocator_id": "f02943486"
 }
