@@ -1,50 +1,51 @@
 {
-    "application_number": 1039,
-    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-    "name": "Destore",
-    "organization": "ByteBase",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1rppfznglfb7uyn3k6sfzeh47yq54ptvia5ixwsq",
-    "application": {
-      "allocations": {
-        "standardized": "No; client specific"
-      },
-      "target_clients": [
-        "Individuals learning about Filecoin",
-        "Enterprise Data Clients",
-        "Small-scale developers or data owners",
-        "Other (specified above)"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "5+",
-      "tooling": [
-          "common_ui",
-          "smart_contract_allocator"
-      ],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Other (specified elsewhere)",
-        "Private Non-Profit/Social Impact"
-      ],
-      "12m_requested": 120,
-      "github_handles": [
-        "Destore2023"
-      ],  
-      "allocation_bookkeeping": "https://github.com/Destore2023/MetaPathways-Bookkeeping"
+  "application_number": 1039,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "Destore",
+  "organization": "ByteBase",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "f1rppfznglfb7uyn3k6sfzeh47yq54ptvia5ixwsq",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-      "slack": "Eric",
-      "github_user": "Destore2023"
-    },
-    "pathway_addresses": {
-      "msig": "f2bqrqbxlrubzwdhwjdutccxsozk6p4i7lvml3vma",
-      "signer": [
-        "f1rppfznglfb7uyn3k6sfzeh47yq54ptvia5ixwsq"
-      ]
-    }
-  }
-  
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Enterprise Data Clients",
+      "Small-scale developers or data owners",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Other (specified elsewhere)",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 120,
+    "github_handles": [
+      "Destore2023"
+    ],
+    "allocation_bookkeeping": "https://github.com/Destore2023/MetaPathways-Bookkeeping"
+  },
+  "poc": {
+    "slack": "Eric",
+    "github_user": "Destore2023"
+  },
+  "pathway_addresses": {
+    "msig": "f2bqrqbxlrubzwdhwjdutccxsozk6p4i7lvml3vma",
+    "signer": [
+      "f1rppfznglfb7uyn3k6sfzeh47yq54ptvia5ixwsq"
+    ]
+  },
+  "allocator_id": "f03019261",
+  "client_contract_address": "f410fegrsvirv5rh3nnebtvehghrekspdvb4xlz556jy"
+}
