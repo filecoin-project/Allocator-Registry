@@ -1,46 +1,51 @@
 {
-    "application_number": 1092,
-    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-    "name": "ZetaCubeAllen",
-    "organization": "ZetaCube Inc",
-    "location": "Korea",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1kth524kqjwd5r6pfkw23y5ef73c5e33edurjroa",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Other (specified above)"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui", "smart_contract_allocator"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact",
-            "Other (specified elsewhere)"
-        ],
-        "12m_requested": 3000,
-        "github_handles": [
-            "ipfsAllen"
-        ],
-        "allocation_bookkeeping": "https://github.com/ipfsAllen/Fil-DC-Allocator-Allen"
+  "application_number": 1092,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "ZetaCubeAllen",
+  "organization": "ZetaCube Inc",
+  "location": "Korea",
+  "status": "Active",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "f1kth524kqjwd5r6pfkw23y5ef73c5e33edurjroa",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "@Allen Cho (Allen)",
-        "github_user": "ipfsAllen"
-    },
-    "pathway_addresses": {
-        "msig": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
-        "signer": [
-            "f1s5v3clres7a63cidjotn6gfhzmy3go6ne5retri"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 3000,
+    "github_handles": [
+      "ipfsAllen"
+    ],
+    "allocation_bookkeeping": "https://github.com/ipfsAllen/Fil-DC-Allocator-Allen"
+  },
+  "poc": {
+    "slack": "@Allen Cho (Allen)",
+    "github_user": "ipfsAllen"
+  },
+  "pathway_addresses": {
+    "msig": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
+    "signer": [
+      "f1s5v3clres7a63cidjotn6gfhzmy3go6ne5retri"
+    ]
+  },
+  "allocator_id": "f03018530",
+  "client_contract_address": "f410frep4h6t6ig4jbudbb4eng2hnyvnpumlfb3i4poy"
 }
