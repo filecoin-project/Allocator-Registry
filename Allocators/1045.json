@@ -1,44 +1,49 @@
 {
-    "application_number": 1045,
-    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-    "name": "DSPA Filecoin Pathway",
-    "organization": "Decentralised Storage Provider Accelerator (DSPA)",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1ypa6bsr6olb53kssbwgjyjcrzk4x3ijmpd5cmbq",
-    "application": {
-        "allocations": {
-            "standardized": "No; client specific"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Individuals learning about Filecoin"
-        ],
-        "required_sps": "4+",
-        "required_replicas": "4+",
-        "tooling": ["common_ui", "smart_contract_allocator"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 500,
-        "github_handles": [
-            "pandacrypto"
-        ],
-        "allocation_bookkeeping": "https://github.com/pandacrypto/DSPA-Allocator"
+  "application_number": 1045,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "DSPA Filecoin Pathway",
+  "organization": "Decentralised Storage Provider Accelerator (DSPA)",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "f1ypa6bsr6olb53kssbwgjyjcrzk4x3ijmpd5cmbq",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-        "slack": "@wayne",
-        "github_user": "@pandacrypto"
-    },
-    "pathway_addresses": {
-        "msig": "f2a2ssk6ijg2nnjoewazyjxwqu77uahe5o6xrfvoy",
-        "signer": [
-            "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Individuals learning about Filecoin"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "4+",
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 500,
+    "github_handles": [
+      "pandacrypto"
+    ],
+    "allocation_bookkeeping": "https://github.com/pandacrypto/DSPA-Allocator"
+  },
+  "poc": {
+    "slack": "@wayne",
+    "github_user": "@pandacrypto"
+  },
+  "pathway_addresses": {
+    "msig": "f2a2ssk6ijg2nnjoewazyjxwqu77uahe5o6xrfvoy",
+    "signer": [
+      "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy"
+    ]
+  },
+  "allocator_id": "f03010575",
+  "client_contract_address": "f410fpthnazskfzvl3obfdtyzwhahi2ucewcltplerky"
 }
