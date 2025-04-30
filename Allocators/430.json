@@ -1,39 +1,44 @@
- {
-   "application_number": "325",
-   "address": "f410fdyktk7zff72e2lhl5km73mpaqwabrthbajj3l5q",
-   "name": "Experimental Pathway Meta Allocator",
-   "organization": "FIDL",
-   "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
-   "status": "open",
-   "metapathway_type": "Novel allocator not on RFA",
-   "associated_org_addresses": "f410foygeoeocfkqi7bqaa6zheomu2xvmblvtpwsctiy",
-   "application": {
-      "allocations": {
-         "standardized": "Single size allocation"
-      },
-      "target_clients": [
-       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
-      ],
-      "required_sps": "1+",
-      "required_replicas": "1+",
-      "tooling": ["Yes, some tools"],
-      "data_types": [
-        "Proof of concept,network utilities"
-      ],
-      "12m_requested": "5-50PiB",
-      "github_handles": ["martapiekarska, willscott,, dampud"],
-      "allocation_bookkeeping": "https://github.com/fidlabs/Experimental-Pathway-Metaallocator"
-   },
-   "poc": {
-      "slack": "mpg",
-      "github_user": "martapiekarska"
-   },
-   "pathway_addresses": {
-      "msig": "f410frkw2pe63tx3cxjdqh4lmoorocskjwcxidsi7c3i",
-      "signer": [
-       "f410fokc3puzer7pbzt46bb4zh7p4phwfjnkkzz37n3q" ,
-       "f410f3k5oq6fw2ecfvfax5lzmyqua3pcrb47wocnp2qq" ,
-       "f410fta2nn4trnknin6nm2kypjudmduoi4ejuxutva2y"
-      ]
-   }
+{
+  "application_number": "325",
+  "address": "f410fdyktk7zff72e2lhl5km73mpaqwabrthbajj3l5q",
+  "name": "Experimental Pathway Meta Allocator",
+  "organization": "FIDL",
+  "location": "Africa,Asia minus GCR,Europe,Greater China Region,North America,Oceania,South America",
+  "status": "open",
+  "metapathway_type": "Experimental Pathway MetaAllocator",
+  "associated_org_addresses": "f410foygeoeocfkqi7bqaa6zheomu2xvmblvtpwsctiy",
+  "application": {
+    "allocations": {
+      "standardized": "Single size allocation"
+    },
+    "target_clients": [
+      "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+    ],
+    "required_sps": "1+",
+    "required_replicas": "1+",
+    "tooling": [
+      "Yes, some tools"
+    ],
+    "data_types": [
+      "Proof of concept,network utilities"
+    ],
+    "12m_requested": "5-50PiB",
+    "github_handles": [
+      "martapiekarska, willscott,, dampud"
+    ],
+    "allocation_bookkeeping": "https://github.com/fidlabs/Experimental-Pathway-Metaallocator"
+  },
+  "poc": {
+    "slack": "mpg",
+    "github_user": "martapiekarska"
+  },
+  "pathway_addresses": {
+    "msig": "f410frkw2pe63tx3cxjdqh4lmoorocskjwcxidsi7c3i",
+    "signer": [
+      "f410fokc3puzer7pbzt46bb4zh7p4phwfjnkkzz37n3q",
+      "f410f3k5oq6fw2ecfvfax5lzmyqua3pcrb47wocnp2qq",
+      "f410fta2nn4trnknin6nm2kypjudmduoi4ejuxutva2y"
+    ]
+  },
+  "allocator_id": "f03521515"
 }
