@@ -5,7 +5,7 @@
   "organization": "FileDrive Labs",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q",
   "application": {
     "allocations": {
@@ -45,5 +45,7 @@
       "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q",
       "f1hhfjedejpwi44wffdqrs3xl6bnygzfjfj3tzpaq"
     ]
-  }
+  },
+  "allocator_id": "f03019850",
+  "client_contract_address": "f410fpcsodiwc3m27rgr6y7pj22eq6awriqlo4bpnkhi"
 }
