@@ -5,7 +5,7 @@
   "organization": "Huineng Network",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1v6fbppgf2vzyviue7b55gjwm7w7fh7fucl2fh3y",
   "application": {
     "allocations": {
@@ -18,7 +18,9 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": ["smart_contract_allocator"],
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
@@ -28,7 +30,7 @@
     "12m_requested": 150,
     "github_handles": [
       "nicelove666"
-    ],  
+    ],
     "allocation_bookkeeping": "https://github.com/nicelove666/Allocator-Pathway-IPFSTT"
   },
   "poc": {
@@ -41,5 +43,7 @@
       "f1uep4ud4bf2filzcrfxlrjkxtk67dx6olkvgz7aa",
       "f16hmuu3w247dkkhsrbbcbeqbugmpjbxpkrpcdatq"
     ]
-  }
+  },
+  "allocator_id": "f03011612",
+  "client_contract_address": "f410fxuffkq6zbptdnh65wkurc2rdcznmwlez5eiz6dq"
 }
