@@ -4,7 +4,7 @@
   "name": "Starlight (Enterprise Data Management System)",
   "organization": "Nebula Data Pte. Ltd.",
   "location": "Singapore",
-  "status": "Active",
+  "status": "inactive",
   "metapathway_type": "Automatic",
   "associated_org_addresses": "f156aar7hywagok2o23bzepkinnl5q2z4vhqdpgmi",
   "application": {
@@ -34,5 +34,6 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f156aar7hywagok2o23bzepkinnl5q2z4vhqdpgmi"
     ]
-  }
+  },
+  "allocator_id": "f03019909"
 }
