@@ -5,7 +5,7 @@
   "organization": "ND LABS",
   "location": "Singapore",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "F1s5sho3yqbxjuk4pavpo2sc5gpka2cnm3egjcaga",
   "application": {
     "allocations": {
@@ -26,7 +26,7 @@
     "12m_requested": 150,
     "github_handles": [
       "NDLABS-Leo"
-    ],  
+    ],
     "allocation_bookkeeping": "https://github.com/NDLABS-Leo/Allocator-Pathway-Enterprise-data.git"
   },
   "poc": {
@@ -38,5 +38,7 @@
     "signer": [
       "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei"
     ]
-  }
+  },
+  "allocator_id": "f03012747",
+  "client_contract_address": "f410fdfrfh3jhrys2w5rsjpdin3hab47gp4qy2z4fsdy"
 }
