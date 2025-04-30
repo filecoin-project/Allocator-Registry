@@ -1,36 +1,43 @@
 {
-    "application_number": "76",
-    "address": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
-    "name": "Faucet MetaAllocator",
-    "organization": "FIDL",
-    "location": "Africa,Europe,Greater China Region,North America,Oceania,South America,Asia minus GCR",
-    "status": "open",
-    "metapathway_type": "RFA",
-    "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
-    "application": {
-       "allocations": {
-          "standardized": "Manual or other allocation schedule"
-       },
-       "target_clients": [
-        "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
-       ],
-       "required_sps": "1+",
-       "required_replicas": "1+",
-       "tooling": ["Yes, some tools"],
-       "data_types": [
-         "Public, open, and retrievable,Proof of concept"
-       ],
-       "12m_requested": "<5PiB",
-       "github_handles": ["willscott", "martapiekarska"],
-       "allocation_bookkeeping": "https://github.com/fidlabs/contract-metaallocator"
+  "application_number": "76",
+  "address": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
+  "name": "Faucet MetaAllocator",
+  "organization": "FIDL",
+  "location": "Africa,Europe,Greater China Region,North America,Oceania,South America,Asia minus GCR",
+  "status": "open",
+  "metapathway_type": "RFA",
+  "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
+  "application": {
+    "allocations": {
+      "standardized": "Manual or other allocation schedule"
     },
-    "poc": {
-       "slack": "@MPG",
-       "github_user": "Kevin-FF-USA"
-    },
-    "pathway_addresses": {
-       "msig": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
-       "signer": ["0x8A7D88c932428733A9a855adD282eba68d514AD7"]
-    }
- }
- 
+    "target_clients": [
+      "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+    ],
+    "required_sps": "1+",
+    "required_replicas": "1+",
+    "tooling": [
+      "Yes, some tools"
+    ],
+    "data_types": [
+      "Public, open, and retrievable,Proof of concept"
+    ],
+    "12m_requested": "<5PiB",
+    "github_handles": [
+      "willscott",
+      "martapiekarska"
+    ],
+    "allocation_bookkeeping": "https://github.com/fidlabs/contract-metaallocator"
+  },
+  "poc": {
+    "slack": "@MPG",
+    "github_user": "Kevin-FF-USA"
+  },
+  "pathway_addresses": {
+    "msig": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
+    "signer": [
+      "0x8A7D88c932428733A9a855adD282eba68d514AD7"
+    ]
+  },
+  "allocator_id": "f03015748"
+}
