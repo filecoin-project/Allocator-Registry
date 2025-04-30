@@ -5,7 +5,7 @@
   "organization": "Storify LLC.",
   "location": "North America",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f13a6ov3nrxllvyqkduwczpyashgu3luivodwyvgq",
   "application": {
     "allocations": {
@@ -19,13 +19,18 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": ["common_ui", "smart_contract_allocator"],
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise"
     ],
     "12m_requested": 100,
-    "github_handles": ["shizhigu"],
+    "github_handles": [
+      "shizhigu"
+    ],
     "allocation_bookkeeping": "https://github.com/Storify-LLC/Storify-Data-Pathway"
   },
   "poc": {
@@ -37,5 +42,7 @@
     "signer": [
       "f13a6ov3nrxllvyqkduwczpyashgu3luivodwyvgq"
     ]
-  }
+  },
+  "allocator_id": "f03012494",
+  "client_contract_address": "f410fv3pb7yehrqarlivqxjgbifegglphsscrcoknrwi"
 }
