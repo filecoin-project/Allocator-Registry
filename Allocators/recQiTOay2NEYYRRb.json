@@ -1,0 +1,32 @@
+{
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Test Application for KYC Flow",
+  "organization": "Test",
+  "metapathway_type": "MA",
+  "ma_address": "0x15a9d9b81e3c67b95ffedfb4416d25a113c8c6df",
+  "associated_org_addresses": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "required_sps": "3",
+    "required_replicas": "2",
+    "tooling": [],
+    "github_handles": [
+      "martapiekarska"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1746552261608",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+    "signer": []
+  }
+}
