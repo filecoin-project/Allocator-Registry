@@ -1,4 +1,5 @@
 {
+  "application_number": 166,
   "address": "f410fo4l64ogb7kay3bbqmbbj6tpsxlz3eanoqs6nj6q",
   "name": "Kitten Cat",
   "allocator_id": "f03542815",
@@ -20,7 +21,9 @@
     ],
     "client_contract_address": ""
   },
-  "status": {},
+  "status": {
+    "Application Submitted": "1746811820"
+  },
   "LifeCycle": {
     "Audit 1": [
       "1746811796175",
