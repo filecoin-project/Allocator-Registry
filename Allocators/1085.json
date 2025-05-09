@@ -5,7 +5,7 @@
   "organization": "StorSwift",
   "location": "Singapore",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va",
   "application": {
     "allocations": {
@@ -43,5 +43,7 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va"
     ]
-  }
+  },
+  "allocator_id": "f03019866",
+  "client_contract_address": "f410ft6h42gg2yl3wcyqsnp6lpwnynj5zsrez7tvi7di"
 }

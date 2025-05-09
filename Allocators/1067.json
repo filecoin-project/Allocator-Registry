@@ -5,7 +5,7 @@
   "organization": "web3mine AG",
   "location": "Europe",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
   "application": {
     "allocations": {
@@ -42,5 +42,7 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca"
     ]
-  }
+  },
+  "allocator_id": "f03019928",
+  "client_contract_address": "f410fed5uiv6q7rshb4fowb2cqdcrjif7typ4lie2tiq"
 }

@@ -1,45 +1,48 @@
 {
-    "application_number": 1047,
-    "address": "f2arpo76vxmneuor5qunbpybm24k7efomlev3rk5i",
-    "name": "E-Fil+",
-    "organization": "1475",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f17a4y7bgfvzl7m4dw3kbxnlfutpxfelfim6risnq",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Other (specified above)",
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 180,
-        "github_handles": [
-            "1475Notary"
-        ],
-        "allocation_bookkeeping": "https://github.com/1475Notary/1475-Allocator"
+  "application_number": 1047,
+  "address": "f2arpo76vxmneuor5qunbpybm24k7efomlev3rk5i",
+  "name": "E-Fil+",
+  "organization": "1475",
+  "location": "China",
+  "status": "removed",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f17a4y7bgfvzl7m4dw3kbxnlfutpxfelfim6risnq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "U01AZGAHRPF",
-        "github_user": "1475Notary"
-    },
-    "pathway_addresses": {
-        "msig": "f2arpo76vxmneuor5qunbpybm24k7efomlev3rk5i",
-        "signer": [
-            "f17a4y7bgfvzl7m4dw3kbxnlfutpxfelfim6risnq"
-        ]
-    }
+    "target_clients": [
+      "Other (specified above)",
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 180,
+    "github_handles": [
+      "1475Notary"
+    ],
+    "allocation_bookkeeping": "https://github.com/1475Notary/1475-Allocator"
+  },
+  "poc": {
+    "slack": "U01AZGAHRPF",
+    "github_user": "1475Notary"
+  },
+  "pathway_addresses": {
+    "msig": "f2arpo76vxmneuor5qunbpybm24k7efomlev3rk5i",
+    "signer": [
+      "f17a4y7bgfvzl7m4dw3kbxnlfutpxfelfim6risnq"
+    ]
+  },
+  "allocator_id": "f03018491"
 }

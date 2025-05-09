@@ -19,7 +19,9 @@
     ],
     "required_sps": "4+",
     "required_replicas": "4+",
-    "tooling": ["common_ui"],
+    "tooling": [
+      "common_ui"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
@@ -30,7 +32,7 @@
     "12m_requested": 200,
     "github_handles": [
       "newwebgroup"
-    ],  
+    ],
     "allocation_bookkeeping": "https://github.com/newwebgroup/Allocator-Pathway-New-Web-Group"
   },
   "poc": {
@@ -43,5 +45,6 @@
       "f14snikfhhvoc6usho642whc6vf7tvx2pwnq3z6na",
       "f1e77zuityhvvw6u2t6tb5qlnsegy2s67qs4lbbbq"
     ]
-  }
+  },
+  "allocator_id": "f03015081"
 }

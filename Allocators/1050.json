@@ -5,7 +5,7 @@
   "organization": "Hash Team",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1lldgcje747faqelcksrwgwcml4s5u3h7afhltey",
   "application": {
     "allocations": {
@@ -18,13 +18,18 @@
     ],
     "required_sps": "4+",
     "required_replicas": "4+",
-    "tooling": ["common_ui", "smart_contract_allocator"],
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise"
     ],
     "12m_requested": 100,
-    "github_handles": ["hash889900"],
+    "github_handles": [
+      "hash889900"
+    ],
     "allocation_bookkeeping": "https://github.com/hash889900/HashTeam"
   },
   "poc": {
@@ -37,5 +42,7 @@
       "f14oq4jctudvidvyhfmrp7qt6ndng7pr7ampp3miq",
       "f1lldgcje747faqelcksrwgwcml4s5u3h7afhltey"
     ]
-  }
+  },
+  "allocator_id": "f03014732",
+  "client_contract_address": "f410fg7pkr7my6mm32nnr6uzaxly3vxwa5rbl6axkddi"
 }

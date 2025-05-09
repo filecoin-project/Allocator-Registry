@@ -5,7 +5,7 @@
   "organization": "NonEntropy Technology Pte. Ltd.",
   "location": "Singapore",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1uzljppxtnmsekck6jt5lmuwxtzo3u5s2udizsai",
   "application": {
     "allocations": {
@@ -44,5 +44,7 @@
       "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry",
       "f1e3gesx3bp4pspt2afurzgu7lmuzkzwsqynrvglq"
     ]
-  }
+  },
+  "allocator_id": "f03018029",
+  "client_contract_address": "f410fwpvrx5oapejeoun3pu3ussvlwko47caa6duoy2q"
 }

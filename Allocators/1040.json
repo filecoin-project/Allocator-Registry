@@ -1,45 +1,48 @@
 {
-    "application_number": 1040,
-    "address": "f2a7f7rocg4yh7nc2fnfxqulzxk2yohrb63yqevcy",
-    "name": "NewHuoPool",
-    "organization": "NewHuoPool",
-    "location": "North America",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Individuals learning about Filecoin",
-        "Enterprise Data Clients",
-        "Small-scale developers or data owners"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "5+",
-      "tooling": ["common_ui"],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact"
-      ],
-      "12m_requested": 100,
-      "github_handles": [
-        "NewHuoPool"
-      ],  
-      "allocation_bookkeeping": "https://github.com/NewHuoPool/NewHuoPoolPathway"
+  "application_number": 1040,
+  "address": "f2a7f7rocg4yh7nc2fnfxqulzxk2yohrb63yqevcy",
+  "name": "NewHuoPool",
+  "organization": "NewHuoPool",
+  "location": "North America",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "NewHuoPool",
-      "github_user": "NewHuoPool"
-    },
-    "pathway_addresses": {
-      "msig": "f2a7f7rocg4yh7nc2fnfxqulzxk2yohrb63yqevcy",
-      "signer": [
-        "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y"
-      ]
-    }
-  }
-  
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Enterprise Data Clients",
+      "Small-scale developers or data owners"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "NewHuoPool"
+    ],
+    "allocation_bookkeeping": "https://github.com/NewHuoPool/NewHuoPoolPathway"
+  },
+  "poc": {
+    "slack": "NewHuoPool",
+    "github_user": "NewHuoPool"
+  },
+  "pathway_addresses": {
+    "msig": "f2a7f7rocg4yh7nc2fnfxqulzxk2yohrb63yqevcy",
+    "signer": [
+      "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y"
+    ]
+  },
+  "allocator_id": "f03019924",
+  "client_contract_address": "f410ftxfwosodbtmof536bqzzduksaken2evj4ehkeny"
+}

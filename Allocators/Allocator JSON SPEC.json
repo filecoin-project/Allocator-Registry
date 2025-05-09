@@ -1,50 +1,54 @@
 {
-"Allocators": [
- {
-   "application_number": null,
-   "address": null,
-   "name": null,
-   "organization": null,
-   "location": null,
-   "status": null,
-   "metapathway_type": null,
-   "associated_org_addresses": null,
-   "application": {
-      "allocations": {
-         "standardized": null
+  "Allocators": [
+    {
+      "application_number": null,
+      "address": null,
+      "name": null,
+      "organization": null,
+      "location": null,
+      "status": null,
+      "metapathway_type": null,
+      "associated_org_addresses": null,
+      "application": {
+        "allocations": {
+          "standardized": null
+        },
+        "target_clients": [
+          null,
+          null,
+          null,
+          null
+        ],
+        "required_sps": null,
+        "required_replicas": null,
+        "tooling": [],
+        "data_types": [
+          null,
+          null,
+          null,
+          null,
+          null
+        ],
+        "12m_requested": null,
+        "github_handles": [],
+        "allocation_bookkeeping": null
       },
-      "target_clients": [
-         null,
-         null,
-         null,
-         null
-      ],
-      "required_sps": null,
-      "required_replicas": null,
-      "tooling": [],
-      "data_types": [
-         null,
-         null,
-         null,
-         null,
-         null
-      ],
-      "12m_requested": null,
-      "github_handles": [],
-      "allocation_bookkeeping": null
-   },
-   "poc": {
-      "slack": null,
-      "github_user": null
-   },
-   "pathway_addresses": {
-      "msig": null,
-      "signer": [
-         null,
-         null,
-         null
-      ]
-   }
-}
-]
+      "poc": {
+        "slack": null,
+        "github_user": null
+      },
+      "pathway_addresses": {
+        "msig": null,
+        "signer": [
+          null,
+          null,
+          null
+        ]
+      }
+    }
+  ],
+  "allocator_id": "f03019835",
+  "status": "removed",
+  "application": {},
+  "metapathway_type": "Automatic"
 }

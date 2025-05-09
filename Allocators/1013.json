@@ -4,7 +4,7 @@
   "name": "Top Value Storage",
   "organization": "Top Value",
   "location": "Singapore",
-  "status": "In-Active",
+  "status": "Removed",
   "metapathway_type": "Manual",
   "associated_org_addresses": "f1idj2ubpu4gl7cvz7yr63gypcyzhsyg6sigk723a",
   "application": {
@@ -17,7 +17,9 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": ["common_ui"],
+    "tooling": [
+      "common_ui"
+    ],
     "data_types": [
       "Private Non-Profit/Social Impact",
       "Private Commercial/Enterprise",
@@ -27,7 +29,7 @@
     "12m_requested": 180,
     "github_handles": [
       "luobin544"
-    ],  
+    ],
     "allocation_bookkeeping": "https://github.com/TVLimited/top-value-storage"
   },
   "poc": {
@@ -39,5 +41,6 @@
     "signer": [
       "f1tbd632f6w62glfaf7wjpimacbnjiz26poyoes2q"
     ]
-  }
+  },
+  "allocator_id": "f03011057"
 }

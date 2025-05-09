@@ -5,7 +5,7 @@
   "organization": "RFfil",
   "location": "Hong Kong",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi",
   "application": {
     "allocations": {
@@ -18,13 +18,18 @@
     ],
     "required_sps": "3+",
     "required_replicas": "3+",
-    "tooling": ["common_ui", "smart_contract_allocator"],
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise"
     ],
     "12m_requested": 150,
-    "github_handles": ["MikeH1999"],
+    "github_handles": [
+      "MikeH1999"
+    ],
     "allocation_bookkeeping": "https://github.com/MikeH1999/RFfil"
   },
   "poc": {
@@ -36,5 +41,7 @@
     "signer": [
       "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi"
     ]
-  }
+  },
+  "allocator_id": "f03014594",
+  "client_contract_address": "f410f2gttflowjnzcxeeop6husfjctopyvskazcmnjgi"
 }

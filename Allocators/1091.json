@@ -4,7 +4,7 @@
   "name": "Power Meta Corp",
   "organization": "Power Meta Corp",
   "location": "North America",
-  "status": "In-Active",
+  "status": "inactive",
   "metapathway_type": "Manual",
   "associated_org_addresses": "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea",
   "application": {
@@ -45,5 +45,6 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea"
     ]
-  }
+  },
+  "allocator_id": "f03019948"
 }

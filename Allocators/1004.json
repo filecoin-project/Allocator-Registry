@@ -18,7 +18,9 @@
     ],
     "required_sps": "4+",
     "required_replicas": "4+",
-    "tooling": ["common_ui"],
+    "tooling": [
+      "common_ui"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
@@ -26,7 +28,9 @@
       "Private Non-Profit/Social Impact"
     ],
     "12m_requested": 200,
-    "github_handles": ["psh0691"],
+    "github_handles": [
+      "psh0691"
+    ],
     "allocation_bookkeeping": "https://github.com/Blockchain-World-News/FIL-DC-Allocator"
   },
   "poc": {
@@ -39,5 +43,7 @@
       "f1nhqjphdxs4nusdmtnsvekwgzll3yji6egt5nqgq",
       "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i"
     ]
-  }
+  },
+  "allocator_id": "f03016877",
+  "client_contract_address": "f410f3usmiqb27pqvd77kdhopaywr6wldzhjug5zwgni"
 }

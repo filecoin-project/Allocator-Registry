@@ -1,43 +1,46 @@
 {
-    "application_number": 1057,
-    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-    "name": "Marshall Fil+",
-    "organization": "Marshall",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Small-scale developers or data owners",
-        "Enterprise Data Clients"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "5+",
-      "tooling": [
-          "common_ui",
-          "smart_contract_allocator"
-      ],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise"
-      ],
-      "12m_requested": 100,
-      "github_handles": ["Marshall-btc"],
-      "allocation_bookkeeping": "https://github.com/Marshall-btc/Marshall-Fil-Data-Pathway"
+  "application_number": 1057,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "Marshall Fil+",
+  "organization": "Marshall",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "Slack handles：Marshall Slack IDs：U01A7CUNRSA",
-      "github_user": "https://github.com/Marshall-btc"
-    },
-    "pathway_addresses": {
-      "msig": "f2idqwfdtg25oqthtefjfb3pm2afkjs3t2dzqzlyi",
-      "signer": [
-        "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza"
-      ]
-    }
-  }
-  
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "Marshall-btc"
+    ],
+    "allocation_bookkeeping": "https://github.com/Marshall-btc/Marshall-Fil-Data-Pathway"
+  },
+  "poc": {
+    "slack": "Slack handles：Marshall Slack IDs：U01A7CUNRSA",
+    "github_user": "https://github.com/Marshall-btc"
+  },
+  "pathway_addresses": {
+    "msig": "f2idqwfdtg25oqthtefjfb3pm2afkjs3t2dzqzlyi",
+    "signer": [
+      "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza"
+    ]
+  },
+  "allocator_id": "f03012911",
+  "client_contract_address": "f410fu5ni74qkmmqp7sfqxlwijpatwb6lijziu4zcf3a"
+}

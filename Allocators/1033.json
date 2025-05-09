@@ -5,7 +5,7 @@
   "organization": "Filscan.io",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "",
   "application": {
     "allocations": {
@@ -39,5 +39,7 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f16mbzjnlccbifopyt4fnd6u4iyd6mmojxtxcki7q"
     ]
-  }
+  },
+  "allocator_id": "f03019853",
+  "client_contract_address": "f410frzphwfrauexdofg3kj56bs32j25nzowe6xnu2ii"
 }

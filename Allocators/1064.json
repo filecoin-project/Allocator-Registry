@@ -1,45 +1,50 @@
 {
-    "application_number": 1064,
-    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-    "name": "Caro Allocator",
-    "organization": "",
-    "location": "Europe",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1w4uyrtnvie2bf2ya4i6xne7fn6ifmkm5tdamali",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Other (specified above)"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui", "smart_contract_allocator"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 80,
-        "github_handles": [
-            "Carohere"
-        ],
-        "allocation_bookkeeping": "https://github.com/Carohere/Caro-Allocator"
+  "application_number": 1064,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "Caro Allocator",
+  "organization": "",
+  "location": "Europe",
+  "status": "Active",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "f1w4uyrtnvie2bf2ya4i6xne7fn6ifmkm5tdamali",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Carohere   id U03HLC9D2MQ",
-        "github_user": "Carohere"
-    },
-    "pathway_addresses": {
-        "msig": "f26opx5wbhpfytt4tmcbebkbvkdzl2emypxzvzzba",
-        "signer": [
-            "f1w4uyrtnvie2bf2ya4i6xne7fn6ifmkm5tdamali"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 80,
+    "github_handles": [
+      "Carohere"
+    ],
+    "allocation_bookkeeping": "https://github.com/Carohere/Caro-Allocator"
+  },
+  "poc": {
+    "slack": "Carohere   id U03HLC9D2MQ",
+    "github_user": "Carohere"
+  },
+  "pathway_addresses": {
+    "msig": "f26opx5wbhpfytt4tmcbebkbvkdzl2emypxzvzzba",
+    "signer": [
+      "f1w4uyrtnvie2bf2ya4i6xne7fn6ifmkm5tdamali"
+    ]
+  },
+  "allocator_id": "f03018489",
+  "client_contract_address": "f410f2nwabnzlrduqa3xvjhreumnx37ejpejjyq7etxy"
 }

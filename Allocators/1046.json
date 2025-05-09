@@ -1,45 +1,49 @@
 {
-    "application_number": 1046,
-    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-    "name": "TOP POOL",
-    "organization": "TOP POOL",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1grjkkw3p5hw3vx5gonvppkkzpcgmu4xnwfm7sli",
-    "application": {
-        "allocations": {
-            "standardized": "No; client specific"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Individuals learning about Filecoin"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["smart_contract_allocator"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 100,
-        "github_handles": [
-            "TOPPOOL-LEE"
-        ],
-        "allocation_bookkeeping": "https://github.com/TOPPOOL-LEE/Allocator-Pathway-TOP-POOL"
+  "application_number": 1046,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "TOP POOL",
+  "organization": "TOP POOL",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "f1grjkkw3p5hw3vx5gonvppkkzpcgmu4xnwfm7sli",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-        "slack": "toppool",
-        "github_user": "http://poolhub.top/"
-    },
-    "pathway_addresses": {
-        "msig": "f2xhj666jsewrgjd53hqlijhc5edrezrkortncjpa",
-        "signer": [
-            "f1qjpkncmx22mhjq75snuwsgiph2zowhkwfsxnuli",
-            "f1grjkkw3p5hw3vx5gonvppkkzpcgmu4xnwfm7sli"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Individuals learning about Filecoin"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 100,
+    "github_handles": [
+      "TOPPOOL-LEE"
+    ],
+    "allocation_bookkeeping": "https://github.com/TOPPOOL-LEE/Allocator-Pathway-TOP-POOL"
+  },
+  "poc": {
+    "slack": "toppool",
+    "github_user": "http://poolhub.top/"
+  },
+  "pathway_addresses": {
+    "msig": "f2xhj666jsewrgjd53hqlijhc5edrezrkortncjpa",
+    "signer": [
+      "f1qjpkncmx22mhjq75snuwsgiph2zowhkwfsxnuli",
+      "f1grjkkw3p5hw3vx5gonvppkkzpcgmu4xnwfm7sli"
+    ]
+  },
+  "allocator_id": "f03004870",
+  "client_contract_address": "f410fhbmfnwccrxiu25gcn6jolz3cavo6r57ko22aeha"
 }

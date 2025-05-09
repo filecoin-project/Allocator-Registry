@@ -5,7 +5,7 @@
   "organization": "Bit Engine Pte Ltd.",
   "location": "Singapore",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f15x23zuhctuqz77tvkzthow3xkpvn3q4kjgxpgya",
   "application": {
     "allocations": {
@@ -46,5 +46,7 @@
       "f15x23zuhctuqz77tvkzthow3xkpvn3q4kjgxpgya",
       "f1km6utrorrtqh572e3ybfu7jq2gfktkgfghscr6i"
     ]
-  }
+  },
+  "allocator_id": "f03014781",
+  "client_contract_address": "f410fywsnsqdiwz5djhqmqrtcxdskhf3sim5qhlbheui"
 }

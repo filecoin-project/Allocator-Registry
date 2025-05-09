@@ -1,41 +1,44 @@
 {
-    "application_number": 1089,
-    "address": "f2nugegi5abln6wn6vcfhsqq7xssop6q7f2tbupyq",
-    "name": "DeStor",
-    "organization": "DeStor",
-    "location": "North America",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "",
-    "application": {
-        "allocations": {
-            "standardized": "No; client specific"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "2+",
-        "required_replicas": "2+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 20,
-        "github_handles": [
-            "maramc8"
-        ],
-        "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/DeStor"
+  "application_number": 1089,
+  "address": "f2nugegi5abln6wn6vcfhsqq7xssop6q7f2tbupyq",
+  "name": "DeStor",
+  "organization": "DeStor",
+  "location": "North America",
+  "status": "Removed",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-        "slack": "maramcmahon",
-        "github_user": "maramc8"
-    },
-    "pathway_addresses": {
-        "msig": "f2nugegi5abln6wn6vcfhsqq7xssop6q7f2tbupyq",
-        "signer": [
-            "f1faxlphnxerrzn7pxiveqmylxq7rjzugwn54xpli"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "2+",
+    "required_replicas": "2+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 20,
+    "github_handles": [
+      "maramc8"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/DeStor"
+  },
+  "poc": {
+    "slack": "maramcmahon",
+    "github_user": "maramc8"
+  },
+  "pathway_addresses": {
+    "msig": "f2nugegi5abln6wn6vcfhsqq7xssop6q7f2tbupyq",
+    "signer": [
+      "f1faxlphnxerrzn7pxiveqmylxq7rjzugwn54xpli"
+    ]
+  },
+  "allocator_id": "f03017718"
 }

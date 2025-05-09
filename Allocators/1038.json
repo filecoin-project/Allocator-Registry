@@ -5,7 +5,7 @@
   "organization": "Shenzhen SpaceTime Cloud Technology Co.; Ltd.",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1n5jufq5n5gdm3tiycpi3ujqgyh3yyj52rd72vdq",
   "application": {
     "allocations": {
@@ -28,11 +28,14 @@
     "12m_requested": 100,
     "github_handles": [
       "stcloudlisa"
-    ],  
+    ],
     "allocation_bookkeeping": "https://github.com/stcloudlisa/Allocator-Pathway-Data"
   },
   "poc": {
-    "slack": ["LISA", "Berry"],
+    "slack": [
+      "LISA",
+      "Berry"
+    ],
     "github_user": "https://github.com/stcloudlisa"
   },
   "pathway_addresses": {
@@ -40,5 +43,7 @@
     "signer": [
       "f1n5jufq5n5gdm3tiycpi3ujqgyh3yyj52rd72vdq"
     ]
-  }
+  },
+  "allocator_id": "f03013315",
+  "client_contract_address": "f410f6h6jb65ukirdx4fwuyeomsw7s5qpcy72uhygoqy"
 }

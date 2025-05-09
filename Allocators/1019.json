@@ -5,7 +5,7 @@
   "organization": "Genesis",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1ldkhvk55psquvhc727udmdl2tgm55exndh2meqa",
   "application": {
     "allocations": {
@@ -18,7 +18,9 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": ["smart_contract_allocator"],
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
@@ -42,5 +44,7 @@
       "f1ldkhvk55psquvhc727udmdl2tgm55exndh2meqa",
       "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri"
     ]
-  }
+  },
+  "allocator_id": "f03019845",
+  "client_contract_address": "f410fuelfwxkr6umyi6p2z2ewc7n6hrntff3b34pggoq"
 }
