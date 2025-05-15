@@ -1,0 +1,33 @@
+{
+  "address": "f4",
+  "name": "Testing",
+  "allocator_id": "f4",
+  "organization": "FF Test",
+  "metapathway_type": "MA",
+  "ma_address": "0x15a9d9b81e3c67b95ffedfb4416d25a113c8c6df",
+  "associated_org_addresses": "f05",
+  "application": {
+    "audit": [
+      "Market-based Allocator"
+    ],
+    "distribution": [],
+    "required_sps": "1",
+    "required_replicas": "1",
+    "tooling": [],
+    "github_handles": [
+      "GovTest"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1747326624972",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f4",
+    "signer": []
+  }
+}
