@@ -5,7 +5,7 @@
   "organization": "EF",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f13ujyzruulb6isvjlto2snyj5weptr4shqbh4bvq",
   "application": {
     "allocations": {
@@ -18,13 +18,18 @@
     ],
     "required_sps": "4+",
     "required_replicas": "4+",
-    "tooling": ["common_ui", "smart_contract_allocator"],
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise"
     ],
     "12m_requested": 200,
-    "github_handles": ["Lind111"],
+    "github_handles": [
+      "Lind111"
+    ],
     "allocation_bookkeeping": "https://github.com/Lind111/EF"
   },
   "poc": {
@@ -37,5 +42,7 @@
       "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
       "f13ujyzruulb6isvjlto2snyj5weptr4shqbh4bvq"
     ]
-  }
+  },
+  "allocator_id": "f03014490",
+  "client_contract_address": "f410fs72ei5u5zmtdtiahn7rb5jymjleoh2ztmu7cppq"
 }

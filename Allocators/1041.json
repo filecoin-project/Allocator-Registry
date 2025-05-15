@@ -1,46 +1,50 @@
 {
-    "application_number": 1041,
-    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-    "name": "Greaterheat",
-    "organization": "Greaterheat Pte.Ltd.",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f13smptmihztkv7my3pzjg63a5bn7qlv5rrbhahxy",
-    "application": {
-        "allocations": {
-            "standardized": "No; client specific"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Individuals learning about Filecoin",
-            "Other (specified above)"
-        ],
-        "required_sps": "4+",
-        "required_replicas": "4+",
-        "tooling": ["smart_contract_allocator"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact",
-            "Other (specified elsewhere)"
-        ],
-        "12m_requested": 200,
-        "github_handles": [
-            "AlanGreaterheat"
-        ],
-        "allocation_bookkeeping": "https://github.com/AlanGreaterheat/Greaterheat-Allocator"
+  "application_number": 1041,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "Greaterheat",
+  "organization": "Greaterheat Pte.Ltd.",
+  "location": "Singapore",
+  "status": "Active",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "f13smptmihztkv7my3pzjg63a5bn7qlv5rrbhahxy",
+  "application": {
+    "allocations": {
+      "standardized": "No; client specific"
     },
-    "poc": {
-        "slack": "@Alan (GRHEAT)",
-        "github_user": "AlanGreaterheat"
-    },
-    "pathway_addresses": {
-        "msig": "f2jrkwdnzmmzkgwuhv7bzts474kupilkp5kjfly2a",
-        "signer": [
-            "f1wa66ph33vsmxbfgqkcn2x3ayvmblu3irtovphpa"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Individuals learning about Filecoin",
+      "Other (specified above)"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "4+",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "AlanGreaterheat"
+    ],
+    "allocation_bookkeeping": "https://github.com/AlanGreaterheat/Greaterheat-Allocator"
+  },
+  "poc": {
+    "slack": "@Alan (GRHEAT)",
+    "github_user": "AlanGreaterheat"
+  },
+  "pathway_addresses": {
+    "msig": "f2jrkwdnzmmzkgwuhv7bzts474kupilkp5kjfly2a",
+    "signer": [
+      "f1wa66ph33vsmxbfgqkcn2x3ayvmblu3irtovphpa"
+    ]
+  },
+  "allocator_id": "f03010601",
+  "client_contract_address": "f410foe7gl7u57ookbbjmn6eav2zaed4r454plezbocy"
 }

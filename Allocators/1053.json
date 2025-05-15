@@ -1,46 +1,49 @@
 {
-    "application_number": 1053,
-    "address": "f2om4d4e33huuiphsjjvs7mkeafeoastu2gzfjsey",
-    "name": "DCENT Fil+",
-    "organization": "DCENT BV.",
-    "location": "Europe",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1eiw5gn24wpa44azzxhbyj545vzm7jqjdrcdv2fy",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Other (specified above)",
-            "Individuals learning about Filecoin"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact",
-            "Other (specified elsewhere)"
-        ],
-        "12m_requested": 1000,
-        "github_handles": [
-            "cryptowhizzard"
-        ],
-        "allocation_bookkeeping": "https://github.com/cryptowhizzard/Fil-A-1"
+  "application_number": 1053,
+  "address": "f2om4d4e33huuiphsjjvs7mkeafeoastu2gzfjsey",
+  "name": "DCENT Fil+",
+  "organization": "DCENT BV.",
+  "location": "Europe",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1eiw5gn24wpa44azzxhbyj545vzm7jqjdrcdv2fy",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "U0198Q8HNSZ and U018BEFPCFL",
-        "github_user": "cryptowhizzard"
-    },
-    "pathway_addresses": {
-        "msig": "f2om4d4e33huuiphsjjvs7mkeafeoastu2gzfjsey",
-        "signer": [
-            "f1xk4bsgn3hjobod4hoovtt4iuivgocwhduzwabxa"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)",
+      "Individuals learning about Filecoin"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 1000,
+    "github_handles": [
+      "cryptowhizzard"
+    ],
+    "allocation_bookkeeping": "https://github.com/cryptowhizzard/Fil-A-1"
+  },
+  "poc": {
+    "slack": "U0198Q8HNSZ and U018BEFPCFL",
+    "github_user": "cryptowhizzard"
+  },
+  "pathway_addresses": {
+    "msig": "f2om4d4e33huuiphsjjvs7mkeafeoastu2gzfjsey",
+    "signer": [
+      "f1xk4bsgn3hjobod4hoovtt4iuivgocwhduzwabxa"
+    ]
+  },
+  "allocator_id": "f03018475"
 }

@@ -5,7 +5,7 @@
   "organization": "Venus Team",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1wdnx2g2rffbg2pmu2ilguedw2oxg25ettfjl5fy",
   "application": {
     "allocations": {
@@ -19,7 +19,9 @@
     ],
     "required_sps": "4+",
     "required_replicas": "2+",
-    "tooling": ["smart_contract_allocator"],
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
@@ -43,5 +45,7 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1wzmrjlhu244jyjlpsjlyhp7en35ue4wpwbfsv3y"
     ]
-  }
+  },
+  "allocator_id": "f03019831",
+  "client_contract_address": "f410fjhlwyw6a2ousxyx4zuq76czy3cyzfoze2rwk7na"
 }

@@ -5,7 +5,7 @@
   "organization": "Data Preservation Labs",
   "location": "North America",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
   "application": {
     "allocations": {
@@ -45,5 +45,6 @@
       "f1tmewdaoz2wmoocpyforkqamwevw65jehxszct6i",
       "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy"
     ]
-  }
+  },
+  "allocator_id": "f03015757"
 }

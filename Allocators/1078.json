@@ -4,7 +4,7 @@
   "name": "RRM Global",
   "organization": "SUPERB GRACE LIMITED",
   "location": "Hong Kong",
-  "status": "In-Active",
+  "status": "inactive",
   "metapathway_type": "Manual",
   "associated_org_addresses": "f1yjozxfuz2btlroysqgrgyel6o5mbqueeo7cicda",
   "application": {
@@ -39,5 +39,6 @@
     "signer": [
       "f1cg5bo25wloki5xri34tmavpuqj55ob3rzw6u34a"
     ]
-  }
+  },
+  "allocator_id": "f03018026"
 }

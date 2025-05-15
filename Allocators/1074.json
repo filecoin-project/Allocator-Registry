@@ -4,7 +4,7 @@
   "name": "Patapon",
   "organization": "ZhongYiGuoLian",
   "location": "China",
-  "status": "In-Active",
+  "status": "inactive",
   "metapathway_type": "Manual",
   "associated_org_addresses": "f1n7slqdxhxi3n3ljmfjzsbdhaemz53bcaslu5sii",
   "application": {
@@ -43,5 +43,6 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1n7slqdxhxi3n3ljmfjzsbdhaemz53bcaslu5sii"
     ]
-  }
+  },
+  "allocator_id": "f03019935"
 }

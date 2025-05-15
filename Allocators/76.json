@@ -1,36 +1,41 @@
 {
-    "application_number": "76",
-    "address": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
-    "name": "Gitcoin Faucet",
-    "organization": "FIDL",
-    "location": "Africa,Europe,Greater China Region,North America,Oceania,South America,Asia minus GCR",
-    "status": "open",
-    "metapathway_type": "Automated",
-    "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
-    "application": {
-       "allocations": {
-          "standardized": "Single size allocation"
-       },
-       "target_clients": [
-        "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
-       ],
-       "required_sps": "1+",
-       "required_replicas": "1+",
-       "tooling": ["Yes, some tools"],
-       "data_types": [
-         "Public, open, and retrievable,Proof of concept"
-       ],
-       "12m_requested": "<5PiB",
-       "github_handles": ["willscott", "martapiekarska"],
-       "allocation_bookkeeping": "https://github.com/fidlabs/filplus-faucet"
+  "application_number": "76",
+  "address": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
+  "name": "Gitcoin Faucet",
+  "organization": "FIDL",
+  "location": "Africa,Europe,Greater China Region,North America,Oceania,South America,Asia minus GCR",
+  "status": "open",
+  "metapathway_type": "Automated",
+  "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
+  "application": {
+    "allocations": {
+      "standardized": "Single size allocation"
     },
-    "poc": {
-       "slack": "@MPG",
-       "github_user": "willscott"
-    },
-    "pathway_addresses": {
-       "msig": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
-       "signer": []
-    }
- }
- 
+    "target_clients": [
+      "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+    ],
+    "required_sps": "1+",
+    "required_replicas": "1+",
+    "tooling": [
+      "Yes, some tools"
+    ],
+    "data_types": [
+      "Public, open, and retrievable,Proof of concept"
+    ],
+    "12m_requested": "<5PiB",
+    "github_handles": [
+      "willscott",
+      "martapiekarska"
+    ],
+    "allocation_bookkeeping": "https://github.com/fidlabs/filplus-faucet"
+  },
+  "poc": {
+    "slack": "@MPG",
+    "github_user": "willscott"
+  },
+  "pathway_addresses": {
+    "msig": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
+    "signer": []
+  },
+  "allocator_id": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy"
+}

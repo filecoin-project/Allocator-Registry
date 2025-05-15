@@ -1,45 +1,48 @@
 {
-    "application_number": 1060,
-    "address": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
-    "name": "Fortneo",
-    "organization": "CoinSummer Labs",
-    "location": "Hong Kong",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Individuals learning about Filecoin",
-            "Enterprise Data Clients",
-            "Other (specified above)"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Private Non-Profit/Social Impact",
-            "Private Commercial/Enterprise",
-            "Public Open Commercial/Enterprise",
-            "Public Open Dataset (Research/Non-Profit)"
-        ],
-        "12m_requested": 300,
-        "github_handles": [
-            "Fortneo"
-        ],
-        "allocation_bookkeeping": "https://github.com/Fortneo/CoinSummer-Labs"
+  "application_number": 1060,
+  "address": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
+  "name": "Fortneo",
+  "organization": "CoinSummer Labs",
+  "location": "Hong Kong",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Fortneo",
-        "github_user": "Fortneo"
-    },
-    "pathway_addresses": {
-        "msig": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
-        "signer": [
-            "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Individuals learning about Filecoin",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Private Non-Profit/Social Impact",
+      "Private Commercial/Enterprise",
+      "Public Open Commercial/Enterprise",
+      "Public Open Dataset (Research/Non-Profit)"
+    ],
+    "12m_requested": 300,
+    "github_handles": [
+      "Fortneo"
+    ],
+    "allocation_bookkeeping": "https://github.com/Fortneo/CoinSummer-Labs"
+  },
+  "poc": {
+    "slack": "Fortneo",
+    "github_user": "Fortneo"
+  },
+  "pathway_addresses": {
+    "msig": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
+    "signer": [
+      "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy"
+    ]
+  },
+  "allocator_id": "f03019926"
 }

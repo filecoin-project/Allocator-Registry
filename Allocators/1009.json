@@ -5,7 +5,7 @@
   "organization": "ZC LABS",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1j5awdc2swdbrxlnn2y6txwjtiymrvuox4rexoii",
   "application": {
     "allocations": {
@@ -18,13 +18,18 @@
     ],
     "required_sps": "4+",
     "required_replicas": "4+",
-    "tooling": ["common_ui", "smart_contract_allocator"],
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise"
     ],
     "12m_requested": 200,
-    "github_handles": ["zcfil"],
+    "github_handles": [
+      "zcfil"
+    ],
     "allocation_bookkeeping": "https://github.com/zcfil/ZCFIL"
   },
   "poc": {
@@ -37,5 +42,7 @@
       "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
       "f1j5awdc2swdbrxlnn2y6txwjtiymrvuox4rexoii"
     ]
-  }
+  },
+  "allocator_id": "f03014659",
+  "client_contract_address": "f410ffnflsbfqxiu34r3yqjjv4wo6w2h3uuqav56eemy"
 }

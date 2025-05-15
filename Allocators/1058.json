@@ -1,43 +1,47 @@
 {
-    "application_number": 1058,
-    "address": "f2x2djhw54agyes32iyi2colhflb4ekm32iz54tjq",
-    "name": "Dcent - Fil+ - NC",
-    "organization": "DCENT",
-    "location": "Europe",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1eiw5gn24wpa44azzxhbyj545vzm7jqjdrcdv2fy",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 3000,
-        "github_handles": [
-            "cryptowhizzard",
-            "hiddehoogland"
-        ],
-        "allocation_bookkeeping": "https://github.com/cryptowhizzard/Fil-A-2"
+  "application_number": 1058,
+  "address": "f2x2djhw54agyes32iyi2colhflb4ekm32iz54tjq",
+  "name": "Dcent - Fil+ - NC",
+  "organization": "DCENT",
+  "location": "Europe",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1eiw5gn24wpa44azzxhbyj545vzm7jqjdrcdv2fy",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "U0198Q8HNSZ",
-        "github_user": "wijnandschouten / hiddehoogland"
-    },
-    "pathway_addresses": {
-        "msig": "f2x2djhw54agyes32iyi2colhflb4ekm32iz54tjq",
-        "signer": [
-            "f14argljqmkt3ig4yhi5hqbm44eezafterkjj56uq"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 3000,
+    "github_handles": [
+      "cryptowhizzard",
+      "hiddehoogland"
+    ],
+    "allocation_bookkeeping": "https://github.com/cryptowhizzard/Fil-A-2"
+  },
+  "poc": {
+    "slack": "U0198Q8HNSZ",
+    "github_user": "wijnandschouten / hiddehoogland"
+  },
+  "pathway_addresses": {
+    "msig": "f2x2djhw54agyes32iyi2colhflb4ekm32iz54tjq",
+    "signer": [
+      "f14argljqmkt3ig4yhi5hqbm44eezafterkjj56uq"
+    ]
+  },
+  "allocator_id": "f03018494",
+  "client_contract_address": "f410femjultrstspavt3ityq3hv3g3lu5mf7vlvdxa2a"
 }

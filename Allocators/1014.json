@@ -5,7 +5,7 @@
   "organization": "LendMi",
   "location": "Singapore",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f17gyewdt3aviprhmhcl52xq2rtv3ihrakiv6bukq",
   "application": {
     "allocations": {
@@ -17,7 +17,10 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": ["common_ui", "smart_contract_allocator"],
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
@@ -25,7 +28,9 @@
       "Private Non-Profit/Social Impact"
     ],
     "12m_requested": 170,
-    "github_handles": ["Rongze92"],
+    "github_handles": [
+      "Rongze92"
+    ],
     "allocation_bookkeeping": "https://github.com/LendMi-Finance/LendMi-Storage"
   },
   "poc": {
@@ -37,5 +42,7 @@
     "signer": [
       "f12mckci3omexgzoeosjvstcfxfe4vqw7owdia3da"
     ]
-  }
+  },
+  "allocator_id": "f03011025",
+  "client_contract_address": "f410fci3jb6xm7qhtvtsnozgde4lvyvjsvw227nkzgyi"
 }

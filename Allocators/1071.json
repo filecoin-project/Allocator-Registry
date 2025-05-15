@@ -5,7 +5,7 @@
   "organization": "QC Data center",
   "location": "China",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1ylggnze72mmskm4xjcskf3kk5mp6duc2gztdboq",
   "application": {
     "allocations": {
@@ -18,7 +18,8 @@
     ],
     "required_sps": "4+",
     "required_replicas": "4+",
-    "tooling": ["common_ui",
+    "tooling": [
+      "common_ui",
       "smart_contract_allocator"
     ],
     "data_types": [
@@ -26,7 +27,9 @@
       "Public Open Commercial/Enterprise"
     ],
     "12m_requested": 80,
-    "github_handles": ["luhong123"],
+    "github_handles": [
+      "luhong123"
+    ],
     "allocation_bookkeeping": "https://github.com/luhong123/QC-Data-center"
   },
   "poc": {
@@ -39,5 +42,7 @@
       "f1apw6of55wzdbpjpnnyenv56ensi4iisaxgmigzi",
       "f1ylggnze72mmskm4xjcskf3kk5mp6duc2gztdboq"
     ]
-  }
+  },
+  "allocator_id": "f03014608",
+  "client_contract_address": "f410fh6ilo6dzx2p5fjnmcv7omza62sw7a534wegymiy"
 }

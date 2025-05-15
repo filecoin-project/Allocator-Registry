@@ -1,42 +1,43 @@
 {
-    "application_number": 1081,
-    "address": "f25ulhapxi3ze3jhx4vhiegodjjrdvot4xhlrw7na",
-    "name": "Niwan Pathway",
-    "organization": "NiwanDao",
-    "location": "China",
-    "status": "In-Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1uug7cppyed42za27nlcigsjqao7n25pg6jlkdma",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Enterprise Data Clients",
-            "Small-scale developers or data owners"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": [],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact"
-        ],
-        "12m_requested": 150,
-        "github_handles": [
-            "NiwanDao"
-        ],
-        "allocation_bookkeeping": "https://github.com/NiwanDao/NiwanPathway"
+  "application_number": 1081,
+  "address": "f25ulhapxi3ze3jhx4vhiegodjjrdvot4xhlrw7na",
+  "name": "Niwan Pathway",
+  "organization": "NiwanDao",
+  "location": "China",
+  "status": "In-Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1uug7cppyed42za27nlcigsjqao7n25pg6jlkdma",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "CabrinaHuang",
-        "github_user": "NiwanDao"
-    },
-    "pathway_addresses": {
-        "msig": "f25ulhapxi3ze3jhx4vhiegodjjrdvot4xhlrw7na",
-        "signer": [
-            "f1a2lia2cwwekeubwo4nppt4v4vebxs2frozarz3q"
-        ]
-    }
+    "target_clients": [
+      "Enterprise Data Clients",
+      "Small-scale developers or data owners"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 150,
+    "github_handles": [
+      "NiwanDao"
+    ],
+    "allocation_bookkeeping": "https://github.com/NiwanDao/NiwanPathway"
+  },
+  "poc": {
+    "slack": "CabrinaHuang",
+    "github_user": "NiwanDao"
+  },
+  "pathway_addresses": {
+    "msig": "f25ulhapxi3ze3jhx4vhiegodjjrdvot4xhlrw7na",
+    "signer": [
+      "f1a2lia2cwwekeubwo4nppt4v4vebxs2frozarz3q"
+    ]
+  },
+  "allocator_id": "f03018314"
 }

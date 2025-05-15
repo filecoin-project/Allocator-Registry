@@ -1,39 +1,45 @@
 {
-   "application_number": "288",
-   "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-   "name": "Manual Pathway MetaAllocator",
-   "organization": "Fil+ Governance team",
-   "location": "Africa,Europe,Greater China Region,North America,Oceania,South America,Asia minus GCR",
-   "status": "open",
-   "metapathway_type": "RFA",
-   "associated_org_addresses": "0x2e25A2f6bC2C0b7669DFB25180Ed57e07dAabe9e",
-   "application": {
-      "allocations": {
-         "standardized": "Manual or other allocation schedule"
-      },
-      "target_clients": [
-       "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
-      ],
-      "required_sps": "1+",
-      "required_replicas": "1+",
-      "tooling": ["Yes, all available tools"],
-      "data_types": [
-        "Public, open, and retrievable,Private encrypted with on-chain deal pricing"
-      ],
-      "12m_requested": ">200PiB",
-      "github_handles": ["Kevin-FF-USA, galen-mcandrew, "],
-      "allocation_bookkeeping": "https://github.com/filecoin-project/Allocator-Governance"
-   },
-   "poc": {
-      "slack": "@Galen McAndrew",
-      "github_user": "Kevin-FF-USA"
-   },
-   "pathway_addresses": {
-      "msig": "f275ucxlogvchvfuxmft6pze7qevhphkextdmjmnq",
-      "signer": [
-         "f410fnulov6fntwrhpsztyu2sr64xpk4t2wrog6i2say",
-         null,
-         null
-      ]
-   }
+  "application_number": "288",
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "Manual Pathway MetaAllocator",
+  "organization": "Fil+ Governance team",
+  "location": "Africa,Europe,Greater China Region,North America,Oceania,South America,Asia minus GCR",
+  "status": "open",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "0x2e25A2f6bC2C0b7669DFB25180Ed57e07dAabe9e",
+  "application": {
+    "allocations": {
+      "standardized": "Manual or other allocation schedule"
+    },
+    "target_clients": [
+      "Web3 developers,Nonprofit organizations,Commercial/Enterprise,Individuals,Open/Public"
+    ],
+    "required_sps": "1+",
+    "required_replicas": "1+",
+    "tooling": [
+      "Yes, all available tools",
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public, open, and retrievable,Private encrypted with on-chain deal pricing"
+    ],
+    "12m_requested": ">200PiB",
+    "github_handles": [
+      "Kevin-FF-USA, galen-mcandrew, "
+    ],
+    "allocation_bookkeeping": "https://github.com/filecoin-project/Allocator-Governance"
+  },
+  "poc": {
+    "slack": "@Galen McAndrew",
+    "github_user": "Kevin-FF-USA"
+  },
+  "pathway_addresses": {
+    "msig": "f275ucxlogvchvfuxmft6pze7qevhphkextdmjmnq",
+    "signer": [
+      "f410fnulov6fntwrhpsztyu2sr64xpk4t2wrog6i2say",
+      null,
+      null
+    ]
+  },
+  "allocator_id": "f03358620"
 }

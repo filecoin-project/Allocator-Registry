@@ -5,7 +5,7 @@
   "organization": "Wellhealth International Limited.",
   "location": "Hong Kong",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1tgnlhtcmhwipfm7thsftxhn5k52velyjlazpvka",
   "application": {
     "allocations": {
@@ -45,5 +45,7 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1tgnlhtcmhwipfm7thsftxhn5k52velyjlazpvka"
     ]
-  }
+  },
+  "allocator_id": "f03019839",
+  "client_contract_address": "f410fgtwx3jdhuq5ckxeszi6oeyxi6vck3vcth6roary"
 }

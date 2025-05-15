@@ -1,41 +1,44 @@
 {
-    "application_number": 1065,
-    "address": "f2uib6cqjmos6ir4ajx4aqt4pbglrrsd7w6ubovki",
-    "name": "Fortneo",
-    "organization": "MinerDAO",
-    "location": "Hong Kong",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "5+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise"
-        ],
-        "12m_requested": 200,
-        "github_handles": [
-            "Fortneo"
-        ],
-        "allocation_bookkeeping": "https://github.com/Fortneo/minerdao"
+  "application_number": 1065,
+  "address": "f2uib6cqjmos6ir4ajx4aqt4pbglrrsd7w6ubovki",
+  "name": "Fortneo",
+  "organization": "MinerDAO",
+  "location": "Hong Kong",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Fortneo",
-        "github_user": "Fortneo"
-    },
-    "pathway_addresses": {
-        "msig": "f2uib6cqjmos6ir4ajx4aqt4pbglrrsd7w6ubovki",
-        "signer": [
-            "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy"
-        ]
-    }
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "Fortneo"
+    ],
+    "allocation_bookkeeping": "https://github.com/Fortneo/minerdao"
+  },
+  "poc": {
+    "slack": "Fortneo",
+    "github_user": "Fortneo"
+  },
+  "pathway_addresses": {
+    "msig": "f2uib6cqjmos6ir4ajx4aqt4pbglrrsd7w6ubovki",
+    "signer": [
+      "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy"
+    ]
+  },
+  "allocator_id": "f03019927"
 }

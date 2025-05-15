@@ -17,7 +17,9 @@
     ],
     "required_sps": "5+",
     "required_replicas": "5+",
-    "tooling": ["common_ui"],
+    "tooling": [
+      "common_ui"
+    ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
       "Public Open Commercial/Enterprise",
@@ -27,7 +29,7 @@
     "12m_requested": 120,
     "github_handles": [
       "a1991car"
-    ],  
+    ],
     "allocation_bookkeeping": "https://github.com/a1991car/Allocator-Public-Data"
   },
   "poc": {
@@ -39,5 +41,7 @@
     "signer": [
       "f14r3uqsnxj22zzzkojqpdh6n62tg75vbx5wl72vi"
     ]
-  }
+  },
+  "allocator_id": "f03013312",
+  "client_contract_address": "f410fh2g45hykueu7pxdunlcrqyfsgoqezrfyxpnblbq"
 }

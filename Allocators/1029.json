@@ -1,41 +1,46 @@
 {
-    "application_number": 1029,
-    "address": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
-    "name": "Media Platform Data",
-    "organization": "MetaEra",
-    "location": "Hong Kong",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1wnok26vdslq34ocheaomeppcd4njyea6mfh4aqq",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Enterprise Data Clients",
-        "Other (specified above)"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "5+",
-      "tooling": ["common_ui"],
-      "data_types": [
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact"
-      ],
-      "12m_requested": 200,
-      "github_handles": ["metaeraworkops"],
-      "allocation_bookkeeping": "https://github.com/metaeraworkops/MediaPlatformData"
+  "application_number": 1029,
+  "address": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
+  "name": "Media Platform Data",
+  "organization": "MetaEra",
+  "location": "Hong Kong",
+  "status": "Active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1wnok26vdslq34ocheaomeppcd4njyea6mfh4aqq",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "Enowsh",
-      "github_user": "metaeraworkops"
-    },
-    "pathway_addresses": {
-      "msig": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
-      "signer": [
-        "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki"
-      ]
-    }
-  }
-  
+    "target_clients": [
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "metaeraworkops"
+    ],
+    "allocation_bookkeeping": "https://github.com/metaeraworkops/MediaPlatformData"
+  },
+  "poc": {
+    "slack": "Enowsh",
+    "github_user": "metaeraworkops"
+  },
+  "pathway_addresses": {
+    "msig": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
+    "signer": [
+      "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki"
+    ]
+  },
+  "allocator_id": "f03014641",
+  "client_contract_address": "f410fcjacnm6p2iyduto6hqjsi3ibqbs226mrefbynsy"
+}

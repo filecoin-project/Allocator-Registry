@@ -5,7 +5,7 @@
   "organization": "Antalpha",
   "location": "Singapore",
   "status": "Active",
-  "metapathway_type": "Manual",
+  "metapathway_type": "Manual Pathway MetaAllocator",
   "associated_org_addresses": "f1wptpz63azsjoxu7z46zo34d2rjb3nssdrvn75iq",
   "application": {
     "allocations": {
@@ -19,7 +19,8 @@
     "required_sps": "5+",
     "required_replicas": "4+",
     "tooling": [
-      "common_ui", "smart_contract_allocator"
+      "common_ui",
+      "smart_contract_allocator"
     ],
     "data_types": [
       "Public Open Dataset (Research/Non-Profit)",
@@ -44,5 +45,7 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1xx6555qijma7igpnjspyvdunc4vfxkawnpqy5ii"
     ]
-  }
+  },
+  "allocator_id": "f03019858",
+  "client_contract_address": "f410frmvbt7qimx245kwm5dvdggx6qywz5behbg2eiwy"
 }

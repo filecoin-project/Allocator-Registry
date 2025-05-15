@@ -1,47 +1,48 @@
 {
-    "application_number": 1042,
-    "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-    "name": "Tianji Studio Fil+",
-    "organization": "Tianji Studio",
-    "location": "China",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f12ytronnjfel3otbml2xrycb64pbexvdi5ecysda",
-    "application": {
-      "allocations": {
-        "standardized": "Yes; standardized"
-      },
-      "target_clients": [
-        "Small-scale developers or data owners",
-        "Enterprise Data Clients"
-      ],
-      "required_sps": "5+",
-      "required_replicas": "5+",
-      "tooling": [
-          "common_ui",
-          "smart_contract_allocator"
-      ],
-      "data_types": [
-        "Public Open Dataset (Research/Non-Profit)",
-        "Public Open Commercial/Enterprise",
-        "Private Commercial/Enterprise",
-        "Private Non-Profit/Social Impact"
-      ],
-      "12m_requested": 150,
-      "github_handles": [
-        "liyunzhi-666"
-      ],  
-      "allocation_bookkeeping": "https://github.com/liyunzhi-666/TianjiStudio-Fil"
+  "application_number": 1042,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "Tianji Studio Fil+",
+  "organization": "Tianji Studio",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "f12ytronnjfel3otbml2xrycb64pbexvdi5ecysda",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-      "slack": "Slack handles：Patrick-li Slack IDs：UPAG52QUW",
-      "github_user": "https://github.com/liyunzhi-666"
-    },
-    "pathway_addresses": {
-      "msig": "f2guaswx7zpinojokkhvymq43dpqpwdimwiyviwti",
-      "signer": [
-        "f12ytronnjfel3otbml2xrycb64pbexvdi5ecysda"
-      ]
-    }
-  }
-  
+    "target_clients": [
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "5+",
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact"
+    ],
+    "12m_requested": 150,
+    "github_handles": [
+      "liyunzhi-666"
+    ],
+    "allocation_bookkeeping": "https://github.com/liyunzhi-666/TianjiStudio-Fil"
+  },
+  "poc": {
+    "slack": "Slack handles：Patrick-li Slack IDs：UPAG52QUW",
+    "github_user": "https://github.com/liyunzhi-666"
+  },
+  "pathway_addresses": {
+    "msig": "f2guaswx7zpinojokkhvymq43dpqpwdimwiyviwti",
+    "signer": [
+      "f12ytronnjfel3otbml2xrycb64pbexvdi5ecysda"
+    ]
+  },
+  "allocator_id": "f03012749",
+  "client_contract_address": "f410fp263er55hrywugpn5tzotzw67ge7mwu6zyy5t3y"
+}

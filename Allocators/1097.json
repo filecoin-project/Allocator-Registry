@@ -1,47 +1,50 @@
 {
-    "application_number": 1097,
-    "address": "f2bf754c63irlnomlmaacnrq6lfreynxnkhamwh3q",
-    "name": "Titan Network",
-    "organization": "Titan Network",
-    "location": "Singapore",
-    "status": "Active",
-    "metapathway_type": "Manual",
-    "associated_org_addresses": "f1nns66tt2vmcfxu74n5glbf4dclf62pod5ecdnay",
-    "application": {
-        "allocations": {
-            "standardized": "Yes; standardized"
-        },
-        "target_clients": [
-            "Individuals learning about Filecoin",
-            "Small-scale developers or data owners",
-            "Enterprise Data Clients",
-            "Other (specified above)"
-        ],
-        "required_sps": "5+",
-        "required_replicas": "3+",
-        "tooling": ["common_ui"],
-        "data_types": [
-            "Public Open Dataset (Research/Non-Profit)",
-            "Public Open Commercial/Enterprise",
-            "Private Commercial/Enterprise",
-            "Private Non-Profit/Social Impact",
-            "Other (specified elsewhere)"
-        ],
-        "12m_requested": 50,
-        "github_handles": [
-            "TitanNet"
-        ],
-        "allocation_bookkeeping": "https://github.com/TitanNet/Allocator-Pathway-Titan-Network"
+  "application_number": 1097,
+  "address": "f2bf754c63irlnomlmaacnrq6lfreynxnkhamwh3q",
+  "name": "Titan Network",
+  "organization": "Titan Network",
+  "location": "Singapore",
+  "status": "active",
+  "metapathway_type": "Manual",
+  "associated_org_addresses": "f1nns66tt2vmcfxu74n5glbf4dclf62pod5ecdnay",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
     },
-    "poc": {
-        "slack": "Neo Ge UHKK5336F",
-        "github_user": "https://github.com/TitanNet"
-    },
-    "pathway_addresses": {
-        "msig": "f2bf754c63irlnomlmaacnrq6lfreynxnkhamwh3q",
-        "signer": [
-            "f1hxtvuuzxpeboxr7k6g5npx2kkj4g5a6w2stiv4i",
-            "f1nns66tt2vmcfxu74n5glbf4dclf62pod5ecdnay"
-        ]
-    }
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients",
+      "Other (specified above)"
+    ],
+    "required_sps": "5+",
+    "required_replicas": "3+",
+    "tooling": [
+      "common_ui"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise",
+      "Private Commercial/Enterprise",
+      "Private Non-Profit/Social Impact",
+      "Other (specified elsewhere)"
+    ],
+    "12m_requested": 50,
+    "github_handles": [
+      "TitanNet"
+    ],
+    "allocation_bookkeeping": "https://github.com/TitanNet/Allocator-Pathway-Titan-Network"
+  },
+  "poc": {
+    "slack": "Neo Ge UHKK5336F",
+    "github_user": "https://github.com/TitanNet"
+  },
+  "pathway_addresses": {
+    "msig": "f2bf754c63irlnomlmaacnrq6lfreynxnkhamwh3q",
+    "signer": [
+      "f1hxtvuuzxpeboxr7k6g5npx2kkj4g5a6w2stiv4i",
+      "f1nns66tt2vmcfxu74n5glbf4dclf62pod5ecdnay"
+    ]
+  },
+  "allocator_id": "f03018977"
 }

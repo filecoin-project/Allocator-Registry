@@ -4,7 +4,7 @@
   "name": "Bewell Technology Limited Fil+ Datacap Allocator (BWTDA)",
   "organization": "Bewell Technology Limited",
   "location": "Hong Kong",
-  "status": "In-Active",
+  "status": "Removed",
   "metapathway_type": "Manual",
   "associated_org_addresses": "f1mtfp6whtd2mawpezya4vcfnvjvogdpp53i45ubq",
   "application": {
@@ -39,5 +39,6 @@
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1mtfp6whtd2mawpezya4vcfnvjvogdpp53i45ubq"
     ]
-  }
+  },
+  "allocator_id": "f03019833"
 }
