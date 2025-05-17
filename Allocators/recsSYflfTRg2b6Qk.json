@@ -1,4 +1,5 @@
 {
+  "application_number": 616,
   "address": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
   "name": "FIDL Enterprise Test",
   "allocator_id": "f03015757",
@@ -21,7 +22,9 @@
     ],
     "client_contract_address": ""
   },
-  "status": {},
+  "status": {
+    "Application Submitted": "1747495728"
+  },
   "LifeCycle": {
     "Audit 1": [
       "1747495719982",
