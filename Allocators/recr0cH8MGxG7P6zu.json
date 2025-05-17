@@ -1,4 +1,5 @@
 {
+  "application_number": 617,
   "address": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy",
   "name": "SDMR",
   "allocator_id": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy",
@@ -19,7 +20,9 @@
     ],
     "client_contract_address": ""
   },
-  "status": {},
+  "status": {
+    "Application Submitted": "1747495746"
+  },
   "LifeCycle": {
     "Audit 1": [
       "1747495714575",
