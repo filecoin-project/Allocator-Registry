@@ -2,7 +2,7 @@
   "application_number": 617,
   "address": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy",
   "name": "SDMR",
-  "allocator_id": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy",
+  "allocator_id": "f03145507",
   "organization": "Shenyang Dongya Medical Research Institute Co.",
   "metapathway_type": "MA",
   "ma_address": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
@@ -21,7 +21,7 @@
     "client_contract_address": ""
   },
   "status": {
-    "Application Submitted": "1747495746"
+    "Application Submitted": "1747495719"
   },
   "LifeCycle": {
     "Audit 1": [
@@ -30,7 +30,9 @@
     ]
   },
   "pathway_addresses": {
-    "msig": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy",
-    "signer": []
+    "msig": "f03145507",
+    "signer": [
+      "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy"
+    ]
   }
 }
