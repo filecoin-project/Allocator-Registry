@@ -1,0 +1,32 @@
+{
+  "address": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
+  "name": "govtest market monday1",
+  "allocator_id": "f03019951",
+  "organization": "govteam",
+  "metapathway_type": "MA",
+  "ma_address": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
+  "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+  "application": {
+    "audit": [
+      "Market-based Allocator"
+    ],
+    "distribution": [],
+    "required_sps": "1",
+    "required_replicas": "1",
+    "tooling": [],
+    "github_handles": [
+      "galen_monday"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1747687495548",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f03019951"
+  }
+}
