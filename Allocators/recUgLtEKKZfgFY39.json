@@ -1,0 +1,35 @@
+{
+  "address": "N/A",
+  "name": "Just screen recording a walkthrough guide! : )",
+  "allocator_id": "N/A",
+  "organization": "Foundation",
+  "metapathway_type": "MA",
+  "ma_address": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
+  "associated_org_addresses": "N/A",
+  "application": {
+    "audit": [
+      "Other"
+    ],
+    "distribution": [],
+    "required_sps": "1",
+    "required_replicas": "1",
+    "tooling": [],
+    "github_handles": [
+      "Kevin-Foundation-USA",
+      "amin-foundation",
+      "galen"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1747687544817",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "N/A",
+    "signer": []
+  }
+}
