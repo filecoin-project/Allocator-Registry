@@ -1,7 +1,8 @@
 {
+  "application_number": 626,
   "address": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
   "name": "govtest market monday1",
-  "allocator_id": "f03019951",
+  "allocator_id": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
   "organization": "govteam",
   "metapathway_type": "MA",
   "ma_address": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
@@ -19,7 +20,9 @@
     ],
     "client_contract_address": ""
   },
-  "status": {},
+  "status": {
+    "Application Submitted": "1747687506"
+  },
   "LifeCycle": {
     "Audit 1": [
       "1747687495548",
@@ -27,6 +30,7 @@
     ]
   },
   "pathway_addresses": {
-    "msig": "f03019951"
+    "msig": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
+    "signer": []
   }
 }
