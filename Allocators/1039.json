@@ -34,7 +34,8 @@
     "github_handles": [
       "Destore2023"
     ],
-    "allocation_bookkeeping": "https://github.com/Destore2023/MetaPathways-Bookkeeping"
+    "allocation_bookkeeping": "https://github.com/Destore2023/MetaPathways-Bookkeeping",
+    "client_contract_address": "f410fegrsvirv5rh3nnebtvehghrekspdvb4xlz556jy"
   },
   "poc": {
     "slack": "Eric",
@@ -46,6 +47,5 @@
       "f1rppfznglfb7uyn3k6sfzeh47yq54ptvia5ixwsq"
     ]
   },
-  "allocator_id": "f03019261",
-  "client_contract_address": "f410fegrsvirv5rh3nnebtvehghrekspdvb4xlz556jy"
+  "allocator_id": "f03019261"
 }

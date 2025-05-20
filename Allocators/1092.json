@@ -34,7 +34,8 @@
     "github_handles": [
       "ipfsAllen"
     ],
-    "allocation_bookkeeping": "https://github.com/ipfsAllen/Fil-DC-Allocator-Allen"
+    "allocation_bookkeeping": "https://github.com/ipfsAllen/Fil-DC-Allocator-Allen",
+    "client_contract_address": "f410frep4h6t6ig4jbudbb4eng2hnyvnpumlfb3i4poy"
   },
   "poc": {
     "slack": "@Allen Cho (Allen)",
@@ -46,6 +47,5 @@
       "f1s5v3clres7a63cidjotn6gfhzmy3go6ne5retri"
     ]
   },
-  "allocator_id": "f03018530",
-  "client_contract_address": "f410frep4h6t6ig4jbudbb4eng2hnyvnpumlfb3i4poy"
+  "allocator_id": "f03018530"
 }

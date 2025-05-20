@@ -27,7 +27,8 @@
     "github_handles": [
       "NDLABS-Leo"
     ],
-    "allocation_bookkeeping": "https://github.com/NDLABS-Leo/Allocator-Pathway-Enterprise-data.git"
+    "allocation_bookkeeping": "https://github.com/NDLABS-Leo/Allocator-Pathway-Enterprise-data.git",
+    "client_contract_address": "f410fdfrfh3jhrys2w5rsjpdin3hab47gp4qy2z4fsdy"
   },
   "poc": {
     "slack": "Leo - ND labs",
@@ -39,6 +40,5 @@
       "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei"
     ]
   },
-  "allocator_id": "f03012747",
-  "client_contract_address": "f410fdfrfh3jhrys2w5rsjpdin3hab47gp4qy2z4fsdy"
+  "allocator_id": "f03012747"
 }

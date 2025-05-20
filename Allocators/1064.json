@@ -33,7 +33,8 @@
     "github_handles": [
       "Carohere"
     ],
-    "allocation_bookkeeping": "https://github.com/Carohere/Caro-Allocator"
+    "allocation_bookkeeping": "https://github.com/Carohere/Caro-Allocator",
+    "client_contract_address": "f410f2nwabnzlrduqa3xvjhreumnx37ejpejjyq7etxy"
   },
   "poc": {
     "slack": "Carohere   id U03HLC9D2MQ",
@@ -45,6 +46,5 @@
       "f1w4uyrtnvie2bf2ya4i6xne7fn6ifmkm5tdamali"
     ]
   },
-  "allocator_id": "f03018489",
-  "client_contract_address": "f410f2nwabnzlrduqa3xvjhreumnx37ejpejjyq7etxy"
+  "allocator_id": "f03018489"
 }

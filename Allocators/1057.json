@@ -29,7 +29,8 @@
     "github_handles": [
       "Marshall-btc"
     ],
-    "allocation_bookkeeping": "https://github.com/Marshall-btc/Marshall-Fil-Data-Pathway"
+    "allocation_bookkeeping": "https://github.com/Marshall-btc/Marshall-Fil-Data-Pathway",
+    "client_contract_address": "f410fu5ni74qkmmqp7sfqxlwijpatwb6lijziu4zcf3a"
   },
   "poc": {
     "slack": "Slack handles：Marshall Slack IDs：U01A7CUNRSA",
@@ -41,6 +42,5 @@
       "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza"
     ]
   },
-  "allocator_id": "f03012911",
-  "client_contract_address": "f410fu5ni74qkmmqp7sfqxlwijpatwb6lijziu4zcf3a"
+  "allocator_id": "f03012911"
 }

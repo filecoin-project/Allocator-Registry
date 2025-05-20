@@ -30,7 +30,8 @@
     "github_handles": [
       "a1991car"
     ],
-    "allocation_bookkeeping": "https://github.com/a1991car/Allocator-Public-Data"
+    "allocation_bookkeeping": "https://github.com/a1991car/Allocator-Public-Data",
+    "client_contract_address": "f410fh2g45hykueu7pxdunlcrqyfsgoqezrfyxpnblbq"
   },
   "poc": {
     "slack": "nike-m",
@@ -42,6 +43,5 @@
       "f14r3uqsnxj22zzzkojqpdh6n62tg75vbx5wl72vi"
     ]
   },
-  "allocator_id": "f03013312",
-  "client_contract_address": "f410fh2g45hykueu7pxdunlcrqyfsgoqezrfyxpnblbq"
+  "allocator_id": "f03013312"
 }

@@ -31,7 +31,8 @@
     "github_handles": [
       "METAVERSEDATAMINING"
     ],
-    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/METAVERSEDATAMINING"
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/METAVERSEDATAMINING",
+    "client_contract_address": "f410frz7z37dwb6lu2wc22tio2mhthoanyp24dk6gbwi"
   },
   "poc": {
     "slack": "METAVERSEDATAMINING",
@@ -44,6 +45,5 @@
       "f1kqjoordnccf5xf46uw25tc5xxtoxmzjk5erqcrq"
     ]
   },
-  "allocator_id": "f03024159",
-  "client_contract_address": "f410frz7z37dwb6lu2wc22tio2mhthoanyp24dk6gbwi"
+  "allocator_id": "f03024159"
 }

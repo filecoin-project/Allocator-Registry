@@ -34,7 +34,8 @@
     "github_handles": [
       "Bitengine-reeta"
     ],
-    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Bitengine-Reeta-Filplus"
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Bitengine-Reeta-Filplus",
+    "client_contract_address": "f410fywsnsqdiwz5djhqmqrtcxdskhf3sim5qhlbheui"
   },
   "poc": {
     "slack": "@bitengine-reeta",
@@ -47,6 +48,5 @@
       "f1km6utrorrtqh572e3ybfu7jq2gfktkgfghscr6i"
     ]
   },
-  "allocator_id": "f03014781",
-  "client_contract_address": "f410fywsnsqdiwz5djhqmqrtcxdskhf3sim5qhlbheui"
+  "allocator_id": "f03014781"
 }

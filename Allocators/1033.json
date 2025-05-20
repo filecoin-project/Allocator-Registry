@@ -27,7 +27,8 @@
     "github_handles": [
       "FilscanOfficial"
     ],
-    "allocation_bookkeeping": "https://github.com/FilscanOfficial/filscan-backend"
+    "allocation_bookkeeping": "https://github.com/FilscanOfficial/filscan-backend",
+    "client_contract_address": "f410frzphwfrauexdofg3kj56bs32j25nzowe6xnu2ii"
   },
   "poc": {
     "slack": "filscan.io",
@@ -40,6 +41,5 @@
       "f16mbzjnlccbifopyt4fnd6u4iyd6mmojxtxcki7q"
     ]
   },
-  "allocator_id": "f03019853",
-  "client_contract_address": "f410frzphwfrauexdofg3kj56bs32j25nzowe6xnu2ii"
+  "allocator_id": "f03019853"
 }

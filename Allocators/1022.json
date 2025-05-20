@@ -32,7 +32,8 @@
     "github_handles": [
       "joshua-ne"
     ],
-    "allocation_bookkeeping": "https://github.com/joshua-ne/FIL_DC_Allocator_1022"
+    "allocation_bookkeeping": "https://github.com/joshua-ne/FIL_DC_Allocator_1022",
+    "client_contract_address": "f410fwpvrx5oapejeoun3pu3ussvlwko47caa6duoy2q"
   },
   "poc": {
     "slack": "@Josh",
@@ -45,6 +46,5 @@
       "f1e3gesx3bp4pspt2afurzgu7lmuzkzwsqynrvglq"
     ]
   },
-  "allocator_id": "f03018029",
-  "client_contract_address": "f410fwpvrx5oapejeoun3pu3ussvlwko47caa6duoy2q"
+  "allocator_id": "f03018029"
 }

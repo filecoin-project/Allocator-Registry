@@ -32,7 +32,8 @@
     "github_handles": [
       "pandacrypto"
     ],
-    "allocation_bookkeeping": "https://github.com/pandacrypto/DSPA-Allocator"
+    "allocation_bookkeeping": "https://github.com/pandacrypto/DSPA-Allocator",
+    "client_contract_address": "f410fpthnazskfzvl3obfdtyzwhahi2ucewcltplerky"
   },
   "poc": {
     "slack": "@wayne",
@@ -44,6 +45,5 @@
       "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy"
     ]
   },
-  "allocator_id": "f03010575",
-  "client_contract_address": "f410fpthnazskfzvl3obfdtyzwhahi2ucewcltplerky"
+  "allocator_id": "f03010575"
 }
