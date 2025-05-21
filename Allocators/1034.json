@@ -30,7 +30,8 @@
     "github_handles": [
       "ipfsforcezuofu"
     ],
-    "allocation_bookkeeping": "https://github.com/ipfsforcezuofu/ipfsforce-allocator"
+    "allocation_bookkeeping": "https://github.com/ipfsforcezuofu/ipfsforce-allocator",
+    "client_contract_address": "f410fem4lplqcjer7lxxgnpcrvxk326ktfvfok57tudi"
   },
   "poc": {
     "slack": "zuofu@kunyaokeji.com",
@@ -43,6 +44,5 @@
       "f1x4nh2yvv2o2wwr4f7l7ocuenz7trdv7z5oqlgni"
     ]
   },
-  "allocator_id": "f03019856",
-  "client_contract_address": "f410fem4lplqcjer7lxxgnpcrvxk326ktfvfok57tudi"
+  "allocator_id": "f03019856"
 }

@@ -30,7 +30,8 @@
     "github_handles": [
       "zcfil"
     ],
-    "allocation_bookkeeping": "https://github.com/zcfil/ZCFIL"
+    "allocation_bookkeeping": "https://github.com/zcfil/ZCFIL",
+    "client_contract_address": "f410ffnflsbfqxiu34r3yqjjv4wo6w2h3uuqav56eemy"
   },
   "poc": {
     "slack": "U0344P8J9FU",
@@ -43,6 +44,5 @@
       "f1j5awdc2swdbrxlnn2y6txwjtiymrvuox4rexoii"
     ]
   },
-  "allocator_id": "f03014659",
-  "client_contract_address": "f410ffnflsbfqxiu34r3yqjjv4wo6w2h3uuqav56eemy"
+  "allocator_id": "f03014659"
 }

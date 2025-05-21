@@ -31,7 +31,8 @@
     "github_handles": [
       "TOPPOOL-LEE"
     ],
-    "allocation_bookkeeping": "https://github.com/TOPPOOL-LEE/Allocator-Pathway-TOP-POOL"
+    "allocation_bookkeeping": "https://github.com/TOPPOOL-LEE/Allocator-Pathway-TOP-POOL",
+    "client_contract_address": "f410fhbmfnwccrxiu25gcn6jolz3cavo6r57ko22aeha"
   },
   "poc": {
     "slack": "toppool",
@@ -44,6 +45,5 @@
       "f1grjkkw3p5hw3vx5gonvppkkzpcgmu4xnwfm7sli"
     ]
   },
-  "allocator_id": "f03004870",
-  "client_contract_address": "f410fhbmfnwccrxiu25gcn6jolz3cavo6r57ko22aeha"
+  "allocator_id": "f03004870"
 }

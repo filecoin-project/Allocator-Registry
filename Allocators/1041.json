@@ -33,7 +33,8 @@
     "github_handles": [
       "AlanGreaterheat"
     ],
-    "allocation_bookkeeping": "https://github.com/AlanGreaterheat/Greaterheat-Allocator"
+    "allocation_bookkeeping": "https://github.com/AlanGreaterheat/Greaterheat-Allocator",
+    "client_contract_address": "f410foe7gl7u57ookbbjmn6eav2zaed4r454plezbocy"
   },
   "poc": {
     "slack": "@Alan (GRHEAT)",
@@ -45,6 +46,5 @@
       "f1wa66ph33vsmxbfgqkcn2x3ayvmblu3irtovphpa"
     ]
   },
-  "allocator_id": "f03010601",
-  "client_contract_address": "f410foe7gl7u57ookbbjmn6eav2zaed4r454plezbocy"
+  "allocator_id": "f03010601"
 }

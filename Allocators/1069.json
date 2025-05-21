@@ -31,7 +31,8 @@
       "woshidama323",
       "peter6wei"
     ],
-    "allocation_bookkeeping": "https://github.com/TopBlocks/TopBlocks_Allocator"
+    "allocation_bookkeeping": "https://github.com/TopBlocks/TopBlocks_Allocator",
+    "client_contract_address": "f410fv27slnhjgpqcwi27t6j76hbtzrdg3pxdugazvmy"
   },
   "poc": {
     "slack": "U017R30J55X",
@@ -45,6 +46,5 @@
       "f1ez4nfx4lbqmddefk3gpqisf2xcfr3g6qm4qes7i"
     ]
   },
-  "allocator_id": "f03019931",
-  "client_contract_address": "f410fv27slnhjgpqcwi27t6j76hbtzrdg3pxdugazvmy"
+  "allocator_id": "f03019931"
 }

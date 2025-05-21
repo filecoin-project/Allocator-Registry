@@ -32,7 +32,8 @@
       "laurarenpanda",
       "Filedrive-ops"
     ],
-    "allocation_bookkeeping": "https://github.com/filedrive-team/Filecoin-Plus-Pathway"
+    "allocation_bookkeeping": "https://github.com/filedrive-team/Filecoin-Plus-Pathway",
+    "client_contract_address": "f410fpcsodiwc3m27rgr6y7pj22eq6awriqlo4bpnkhi"
   },
   "poc": {
     "slack": "Laura Panda, Filedrive-ops",
@@ -46,6 +47,5 @@
       "f1hhfjedejpwi44wffdqrs3xl6bnygzfjfj3tzpaq"
     ]
   },
-  "allocator_id": "f03019850",
-  "client_contract_address": "f410fpcsodiwc3m27rgr6y7pj22eq6awriqlo4bpnkhi"
+  "allocator_id": "f03019850"
 }

@@ -31,7 +31,8 @@
     "github_handles": [
       "Chuangshi1"
     ],
-    "allocation_bookkeeping": "https://github.com/Chuangshi1/Genesis"
+    "allocation_bookkeeping": "https://github.com/Chuangshi1/Genesis",
+    "client_contract_address": "f410fuelfwxkr6umyi6p2z2ewc7n6hrntff3b34pggoq"
   },
   "poc": {
     "slack": "Genesis",
@@ -45,6 +46,5 @@
       "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri"
     ]
   },
-  "allocator_id": "f03019845",
-  "client_contract_address": "f410fuelfwxkr6umyi6p2z2ewc7n6hrntff3b34pggoq"
+  "allocator_id": "f03019845"
 }

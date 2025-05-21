@@ -30,7 +30,8 @@
       "lksbrssr",
       "vvkio"
     ],
-    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/web3mine-AG"
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/web3mine-AG",
+    "client_contract_address": "f410fed5uiv6q7rshb4fowb2cqdcrjif7typ4lie2tiq"
   },
   "poc": {
     "slack": "lksbrssr; vvk",
@@ -43,6 +44,5 @@
       "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca"
     ]
   },
-  "allocator_id": "f03019928",
-  "client_contract_address": "f410fed5uiv6q7rshb4fowb2cqdcrjif7typ4lie2tiq"
+  "allocator_id": "f03019928"
 }

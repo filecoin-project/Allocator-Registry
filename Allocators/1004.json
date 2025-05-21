@@ -31,7 +31,8 @@
     "github_handles": [
       "psh0691"
     ],
-    "allocation_bookkeeping": "https://github.com/Blockchain-World-News/FIL-DC-Allocator"
+    "allocation_bookkeeping": "https://github.com/Blockchain-World-News/FIL-DC-Allocator",
+    "client_contract_address": "f410f3usmiqb27pqvd77kdhopaywr6wldzhjug5zwgni"
   },
   "poc": {
     "slack": "psh0691",
@@ -44,6 +45,5 @@
       "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i"
     ]
   },
-  "allocator_id": "f03016877",
-  "client_contract_address": "f410f3usmiqb27pqvd77kdhopaywr6wldzhjug5zwgni"
+  "allocator_id": "f03016877"
 }

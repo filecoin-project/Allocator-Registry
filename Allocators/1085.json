@@ -31,7 +31,8 @@
       "caoyoungyoung",
       "acfreemanwl"
     ],
-    "allocation_bookkeeping": "https://github.com/StorSwift-team/fil-allocator-bookkeeping"
+    "allocation_bookkeeping": "https://github.com/StorSwift-team/fil-allocator-bookkeeping",
+    "client_contract_address": "f410ft6h42gg2yl3wcyqsnp6lpwnynj5zsrez7tvi7di"
   },
   "poc": {
     "slack": "@Li Bihai @Young@acfreeman@coder-lb",
@@ -44,6 +45,5 @@
       "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va"
     ]
   },
-  "allocator_id": "f03019866",
-  "client_contract_address": "f410ft6h42gg2yl3wcyqsnp6lpwnynj5zsrez7tvi7di"
+  "allocator_id": "f03019866"
 }

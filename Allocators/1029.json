@@ -29,7 +29,8 @@
     "github_handles": [
       "metaeraworkops"
     ],
-    "allocation_bookkeeping": "https://github.com/metaeraworkops/MediaPlatformData"
+    "allocation_bookkeeping": "https://github.com/metaeraworkops/MediaPlatformData",
+    "client_contract_address": "f410fcjacnm6p2iyduto6hqjsi3ibqbs226mrefbynsy"
   },
   "poc": {
     "slack": "Enowsh",
@@ -41,6 +42,5 @@
       "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki"
     ]
   },
-  "allocator_id": "f03014641",
-  "client_contract_address": "f410fcjacnm6p2iyduto6hqjsi3ibqbs226mrefbynsy"
+  "allocator_id": "f03014641"
 }

@@ -31,7 +31,8 @@
     "github_handles": [
       "NewHuoPool"
     ],
-    "allocation_bookkeeping": "https://github.com/NewHuoPool/NewHuoPoolPathway"
+    "allocation_bookkeeping": "https://github.com/NewHuoPool/NewHuoPoolPathway",
+    "client_contract_address": "f410ftxfwosodbtmof536bqzzduksaken2evj4ehkeny"
   },
   "poc": {
     "slack": "NewHuoPool",
@@ -43,6 +44,5 @@
       "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y"
     ]
   },
-  "allocator_id": "f03019924",
-  "client_contract_address": "f410ftxfwosodbtmof536bqzzduksaken2evj4ehkeny"
+  "allocator_id": "f03019924"
 }
