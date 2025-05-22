@@ -1,0 +1,37 @@
+{
+  "address": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
+  "name": "govtest market monday1",
+  "organization": "govteam",
+  "pathway_addresses": {
+    "signers": []
+  },
+  "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+  "application": {
+    "audit": [
+      "Market-based Allocator"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "1",
+    "required_replicas": "1",
+    "tooling": [],
+    "github_handles": [
+      "galen_monday"
+    ],
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": null,
+    "KYC Submitted": null,
+    "Approved": null,
+    "Declined": null,
+    "DC Allocated": null
+  },
+  "audit_outcomes": {
+    "Audit 1": [
+      "1747931576657",
+      "5"
+    ]
+  },
+  "old_allocator_id": ""
+}
