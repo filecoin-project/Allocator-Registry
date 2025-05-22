@@ -1,0 +1,37 @@
+{
+  "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
+  "name": "Testing",
+  "organization": "FF Test",
+  "pathway_addresses": {
+    "signers": []
+  },
+  "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
+  "application": {
+    "audit": [
+      "Market-based Allocator"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "1",
+    "required_replicas": "1",
+    "tooling": [],
+    "github_handles": [
+      "GovTest"
+    ],
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": null,
+    "KYC Submitted": null,
+    "Approved": null,
+    "Declined": null,
+    "DC Allocated": null
+  },
+  "audit_outcomes": {
+    "Audit 1": [
+      "1747931637643",
+      "5"
+    ]
+  },
+  "old_allocator_id": ""
+}
