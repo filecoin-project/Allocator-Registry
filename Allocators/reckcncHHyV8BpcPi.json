@@ -1,4 +1,5 @@
 {
+  "application_number": 689,
   "address": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
   "name": "test market 3",
   "allocator_id": "f03019951",
@@ -19,7 +20,9 @@
     ],
     "client_contract_address": ""
   },
-  "status": {},
+  "status": {
+    "Application Submitted": "1747918954"
+  },
   "LifeCycle": {
     "Audit 1": [
       "1747918943320",
