@@ -1,0 +1,35 @@
+{
+  "address": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy",
+  "name": "SDMR",
+  "allocator_id": "f03145507",
+  "organization": "Shenyang Dongya Medical Research Institute Co.",
+  "metapathway_type": "MA",
+  "ma_address": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
+  "associated_org_addresses": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "required_sps": "4",
+    "required_replicas": "4",
+    "tooling": [],
+    "github_handles": [
+      "Hunter3576"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1747918013076",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "f03145507",
+    "signer": [
+      "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy"
+    ]
+  }
+}
