@@ -2,8 +2,12 @@
   "application_number": 716,
   "address": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "name": "FIDL Open Public Dataset Pathway",
+  "allocator_id": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "organization": "FIDL",
+  "metapathway_type": "MA",
+  "ma_address": "0xB6F5d279AEad97dFA45209F3E53969c2EF43C21",
   "pathway_addresses": {
+    "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
       "f1k4zrriujtwdlea64k7saa3l7jkbatzebfzinj7i",
       "f1r3lzgzpja2hvhcaxcdruic5qol2as27jl52xtvq",
@@ -19,7 +23,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "2",
     "required_replicas": "2",
-    "tooling": [],
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "martapiekarska"
     ],
@@ -28,14 +34,14 @@
   "history": {
     "Application Submitted": 1747935071553,
     "KYC Submitted": 1747938099838,
-    "Approved": null,
+    "Approved": 1747940188794,
     "Declined": null,
     "DC Allocated": null
   },
   "audit_outcomes": {
     "Audit 1": [
       "1747935063022",
-      "5"
+      "17.17"
     ]
   },
   "old_allocator_id": ""
