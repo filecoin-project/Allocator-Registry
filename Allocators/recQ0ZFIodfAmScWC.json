@@ -1,0 +1,34 @@
+{
+  "address": "NA",
+  "name": "Galen making airtable edits",
+  "allocator_id": "NA",
+  "organization": "Testing LLC",
+  "metapathway_type": "MA",
+  "ma_address": "0x386f08f6E8E4647B871415EBFB858b1e377d9ab2",
+  "associated_org_addresses": "f05?",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "required_sps": "3",
+    "required_replicas": "5",
+    "tooling": [],
+    "github_handles": [
+      "Amin-Foundation",
+      "testz"
+    ],
+    "client_contract_address": ""
+  },
+  "status": {},
+  "LifeCycle": {
+    "Audit 1": [
+      "1747930554487",
+      "5"
+    ]
+  },
+  "pathway_addresses": {
+    "msig": "NA",
+    "signer": []
+  }
+}
