@@ -1,4 +1,5 @@
 {
+  "application_number": 700,
   "address": "N/A",
   "name": "Just screen recording a walkthrough guide! : )",
   "allocator_id": "N/A",
@@ -21,7 +22,9 @@
     ],
     "client_contract_address": ""
   },
-  "status": {},
+  "status": {
+    "Application Submitted": "1747930574"
+  },
   "LifeCycle": {
     "Audit 1": [
       "1747930564503",
