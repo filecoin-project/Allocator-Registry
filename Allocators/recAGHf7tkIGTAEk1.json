@@ -1,4 +1,5 @@
 {
+  "application_number": 680,
   "address": "f1nmtksi22xjz44mdpcztss4mx3ofmdjzfea2sdny",
   "name": "govtest market monday1",
   "allocator_id": "f03019951",
@@ -19,7 +20,9 @@
     ],
     "client_contract_address": ""
   },
-  "status": {},
+  "status": {
+    "Application Submitted": "1747918843"
+  },
   "LifeCycle": {
     "Audit 1": [
       "1747918831832",
