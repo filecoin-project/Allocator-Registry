@@ -4,6 +4,8 @@
   "name": "FIDL Enterprise Data",
   "allocator_id": "f03015757",
   "organization": "FIDL",
+  "metapathway_type": "MA",
+  "ma_address": "0xB6F5d279AEad97dFA45209F3E53969c2EF43C21d",
   "pathway_addresses": {
     "msig": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
     "signers": [
@@ -22,7 +24,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "2",
     "required_replicas": "2",
-    "tooling": [],
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "martapiekarska"
     ],
@@ -31,14 +35,14 @@
   "history": {
     "Application Submitted": 1748031746851,
     "KYC Submitted": 1748031904821,
-    "Approved": null,
+    "Approved": 1748031926817,
     "Declined": null,
     "DC Allocated": null
   },
   "audit_outcomes": {
     "Audit 1": [
       "1748031739462",
-      "5"
+      "0"
     ]
   },
   "old_allocator_id": ""
