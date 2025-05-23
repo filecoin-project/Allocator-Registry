@@ -3,6 +3,8 @@
   "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Manual Diligence Meta Allocator",
   "organization": "Fil+ Governance Team",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {},
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
@@ -22,14 +24,14 @@
   "history": {
     "Application Submitted": 1748015493066,
     "KYC Submitted": 1748015595504,
-    "Approved": null,
+    "Approved": 1748015948661,
     "Declined": null,
     "DC Allocated": null
   },
   "audit_outcomes": {
     "Audit 1": [
       "1748015485289",
-      "5"
+      "200"
     ]
   },
   "old_allocator_id": ""
