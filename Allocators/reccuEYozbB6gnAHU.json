@@ -1,0 +1,35 @@
+{
+  "address": "f275ucxlogvchvfuxmft6pze7qevhphkextdmjmnq",
+  "name": "Manual Dilligence MetaAllocator",
+  "organization": "Fil+ Governance team",
+  "pathway_addresses": {},
+  "associated_org_addresses": "0x2e25A2f6bC2C0b7669DFB25180Ed57e07dAabe9e",
+  "application": {
+    "audit": [
+      "Other"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "1",
+    "required_replicas": "1",
+    "tooling": [],
+    "github_handles": [
+      "galen-mcandrew"
+    ],
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": null,
+    "KYC Submitted": null,
+    "Approved": null,
+    "Declined": null,
+    "DC Allocated": null
+  },
+  "audit_outcomes": {
+    "Audit 1": [
+      "1748003423984",
+      "5"
+    ]
+  },
+  "old_allocator_id": ""
+}
