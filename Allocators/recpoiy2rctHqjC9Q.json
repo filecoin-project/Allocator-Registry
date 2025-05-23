@@ -5,7 +5,7 @@
   "allocator_id": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
   "organization": "FIDL",
   "metapathway_type": "MA",
-  "ma_address": "0xB6F5d279AEad97dFA45209F3E53969c2EF43C21",
+  "ma_address": "0xB6F5d279AEad97dFA45209F3E53969c2EF43C21d",
   "pathway_addresses": {
     "msig": "f2gf2at3tv5mtv7cbkq6lh3ptgzz4aju5fweciyaq",
     "signers": [
@@ -36,12 +36,12 @@
     "KYC Submitted": 1747938099838,
     "Approved": 1747940188794,
     "Declined": null,
-    "DC Allocated": null
+    "DC Allocated": 1748000427544
   },
   "audit_outcomes": {
     "Audit 1": [
-      "1747935063022",
-      "17.17"
+      "1748000427544",
+      "5"
     ]
   },
   "old_allocator_id": ""
