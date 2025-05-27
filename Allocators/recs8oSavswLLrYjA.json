@@ -3,6 +3,8 @@
   "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Manual Diligence Meta Allocator",
   "organization": "Fil+ Governance Team",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {},
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
@@ -13,6 +15,7 @@
     "tranche_schedule": "I will use a custom calculation. ",
     "required_sps": "5",
     "required_replicas": "5",
+    "tooling": [],
     "github_handles": [
       "galen-mcandrew"
     ],
@@ -22,7 +25,7 @@
   "history": {
     "Application Submitted": "2025-05-27T20:00:39.375Z",
     "KYC Submitted": "2025-05-27T20:19:58.188Z",
-    "Approved": "",
+    "Approved": "2025-05-27T20:21:18.424Z",
     "Declined": "",
     "DC Allocated": ""
   },
@@ -32,7 +35,7 @@
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 250
     }
   ],
   "old_allocator_id": ""
