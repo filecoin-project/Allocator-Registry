@@ -1,0 +1,38 @@
+{
+  "address": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
+  "name": "Datacap for clients who are paying to store data with storage providers supported by web3mine's Ramo Network",
+  "organization": "web3mine AG",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "1",
+    "required_replicas": "7",
+    "github_handles": [
+      "vvkio"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/web3mine-AG",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-05-29T14:59:18.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
