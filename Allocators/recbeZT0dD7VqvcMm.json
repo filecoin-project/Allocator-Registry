@@ -1,0 +1,44 @@
+{
+  "address": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
+  "name": "MediaPlatformData",
+  "allocator_id": "f03014641",
+  "organization": "MetaEra",
+  "pathway_addresses": {
+    "msig": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
+    "signers": [
+      "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki"
+    ]
+  },
+  "associated_org_addresses": "f1wnok26vdslq34ocheaomeppcd4njyea6mfh4aqq",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "metaeraworkops"
+    ],
+    "allocation_bookkeeping": "https://github.com/metaeraworkops/MediaPlatformData",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-05-30T08:26:58.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
