@@ -1,0 +1,45 @@
+{
+  "address": "f23ex4ojevlypxnbjc6kbqjgulqcqtrf4ztjblaqy",
+  "name": "IPFSForce",
+  "allocator_id": "f03019856",
+  "organization": "IPFSForce",
+  "pathway_addresses": {
+    "msig": "f23ex4ojevlypxnbjc6kbqjgulqcqtrf4ztjblaqy",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1x4nh2yvv2o2wwr4f7l7ocuenz7trdv7z5oqlgni"
+    ]
+  },
+  "associated_org_addresses": "f1qzdvspgxc4wjrfiq4a4ig3rpdlvkl6rgm3voyvy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "ipfsforcezuofu"
+    ],
+    "allocation_bookkeeping": "https://github.com/ipfsforcezuofu/ipfsforce-allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-05-30T02:04:18.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
