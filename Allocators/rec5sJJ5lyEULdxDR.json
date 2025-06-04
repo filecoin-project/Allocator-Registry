@@ -1,0 +1,44 @@
+{
+  "address": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy",
+  "name": "SDMR",
+  "allocator_id": "f03145507",
+  "organization": "Shenyang Dongya Medical Research Institute Co.",
+  "pathway_addresses": {
+    "msig": "f2ynwflr24zur7f72jms6zeb4762tq36p67buuhjy",
+    "signers": [
+      "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy"
+    ]
+  },
+  "associated_org_addresses": "f1hyqz2misaxpnwbnvlipz2kd32ibk2tlhymbhgqy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "Hunter3576"
+    ],
+    "allocation_bookkeeping": "https://github.com/Hunter3576/SDMR",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-04T07:02:09.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
