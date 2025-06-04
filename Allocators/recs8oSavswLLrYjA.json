@@ -5,9 +5,7 @@
   "organization": "Fil+ Governance Team",
   "metapathway_type": "RKH",
   "ma_address": "f080",
-  "pathway_addresses": {
-    "signers": []
-  },
+  "pathway_addresses": {},
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
     "audit": [
@@ -35,7 +33,7 @@
     {
       "started": "2025-05-27T20:00:30.000Z",
       "ended": "",
-      "dc_allocated": "2025-06-04T09:49:26.000Z",
+      "dc_allocated": "2025-06-04T09:51:59.000Z",
       "outcome": "GRANTED",
       "datacap_amount": 250
     }
