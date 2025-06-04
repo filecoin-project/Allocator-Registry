@@ -1,0 +1,38 @@
+{
+  "address": "f1up4uzqwrqlqrrfphfmcclekes5tnaynlnz66qkq",
+  "name": "LiongLbas-Allocator",
+  "organization": "LiongLbas",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f142ljf6i6zz5wjze47jcfexu6eptwkadzvwhsq5a",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "3",
+    "github_handles": [
+      "lyjmry"
+    ],
+    "allocation_bookkeeping": "https://github.com/filecoin-project/Allocator-Registry/pull/865",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-04T21:24:28.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
