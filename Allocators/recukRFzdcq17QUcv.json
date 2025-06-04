@@ -2,8 +2,10 @@
   "application_number": 832,
   "address": "f23ex4ojevlypxnbjc6kbqjgulqcqtrf4ztjblaqy",
   "name": "IPFSForce",
+  "allocator_id": "f03019856",
   "organization": "IPFSForce",
   "pathway_addresses": {
+    "msig": "f23ex4ojevlypxnbjc6kbqjgulqcqtrf4ztjblaqy",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1x4nh2yvv2o2wwr4f7l7ocuenz7trdv7z5oqlgni"
