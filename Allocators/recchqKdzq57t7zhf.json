@@ -1,0 +1,47 @@
+{
+  "address": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
+  "name": "FrogHub",
+  "allocator_id": "f03019836",
+  "organization": "FrogHub Tech",
+  "pathway_addresses": {
+    "msig": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1ng2qzbpvmbk2thkzuxrmiounvn43hhm7j4l4opi",
+      "f1ech3gl35i5274k2ktqzziadronnwnkupmie3qwq",
+      "f1l7ous5nwhksx3wvg772z4i6lyiostrsejijpizq"
+    ]
+  },
+  "associated_org_addresses": "f1l7ous5nwhksx3wvg772z4i6lyiostrsejijpizq",
+  "application": {
+    "audit": [
+      "Other"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "6",
+    "github_handles": [
+      "@FroghubMan"
+    ],
+    "allocation_bookkeeping": "https://github.com/FroghubMan/filplus",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-05T10:47:55.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
