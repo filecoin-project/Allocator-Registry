@@ -1,0 +1,38 @@
+{
+  "address": "f1stjz2inu3og7qm3jgwnshcx37tgjpydyluxgnea",
+  "name": "Allocator-Rivtower",
+  "organization": "Rivtower",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1bh6rjofoe6ntapbop7kakjwo2fnbdp73sdedryi",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Rivtower-2025"
+    ],
+    "allocation_bookkeeping": "https://github.com/Rivtower-work/Allocator-Rivtower",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-06T08:34:29.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
