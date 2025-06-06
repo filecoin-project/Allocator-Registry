@@ -1,0 +1,45 @@
+{
+  "address": "f2c3kxkjidd4zndo3scdio4mlimy553m7i6q3kmea",
+  "name": "FilscanOfficial",
+  "allocator_id": "f03019853",
+  "organization": "Filscan.io",
+  "pathway_addresses": {
+    "msig": "f2c3kxkjidd4zndo3scdio4mlimy553m7i6q3kmea",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f16mbzjnlccbifopyt4fnd6u4iyd6mmojxtxcki7q"
+    ]
+  },
+  "associated_org_addresses": "TBD",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "FilscanOfficial"
+    ],
+    "allocation_bookkeeping": "https://github.com/FilscanOfficial/filscan-backend/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-06T02:57:55.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
