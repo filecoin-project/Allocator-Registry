@@ -1,0 +1,46 @@
+{
+  "address": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
+  "name": "CoinSummer-Labs",
+  "allocator_id": "f03019926",
+  "organization": "CoinSummer",
+  "pathway_addresses": {
+    "msig": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1gn6jq55uyx5eir2a7isc6t63fq7lmhrcpgdo2wy",
+      "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy"
+    ]
+  },
+  "associated_org_addresses": "f1bv4fwfmiuww25jhwqvtjsjofxu77iyhqac4j6qy",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Fortneo"
+    ],
+    "allocation_bookkeeping": "https://github.com/Fortneo/CoinSummer-Labs",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-09T15:57:57.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
