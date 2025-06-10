@@ -1,0 +1,44 @@
+{
+  "address": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
+  "name": "OpenGate",
+  "allocator_id": "f03019921",
+  "organization": "OpenGate",
+  "pathway_addresses": {
+    "msig": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
+    "signers": [
+      "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq"
+    ]
+  },
+  "associated_org_addresses": "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "OpenGate01"
+    ],
+    "allocation_bookkeeping": "https://github.com/OpenGate01/Allocator-Pathway-OpenGate01",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-10T08:57:57.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
