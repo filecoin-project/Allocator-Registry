@@ -1,0 +1,44 @@
+{
+  "address": "f26opx5wbhpfytt4tmcbebkbvkdzl2emypxzvzzba",
+  "name": "Caro allocator",
+  "allocator_id": "f03018489",
+  "organization": "None",
+  "pathway_addresses": {
+    "msig": "f26opx5wbhpfytt4tmcbebkbvkdzl2emypxzvzzba",
+    "signers": [
+      "f1w4uyrtnvie2bf2ya4i6xne7fn6ifmkm5tdamali"
+    ]
+  },
+  "associated_org_addresses": "f1w4uyrtnvie2bf2ya4i6xne7fn6ifmkm5tdamali",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Carohere"
+    ],
+    "allocation_bookkeeping": "https://github.com/Carohere/Caro-Allocator/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-10T11:12:57.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
