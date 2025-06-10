@@ -1,0 +1,44 @@
+{
+  "address": "f25462x5mtze5aiuizrker5wngqfpkpxu26egggra",
+  "name": "Allocator-Aleo-pool",
+  "allocator_id": "f03232948",
+  "organization": "Aleo pool",
+  "pathway_addresses": {
+    "msig": "f25462x5mtze5aiuizrker5wngqfpkpxu26egggra",
+    "signers": [
+      "f1c36q3bpodeddiers557j6e2mafw3oglitx56vty"
+    ]
+  },
+  "associated_org_addresses": "f1xyonjjbcuzlz6oenocllmwyt66jke3gx64ratyq",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "4",
+    "github_handles": [
+      "Aleo-pool-work"
+    ],
+    "allocation_bookkeeping": "https://github.com/Aleo-pool-work/Allocator-Aleo-pool",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-10T09:17:57.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
