@@ -1,0 +1,44 @@
+{
+  "address": "f2xllrict42lc2toycwjqpzxt2eii346dudpey2ta",
+  "name": "ND CLOUD",
+  "allocator_id": "f03012741",
+  "organization": "ND LABS",
+  "pathway_addresses": {
+    "msig": "f2xllrict42lc2toycwjqpzxt2eii346dudpey2ta",
+    "signers": [
+      "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei"
+    ]
+  },
+  "associated_org_addresses": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "ND labs - Leo"
+    ],
+    "allocation_bookkeeping": "https://github.com/NDLABS-Leo/Allocator-Pathway-ND-CLOUD",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-10T06:44:31.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
