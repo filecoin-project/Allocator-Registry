@@ -1,0 +1,44 @@
+{
+  "address": "f2cfa46wgq5bvxpaqz2e4kbqqewcbta5wwoubtcpa",
+  "name": "Tumode",
+  "allocator_id": "f03612552",
+  "organization": "Hunan Tumode Technology Co., Ltd",
+  "pathway_addresses": {
+    "msig": "f2cfa46wgq5bvxpaqz2e4kbqqewcbta5wwoubtcpa",
+    "signers": [
+      "f1vrh2z3hermgs3xq4kutulkmgmnzjaaabuov4uny"
+    ]
+  },
+  "associated_org_addresses": "f1vrh2z3hermgs3xq4kutulkmgmnzjaaabuov4uny",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "caebala"
+    ],
+    "allocation_bookkeeping": "https://github.com/caebala/Tumode",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-11T09:49:32.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
