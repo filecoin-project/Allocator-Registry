@@ -1,0 +1,44 @@
+{
+  "address": "f2pv5bd7n6ybvswfgeao7hy5knoqpckfq2pumewdi",
+  "name": "DHfil+",
+  "allocator_id": "f03612567",
+  "organization": "Zhejiang Dahua Technology Co., Ltd",
+  "pathway_addresses": {
+    "msig": "f2pv5bd7n6ybvswfgeao7hy5knoqpckfq2pumewdi",
+    "signers": [
+      "f1x73gpwnreqnp3wtc77mxvi2mfki4effi37j4hhi"
+    ]
+  },
+  "associated_org_addresses": "f1x73gpwnreqnp3wtc77mxvi2mfki4effi37j4hhi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "dahuajishu"
+    ],
+    "allocation_bookkeeping": "https://github.com/dahuajishu/DHfil",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-11T10:49:31.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
