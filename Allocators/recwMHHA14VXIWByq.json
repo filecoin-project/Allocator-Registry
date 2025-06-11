@@ -1,0 +1,38 @@
+{
+  "address": "f1aok2dpim4tcyzvzacj6z677juri5opq6yprwola",
+  "name": "PANSHIYUN",
+  "organization": "PANSHIYUN",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1bngxpxqnnssjd7vnkntyg5xvuhb4jd7tgvzwdly",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "@amiable169"
+    ],
+    "allocation_bookkeeping": "https://github.com/amiable169/fil-allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-11T10:52:58.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
