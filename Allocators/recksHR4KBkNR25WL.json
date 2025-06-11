@@ -1,0 +1,45 @@
+{
+  "address": "f2k6v3ojauf7oeghthmucwn7podfr4xslymtkl5mq",
+  "name": "Herony",
+  "allocator_id": "f03019859",
+  "organization": "Herony",
+  "pathway_addresses": {
+    "msig": "f2k6v3ojauf7oeghthmucwn7podfr4xslymtkl5mq",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1i5ghwv6m4wsn5rsqsnjl2rgrgxtbc3osgkddbei"
+    ]
+  },
+  "associated_org_addresses": "f1i5ghwv6m4wsn5rsqsnjl2rgrgxtbc3osgkddbei",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "3",
+    "github_handles": [
+      "herony-fil"
+    ],
+    "allocation_bookkeeping": "https://github.com/herony-fil/herony-data-pathway",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-11T02:17:58.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
