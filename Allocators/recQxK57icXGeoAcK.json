@@ -1,0 +1,40 @@
+{
+  "address": "TBD",
+  "name": "Allocator",
+  "organization": "Oula Network",
+  "pathway_addresses": {
+    "signers": []
+  },
+  "associated_org_addresses": "TBD",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "OulaNetworkOrg"
+    ],
+    "allocation_bookkeeping": "https://github.com/OulaNetworkOrg/Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-12T07:47:58.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
