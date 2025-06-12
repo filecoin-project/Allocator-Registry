@@ -1,0 +1,44 @@
+{
+  "address": "f2mkq7zjmtoinrjsk7em4i2gnq5vgw723vhhduvvy",
+  "name": "Future Storage",
+  "allocator_id": "f03011062",
+  "organization": "Origin Storage",
+  "pathway_addresses": {
+    "msig": "f2mkq7zjmtoinrjsk7em4i2gnq5vgw723vhhduvvy",
+    "signers": [
+      "f1q6bpjlqia6iemqbrdaxr2uehrhpvoju3qh4lpga"
+    ]
+  },
+  "associated_org_addresses": "f2mkq7zjmtoinrjsk7em4i2gnq5vgw723vhhduvvy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "1",
+    "required_replicas": "1",
+    "github_handles": [
+      "chainupk, Tom-OriginStorage"
+    ],
+    "allocation_bookkeeping": "https://github.com/Origin-Storage-IO/future-storage/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-12T04:04:32.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
