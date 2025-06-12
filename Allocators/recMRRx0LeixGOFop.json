@@ -1,0 +1,38 @@
+{
+  "address": "f1dsncl35jgq4jq74szxzier5zgfagoee2oi5deea",
+  "name": "StorageDAO",
+  "organization": "NodeDAO",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1dsncl35jgq4jq74szxzier5zgfagoee2oi5deea",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "1",
+    "required_replicas": "2",
+    "github_handles": [
+      "pixbot512, nodedao"
+    ],
+    "allocation_bookkeeping": "https://github.com/NodeDAO/StorageDAO",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-12T04:12:58.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
