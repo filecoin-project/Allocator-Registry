@@ -1,0 +1,45 @@
+{
+  "address": "f24siazyti3akorqyvi33rvlq3i73j23rwohdamuy",
+  "name": "ZCFIL+",
+  "allocator_id": "f03014659",
+  "organization": "ZC LABS",
+  "pathway_addresses": {
+    "msig": "f24siazyti3akorqyvi33rvlq3i73j23rwohdamuy",
+    "signers": [
+      "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
+      "f1j5awdc2swdbrxlnn2y6txwjtiymrvuox4rexoii"
+    ]
+  },
+  "associated_org_addresses": "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "zcfil"
+    ],
+    "allocation_bookkeeping": "https://github.com/zcfil/ZCFIL",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-13T07:02:59.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
