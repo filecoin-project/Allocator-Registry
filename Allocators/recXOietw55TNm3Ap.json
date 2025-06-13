@@ -1,0 +1,45 @@
+{
+  "address": "f27ltg7qozyhtei2otrpxouilznihitzhvt52l22a",
+  "name": "EF",
+  "allocator_id": "f03014490",
+  "organization": "EF",
+  "pathway_addresses": {
+    "msig": "f27ltg7qozyhtei2otrpxouilznihitzhvt52l22a",
+    "signers": [
+      "f13ujyzruulb6isvjlto2snyj5weptr4shqbh4bvq",
+      "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy"
+    ]
+  },
+  "associated_org_addresses": "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "Lind111"
+    ],
+    "allocation_bookkeeping": "https://github.com/Lind111/EF",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-13T06:47:59.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
