@@ -1,0 +1,38 @@
+{
+  "address": "f1pvbidvxlvfvf4jtyoxku6e4s2tntkxuusmpjmfa",
+  "name": "SWIF",
+  "organization": "SWIF",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1pvbidvxlvfvf4jtyoxku6e4s2tntkxuusmpjmfa",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "3",
+    "github_handles": [
+      "SWIF-FIL"
+    ],
+    "allocation_bookkeeping": "https://github.com/SWIF-FIL/FIL_allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-13T09:12:59.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
