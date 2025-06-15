@@ -1,0 +1,38 @@
+{
+  "address": "f1rg5p3xtbv7l3il34btuggjd34sbppcckizq42iq",
+  "name": "revelation",
+  "organization": "Revelation Tech",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1honaskpbkfmfz7uffbj2rubgzvmpjxoszlxlmja",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "@revelation2525"
+    ],
+    "allocation_bookkeeping": "https://github.com/revelation2525/datacap-pathway",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-15T07:38:00.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
