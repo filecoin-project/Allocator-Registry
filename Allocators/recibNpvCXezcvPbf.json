@@ -1,0 +1,38 @@
+{
+  "address": "f410fvwp5dwsfcicqhmpspdoloo43xzvzpyelhqelg2y",
+  "name": "Ehume Allocator",
+  "organization": "YugaTech",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1gjfz3qnbqjcdal6geo5vemmdqvseaia2l6kwj7i",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Ehume"
+    ],
+    "allocation_bookkeeping": "https://github.com/Ehume/Ehume/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-16T11:11:02.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
