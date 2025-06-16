@@ -1,0 +1,44 @@
+{
+  "address": "f2jrkwdnzmmzkgwuhv7bzts474kupilkp5kjfly2a",
+  "name": "Greaterheat",
+  "allocator_id": "f03010601",
+  "organization": "Greaterheat",
+  "pathway_addresses": {
+    "msig": "f2jrkwdnzmmzkgwuhv7bzts474kupilkp5kjfly2a",
+    "signers": [
+      "f1wa66ph33vsmxbfgqkcn2x3ayvmblu3irtovphpa"
+    ]
+  },
+  "associated_org_addresses": "f1wa66ph33vsmxbfgqkcn2x3ayvmblu3irtovphpa",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "AlanGreaterheat"
+    ],
+    "allocation_bookkeeping": "https://github.com/AlanGreaterheat/Greaterheat-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-16T09:08:00.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
