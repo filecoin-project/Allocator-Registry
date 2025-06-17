@@ -1,0 +1,45 @@
+{
+  "address": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
+  "name": "Fivestar",
+  "allocator_id": "f03613603",
+  "organization": "Fivestar",
+  "pathway_addresses": {
+    "msig": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
+    "signers": [
+      "f1nqe6atf7jwynyslzjkd7idfl4c43dhtm6ni4l2q",
+      "f1ujoxoktdyffbhkwkqbgozdflryplc6wrsn4u4sy"
+    ]
+  },
+  "associated_org_addresses": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "summerzzzzzzzzzz"
+    ],
+    "allocation_bookkeeping": "https://github.com/summerzzzzzzzzzz/Fivestar-Bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-17T10:33:40.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
