@@ -1,0 +1,45 @@
+{
+  "address": "f23dvj3jsuuqwirviqm4xn3ast5tnlbukv6ab7lwq",
+  "name": "FiL-Sinde",
+  "allocator_id": "f03615565",
+  "organization": "FiL-Sinde",
+  "pathway_addresses": {
+    "msig": "f23dvj3jsuuqwirviqm4xn3ast5tnlbukv6ab7lwq",
+    "signers": [
+      "f12lcy5hhcadqsmqcmeyvfcbwymod66ogd5p2o3oy",
+      "f1opmapqazp27aptfcag5qc4ujx56yqa5q4ckolfy"
+    ]
+  },
+  "associated_org_addresses": "f23dvj3jsuuqwirviqm4xn3ast5tnlbukv6ab7lwq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "sofregaz"
+    ],
+    "allocation_bookkeeping": "https://github.com/sofregaz/FiL-Sinde-bookingkeeping ",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-17T11:38:40.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
