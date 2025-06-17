@@ -1,0 +1,44 @@
+{
+  "address": "f2a2ssk6ijg2nnjoewazyjxwqu77uahe5o6xrfvoy",
+  "name": "DSPA Filecoin Pathway",
+  "allocator_id": "f03010575",
+  "organization": "Decentralised Storage Provider Accelerator (DSPA)",
+  "pathway_addresses": {
+    "msig": "f2a2ssk6ijg2nnjoewazyjxwqu77uahe5o6xrfvoy",
+    "signers": [
+      "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy"
+    ]
+  },
+  "associated_org_addresses": "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "6",
+    "github_handles": [
+      "pandacrypto"
+    ],
+    "allocation_bookkeeping": "https://github.com/pandacrypto/DSPA-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-17T02:56:02.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
