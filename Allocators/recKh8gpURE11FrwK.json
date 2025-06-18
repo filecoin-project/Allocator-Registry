@@ -1,0 +1,40 @@
+{
+  "address": "f2",
+  "name": "test kyc",
+  "organization": "test kyc",
+  "pathway_addresses": {
+    "signers": []
+  },
+  "associated_org_addresses": "f1",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "linjintiande"
+    ],
+    "allocation_bookkeeping": "https://github.com/LINJINTIANDE",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-18T01:53:40.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
