@@ -1,0 +1,38 @@
+{
+  "address": "f16hmuu3w247dkkhsrbbcbeqbugmpjbxpkrpcdatq",
+  "name": "IPFSTT",
+  "organization": "Huineng Network",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f16hmuu3w247dkkhsrbbcbeqbugmpjbxpkrpcdatq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "nicelove666"
+    ],
+    "allocation_bookkeeping": "https://github.com/nicelove666/Allocator-Pathway-IPFSTT/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-19T02:45:10.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
