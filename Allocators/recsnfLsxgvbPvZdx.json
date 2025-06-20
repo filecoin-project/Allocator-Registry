@@ -1,0 +1,46 @@
+{
+  "address": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
+  "name": "Allocator-Filedrive",
+  "allocator_id": "f03019850",
+  "organization": "FileDrive Labs",
+  "pathway_addresses": {
+    "msig": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q",
+      "f1hhfjedejpwi44wffdqrs3xl6bnygzfjfj3tzpaq"
+    ]
+  },
+  "associated_org_addresses": "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Filedrive-ops"
+    ],
+    "allocation_bookkeeping": "https://github.com/filedrive-team/Filecoin-Plus-Pathway/",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-20T02:35:11.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
