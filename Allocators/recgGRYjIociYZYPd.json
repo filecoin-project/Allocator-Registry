@@ -1,0 +1,44 @@
+{
+  "address": "f2ullwl2b557lfyzq5yg52ycu46cypku2uljpkrji",
+  "name": "PubangFil",
+  "allocator_id": "f03612553",
+  "organization": "Pubang seedlings",
+  "pathway_addresses": {
+    "msig": "f2ullwl2b557lfyzq5yg52ycu46cypku2uljpkrji",
+    "signers": [
+      "f1hwiippkhehlg3zhl67inpnd2xgdt6ksvvi5sssi"
+    ]
+  },
+  "associated_org_addresses": "f1hwiippkhehlg3zhl67inpnd2xgdt6ksvvi5sssi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Timothea01"
+    ],
+    "allocation_bookkeeping": "https://github.com/Timothea01/PubangFil",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-20T03:25:11.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
