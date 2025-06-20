@@ -1,0 +1,45 @@
+{
+  "address": "f2k4jd5c4sp7i5mqp7n2zk3ntfkflqv2rwro7xnxa",
+  "name": "jennifer",
+  "allocator_id": "f03616888",
+  "organization": "jennifer",
+  "pathway_addresses": {
+    "msig": "f2k4jd5c4sp7i5mqp7n2zk3ntfkflqv2rwro7xnxa",
+    "signers": [
+      "f1h2t7pc4zgte3cezeidxy6yg5p2by75gi73lk4ka",
+      "f1gsxae5anjf5hpljbzxgdhwh5t2zou6vp5odbuzy"
+    ]
+  },
+  "associated_org_addresses": "f1x2b234zl257pj2cxmhfy3uxedg4w46ufyzvnzmq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "jenniferAzhou"
+    ],
+    "allocation_bookkeeping": "https://github.com/jenniferAzhou/Bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-20T07:10:11.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
