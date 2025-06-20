@@ -1,0 +1,45 @@
+{
+  "address": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
+  "name": "Venus Fil+ Datacap Allocator (VFDA)",
+  "allocator_id": "f03019831",
+  "organization": "Venus Team",
+  "pathway_addresses": {
+    "msig": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1wzmrjlhu244jyjlpsjlyhp7en35ue4wpwbfsv3y"
+    ]
+  },
+  "associated_org_addresses": " f1wdnx2g2rffbg2pmu2ilguedw2oxg25ettfjl5fy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "VenusOfficial"
+    ],
+    "allocation_bookkeeping": "https://github.com/VenusOfficial/Pathway-VFDA",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-20T03:40:11.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
