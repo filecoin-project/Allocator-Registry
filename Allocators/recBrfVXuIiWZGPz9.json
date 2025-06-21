@@ -1,0 +1,44 @@
+{
+  "address": "f2b6y7gpyqxwp2g5wdsmaivh5xu6f6oykofdqpari",
+  "name": "PFIL+",
+  "allocator_id": "f03617148",
+  "organization": "Patrick",
+  "pathway_addresses": {
+    "msig": "f2b6y7gpyqxwp2g5wdsmaivh5xu6f6oykofdqpari",
+    "signers": [
+      "f1bmkgkhcfoqzv4s7k2lohefzzp5gdizgdxydognq"
+    ]
+  },
+  "associated_org_addresses": "f1bmkgkhcfoqzv4s7k2lohefzzp5gdizgdxydognq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "@liyunzhi-666"
+    ],
+    "allocation_bookkeeping": "https://github.com/liyunzhi-666/PFILPlus",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-21T16:03:42.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
