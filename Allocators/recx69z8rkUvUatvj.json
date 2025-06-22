@@ -1,0 +1,44 @@
+{
+  "address": "f2idqwfdtg25oqthtefjfb3pm2afkjs3t2dzqzlyi",
+  "name": "Marshall-Fil-Data-Pathway",
+  "allocator_id": "f03012911",
+  "organization": "Marshall",
+  "pathway_addresses": {
+    "msig": "f2idqwfdtg25oqthtefjfb3pm2afkjs3t2dzqzlyi",
+    "signers": [
+      "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza"
+    ]
+  },
+  "associated_org_addresses": "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "@Marshall-btc"
+    ],
+    "allocation_bookkeeping": "https://github.com/Marshall-btc/Marshall-Fil-Data-Pathway",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-22T14:55:13.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
