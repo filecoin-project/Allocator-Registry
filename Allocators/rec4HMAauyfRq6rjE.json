@@ -1,0 +1,38 @@
+{
+  "address": "f1ez4nfx4lbqmddefk3gpqisf2xcfr3g6qm4qes7i",
+  "name": "LivedWellsPathway",
+  "organization": "LivedWells",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1ez4nfx4lbqmddefk3gpqisf2xcfr3g6qm4qes7i",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "8",
+    "github_handles": [
+      "woshidama323"
+    ],
+    "allocation_bookkeeping": "https://github.com/LivedWells/LivedwellsPathways-Bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-23T12:43:43.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
