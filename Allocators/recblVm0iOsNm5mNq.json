@@ -1,0 +1,44 @@
+{
+  "address": "f2qlt2ancrjsiqvp72evgm5ifcplk5twdrol7mxgi",
+  "name": "RFfil",
+  "allocator_id": "f03014594",
+  "organization": "RFfil",
+  "pathway_addresses": {
+    "msig": "f2qlt2ancrjsiqvp72evgm5ifcplk5twdrol7mxgi",
+    "signers": [
+      "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi"
+    ]
+  },
+  "associated_org_addresses": "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "3",
+    "github_handles": [
+      "MikeH1999"
+    ],
+    "allocation_bookkeeping": "https://github.com/MikeH1999/RFfil",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-23T08:48:44.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
