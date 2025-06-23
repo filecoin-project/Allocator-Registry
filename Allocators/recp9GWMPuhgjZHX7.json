@@ -1,0 +1,45 @@
+{
+  "address": "f2l7vvqlmsv3vyrglx4oukly6ppm6kmhzaszs664i",
+  "name": "jevticgallonsd",
+  "allocator_id": "f03617642",
+  "organization": "jevticgallonsd",
+  "pathway_addresses": {
+    "msig": "f2l7vvqlmsv3vyrglx4oukly6ppm6kmhzaszs664i",
+    "signers": [
+      "f1jhrnk2ecf55fu4mzxtmo3qgfvsiiglux6k5abci",
+      "f1jngeabjpy5trpjpe4macpprhu527yz7etrkusra"
+    ]
+  },
+  "associated_org_addresses": "f1cen3grccx3vi53e4ctpmvmjqcljhzfw3qfhrd2a",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "3",
+    "github_handles": [
+      "jevticgallonsd1466"
+    ],
+    "allocation_bookkeeping": "https://github.com/jevticgallonsd1466/Bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-23T09:08:44.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
