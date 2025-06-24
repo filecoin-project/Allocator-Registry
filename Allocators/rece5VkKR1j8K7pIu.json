@@ -1,0 +1,44 @@
+{
+  "address": "f2skzbajkxghcr54uaqfd2vxzx4r5ijo5sfihag4a",
+  "name": "Xingchi Allocator",
+  "allocator_id": "f03251436",
+  "organization": "Xingchi",
+  "pathway_addresses": {
+    "msig": "f2skzbajkxghcr54uaqfd2vxzx4r5ijo5sfihag4a",
+    "signers": [
+      "f1ozvq6zbhlsxopu56c4irprb3opgdvtsyavibgjq"
+    ]
+  },
+  "associated_org_addresses": "f1ozvq6zbhlsxopu56c4irprb3opgdvtsyavibgjq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "Zaczac11"
+    ],
+    "allocation_bookkeeping": "https://github.com/Zaczac11/Xingchi-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-24T15:23:44.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
