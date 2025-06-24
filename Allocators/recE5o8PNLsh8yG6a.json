@@ -1,0 +1,38 @@
+{
+  "address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+  "name": "Genesis",
+  "organization": "Genesis",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Chuangshi1"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Genesis",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-24T07:28:43.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
