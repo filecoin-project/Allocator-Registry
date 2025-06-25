@@ -1,0 +1,45 @@
+{
+  "address": "f2zpx2anrfrqhednvzghrwxv6y4wleuik6ptnvlai",
+  "name": "onestech",
+  "allocator_id": "f03618577",
+  "organization": "onestech",
+  "pathway_addresses": {
+    "msig": "f2zpx2anrfrqhednvzghrwxv6y4wleuik6ptnvlai",
+    "signers": [
+      "f154j3vfptjpoljjsfcqjuzrlq6tzvfeljenodtla",
+      "f1me2bytc4om72sl4y7ijonyodewjbenieufhjuuq"
+    ]
+  },
+  "associated_org_addresses": "f2zpx2anrfrqhednvzghrwxv6y4wleuik6ptnvlai",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "onestech-cn"
+    ],
+    "allocation_bookkeeping": "https://github.com/onestech-cn/filplus-onestech",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-25T11:28:44.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
