@@ -1,0 +1,44 @@
+{
+  "address": "f2ru35g5sjz7q5atm6mb6nh7bo7tastgluqydxsoa",
+  "name": "LendMi Storage",
+  "allocator_id": "f03011025",
+  "organization": "LendMi",
+  "pathway_addresses": {
+    "msig": "f2ru35g5sjz7q5atm6mb6nh7bo7tastgluqydxsoa",
+    "signers": [
+      "f12mckci3omexgzoeosjvstcfxfe4vqw7owdia3da"
+    ]
+  },
+  "associated_org_addresses": "f12mckci3omexgzoeosjvstcfxfe4vqw7owdia3da",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "LendMi"
+    ],
+    "allocation_bookkeeping": "https://github.com/LendMi-Finance/LendMi-Storage",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-25T09:18:44.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
