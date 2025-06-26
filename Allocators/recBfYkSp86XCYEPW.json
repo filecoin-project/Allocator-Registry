@@ -1,0 +1,44 @@
+{
+  "address": "f2ezkaba4iy7iqfnwwzopj3h364y2j5rrekwmksri",
+  "name": "CineVault Allocator",
+  "allocator_id": "f03251477",
+  "organization": "CineVault",
+  "pathway_addresses": {
+    "msig": "f2ezkaba4iy7iqfnwwzopj3h364y2j5rrekwmksri",
+    "signers": [
+      "f1kpbkfdnqdbuqt3htwxjxyrxmcd4cnwcp2aatnba"
+    ]
+  },
+  "associated_org_addresses": "f1kpbkfdnqdbuqt3htwxjxyrxmcd4cnwcp2aatnba",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "himomo007"
+    ],
+    "allocation_bookkeeping": "https://github.com/himomo007/CineVault-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-26T17:28:45.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
