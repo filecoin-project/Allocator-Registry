@@ -1,0 +1,45 @@
+{
+  "address": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
+  "name": "StorSwift manual pathway",
+  "allocator_id": "f03019866",
+  "organization": "StorSwift",
+  "pathway_addresses": {
+    "msig": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va"
+    ]
+  },
+  "associated_org_addresses": "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "spaceT9"
+    ],
+    "allocation_bookkeeping": "https://github.com/StorSwift-team/fil-allocator-bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-26T07:23:45.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
