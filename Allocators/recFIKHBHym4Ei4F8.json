@@ -1,0 +1,45 @@
+{
+  "address": "f2djzdtcymz55csoxj4ounmdvurqif6kv6cjuzsey",
+  "name": "Hash Big Data",
+  "allocator_id": "f03014732",
+  "organization": "hash889900",
+  "pathway_addresses": {
+    "msig": "f2djzdtcymz55csoxj4ounmdvurqif6kv6cjuzsey",
+    "signers": [
+      "f14oq4jctudvidvyhfmrp7qt6ndng7pr7ampp3miq",
+      "f1lldgcje747faqelcksrwgwcml4s5u3h7afhltey"
+    ]
+  },
+  "associated_org_addresses": "f14oq4jctudvidvyhfmrp7qt6ndng7pr7ampp3miq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "hash889900"
+    ],
+    "allocation_bookkeeping": "https://github.com/hash889900/HashTeam",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-26T03:18:44.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
