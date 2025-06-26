@@ -1,0 +1,45 @@
+{
+  "address": "f2fso7a5l3htwib3vzz2e7o2evxfnu7472e3kzn7a",
+  "name": "QC Data center",
+  "allocator_id": "f03014608",
+  "organization": "QC Data center",
+  "pathway_addresses": {
+    "msig": "f2fso7a5l3htwib3vzz2e7o2evxfnu7472e3kzn7a",
+    "signers": [
+      "f1apw6of55wzdbpjpnnyenv56ensi4iisaxgmigzi",
+      "f1ylggnze72mmskm4xjcskf3kk5mp6duc2gztdboq"
+    ]
+  },
+  "associated_org_addresses": "f1apw6of55wzdbpjpnnyenv56ensi4iisaxgmigzi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "luhong123"
+    ],
+    "allocation_bookkeeping": "https://github.com/luhong123/QC-Data-center",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-26T03:43:44.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
