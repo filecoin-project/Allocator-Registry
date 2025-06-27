@@ -1,0 +1,38 @@
+{
+  "address": "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq",
+  "name": "DAYOU",
+  "organization": "BigFrog Technology",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f2gbzkcgemun7xu6gbbxggad5tksagihmf5ykf6fi",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "DaYouGroup"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/DAYOU",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-27T06:13:46.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
