@@ -1,0 +1,44 @@
+{
+  "address": "f2tv5dsxja2g4d2nryd5bwb62ae4ifldxzek52bki",
+  "name": "StudyBlock Allocator",
+  "allocator_id": "f03251479",
+  "organization": "StudyBlock",
+  "pathway_addresses": {
+    "msig": "f2tv5dsxja2g4d2nryd5bwb62ae4ifldxzek52bki",
+    "signers": [
+      "f1gdq3yqyjyyyxdqsrtf2oefxxt5ifou72hgs56dq"
+    ]
+  },
+  "associated_org_addresses": "f1gdq3yqyjyyyxdqsrtf2oefxxt5ifou72hgs56dq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "Neilneil333"
+    ],
+    "allocation_bookkeeping": "https://github.com/Neilneil333/StudyBlock",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-27T06:43:46.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
