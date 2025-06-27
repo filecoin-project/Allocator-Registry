@@ -1,0 +1,44 @@
+{
+  "address": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
+  "name": "Storify Data Fortress",
+  "allocator_id": "f03012494",
+  "organization": "Storify LLC.",
+  "pathway_addresses": {
+    "msig": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
+    "signers": [
+      "f13a6ov3nrxllvyqkduwczpyashgu3luivodwyvgq"
+    ]
+  },
+  "associated_org_addresses": "f13a6ov3nrxllvyqkduwczpyashgu3luivodwyvgq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "https://github.com/shizhigu"
+    ],
+    "allocation_bookkeeping": "https://github.com/Storify-LLC/Storify-Data-Pathway/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-27T08:18:45.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
