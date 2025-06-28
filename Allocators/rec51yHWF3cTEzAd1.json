@@ -1,0 +1,44 @@
+{
+  "address": "f2akxc76pclc7e5tuflbwctwytncdhp5tsmkdhypi",
+  "name": "Starry Manual Allocator",
+  "allocator_id": "f03251444",
+  "organization": "Hong Kong Starry Blue Ocean Technology Co., Limited",
+  "pathway_addresses": {
+    "msig": "f2akxc76pclc7e5tuflbwctwytncdhp5tsmkdhypi",
+    "signers": [
+      "f1fioa3lf45tceovtaiuq7pd6d4sfalevm6ag7ghq"
+    ]
+  },
+  "associated_org_addresses": "f1fioa3lf45tceovtaiuq7pd6d4sfalevm6ag7ghq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "yangxufengjx987"
+    ],
+    "allocation_bookkeeping": "https://github.com/yangxufengjx987/Starry",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-28T12:48:46.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
