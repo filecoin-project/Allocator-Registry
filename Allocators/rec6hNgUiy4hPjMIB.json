@@ -1,0 +1,44 @@
+{
+  "address": "f2fvwsscwmj2iv4ambki6pp2i6m4hh53lottuihha",
+  "name": "Starry Market-based Allocator",
+  "allocator_id": "f03618912",
+  "organization": "Hong Kong Starry Blue Ocean Technology Co., Limited",
+  "pathway_addresses": {
+    "msig": "f2fvwsscwmj2iv4ambki6pp2i6m4hh53lottuihha",
+    "signers": [
+      "f1fioa3lf45tceovtaiuq7pd6d4sfalevm6ag7ghq"
+    ]
+  },
+  "associated_org_addresses": "f1fioa3lf45tceovtaiuq7pd6d4sfalevm6ag7ghq",
+  "application": {
+    "audit": [
+      "Market-based Allocator"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "yangxufengjx987"
+    ],
+    "allocation_bookkeeping": "https://www.filstarry.com/",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-28T13:53:45.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
