@@ -1,0 +1,44 @@
+{
+  "address": "f2ahfg3i6g5towuxqstehcvtsk5tr3yc3bz5yl3uy",
+  "name": "LiteKYC-Allocator",
+  "allocator_id": "f03619139",
+  "organization": "The Flash-Space Exploration",
+  "pathway_addresses": {
+    "msig": "f2ahfg3i6g5towuxqstehcvtsk5tr3yc3bz5yl3uy",
+    "signers": [
+      "f1m3knei7qhyxabroz3lgsqfq2gnd4r64con2fn3i"
+    ]
+  },
+  "associated_org_addresses": "f1m3knei7qhyxabroz3lgsqfq2gnd4r64con2fn3i",
+  "application": {
+    "audit": [
+      "Automated Allocator "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "zaizailuo"
+    ],
+    "allocation_bookkeeping": "https://github.com/zaizailuo/LiteKYC-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-30T09:28:47.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
