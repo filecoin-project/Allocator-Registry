@@ -1,0 +1,44 @@
+{
+  "address": "f2jxib27f7u7djafloqzdrsxhp4u5d27gp7q3kl6a",
+  "name": "Dualities link C",
+  "allocator_id": "f03620082",
+  "organization": "Dualities link C Ltd",
+  "pathway_addresses": {
+    "msig": "f2jxib27f7u7djafloqzdrsxhp4u5d27gp7q3kl6a",
+    "signers": [
+      "f1ap5aovcti56kre3u4cicxxi2bo66cre3u563c7q"
+    ]
+  },
+  "associated_org_addresses": "f1ap5aovcti56kre3u4cicxxi2bo66cre3u563c7q",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "6",
+    "github_handles": [
+      "wowgaoyan177"
+    ],
+    "allocation_bookkeeping": "https://github.com/wowgaoyan177/Dualities-link-C",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-30T07:58:47.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
