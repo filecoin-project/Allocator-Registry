@@ -1,0 +1,38 @@
+{
+  "address": "f1rto7zthkzfazt7baq6kpls4mozpmh2m7oxehcqy",
+  "name": "Xman",
+  "organization": "Xman Team",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1rto7zthkzfazt7baq6kpls4mozpmh2m7oxehcqy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Finonaa"
+    ],
+    "allocation_bookkeeping": "https://github.com/Finonaa/Bookkeeping-Xman",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-30T07:18:47.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
