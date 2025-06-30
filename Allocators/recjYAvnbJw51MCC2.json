@@ -1,0 +1,44 @@
+{
+  "address": "f2onxvf2zmed2gctynicq5zg2mdd4ilucmzmovjsa",
+  "name": "Space Lab",
+  "allocator_id": "f03617939",
+  "organization": "Space Lab",
+  "pathway_addresses": {
+    "msig": "f2onxvf2zmed2gctynicq5zg2mdd4ilucmzmovjsa",
+    "signers": [
+      "f1lka5rj3byve5g5b7disv3weboflyg7gyk42ccya"
+    ]
+  },
+  "associated_org_addresses": "f1lka5rj3byve5g5b7disv3weboflyg7gyk42ccya",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "york0320"
+    ],
+    "allocation_bookkeeping": "https://github.com/york0320/Space-Lab",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-30T03:38:47.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
