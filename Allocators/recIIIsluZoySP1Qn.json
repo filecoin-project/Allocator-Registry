@@ -1,0 +1,44 @@
+{
+  "address": "f2ag7xficgiubk7u7237z3q4gkglaecmfwurtxgxi",
+  "name": "Stellar Manual Allocator",
+  "allocator_id": "f03618915",
+  "organization": "Stellar",
+  "pathway_addresses": {
+    "msig": "f2ag7xficgiubk7u7237z3q4gkglaecmfwurtxgxi",
+    "signers": [
+      "f1eekcbnnnj5v6ilthik2odtel7ivp2p2sthiyodi"
+    ]
+  },
+  "associated_org_addresses": "f1eekcbnnnj5v6ilthik2odtel7ivp2p2sthiyodi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "fengfeihuimin"
+    ],
+    "allocation_bookkeeping": "https://github.com/fengfeihuimin/Stellar-Manual-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-01T11:03:47.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
