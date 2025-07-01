@@ -1,0 +1,44 @@
+{
+  "address": "f26ctg76vbymx74i7fywodxc45gnipclz3i667cvi",
+  "name": "SilverPower - Manual Pathway",
+  "allocator_id": "f03618002",
+  "organization": "Silver Power Enterprise",
+  "pathway_addresses": {
+    "msig": "f26ctg76vbymx74i7fywodxc45gnipclz3i667cvi",
+    "signers": [
+      "f12ucoc3hdzznu42ju62iet4ndfdy7q5lligxcxcy"
+    ]
+  },
+  "associated_org_addresses": "f12ucoc3hdzznu42ju62iet4ndfdy7q5lligxcxcy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "SilverPowerEnterprise"
+    ],
+    "allocation_bookkeeping": "https://github.com/SilverPowerEnterprise/filcoin-allocator-bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-01T02:18:47.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
