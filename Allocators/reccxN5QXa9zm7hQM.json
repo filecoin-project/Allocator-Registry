@@ -1,0 +1,44 @@
+{
+  "address": "f2lypsoki3pgimeroul2fo35kcczkzklmjanwycja",
+  "name": "StellarStake Allocator",
+  "allocator_id": "f03283239",
+  "organization": "Stellar",
+  "pathway_addresses": {
+    "msig": "f2lypsoki3pgimeroul2fo35kcczkzklmjanwycja",
+    "signers": [
+      "f1eekcbnnnj5v6ilthik2odtel7ivp2p2sthiyodi"
+    ]
+  },
+  "associated_org_addresses": "f1eekcbnnnj5v6ilthik2odtel7ivp2p2sthiyodi",
+  "application": {
+    "audit": [
+      "Market-based Allocator"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "fengfeihuimin"
+    ],
+    "allocation_bookkeeping": "https://stellar-stake.vercel.app/ ",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-01T09:53:48.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
