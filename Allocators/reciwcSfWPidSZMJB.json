@@ -1,0 +1,44 @@
+{
+  "address": "f2io5hjiqklyfwrrb5xpst6russ3bonakkcydazsy",
+  "name": "Lilagin Allocator",
+  "allocator_id": "f03618913",
+  "organization": "Lilagin（Liang Ru Jin）",
+  "pathway_addresses": {
+    "msig": "f2io5hjiqklyfwrrb5xpst6russ3bonakkcydazsy",
+    "signers": [
+      "f1dgnjt63pi26nbpwmqx3xctzmhehrdvpyv2zj2qa"
+    ]
+  },
+  "associated_org_addresses": "f1dgnjt63pi26nbpwmqx3xctzmhehrdvpyv2zj2qa",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "zhaohongwei201109"
+    ],
+    "allocation_bookkeeping": "https://github.com/zhaohongwei201109/Lilagin-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-01T13:40:18.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
