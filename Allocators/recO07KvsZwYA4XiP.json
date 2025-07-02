@@ -1,0 +1,44 @@
+{
+  "address": "f2bqrqbxlrubzwdhwjdutccxsozk6p4i7lvml3vma",
+  "name": "Destore",
+  "allocator_id": "f03019261",
+  "organization": "Shanghai Bing Ta Co Ltd",
+  "pathway_addresses": {
+    "msig": "f2bqrqbxlrubzwdhwjdutccxsozk6p4i7lvml3vma",
+    "signers": [
+      "f1rppfznglfb7uyn3k6sfzeh47yq54ptvia5ixwsq"
+    ]
+  },
+  "associated_org_addresses": "f1rppfznglfb7uyn3k6sfzeh47yq54ptvia5ixwsq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "2",
+    "required_replicas": "5",
+    "github_handles": [
+      "@Destore2023"
+    ],
+    "allocation_bookkeeping": "https://github.com/Destore2023/MetaPathways-Bookkeeping/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-02T15:58:48.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
