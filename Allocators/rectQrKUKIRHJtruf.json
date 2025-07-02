@@ -4,6 +4,8 @@
   "name": "ND CLOUD",
   "allocator_id": "f03012741",
   "organization": "ND LABS",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2xllrict42lc2toycwjqpzxt2eii346dudpey2ta",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "ND labs - Leo"
     ],
@@ -28,14 +33,14 @@
   "history": {
     "Application Submitted": "2025-06-10T06:44:39.000Z",
     "KYC Submitted": "2025-06-10T07:02:36.000Z",
-    "Approved": "",
+    "Approved": "2025-07-02T21:56:10.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-10T06:44:31.000Z",
-      "ended": "",
+      "ended": "2025-07-02T21:56:10.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
