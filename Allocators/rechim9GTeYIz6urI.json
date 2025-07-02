@@ -4,6 +4,8 @@
   "name": "NonEntropy",
   "allocator_id": "f03018029",
   "organization": "NonEntropy Technology Pte. Ltd.",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
     "signers": [
@@ -20,6 +22,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "@joshua-ne"
     ],
@@ -29,17 +34,17 @@
   "history": {
     "Application Submitted": "2025-06-23T03:00:20.000Z",
     "KYC Submitted": "2025-06-30T07:39:12.000Z",
-    "Approved": "",
+    "Approved": "2025-07-02T22:25:56.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-23T03:00:13.000Z",
-      "ended": "",
+      "ended": "2025-07-02T22:25:56.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 20
     }
   ],
   "old_allocator_id": ""
