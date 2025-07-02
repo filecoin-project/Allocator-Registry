@@ -3,6 +3,8 @@
   "address": "f14argljqmkt3ig4yhi5hqbm44eezafterkjj56uq",
   "name": "DCENT FIL+ Non-Commercial Deals",
   "organization": "DCENT BV",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {},
   "associated_org_addresses": "f2om4d4e33huuiphsjjvs7mkeafeoastu2gzfjsey",
   "application": {
@@ -13,6 +15,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "https://github.com/cryptowhizzard"
     ],
@@ -22,17 +27,17 @@
   "history": {
     "Application Submitted": "2025-06-04T07:33:33.000Z",
     "KYC Submitted": "2025-06-04T07:38:03.000Z",
-    "Approved": "",
+    "Approved": "2025-07-02T22:03:58.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-04T07:33:25.000Z",
-      "ended": "",
+      "ended": "2025-07-02T22:03:58.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 10
     }
   ],
   "old_allocator_id": ""
