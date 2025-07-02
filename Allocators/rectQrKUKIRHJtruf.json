@@ -1,0 +1,50 @@
+{
+  "application_number": 891,
+  "address": "f2xllrict42lc2toycwjqpzxt2eii346dudpey2ta",
+  "name": "ND CLOUD",
+  "allocator_id": "f03012741",
+  "organization": "ND LABS",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2xllrict42lc2toycwjqpzxt2eii346dudpey2ta",
+    "signers": [
+      "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei"
+    ]
+  },
+  "associated_org_addresses": "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "ND labs - Leo"
+    ],
+    "allocation_bookkeeping": "https://github.com/NDLABS-Leo/Allocator-Pathway-ND-CLOUD",
+    "client_contract_address": "f410fbyynovmd3g7yc4pciczoj57267vxy354yj3owhi"
+  },
+  "history": {
+    "Application Submitted": "2025-06-10T06:44:39.000Z",
+    "KYC Submitted": "2025-06-10T07:02:36.000Z",
+    "Approved": "2025-07-02T21:56:10.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-02T21:58:46.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-06-10T06:44:31.000Z",
+      "ended": "2025-07-02T21:56:10.000Z",
+      "dc_allocated": "2025-07-02T21:58:46.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": "f03012741"
+}
