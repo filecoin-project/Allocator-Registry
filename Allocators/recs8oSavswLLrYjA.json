@@ -1,0 +1,42 @@
+{
+  "application_number": 811,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "Manual Diligence Meta Allocator",
+  "organization": "Fil+ Governance Team",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+  "application": {
+    "audit": [
+      "Other"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "tooling": [],
+    "github_handles": [
+      "galen-mcandrew"
+    ],
+    "allocation_bookkeeping": "https://github.com/filecoin-project/Allocator-Governance",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-05-27T20:00:39.000Z",
+    "KYC Submitted": "2025-05-27T20:19:58.000Z",
+    "Approved": "2025-05-27T20:21:18.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-06-04T09:47:54.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-05-27T20:00:30.000Z",
+      "ended": "",
+      "dc_allocated": "2025-06-04T10:13:56.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 250
+    }
+  ],
+  "old_allocator_id": "f03358620"
+}
