@@ -1,0 +1,51 @@
+{
+  "application_number": 962,
+  "address": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
+  "name": "NonEntropy",
+  "allocator_id": "f03018029",
+  "organization": "NonEntropy Technology Pte. Ltd.",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
+    "signers": [
+      "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry",
+      "f1e3gesx3bp4pspt2afurzgu7lmuzkzwsqynrvglq"
+    ]
+  },
+  "associated_org_addresses": "f1sfffys4o2w64rdpd3alpmvpvj4ik6x2iyjsjmry",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "@joshua-ne"
+    ],
+    "allocation_bookkeeping": "https://github.com/joshua-ne/FIL_DC_Allocator_1022",
+    "client_contract_address": "f410fwpvrx5oapejeoun3pu3ussvlwko47caa6duoy2q"
+  },
+  "history": {
+    "Application Submitted": "2025-06-23T03:00:20.000Z",
+    "KYC Submitted": "2025-06-30T07:39:12.000Z",
+    "Approved": "2025-07-02T22:25:56.000Z",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-06-23T03:00:13.000Z",
+      "ended": "2025-07-02T22:25:56.000Z",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 20
+    }
+  ],
+  "old_allocator_id": "f03018029"
+}
