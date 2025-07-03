@@ -4,6 +4,8 @@
   "name": "CoinSummer-Labs",
   "allocator_id": "f03019926",
   "organization": "CoinSummer",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
     "signers": [
@@ -21,6 +23,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "Fortneo"
     ],
@@ -30,17 +35,17 @@
   "history": {
     "Application Submitted": "2025-06-09T15:58:04.000Z",
     "KYC Submitted": "2025-07-03T09:38:28.000Z",
-    "Approved": "",
+    "Approved": "2025-07-03T20:53:29.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-09T15:57:57.000Z",
-      "ended": "",
+      "ended": "2025-07-03T20:53:29.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 2.5
     }
   ],
   "old_allocator_id": ""
