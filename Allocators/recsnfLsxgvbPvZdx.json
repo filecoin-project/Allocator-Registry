@@ -4,6 +4,8 @@
   "name": "Allocator-Filedrive",
   "allocator_id": "f03019850",
   "organization": "FileDrive Labs",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
     "signers": [
@@ -21,6 +23,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "Filedrive-ops"
     ],
@@ -30,14 +35,14 @@
   "history": {
     "Application Submitted": "2025-06-20T02:35:19.000Z",
     "KYC Submitted": "2025-06-20T03:21:34.000Z",
-    "Approved": "",
+    "Approved": "2025-07-03T22:27:03.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-20T02:35:11.000Z",
-      "ended": "",
+      "ended": "2025-07-03T22:27:03.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
