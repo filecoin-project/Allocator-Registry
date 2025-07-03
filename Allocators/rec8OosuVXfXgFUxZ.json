@@ -1,0 +1,44 @@
+{
+  "address": "f25lx7knkfafifxiuxzvjav4xb3n5mmyl6gizydza",
+  "name": "Windwill",
+  "allocator_id": "f03148218",
+  "organization": "Kingfil",
+  "pathway_addresses": {
+    "msig": "f25lx7knkfafifxiuxzvjav4xb3n5mmyl6gizydza",
+    "signers": [
+      "f1xbj7xnu2lu4sn5vt4653p7jjzhpgdz6bc34ktxa"
+    ]
+  },
+  "associated_org_addresses": "f1xbj7xnu2lu4sn5vt4653p7jjzhpgdz6bc34ktxa",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "4",
+    "github_handles": [
+      "Penko63"
+    ],
+    "allocation_bookkeeping": "https://github.com/Penko63/Windwill-AllocatorBookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-03T11:04:48.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
