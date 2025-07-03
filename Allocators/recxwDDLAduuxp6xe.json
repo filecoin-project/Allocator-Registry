@@ -29,7 +29,7 @@
     "Application Submitted": "2025-06-12T04:04:58.000Z",
     "KYC Submitted": "2025-06-30T04:43:22.000Z",
     "Approved": "",
-    "Declined": "",
+    "Declined": "2025-07-03T21:53:11.000Z",
     "DC Allocated": ""
   },
   "audits": [
@@ -37,7 +37,7 @@
       "started": "2025-06-12T04:04:32.000Z",
       "ended": "",
       "dc_allocated": "",
-      "outcome": "PENDING",
+      "outcome": "DENIED",
       "datacap_amount": 5
     }
   ],
