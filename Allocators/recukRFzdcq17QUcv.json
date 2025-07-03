@@ -34,14 +34,14 @@
   "history": {
     "Application Submitted": "2025-05-30T02:04:28.000Z",
     "KYC Submitted": "2025-05-30T02:11:02.000Z",
-    "Approved": "",
+    "Approved": "2025-06-04T21:20:27.000Z",
     "Declined": "",
     "DC Allocated": "2025-06-04T21:20:27.000Z"
   },
   "audits": [
     {
       "started": "2025-05-30T02:04:18.000Z",
-      "ended": "",
+      "ended": "2025-06-04T20:20:27.000Z",
       "dc_allocated": "2025-06-04T21:20:27.000Z",
       "outcome": "GRANTED",
       "datacap_amount": 5
