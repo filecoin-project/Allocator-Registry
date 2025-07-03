@@ -1,0 +1,45 @@
+{
+  "address": "f2pwkfr26r7h6db5laiwapjrs6f32sxkq2t65b75i",
+  "name": "https://github.com/sxxfuture-official/filplus-allocator-sxxfuture",
+  "allocator_id": "f03010963",
+  "organization": "SXX Future Data Technology Co., Ltd.",
+  "pathway_addresses": {
+    "msig": "f2pwkfr26r7h6db5laiwapjrs6f32sxkq2t65b75i",
+    "signers": [
+      "f13r7vha3bwdmupibamyr34sg653abb3ayfre2apq",
+      "f1ejbgr4xhnhs554gromyennhsepgbpa7f4esigpy"
+    ]
+  },
+  "associated_org_addresses": "f13r7vha3bwdmupibamyr34sg653abb3ayfre2apq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "https://github.com/sxxfuture-official"
+    ],
+    "allocation_bookkeeping": "https://github.com/sxxfuture-official/filplus-allocator-sxxfuture",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-03T08:20:34.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
