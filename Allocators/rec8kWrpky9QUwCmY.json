@@ -2,10 +2,17 @@
   "application_number": 960,
   "address": "f2xhj666jsewrgjd53hqlijhc5edrezrkortncjpa",
   "name": "TOPPOOL",
+  "allocator_id": "f03004870",
   "organization": "TOPPOOL",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f2xhj666jsewrgjd53hqlijhc5edrezrkortncjpa",
+    "signers": [
+      "f1grjkkw3p5hw3vx5gonvppkkzpcgmu4xnwfm7sli",
+      "f1qjpkncmx22mhjq75snuwsgiph2zowhkwfsxnuli"
+    ]
+  },
   "associated_org_addresses": "f1grjkkw3p5hw3vx5gonvppkkzpcgmu4xnwfm7sli",
   "application": {
     "audit": [
