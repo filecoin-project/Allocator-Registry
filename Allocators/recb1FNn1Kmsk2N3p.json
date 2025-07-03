@@ -2,10 +2,16 @@
   "application_number": 860,
   "address": "f2x2djhw54agyes32iyi2colhflb4ekm32iz54tjq",
   "name": "DCENT FIL+ Non-Commercial Deals",
+  "allocator_id": "f03018494",
   "organization": "DCENT BV",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f2x2djhw54agyes32iyi2colhflb4ekm32iz54tjq",
+    "signers": [
+      "f14argljqmkt3ig4yhi5hqbm44eezafterkjj56uq"
+    ],
+  },
   "associated_org_addresses": "f1eiw5gn24wpa44azzxhbyj545vzm7jqjdrcdv2fy",
   "application": {
     "audit": [
