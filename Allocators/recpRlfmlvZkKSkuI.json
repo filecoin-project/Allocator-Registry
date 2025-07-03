@@ -2,12 +2,10 @@
   "application_number": 888,
   "address": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
   "name": "CoinSummer-Labs",
-  "allocator_id": "f03019926",
   "organization": "CoinSummer",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
-    "msig": "f26btyj7einvdsg2n2sq34tcdvvspzk6yld6grftq",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1gn6jq55uyx5eir2a7isc6t63fq7lmhrcpgdo2wy",
@@ -48,5 +46,5 @@
       "datacap_amount": 2.5
     }
   ],
-  "old_allocator_id": "f03019926"
+  "old_allocator_id": ""
 }
