@@ -1,0 +1,38 @@
+{
+  "address": "f17wtzmijfkqbq2byiqanah3yy3vvoqfk27h6jpsy",
+  "name": "FILCOIN-DAILY ",
+  "organization": "FILCOIN DAILY COMMUNITY",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1azekglh2sc566jghbdi3c2j2ymr3biehhtrtpbi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "filecoindaily"
+    ],
+    "allocation_bookkeeping": "https://github.com/filecoindaily/filplus-onboard",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-03T14:34:45.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
