@@ -1,0 +1,44 @@
+{
+  "address": "f26ciuqfbmigpabzcd3etdggmcfoce3jxxq7lszcq",
+  "name": "MisteryFIL",
+  "allocator_id": "f03617945",
+  "organization": "MisteryFIL",
+  "pathway_addresses": {
+    "msig": "f26ciuqfbmigpabzcd3etdggmcfoce3jxxq7lszcq",
+    "signers": [
+      "f1rc3k7hkmejyaoafq4jx6rnyld7sepefuyvy2lby"
+    ]
+  },
+  "associated_org_addresses": "f1rc3k7hkmejyaoafq4jx6rnyld7sepefuyvy2lby",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "nicelulu"
+    ],
+    "allocation_bookkeeping": "https://github.com/FIL-DATA/MisteryFIL-Bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-03T09:11:46.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
