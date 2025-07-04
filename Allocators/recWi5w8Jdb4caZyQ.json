@@ -1,0 +1,44 @@
+{
+  "address": "f2jcsc6ysxw6huupw3ckhkd2j6cfn6odrzeubuvii",
+  "name": "Jialeitrading Allocator",
+  "allocator_id": "f03617875",
+  "organization": "JLL Trading Co.",
+  "pathway_addresses": {
+    "msig": "f2jcsc6ysxw6huupw3ckhkd2j6cfn6odrzeubuvii",
+    "signers": [
+      "f1vanyqldqgtxzi7y5zlpzmdbyz7r5eywzdrc3ahy"
+    ]
+  },
+  "associated_org_addresses": "f1vanyqldqgtxzi7y5zlpzmdbyz7r5eywzdrc3ahy",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "jacktree7"
+    ],
+    "allocation_bookkeeping": "https://github.com/jacktree7/Jialeitrading-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-04T13:54:46.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
