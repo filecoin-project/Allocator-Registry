@@ -1,0 +1,45 @@
+{
+  "address": "f2p2yz6iv33uiz6snsbgheuvwa4cjclcpi46fpbkq",
+  "name": "Bitengine-Reeta Allocator",
+  "allocator_id": "f03014781",
+  "organization": "Bit Engine Pte Ltd.",
+  "pathway_addresses": {
+    "msig": "f2p2yz6iv33uiz6snsbgheuvwa4cjclcpi46fpbkq",
+    "signers": [
+      "f15x23zuhctuqz77tvkzthow3xkpvn3q4kjgxpgya",
+      "f1km6utrorrtqh572e3ybfu7jq2gfktkgfghscr6i"
+    ]
+  },
+  "associated_org_addresses": "f1km6utrorrtqh572e3ybfu7jq2gfktkgfghscr6i",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "Bitengine-reeta"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Bitengine-Reeta-Filplus/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-04T11:34:47.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
