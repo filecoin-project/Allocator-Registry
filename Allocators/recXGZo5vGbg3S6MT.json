@@ -3,7 +3,9 @@
   "address": "f17wtzmijfkqbq2byiqanah3yy3vvoqfk27h6jpsy",
   "name": "FILCOIN-DAILY ",
   "organization": "FILCOIN DAILY COMMUNITY",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1azekglh2sc566jghbdi3c2j2ymr3biehhtrtpbi",
   "application": {
     "audit": [
@@ -21,7 +23,7 @@
   },
   "history": {
     "Application Submitted": "2025-07-03T14:34:52.000Z",
-    "KYC Submitted": "",
+    "KYC Submitted": "2025-07-04T06:56:39.000Z",
     "Approved": "",
     "Declined": "",
     "DC Allocated": ""
