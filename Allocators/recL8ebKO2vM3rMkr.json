@@ -1,8 +1,11 @@
 {
+  "application_number": 1017,
   "address": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
   "name": "Froghub",
+  "allocator_id": "f03019836",
   "organization": "Froghub Tech",
   "pathway_addresses": {
+    "msig": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1ng2qzbpvmbk2thkzuxrmiounvn43hhm7j4l4opi",
@@ -26,7 +29,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-07-04T15:14:54.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
