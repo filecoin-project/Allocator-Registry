@@ -1,0 +1,46 @@
+{
+  "address": "f2abticfsmadgxh567htprvlmo4tgsi6ggxq2s7si",
+  "name": "OpenLedger Open Data PathWay",
+  "allocator_id": "f03613301",
+  "organization": "OpenLedger",
+  "pathway_addresses": {
+    "msig": "f2abticfsmadgxh567htprvlmo4tgsi6ggxq2s7si",
+    "signers": [
+      "f16fn2w2rjyo3hnbpbxcywiyw6whxecg6xrt6hsvq",
+      "f1o3bfapqea3e7mfwcb4sbj3n76uasn2ob2gufrxi",
+      "f134rbisobuzyzl5xe4kyi2mwriufvd3jsdnbqdia"
+    ]
+  },
+  "associated_org_addresses": "f2abticfsmadgxh567htprvlmo4tgsi6ggxq2s7si",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "beatyman"
+    ],
+    "allocation_bookkeeping": "https://github.com/jupiter-dao/Open-Data-Bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-04T01:54:46.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
