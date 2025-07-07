@@ -1,0 +1,44 @@
+{
+  "address": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
+  "name": "Fil-DC-Allocator-Allen",
+  "allocator_id": "f03018530",
+  "organization": "ZetaCube Inc",
+  "pathway_addresses": {
+    "msig": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
+    "signers": [
+      "f1s5v3clres7a63cidjotn6gfhzmy3go6ne5retri"
+    ]
+  },
+  "associated_org_addresses": "f1kth524kqjwd5r6pfkw23y5ef73c5e33edurjroa",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "ipfsAllen"
+    ],
+    "allocation_bookkeeping": "https://github.com/ipfsAllen/Fil-DC-Allocator-Allen",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-07T07:49:46.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
