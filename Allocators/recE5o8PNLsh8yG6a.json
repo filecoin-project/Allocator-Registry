@@ -2,8 +2,16 @@
   "application_number": 968,
   "address": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
   "name": "Genesis",
+  "allocator_id": "f03019845",
   "organization": "Genesis",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f2m4ljkbqkw4rljq7mhu2xmdchnvbcuwqox4hebnq",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1ldkhvk55psquvhc727udmdl2tgm55exndh2meqa",
+      "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri"
+    ]
+  },
   "associated_org_addresses": "f1mdk7s2vntzm6hu35yuo6vjubtrpfnb2awhgvrri",
   "application": {
     "audit": [
