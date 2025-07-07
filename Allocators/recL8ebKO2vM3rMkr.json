@@ -2,10 +2,10 @@
   "application_number": 1017,
   "address": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
   "name": "Froghub",
-  "allocator_id": "f03019836",
   "organization": "Froghub Tech",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
-    "msig": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1ng2qzbpvmbk2thkzuxrmiounvn43hhm7j4l4opi",
@@ -22,6 +22,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "FroghubMan"
     ],
@@ -31,17 +34,17 @@
   "history": {
     "Application Submitted": "2025-07-04T15:14:54.000Z",
     "KYC Submitted": "2025-07-07T21:48:50.000Z",
-    "Approved": "",
+    "Approved": "2025-07-07T21:49:28.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-04T15:14:46.000Z",
-      "ended": "",
+      "ended": "2025-07-07T21:49:28.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 2.5
     }
   ],
   "old_allocator_id": ""
