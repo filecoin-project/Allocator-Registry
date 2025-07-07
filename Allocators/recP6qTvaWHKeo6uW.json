@@ -4,6 +4,8 @@
   "name": "WaterdropLab",
   "allocator_id": "f03019840",
   "organization": "SSDMINER CLOUD INTELLIGENT",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
     "signers": [
@@ -21,6 +23,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "amiclan666"
     ],
@@ -30,14 +35,14 @@
   "history": {
     "Application Submitted": "2025-06-09T06:38:04.000Z",
     "KYC Submitted": "2025-07-07T23:10:34.000Z",
-    "Approved": "",
+    "Approved": "2025-07-07T23:12:12.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-09T06:37:57.000Z",
-      "ended": "",
+      "ended": "2025-07-07T23:12:12.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
