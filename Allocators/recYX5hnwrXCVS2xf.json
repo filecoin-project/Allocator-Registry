@@ -1,0 +1,51 @@
+{
+  "application_number": 872,
+  "address": "f2c3kxkjidd4zndo3scdio4mlimy553m7i6q3kmea",
+  "name": "FilscanOfficial",
+  "allocator_id": "f03019853",
+  "organization": "Filscan.io",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2c3kxkjidd4zndo3scdio4mlimy553m7i6q3kmea",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f16mbzjnlccbifopyt4fnd6u4iyd6mmojxtxcki7q"
+    ]
+  },
+  "associated_org_addresses": "TBD",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "FilscanOfficial"
+    ],
+    "allocation_bookkeeping": "https://github.com/FilscanOfficial/filscan-backend/issues",
+    "client_contract_address": "f410frzphwfrauexdofg3kj56bs32j25nzowe6xnu2ii"
+  },
+  "history": {
+    "Application Submitted": "2025-06-06T02:58:03.000Z",
+    "KYC Submitted": "2025-06-06T03:07:05.000Z",
+    "Approved": "2025-07-07T22:32:41.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-07T22:32:41.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-06-06T02:57:55.000Z",
+      "ended": "2025-07-07T22:32:41.000Z",
+      "dc_allocated": "2025-07-07T22:32:41.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 10
+    }
+  ],
+  "old_allocator_id": "f03019853"
+}
