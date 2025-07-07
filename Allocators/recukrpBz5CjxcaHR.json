@@ -1,0 +1,38 @@
+{
+  "address": "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i",
+  "name": "https://github.com/Blockchain-World-News/FIL-DC-Allocator/issues",
+  "organization": "BlockchainWorld",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "3",
+    "github_handles": [
+      "psh0691"
+    ],
+    "allocation_bookkeeping": "https://github.com/Blockchain-World-News/FIL-DC-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-07T15:26:17.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
