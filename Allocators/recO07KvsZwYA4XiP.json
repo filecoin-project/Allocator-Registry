@@ -35,14 +35,14 @@
     "KYC Submitted": "2025-07-06T06:30:52.000Z",
     "Approved": "2025-07-07T21:39:27.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-07-07T21:41:16.000Z"
   },
   "audits": [
     {
       "started": "2025-07-02T15:58:48.000Z",
       "ended": "2025-07-07T21:39:27.000Z",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "dc_allocated": "2025-07-07T21:41:16.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": 10
     }
   ],
