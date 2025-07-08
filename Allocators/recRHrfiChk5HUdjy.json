@@ -1,0 +1,45 @@
+{
+  "address": "f2v3zv6qw2w4gslejsqmetpmelcupdnecsktdcxcq",
+  "name": "PiKNiK FILplus",
+  "allocator_id": "f03019912",
+  "organization": "PiKNiK",
+  "pathway_addresses": {
+    "msig": "f2v3zv6qw2w4gslejsqmetpmelcupdnecsktdcxcq",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1knvu3opxqmavyh73hmu3z53q2skxxdp6zwqjnzy"
+    ]
+  },
+  "associated_org_addresses": "f1knvu3opxqmavyh73hmu3z53q2skxxdp6zwqjnzy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "2",
+    "required_replicas": "2",
+    "github_handles": [
+      "Jamerduhgamer"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/PiKNiK-FILplus",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-08T08:22:31.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
