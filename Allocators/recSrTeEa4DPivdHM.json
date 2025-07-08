@@ -1,0 +1,44 @@
+{
+  "address": "f2srgcxkj3zzy36t24lobqueerddnr4cqmfzq6dbq",
+  "name": "LaughStorage Allocator",
+  "allocator_id": "f03142901",
+  "organization": "LaughStorage",
+  "pathway_addresses": {
+    "msig": "f2srgcxkj3zzy36t24lobqueerddnr4cqmfzq6dbq",
+    "signers": [
+      "f1rezheyjsdejlxgssaqkvtg5buhsiubevgsbyjsa"
+    ]
+  },
+  "associated_org_addresses": "f1rezheyjsdejlxgssaqkvtg5buhsiubevgsbyjsa",
+  "application": {
+    "audit": [
+      "Automated Allocator "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "26dos"
+    ],
+    "allocation_bookkeeping": "https://github.com/26dos/AllocatorBookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-08T08:22:39.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
