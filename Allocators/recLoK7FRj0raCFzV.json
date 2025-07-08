@@ -1,0 +1,44 @@
+{
+  "application_number": 947,
+  "address": "f27au4b3z7a243fz43y55hqwfdrso6kcfdork7moa",
+  "name": "IPFSTT",
+  "organization": "Huineng Network",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f16hmuu3w247dkkhsrbbcbeqbugmpjbxpkrpcdatq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "nicelove666"
+    ],
+    "allocation_bookkeeping": "https://github.com/nicelove666/Allocator-Pathway-IPFSTT/issues",
+    "client_contract_address": "f410fxuffkq6zbptdnh65wkurc2rdcznmwlez5eiz6dq"
+  },
+  "history": {
+    "Application Submitted": "2025-06-19T02:45:18.000Z",
+    "KYC Submitted": "2025-06-21T02:13:23.000Z",
+    "Approved": "2025-07-03T21:28:13.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-03T21:53:20.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-06-19T02:45:10.000Z",
+      "ended": "2025-07-03T21:28:13.000Z",
+      "dc_allocated": "2025-07-03T21:53:20.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 10
+    }
+  ],
+  "old_allocator_id": "f03011612"
+}
