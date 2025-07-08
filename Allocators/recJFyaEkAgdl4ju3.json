@@ -4,6 +4,8 @@
   "name": "LendMi Storage",
   "allocator_id": "f03011025",
   "organization": "LendMi",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2ru35g5sjz7q5atm6mb6nh7bo7tastgluqydxsoa",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "LendMi"
     ],
@@ -28,16 +33,16 @@
   "history": {
     "Application Submitted": "2025-06-25T09:18:54.000Z",
     "KYC Submitted": "2025-06-27T01:10:25.000Z",
-    "Approved": "",
+    "Approved": "2025-07-08T16:48:28.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-07-08T16:48:28.000Z"
   },
   "audits": [
     {
       "started": "2025-06-25T09:18:44.000Z",
-      "ended": "",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "ended": "2025-07-08T16:48:28.000Z",
+      "dc_allocated": "2025-07-08T16:48:28.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": 5
     }
   ],
