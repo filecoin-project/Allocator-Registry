@@ -1,0 +1,44 @@
+{
+  "address": "f2a7f7rocg4yh7nc2fnfxqulzxk2yohrb63yqevcy",
+  "name": "NewHuoPoolPathway",
+  "allocator_id": "f03019924",
+  "organization": "NewHuoPool",
+  "pathway_addresses": {
+    "msig": "f2a7f7rocg4yh7nc2fnfxqulzxk2yohrb63yqevcy",
+    "signers": [
+      "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y"
+    ]
+  },
+  "associated_org_addresses": "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "NewHuoPool"
+    ],
+    "allocation_bookkeeping": "https://github.com/NewHuoPool/NewHuoPoolPathway",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-08T08:22:59.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
