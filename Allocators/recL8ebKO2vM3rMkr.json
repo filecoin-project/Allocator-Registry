@@ -1,0 +1,53 @@
+{
+  "application_number": 1017,
+  "address": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
+  "name": "Froghub",
+  "allocator_id": "f03019836",
+  "organization": "Froghub Tech",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1ng2qzbpvmbk2thkzuxrmiounvn43hhm7j4l4opi",
+      "f1ech3gl35i5274k2ktqzziadronnwnkupmie3qwq",
+      "f1l7ous5nwhksx3wvg772z4i6lyiostrsejijpizq"
+    ]
+  },
+  "associated_org_addresses": "f1l7ous5nwhksx3wvg772z4i6lyiostrsejijpizq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "FroghubMan"
+    ],
+    "allocation_bookkeeping": "https://github.com/FroghubMan/filplus/issues",
+    "client_contract_address": "f410fbux62tpt2gfd4ytmwt46azx7b2ro7tdf3juiqvy"
+  },
+  "history": {
+    "Application Submitted": "2025-07-04T15:14:54.000Z",
+    "KYC Submitted": "2025-07-07T21:48:50.000Z",
+    "Approved": "2025-07-07T21:49:28.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-08T08:19:36.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-07-04T15:14:46.000Z",
+      "ended": "2025-07-07T21:49:28.000Z",
+      "dc_allocated": "2025-07-08T08:19:36.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 2.5
+    }
+  ],
+  "old_allocator_id": "f03019836"
+}
