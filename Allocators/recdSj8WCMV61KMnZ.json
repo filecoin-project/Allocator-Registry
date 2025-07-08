@@ -4,6 +4,8 @@
   "name": " Tianji Studio Fil+",
   "allocator_id": "f03601395",
   "organization": "Tianji Studio",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2nkktzi5ofarvjqzdi7baqngwjdqygmgnyfhynwi",
     "signers": [
@@ -22,6 +24,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "TianjiStudio"
     ],
@@ -31,17 +36,17 @@
   "history": {
     "Application Submitted": "2025-06-16T09:51:10.000Z",
     "KYC Submitted": "2025-07-08T17:07:32.000Z",
-    "Approved": "",
+    "Approved": "2025-07-08T17:08:44.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-16T09:51:02.000Z",
-      "ended": "",
+      "ended": "2025-07-08T17:08:44.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 0.00195312
     }
   ],
   "old_allocator_id": ""
