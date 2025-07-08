@@ -1,0 +1,45 @@
+{
+  "address": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
+  "name": "Ramo",
+  "allocator_id": "f03019928",
+  "organization": "web3mine AG",
+  "pathway_addresses": {
+    "msig": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca"
+    ]
+  },
+  "associated_org_addresses": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "3",
+    "required_replicas": "7",
+    "github_handles": [
+      "vvkio"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/web3mine-AG",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-08T14:26:31.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
