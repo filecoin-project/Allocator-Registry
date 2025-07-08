@@ -3,6 +3,8 @@
   "address": "f1pvbidvxlvfvf4jtyoxku6e4s2tntkxuusmpjmfa",
   "name": "SWIF",
   "organization": "SWIF",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {},
   "associated_org_addresses": "f1pvbidvxlvfvf4jtyoxku6e4s2tntkxuusmpjmfa",
   "application": {
@@ -13,6 +15,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "3",
     "required_replicas": "3",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "SWIF-FIL"
     ],
@@ -22,14 +27,14 @@
   "history": {
     "Application Submitted": "2025-06-13T09:13:08.000Z",
     "KYC Submitted": "2025-06-13T09:28:15.000Z",
-    "Approved": "",
+    "Approved": "2025-07-08T17:52:55.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-13T09:12:59.000Z",
-      "ended": "",
+      "ended": "2025-07-08T17:52:55.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
