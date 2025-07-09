@@ -1,0 +1,60 @@
+{
+  "application_number": 932,
+  "address": "f2nkktzi5ofarvjqzdi7baqngwjdqygmgnyfhynwi",
+  "name": " Tianji Studio Fil+",
+  "allocator_id": "f03601395",
+  "organization": "Tianji Studio",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2nkktzi5ofarvjqzdi7baqngwjdqygmgnyfhynwi",
+    "signers": [
+      "f1ixrkncezvsbsdijmc3vhk7v7bkowbvfsnpskkjy",
+      "f1qkub4mbnocesothrotjcacnukyodhcf4rd5skui",
+      "f1ylkihl2jt2kyf33ynu57ytuh2ziveqaput3inyi",
+      "f1opxmit7dws7sgfcd7eyt575ngeiwktq4qcuo7kq"
+    ]
+  },
+  "associated_org_addresses": "f1m5t3ymkxcf4utgzfl5dbiilennp4d4v7utrclwa",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "TianjiStudio"
+    ],
+    "allocation_bookkeeping": "    https://github.com/TianjiStudio/TianjiStudio-Allocator",
+    "client_contract_address": "f410fp263er55hrywugpn5tzotzw67ge7mwu6zyy5t3y"
+  },
+  "history": {
+    "Application Submitted": "2025-06-16T09:51:10.000Z",
+    "KYC Submitted": "2025-07-08T17:07:32.000Z",
+    "Approved": "2025-07-08T17:08:44.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-08T17:48:42.000Z"
+  },
+  "audits": [
+    {
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2025-01-06T01:00:00.000Z",
+      "ended": "2025-03-31T01:00:00.000Z",
+      "dc_allocated": "2025-04-02T01:00:00.000Z",
+      "outcome": "MATCH",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": "f03012749"
+}

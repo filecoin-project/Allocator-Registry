@@ -1,0 +1,86 @@
+{
+  "application_number": 975,
+  "address": "f2fso7a5l3htwib3vzz2e7o2evxfnu7472e3kzn7a",
+  "name": "QC Data center",
+  "allocator_id": "f03014608",
+  "organization": "QC Data center",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2fso7a5l3htwib3vzz2e7o2evxfnu7472e3kzn7a",
+    "signers": [
+      "f1apw6of55wzdbpjpnnyenv56ensi4iisaxgmigzi",
+      "f1ylggnze72mmskm4xjcskf3kk5mp6duc2gztdboq"
+    ]
+  },
+  "associated_org_addresses": "f1apw6of55wzdbpjpnnyenv56ensi4iisaxgmigzi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "luhong123"
+    ],
+    "allocation_bookkeeping": "https://github.com/luhong123/QC-Data-center",
+    "client_contract_address": "f410fh6ilo6dzx2p5fjnmcv7omza62sw7a534wegymiy"
+  },
+  "history": {
+    "Application Submitted": "2025-06-26T03:43:52.000Z",
+    "KYC Submitted": "2025-07-01T08:38:30.000Z",
+    "Approved": "2025-07-03T22:33:59.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-03T22:35:36.000Z"
+  },
+  "audits": [
+    {
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2024-08-20T01:00:00.000Z",
+      "ended": "2024-09-07T01:00:00.000Z",
+      "dc_allocated": "2024-09-17T01:00:00.000Z",
+      "outcome": "MATCH",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2024-10-08T01:00:00.000Z",
+      "ended": "2024-10-15T01:00:00.000Z",
+      "dc_allocated": "2024-10-28T01:00:00.000Z",
+      "outcome": "DOUBLED",
+      "datacap_amount": 10
+    },
+    {
+      "started": "2024-12-08T01:00:00.000Z",
+      "ended": "2024-12-19T01:00:00.000Z",
+      "dc_allocated": "2024-12-20T01:00:00.000Z",
+      "outcome": "THROTTLED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2025-04-10T01:00:00.000Z",
+      "ended": "2025-04-26T01:00:00.000Z",
+      "dc_allocated": "2025-04-28T01:00:00.000Z",
+      "outcome": "MATCH",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2025-06-12T01:00:00.000Z",
+      "ended": "2025-06-27T01:00:00.000Z",
+      "dc_allocated":  "2025-07-03T22:35:36.000Z",
+      "outcome": "MATCH",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": "f03014608"
+}

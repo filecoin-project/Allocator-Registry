@@ -1,0 +1,85 @@
+{
+  "application_number": 999,
+  "address": "f2bqrqbxlrubzwdhwjdutccxsozk6p4i7lvml3vma",
+  "name": "Destore",
+  "allocator_id": "f03019261",
+  "organization": "Shanghai Bing Ta Co Ltd",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2bqrqbxlrubzwdhwjdutccxsozk6p4i7lvml3vma",
+    "signers": [
+      "f1rppfznglfb7uyn3k6sfzeh47yq54ptvia5ixwsq"
+    ]
+  },
+  "associated_org_addresses": "f1rppfznglfb7uyn3k6sfzeh47yq54ptvia5ixwsq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "2",
+    "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "@Destore2023"
+    ],
+    "allocation_bookkeeping": "https://github.com/Destore2023/MetaPathways-Bookkeeping/issues",
+    "client_contract_address": "f410fegrsvirv5rh3nnebtvehghrekspdvb4xlz556jy"
+  },
+  "history": {
+    "Application Submitted": "2025-07-02T15:58:56.000Z",
+    "KYC Submitted": "2025-07-06T06:30:52.000Z",
+    "Approved": "2025-07-07T21:39:27.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-07T21:41:16.000Z"
+  },
+  "audits": [
+    {
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2024-06-14T01:00:00.000Z",
+      "ended": "2024-08-01T01:00:00.000Z",
+      "dc_allocated": "2024-08-07T01:00:00.000Z",
+      "outcome": "MATCH",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2024-09-03T01:00:00.000Z",
+      "ended": "2024-10-15T01:00:00.000Z",
+      "dc_allocated": "2024-10-28T01:00:00.000Z",
+      "outcome": "DOUBLED",
+      "datacap_amount": 10
+    },
+    {
+      "started": "2024-11-07T01:00:00.000Z",
+      "ended": "2024-12-19T01:00:00.000Z",
+      "dc_allocated": "2024-12-20T01:00:00.000Z",
+      "outcome": "DOUBLED",
+      "datacap_amount": 20
+    },
+    {
+      "started": "2025-02-17T01:00:00.000Z",
+      "ended": "2025-03-31T01:00:00.000Z",
+      "dc_allocated": "2025-04-02T01:00:00.000Z",
+      "outcome": "MATCH",
+      "datacap_amount": 20
+    },
+    {
+      "started": "2025-06-05T01:00:00.000Z",
+      "ended": "2025-06-27T01:00:00.000Z",
+      "dc_allocated": "2025-07-07T21:41:16.000Z",
+      "outcome": "THROTTLED",
+      "datacap_amount": 10
+    }
+  ],
+  "old_allocator_id": "f03019261"
+}

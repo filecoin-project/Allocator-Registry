@@ -41,6 +41,7 @@
   },
   "audits": [
     {
+<<<<<<< Updated upstream
   "started": "2024-03-15T01:00:00.000Z",
   "ended": "2024-03-15T01:00:00.000Z",
   "dc_allocated": "2024-03-15T01:00:00.000Z",
@@ -61,6 +62,28 @@
   "outcome": "DOUBLED",
   "datacap_amount": 20
 }
+=======
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2024-10-14T01:00:00.000Z",
+      "ended": "2024-11-02T01:00:00.000Z",
+      "dc_allocated": "2024-11-19T01:00:00.000Z",
+      "outcome": "DOUBLED",
+      "datacap_amount": 10
+    },
+    {
+      "started": "2025-01-31T01:00:00.000Z",
+      "ended": "2025-02-12T01:00:00.000Z",
+      "dc_allocated": "2025-02-17T01:00:00.000Z",
+      "outcome": "DOUBLED",
+      "datacap_amount": 20
+    }
+>>>>>>> Stashed changes
   ],
   "old_allocator_id": "f03015751"
 }

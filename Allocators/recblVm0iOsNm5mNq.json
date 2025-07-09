@@ -1,0 +1,85 @@
+{
+  "application_number": 965,
+  "address": "f2qlt2ancrjsiqvp72evgm5ifcplk5twdrol7mxgi",
+  "name": "RFfil",
+  "allocator_id": "f03014594",
+  "organization": "RFfil",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2qlt2ancrjsiqvp72evgm5ifcplk5twdrol7mxgi",
+    "signers": [
+      "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi"
+    ]
+  },
+  "associated_org_addresses": "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "3",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "MikeH1999"
+    ],
+    "allocation_bookkeeping": "https://github.com/MikeH1999/RFfil",
+    "client_contract_address": "f410f2gttflowjnzcxeeop6husfjctopyvskazcmnjgi"
+  },
+  "history": {
+    "Application Submitted": "2025-06-23T08:48:51.000Z",
+    "KYC Submitted": "2025-06-23T08:58:00.000Z",
+    "Approved": "2025-07-03T22:09:02.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-03T22:18:56.000Z"
+  },
+  "audits": [
+    {
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2024-05-09T01:00:00.000Z",
+      "ended": "2024-06-07T01:00:00.000Z",
+      "dc_allocated": "2024-07-01T01:00:00.000Z",
+      "outcome": "THROTTLED",
+      "datacap_amount": 2.5
+    },
+    {
+      "started": "2024-07-27T01:00:00.000Z",
+      "ended": "2024-09-07T01:00:00.000Z",
+      "dc_allocated": "2024-09-17T01:00:00.000Z",
+      "outcome": "DOUBLED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2024-10-10T01:00:00.000Z",
+      "ended": "2024-11-02T01:00:00.000Z",
+      "dc_allocated": "2024-11-19T01:00:00.000Z",
+      "outcome": "DOUBLED",
+      "datacap_amount": 10
+    },
+    {
+      "started": "2025-05-28T01:00:00.000Z",
+      "ended": "2025-06-18T01:00:00.000Z",
+      "dc_allocated": "2025-07-03T22:18:56.000Z",
+      "outcome": "DOUBLED",
+      "datacap_amount": 20
+    },
+    {
+      "started": "2025-06-23T08:48:44.000Z",
+      "ended": "2025-07-03T22:09:02.000Z",
+      "dc_allocated": "2025-07-03T22:18:56.000Z",
+      "outcome": "MATCHED",
+      "datacap_amount": 20
+    }
+  ],
+  "old_allocator_id": "f03014594"
+}
