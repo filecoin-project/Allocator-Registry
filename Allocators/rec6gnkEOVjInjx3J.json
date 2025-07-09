@@ -1,0 +1,44 @@
+{
+  "address": "f2oasaaoofntz53tw4vggdcfdwfyyngm25iognanq",
+  "name": "Leizileiindustry Manual Allocator",
+  "allocator_id": "f03617873",
+  "organization": "QT LZL Commerce",
+  "pathway_addresses": {
+    "msig": "f2oasaaoofntz53tw4vggdcfdwfyyngm25iognanq",
+    "signers": [
+      "f1tku4mqv4nnp44h22lacx4oahmcbu2wxd2tc54kq"
+    ]
+  },
+  "associated_org_addresses": "f1tku4mqv4nnp44h22lacx4oahmcbu2wxd2tc54kq",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "zoufang567653"
+    ],
+    "allocation_bookkeeping": "https://github.com/zoufang567653/Leizileiindustry-Manual-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-09T16:16:30.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
