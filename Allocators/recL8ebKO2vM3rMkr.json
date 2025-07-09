@@ -42,10 +42,17 @@
   },
   "audits": [
     {
-      "started": "2025-07-04T15:14:46.000Z",
-      "ended": "2025-07-07T21:49:28.000Z",
-      "dc_allocated": "2025-07-08T08:19:36.000Z",
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
       "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2025-06-07T01:00:00.000Z",
+      "ended": "2025-06-27T01:00:00.000Z",
+      "dc_allocated": "2025-07-08T08:19:36.000Z",
+      "outcome": "THROTTLED",
       "datacap_amount": 2.5
     }
   ],
