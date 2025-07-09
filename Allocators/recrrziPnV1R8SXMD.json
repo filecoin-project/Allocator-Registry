@@ -1,0 +1,45 @@
+{
+  "address": "f24dvserezcrb372p7sortgm5gnxvysxoxigoywpi",
+  "name": "FogmetaLab manual pathway",
+  "allocator_id": "f03623170",
+  "organization": "Fogmeta Lab",
+  "pathway_addresses": {
+    "msig": "f24dvserezcrb372p7sortgm5gnxvysxoxigoywpi",
+    "signers": [
+      "f17riyuaetm4w4y2wpa4de3qzvayrjljkagbntyii",
+      "f1immdoglb3p6c6lmcg5vyvfuxnngic3by365cvyq"
+    ]
+  },
+  "associated_org_addresses": "f17riyuaetm4w4y2wpa4de3qzvayrjljkagbntyii",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "3",
+    "github_handles": [
+      "Normalnoise"
+    ],
+    "allocation_bookkeeping": "https://github.com/FogmetaLab/fil-allocator-bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-09T08:36:31.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
