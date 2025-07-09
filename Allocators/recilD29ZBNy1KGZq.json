@@ -1,0 +1,45 @@
+{
+  "address": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
+  "name": "Helmsman",
+  "allocator_id": "f03613603",
+  "organization": "Helmsman",
+  "pathway_addresses": {
+    "msig": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
+    "signers": [
+      "f1nqe6atf7jwynyslzjkd7idfl4c43dhtm6ni4l2q",
+      "f1ujoxoktdyffbhkwkqbgozdflryplc6wrsn4u4sy"
+    ]
+  },
+  "associated_org_addresses": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Acumes"
+    ],
+    "allocation_bookkeeping": "https://github.com/Acumes/Helmsman-Bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-09T09:11:32.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
