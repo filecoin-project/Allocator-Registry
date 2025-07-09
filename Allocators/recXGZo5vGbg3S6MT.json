@@ -1,9 +1,16 @@
 {
   "application_number": 1010,
-  "address": "f17wtzmijfkqbq2byiqanah3yy3vvoqfk27h6jpsy",
+  "address": "f2grhgddmyxti7g3jfu6esos6sxlgd6xveuzt3coa",
   "name": "FILCOIN-DAILY ",
+  "allocator_id" : "f03622605",
   "organization": "FILCOIN DAILY COMMUNITY",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig" : "f2grhgddmyxti7g3jfu6esos6sxlgd6xveuzt3coa",
+    "signers": [
+      "f17wtzmijfkqbq2byiqanah3yy3vvoqfk27h6jpsy",
+      "f1azekglh2sc566jghbdi3c2j2ymr3biehhtrtpbi"
+    ]
+  },
   "associated_org_addresses": "f1azekglh2sc566jghbdi3c2j2ymr3biehhtrtpbi",
   "application": {
     "audit": [
