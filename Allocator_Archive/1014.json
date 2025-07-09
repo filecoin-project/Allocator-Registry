@@ -1,15 +1,15 @@
 {
-  "application_number": 1042,
+  "application_number": 1014,
   "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "name": "Tianji Studio Fil+",
-  "organization": "Tianji Studio",
-  "location": "China",
+  "name": "LendMi Storage",
+  "organization": "LendMi",
+  "location": "Singapore",
   "status": "Active",
   "metapathway_type": "Manual Pathway MetaAllocator",
-  "associated_org_addresses": "f12ytronnjfel3otbml2xrycb64pbexvdi5ecysda",
+  "associated_org_addresses": "f17gyewdt3aviprhmhcl52xq2rtv3ihrakiv6bukq",
   "application": {
     "allocations": {
-      "standardized": "Yes; standardized"
+      "standardized": "No; client specific"
     },
     "target_clients": [
       "Small-scale developers or data owners",
@@ -27,22 +27,22 @@
       "Private Commercial/Enterprise",
       "Private Non-Profit/Social Impact"
     ],
-    "12m_requested": 150,
+    "12m_requested": 170,
     "github_handles": [
-      "liyunzhi-666"
+      "Rongze92"
     ],
-    "allocation_bookkeeping": "https://github.com/liyunzhi-666/TianjiStudio-Fil",
-    "client_contract_address": "f410fp263er55hrywugpn5tzotzw67ge7mwu6zyy5t3y"
+    "allocation_bookkeeping": "https://github.com/LendMi-Finance/LendMi-Storage",
+    "client_contract_address": "f410fci3jb6xm7qhtvtsnozgde4lvyvjsvw227nkzgyi"
   },
   "poc": {
-    "slack": "Slack handles：Patrick-li Slack IDs：UPAG52QUW",
-    "github_user": "https://github.com/liyunzhi-666"
+    "slack": "contact@lendmi.finance",
+    "github_user": "LendMi"
   },
   "pathway_addresses": {
-    "msig": "f2guaswx7zpinojokkhvymq43dpqpwdimwiyviwti",
+    "msig": "f2ru35g5sjz7q5atm6mb6nh7bo7tastgluqydxsoa",
     "signer": [
-      "f12ytronnjfel3otbml2xrycb64pbexvdi5ecysda"
+      "f12mckci3omexgzoeosjvstcfxfe4vqw7owdia3da"
     ]
   },
-  "allocator_id": "f03012749"
+  "allocator_id": "f03011025"
 }
