@@ -1,0 +1,38 @@
+{
+  "address": "f154ntl7h5u6tvg2fmipe2nbjpgxsu5ipnajvcspy",
+  "name": "IPFSYUN",
+  "organization": "Wuhan Jinyu Information Technology Center",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f2itu2zuxdizwx7oqm3jwkfuidjzxvpyjsyig7ofa ",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "nike-mp （https://github.com/nike-mp）"
+    ],
+    "allocation_bookkeeping": "https://github.com/filecoin-project/Allocator-Governance/issues/158",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-10T14:45:49.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
