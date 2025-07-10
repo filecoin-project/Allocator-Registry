@@ -2,8 +2,10 @@
   "application_number": 971,
   "address": "f2l7vvqlmsv3vyrglx4oukly6ppm6kmhzaszs664i",
   "name": "TopBlocks",
+  "allocator_id": "f03617642",
   "organization": "TopBlocks",
   "pathway_addresses": {
+    "msig": "f2l7vvqlmsv3vyrglx4oukly6ppm6kmhzaszs664i",
     "signers": [
       "f1jhrnk2ecf55fu4mzxtmo3qgfvsiiglux6k5abci",
       "f1jngeabjpy5trpjpe4macpprhu527yz7etrkusra"
