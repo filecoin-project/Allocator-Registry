@@ -3,7 +3,9 @@
   "address": "f410fhbxqr5xi4rshxbyucxv7xbmldy3x3gvsjrcnply",
   "name": "Faucet Metaallocator",
   "organization": "FIDL",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f410foygeoeocfkqi7bqaa6zheomu2xvmblvtpwsctiy",
   "application": {
     "audit": [
@@ -21,7 +23,7 @@
   },
   "history": {
     "Application Submitted": "2025-07-10T10:39:33.000Z",
-    "KYC Submitted": "",
+    "KYC Submitted": "2025-07-10T16:56:24.000Z",
     "Approved": "",
     "Declined": "",
     "DC Allocated": ""
