@@ -2,10 +2,10 @@
   "application_number": 974,
   "address": "f2djzdtcymz55csoxj4ounmdvurqif6kv6cjuzsey",
   "name": "Hash Big Data",
-  "allocator_id": "f03014732",
   "organization": "hash889900",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
-    "msig": "f2djzdtcymz55csoxj4ounmdvurqif6kv6cjuzsey",
     "signers": [
       "f14oq4jctudvidvyhfmrp7qt6ndng7pr7ampp3miq",
       "f1lldgcje747faqelcksrwgwcml4s5u3h7afhltey"
@@ -20,6 +20,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "hash889900"
     ],
@@ -29,17 +32,17 @@
   "history": {
     "Application Submitted": "2025-06-26T03:18:53.000Z",
     "KYC Submitted": "2025-07-01T08:35:47.000Z",
-    "Approved": "",
+    "Approved": "2025-07-10T18:51:22.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-26T03:18:44.000Z",
-      "ended": "",
+      "ended": "2025-07-10T18:51:22.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 10
     }
   ],
   "old_allocator_id": ""
