@@ -2,8 +2,10 @@
   "application_number": 997,
   "address": "f2q5bs54s7srw6dk3urvuqwdjb3nxz7senjmn5g2i",
   "name": "EasyOnboard Allocator",
+  "allocator_id": "f03617871",
   "organization": "Tech Greedy",
   "pathway_addresses": {
+    "msig": "f2q5bs54s7srw6dk3urvuqwdjb3nxz7senjmn5g2i",
     "signers": [
       "f1ffzgattgx5v7w7vqdckiy2rjhhgcsohpdmjeq5q"
     ]
