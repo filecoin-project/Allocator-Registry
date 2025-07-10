@@ -1,0 +1,42 @@
+{
+  "application_number": 879,
+  "address": "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
+  "name": "Kernelogic Fil+ Datacap Allocator",
+  "organization": "Kernelogic Software Inc",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
+  "application": {
+    "audit": [
+      "Automated Allocator "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "tooling": [],
+    "github_handles": [
+      "kernelogic"
+    ],
+    "allocation_bookkeeping": "https://kfda.filweb3.com/report",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-06-07T01:29:36.000Z",
+    "KYC Submitted": "2025-06-09T21:35:01.000Z",
+    "Approved": "2025-07-07T23:27:32.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-10T17:54:34.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-06-07T01:29:29.000Z",
+      "ended": "2025-07-07T23:27:32.000Z",
+      "dc_allocated": "2025-07-10T17:54:34.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 10
+    }
+  ],
+  "old_allocator_id": ""
+}
