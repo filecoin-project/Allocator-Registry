@@ -1,0 +1,45 @@
+{
+  "address": "f2easi46ap54rihqik5cck2wr55hwm4rmmi2c2wxy",
+  "name": "https://github.com/Antalpha-Web3/Ant-Steve",
+  "allocator_id": "f03019858",
+  "organization": "Antalpha",
+  "pathway_addresses": {
+    "msig": "f2easi46ap54rihqik5cck2wr55hwm4rmmi2c2wxy",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1xx6555qijma7igpnjspyvdunc4vfxkawnpqy5ii"
+    ]
+  },
+  "associated_org_addresses": "f1xx6555qijma7igpnjspyvdunc4vfxkawnpqy5ii",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "4",
+    "github_handles": [
+      "nj-steve"
+    ],
+    "allocation_bookkeeping": "https://github.com/Antalpha-Web3/Ant-Steve",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-10T04:09:26.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
