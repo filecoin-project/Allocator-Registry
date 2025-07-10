@@ -2,8 +2,10 @@
   "application_number": 1030,
   "address": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
   "name": "Helmsman",
+  "allocator_id": "f03613603",
   "organization": "Helmsman",
   "pathway_addresses": {
+    "msig": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
     "signers": [
       "f1nqe6atf7jwynyslzjkd7idfl4c43dhtm6ni4l2q",
       "f1ujoxoktdyffbhkwkqbgozdflryplc6wrsn4u4sy"
