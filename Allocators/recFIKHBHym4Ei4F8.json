@@ -2,8 +2,10 @@
   "application_number": 974,
   "address": "f2djzdtcymz55csoxj4ounmdvurqif6kv6cjuzsey",
   "name": "Hash Big Data",
+  "allocator_id": "f03014732",
   "organization": "hash889900",
   "pathway_addresses": {
+    "msig": "f2djzdtcymz55csoxj4ounmdvurqif6kv6cjuzsey",
     "signers": [
       "f14oq4jctudvidvyhfmrp7qt6ndng7pr7ampp3miq",
       "f1lldgcje747faqelcksrwgwcml4s5u3h7afhltey"
