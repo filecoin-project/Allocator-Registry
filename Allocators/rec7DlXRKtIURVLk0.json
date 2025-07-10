@@ -3,7 +3,9 @@
   "address": "f410frkw2pe63tx3cxjdqh4lmoorocskjwcxidsi7c3i",
   "name": "Experimental Pathway Metaallocator",
   "organization": "FIDL",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f410foygeoeocfkqi7bqaa6zheomu2xvmblvtpwsctiy",
   "application": {
     "audit": [
