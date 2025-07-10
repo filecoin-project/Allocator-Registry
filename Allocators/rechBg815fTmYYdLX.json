@@ -2,8 +2,10 @@
   "application_number": 1027,
   "address": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
   "name": "Ramo",
+  "allocator_id": "f03019928",
   "organization": "web3mine AG",
   "pathway_addresses": {
+    "msig": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca"
