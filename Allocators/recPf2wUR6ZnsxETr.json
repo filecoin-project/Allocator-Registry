@@ -2,8 +2,10 @@
   "application_number": 991,
   "address": "f26ctg76vbymx74i7fywodxc45gnipclz3i667cvi",
   "name": "SilverPower - Manual Pathway",
+  "allocator_id": "f03618002",
   "organization": "Silver Power Enterprise",
   "pathway_addresses": {
+    "msig": "f26ctg76vbymx74i7fywodxc45gnipclz3i667cvi",
     "signers": [
       "f12ucoc3hdzznu42ju62iet4ndfdy7q5lligxcxcy"
     ]
