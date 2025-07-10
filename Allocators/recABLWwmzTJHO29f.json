@@ -3,7 +3,9 @@
   "address": "f1rto7zthkzfazt7baq6kpls4mozpmh2m7oxehcqy",
   "name": "Xman",
   "organization": "Xman Team",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1rto7zthkzfazt7baq6kpls4mozpmh2m7oxehcqy",
   "application": {
     "audit": [
