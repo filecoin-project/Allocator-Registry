@@ -2,8 +2,10 @@
   "application_number": 961,
   "address": "f2idqwfdtg25oqthtefjfb3pm2afkjs3t2dzqzlyi",
   "name": "Marshall-Fil-Data-Pathway",
+  "allocator_id": "f03012911",
   "organization": "Marshall",
   "pathway_addresses": {
+    "msig": "f2idqwfdtg25oqthtefjfb3pm2afkjs3t2dzqzlyi",
     "signers": [
       "f16b6a4s63opnunpag3llqg77pfl4pyixwb657iza"
     ]
