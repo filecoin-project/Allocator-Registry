@@ -3,7 +3,9 @@
   "address": "f1aok2dpim4tcyzvzacj6z677juri5opq6yprwola",
   "name": "PANSHIYUN",
   "organization": "PANSHIYUN",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1bngxpxqnnssjd7vnkntyg5xvuhb4jd7tgvzwdly",
   "application": {
     "audit": [
