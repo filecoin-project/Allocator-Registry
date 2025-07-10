@@ -1,0 +1,45 @@
+{
+  "address": "f2ugbpgnae63gcz77xx6z35v465yrhwdxkpupkjfq",
+  "name": "Nebula Block Pathway",
+  "allocator_id": "f03019861",
+  "organization": "Nebula Block",
+  "pathway_addresses": {
+    "msig": "f2ugbpgnae63gcz77xx6z35v465yrhwdxkpupkjfq",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1vsrfjdgi3acyi7ijhpu25bhmlat23eenoy52aqa"
+    ]
+  },
+  "associated_org_addresses": "f1vsrfjdgi3acyi7ijhpu25bhmlat23eenoy52aqa",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "bq1024"
+    ],
+    "allocation_bookkeeping": "https://github.com/Nebula-Block-Data/Nebula-Block-Data-Pathway",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-10T19:24:30.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
