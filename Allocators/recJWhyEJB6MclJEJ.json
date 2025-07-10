@@ -3,7 +3,9 @@
   "address": "f410fro5c7z5rxkxdkncgpxcetbpmsxuhptxlpo2hfgi",
   "name": "FILLiquid Allocator",
   "organization": "FILLiquid Foundation",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f410fro5c7z5rxkxdkncgpxcetbpmsxuhptxlpo2hfgi",
   "application": {
     "audit": [
