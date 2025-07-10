@@ -2,10 +2,12 @@
   "application_number": 1017,
   "address": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
   "name": "Froghub",
+  "allocator_id": "f03019836",
   "organization": "Froghub Tech",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
+    "msig": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1ng2qzbpvmbk2thkzuxrmiounvn43hhm7j4l4opi",
