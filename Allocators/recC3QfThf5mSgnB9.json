@@ -2,8 +2,10 @@
   "application_number": 998,
   "address": "f26khxkbrm2mucrebsgejyd3bpc3gmvhhmdqb6aki",
   "name": "Web3-Data-Storage",
+  "allocator_id": "f03617914",
   "organization": "Web3-Data-Storage",
   "pathway_addresses": {
+    "msig": "f26khxkbrm2mucrebsgejyd3bpc3gmvhhmdqb6aki",
     "signers": [
       "f1m7v44vbgyqpybxh4gy5d5szyllih2rwg3s5n6hi"
     ]
