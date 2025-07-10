@@ -1,0 +1,45 @@
+{
+  "address": "f2dk2pgsc6fzs4fjrqv5vcquvzbmq3qhfli5khohy",
+  "name": "Bewell Technology Limited Fil+ Datacap Allocator (BWTDA)",
+  "allocator_id": "f03019833",
+  "organization": "Bewell Technology Limited",
+  "pathway_addresses": {
+    "msig": "f2dk2pgsc6fzs4fjrqv5vcquvzbmq3qhfli5khohy",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1mtfp6whtd2mawpezya4vcfnvjvogdpp53i45ubq"
+    ]
+  },
+  "associated_org_addresses": "f1mtfp6whtd2mawpezya4vcfnvjvogdpp53i45ubq",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "3",
+    "required_replicas": "3",
+    "github_handles": [
+      "handles: Aaron01230"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Bewell-Technology-Limited",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-10T01:38:12.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
