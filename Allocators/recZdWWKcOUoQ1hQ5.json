@@ -2,8 +2,10 @@
   "application_number": 990,
   "address": "f2rohxaxoxwhtrmy7gkoa4r6m7qbdtl4ler3eswoq",
   "name": "OneForm-SocialCap",
+  "allocator_id": "f03619939",
   "organization": "this allocator developed by myself",
   "pathway_addresses": {
+    "msig": "f2rohxaxoxwhtrmy7gkoa4r6m7qbdtl4ler3eswoq",
     "signers": [
       "f15bhsxs5ty57uaaghoc4gllftwfltacra4earczq"
     ]
