@@ -2,8 +2,10 @@
   "application_number": 987,
   "address": "f2jxib27f7u7djafloqzdrsxhp4u5d27gp7q3kl6a",
   "name": "Dualities link C",
+  "allocator_id": "f03620082",
   "organization": "Dualities link C Ltd",
   "pathway_addresses": {
+    "msig": "f2jxib27f7u7djafloqzdrsxhp4u5d27gp7q3kl6a",
     "signers": [
       "f1ap5aovcti56kre3u4cicxxi2bo66cre3u563c7q"
     ]
