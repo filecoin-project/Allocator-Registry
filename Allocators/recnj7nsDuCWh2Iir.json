@@ -2,8 +2,10 @@
   "application_number": 972,
   "address": "f2zpx2anrfrqhednvzghrwxv6y4wleuik6ptnvlai",
   "name": "onestech",
+  "allocator_id": "f03618577",
   "organization": "onestech",
   "pathway_addresses": {
+    "msig": "f2zpx2anrfrqhednvzghrwxv6y4wleuik6ptnvlai",
     "signers": [
       "f154j3vfptjpoljjsfcqjuzrlq6tzvfeljenodtla",
       "f1me2bytc4om72sl4y7ijonyodewjbenieufhjuuq"
