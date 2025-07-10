@@ -2,10 +2,12 @@
   "application_number": 965,
   "address": "f2qlt2ancrjsiqvp72evgm5ifcplk5twdrol7mxgi",
   "name": "RFfil",
+  "allocator_id": "f03014594",
   "organization": "RFfil",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
+    "msig": "f2qlt2ancrjsiqvp72evgm5ifcplk5twdrol7mxgi",
     "signers": [
       "f1uci7zkbdvscvu5mklxwwafkqqn7qo7rwc6rfoxi"
     ]
