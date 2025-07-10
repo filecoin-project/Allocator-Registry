@@ -2,8 +2,10 @@
   "application_number": 1029,
   "address": "f24dvserezcrb372p7sortgm5gnxvysxoxigoywpi",
   "name": "FogmetaLab manual pathway",
+  "allocator_id": "f03623170",
   "organization": "Fogmeta Lab",
   "pathway_addresses": {
+    "msig": "f24dvserezcrb372p7sortgm5gnxvysxoxigoywpi",
     "signers": [
       "f17riyuaetm4w4y2wpa4de3qzvayrjljkagbntyii",
       "f1immdoglb3p6c6lmcg5vyvfuxnngic3by365cvyq"
