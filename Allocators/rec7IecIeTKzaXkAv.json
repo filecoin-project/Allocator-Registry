@@ -2,8 +2,10 @@
   "application_number": 1037,
   "address": "f2ch6wkvgpyme2x4pz33wcev4brl3irscriiky5uy",
   "name": "LiongLabs",
+  "allocator_id": "f03623615",
   "organization": "LiongLabs",
   "pathway_addresses": {
+    "msig": "f2ch6wkvgpyme2x4pz33wcev4brl3irscriiky5uy",
     "signers": [
       "f1cdaymbuyum3yf26ibsushykd6imktbp2cuzcnmi",
       "f1av43x7kbexvmqdinc76kzrib77v556kr6dxi3py"
