@@ -5,7 +5,9 @@
   "organization": "Fil+ Governance Team",
   "metapathway_type": "RKH",
   "ma_address": "f080",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
     "audit": [
