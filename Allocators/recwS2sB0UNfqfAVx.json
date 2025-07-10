@@ -2,8 +2,10 @@
   "application_number": 976,
   "address": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
   "name": "StorSwift manual pathway",
+  "allocator_id": "f03019866",
   "organization": "StorSwift",
   "pathway_addresses": {
+    "msig": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va"
