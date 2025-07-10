@@ -5,7 +5,9 @@
   "organization": "SWIF",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1pvbidvxlvfvf4jtyoxku6e4s2tntkxuusmpjmfa",
   "application": {
     "audit": [
