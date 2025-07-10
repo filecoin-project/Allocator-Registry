@@ -1,0 +1,44 @@
+{
+  "address": "f2tcj2m2wfrs4ckhtnjaqgiu5oosztpmegdyxlnra",
+  "name": "https://github.com/nspathway/nsapply",
+  "allocator_id": "f03623680",
+  "organization": "nsdigital",
+  "pathway_addresses": {
+    "msig": "f2tcj2m2wfrs4ckhtnjaqgiu5oosztpmegdyxlnra",
+    "signers": [
+      "f1juxmxueqr74qrflc4fn52xuykucr5vnodg6yzii"
+    ]
+  },
+  "associated_org_addresses": "f1juxmxueqr74qrflc4fn52xuykucr5vnodg6yzii",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "4",
+    "github_handles": [
+      " Bob-northstar"
+    ],
+    "allocation_bookkeeping": "https://github.com/nspathway/nsapply",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-10T13:23:13.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
