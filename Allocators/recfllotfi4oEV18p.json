@@ -2,8 +2,10 @@
   "application_number": 943,
   "address": "f23dvj3jsuuqwirviqm4xn3ast5tnlbukv6ab7lwq",
   "name": "FiL-Sinde",
+  "allocator_id": "f03615565",
   "organization": "FiL-Sinde",
   "pathway_addresses": {
+    "msig": "f23dvj3jsuuqwirviqm4xn3ast5tnlbukv6ab7lwq",
     "signers": [
       "f12lcy5hhcadqsmqcmeyvfcbwymod66ogd5p2o3oy",
       "f1opmapqazp27aptfcag5qc4ujx56yqa5q4ckolfy"
