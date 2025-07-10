@@ -2,8 +2,10 @@
   "application_number": 980,
   "address": "f2tv5dsxja2g4d2nryd5bwb62ae4ifldxzek52bki",
   "name": "StudyBlock Allocator",
+  "allocator_id": "f03251479",
   "organization": "StudyBlock",
   "pathway_addresses": {
+    "msig": "f2tv5dsxja2g4d2nryd5bwb62ae4ifldxzek52bki",
     "signers": [
       "f1gdq3yqyjyyyxdqsrtf2oefxxt5ifou72hgs56dq"
     ]
