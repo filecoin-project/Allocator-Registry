@@ -2,10 +2,12 @@
   "application_number": 953,
   "address": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
   "name": "Allocator-Filedrive",
+  "allocator_id": "f03019850",
   "organization": "FileDrive Labs",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
+    "msig": "f2n2cvq3wi344zua7ofax4jygkcqb4lwbhdtofhmq",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1vewqfhde62bjccdiy3qbjbhg37ldr4y7nm5wv6q",
