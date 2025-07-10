@@ -2,8 +2,10 @@
   "application_number": 1001,
   "address": "f26ciuqfbmigpabzcd3etdggmcfoce3jxxq7lszcq",
   "name": "MisteryFIL",
+  "allocator_id": "f03617945",
   "organization": "MisteryFIL",
   "pathway_addresses": {
+    "msig": "f26ciuqfbmigpabzcd3etdggmcfoce3jxxq7lszcq",
     "signers": [
       "f1rc3k7hkmejyaoafq4jx6rnyld7sepefuyvy2lby"
     ]
