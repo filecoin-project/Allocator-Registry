@@ -2,8 +2,10 @@
   "application_number": 894,
   "address": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
   "name": "OpenGate",
+  "allocator_id": "f03019921",
   "organization": "OpenGate",
   "pathway_addresses": {
+    "msig": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
     "signers": [
       "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq"
     ]
