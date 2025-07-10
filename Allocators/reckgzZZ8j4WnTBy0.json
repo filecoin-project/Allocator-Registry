@@ -2,8 +2,10 @@
   "application_number": 905,
   "address": "f2cfa46wgq5bvxpaqz2e4kbqqewcbta5wwoubtcpa",
   "name": "Tumode",
+  "allocator_id": "f03612552",
   "organization": "Hunan Tumode Technology Co., Ltd",
   "pathway_addresses": {
+    "msig": "f2cfa46wgq5bvxpaqz2e4kbqqewcbta5wwoubtcpa",
     "signers": [
       "f1vrh2z3hermgs3xq4kutulkmgmnzjaaabuov4uny"
     ]
