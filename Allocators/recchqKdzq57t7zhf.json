@@ -2,8 +2,10 @@
   "application_number": 869,
   "address": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
   "name": "FrogHub",
+  "allocator_id": "f03019836",
   "organization": "FrogHub Tech",
   "pathway_addresses": {
+    "msig": "f2lamsg3cw5d4akdzwxiugwxh4ayk4rxaji7pcsaq",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1ng2qzbpvmbk2thkzuxrmiounvn43hhm7j4l4opi",
