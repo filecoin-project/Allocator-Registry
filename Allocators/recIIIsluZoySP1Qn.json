@@ -2,8 +2,10 @@
   "application_number": 994,
   "address": "f2ag7xficgiubk7u7237z3q4gkglaecmfwurtxgxi",
   "name": "Stellar Manual Allocator",
+  "allocator_id": "f03618915",
   "organization": "Stellar",
   "pathway_addresses": {
+    "msig": "f2ag7xficgiubk7u7237z3q4gkglaecmfwurtxgxi",
     "signers": [
       "f1eekcbnnnj5v6ilthik2odtel7ivp2p2sthiyodi"
     ]
