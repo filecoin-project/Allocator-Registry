@@ -1,0 +1,45 @@
+{
+  "address": "f2ch6wkvgpyme2x4pz33wcev4brl3irscriiky5uy",
+  "name": "LiongLabs",
+  "allocator_id": "f03623615",
+  "organization": "LiongLabs",
+  "pathway_addresses": {
+    "msig": "f2ch6wkvgpyme2x4pz33wcev4brl3irscriiky5uy",
+    "signers": [
+      "f1cdaymbuyum3yf26ibsushykd6imktbp2cuzcnmi",
+      "f1av43x7kbexvmqdinc76kzrib77v556kr6dxi3py"
+    ]
+  },
+  "associated_org_addresses": "f1cdaymbuyum3yf26ibsushykd6imktbp2cuzcnmi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "lyjmry"
+    ],
+    "allocation_bookkeeping": "https://github.com/lyjmry/Open-Data-Pathway",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-10T09:53:12.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
