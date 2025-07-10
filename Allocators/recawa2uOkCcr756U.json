@@ -1,0 +1,38 @@
+{
+  "address": "f410fhbxqr5xi4rshxbyucxv7xbmldy3x3gvsjrcnply",
+  "name": "Faucet Metaallocator",
+  "organization": "FIDL",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f410foygeoeocfkqi7bqaa6zheomu2xvmblvtpwsctiy",
+  "application": {
+    "audit": [
+      "Other"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "1",
+    "required_replicas": "1",
+    "github_handles": [
+      "martapiekarska"
+    ],
+    "allocation_bookkeeping": "https://github.com/fidlabs/contract-metaallocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-10T10:39:26.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
