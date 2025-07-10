@@ -1,0 +1,44 @@
+{
+  "address": "f2725oo3fc2gi77yda4hyp4ryyzjhyffal7zpvnbq",
+  "name": "YMHB",
+  "allocator_id": "f03623544",
+  "organization": "Yunnan Yimiao Environmental Protection Technology Co., Ltd",
+  "pathway_addresses": {
+    "msig": "f2725oo3fc2gi77yda4hyp4ryyzjhyffal7zpvnbq",
+    "signers": [
+      "f1nwzr7e6hpmbvx73qetdqz7xzzrlz7uk2sybwica"
+    ]
+  },
+  "associated_org_addresses": "f1nwzr7e6hpmbvx73qetdqz7xzzrlz7uk2sybwica",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "4",
+    "required_replicas": "4",
+    "github_handles": [
+      "liruior"
+    ],
+    "allocation_bookkeeping": "https://github.com/liruior/YMHB",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-10T06:59:25.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
