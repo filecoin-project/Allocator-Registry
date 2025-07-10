@@ -3,7 +3,9 @@
   "address": "f1n5jufq5n5gdm3tiycpi3ujqgyh3yyj52rd72vdq",
   "name": "STCloud",
   "organization": "Shenzhen SpaceTime Cloud Technology Co.; Ltd.",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1n5jufq5n5gdm3tiycpi3ujqgyh3yyj52rd72vdq",
   "application": {
     "audit": [
