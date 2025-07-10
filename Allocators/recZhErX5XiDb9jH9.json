@@ -3,7 +3,9 @@
   "address": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
   "name": "Datacap for clients who are paying to store data with storage providers supported by web3mine's Ramo Network",
   "organization": "web3mine AG",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
   "application": {
     "audit": [
