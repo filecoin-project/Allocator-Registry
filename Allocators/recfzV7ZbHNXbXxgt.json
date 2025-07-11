@@ -1,0 +1,44 @@
+{
+  "address": "f2uclrtf42ninfqtvofh4nq25jxwuz2og243klfwa",
+  "name": "crypsail allocator",
+  "allocator_id": "f03624163",
+  "organization": "crypsail",
+  "pathway_addresses": {
+    "msig": "f2uclrtf42ninfqtvofh4nq25jxwuz2og243klfwa",
+    "signers": [
+      "f1pqhlm6coogpis7ie4acc4pqtlskodmuew6t4mji"
+    ]
+  },
+  "associated_org_addresses": "f1pqhlm6coogpis7ie4acc4pqtlskodmuew6t4mji",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "2",
+    "required_replicas": "2",
+    "github_handles": [
+      "crypsail"
+    ],
+    "allocation_bookkeeping": "https://github.com/crypsail/allocator-bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-11T10:29:31.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
