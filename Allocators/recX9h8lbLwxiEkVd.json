@@ -5,7 +5,12 @@
   "organization": "Kernelogic Software Inc",
   "metapathway_type": "RKH",
   "ma_address": "f080",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig" : "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
+    "signers": [
+      "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy"
+    ]
+  },
   "associated_org_addresses": "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
   "application": {
     "audit": [
@@ -31,10 +36,24 @@
   },
   "audits": [
     {
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2024-09-22T01:00:00.000Z",
+      "ended": "2024-12-19T01:00:00.000Z",
+      "dc_allocated": "2024-12-20T01:00:00.000Z",
+      "outcome": "DOUBLED",
+      "datacap_amount": 10
+    },
+    {
       "started": "2025-06-07T01:29:29.000Z",
       "ended": "2025-07-07T23:27:32.000Z",
       "dc_allocated": "2025-07-10T17:54:34.000Z",
-      "outcome": "GRANTED",
+      "outcome": "MATCHED",
       "datacap_amount": 10
     }
   ],
