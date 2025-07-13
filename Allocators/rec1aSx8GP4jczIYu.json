@@ -3,7 +3,9 @@
   "address": "f16l3walhmmr3rreaurzmznjq3xypjg3p27t2ht2i",
   "name": "datacap-decentralized-onboarding-to-the-mix",
   "organization": "CIDgravity",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1kxfgwrlwqh2uhkjujwsozvj2qyiyhco5dda67ka",
   "application": {
     "audit": [
