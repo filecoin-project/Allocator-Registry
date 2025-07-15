@@ -2,8 +2,10 @@
   "application_number": 833,
   "address": "f2ie5kumtwqhhelv5evb6iyqxguveucupaiyhkwvi",
   "name": "GZ-FIP0078-Pathway",
+  "allocator_id": "f03019847",
   "organization": "Guazi Dynamic",
   "pathway_addresses": {
+    "msig": "f2ie5kumtwqhhelv5evb6iyqxguveucupaiyhkwvi",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1j3u7crhjzwb2cj5mq7vodlt4o66yoyci7lhcauy"
@@ -28,7 +30,7 @@
     "Application Submitted": "2025-05-30T06:57:06.000Z",
     "KYC Submitted": "2025-07-15T17:49:52.000Z",
     "Approved": "",
-    "Declined": "",
+    "Declined": "2025-07-15T17:50:22.000Z",
     "DC Allocated": ""
   },
   "audits": [
@@ -36,7 +38,7 @@
       "started": "2025-05-30T06:56:58.000Z",
       "ended": "",
       "dc_allocated": "",
-      "outcome": "PENDING",
+      "outcome": "DENIED",
       "datacap_amount": 5
     }
   ],
