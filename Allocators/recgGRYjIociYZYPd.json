@@ -2,10 +2,8 @@
   "application_number": 955,
   "address": "f2ullwl2b557lfyzq5yg52ycu46cypku2uljpkrji",
   "name": "PubangFil",
-  "allocator_id": "f03612553",
   "organization": "Pubang seedlings",
   "pathway_addresses": {
-    "msig": "f2ullwl2b557lfyzq5yg52ycu46cypku2uljpkrji",
     "signers": [
       "f1hwiippkhehlg3zhl67inpnd2xgdt6ksvvi5sssi"
     ]
@@ -29,7 +27,7 @@
     "Application Submitted": "2025-06-20T03:25:19.000Z",
     "KYC Submitted": "2025-07-09T01:09:43.000Z",
     "Approved": "",
-    "Declined": "",
+    "Declined": "2025-07-15T18:18:12.000Z",
     "DC Allocated": ""
   },
   "audits": [
@@ -37,7 +35,7 @@
       "started": "2025-06-20T03:25:11.000Z",
       "ended": "",
       "dc_allocated": "",
-      "outcome": "PENDING",
+      "outcome": "DENIED",
       "datacap_amount": 5
     }
   ],
