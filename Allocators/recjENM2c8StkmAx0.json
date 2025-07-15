@@ -1,10 +1,15 @@
 {
   "application_number": 979,
-  "address": "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq",
+  "address": "f2gbzkcgemun7xu6qbbxgqad5tksaqihmf5ykf6fi",
   "name": "DAYOU",
   "organization": "BigFrog Technology",
+  "allocator_id" : "f03019913",
   "pathway_addresses": {
-    "signers": []
+    "msig" : "f2gbzkcgemun7xu6qbbxgqad5tksaqihmf5ykf6fi",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq"
+    ]
   },
   "associated_org_addresses": "f2gbzkcgemun7xu6gbbxggad5tksagihmf5ykf6fi",
   "application": {
