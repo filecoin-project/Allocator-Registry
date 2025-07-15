@@ -1,9 +1,16 @@
 {
   "application_number": 1021,
-  "address": "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i",
-  "name": "https://github.com/Blockchain-World-News/FIL-DC-Allocator/issues",
+  "address": "f2v4lcttpwtiou2wsijws5etsmy2spzvotxlaq6hi",
+  "name": "FIL-DC-Allocator",
   "organization": "BlockchainWorld",
-  "pathway_addresses": {},
+   "allocator_id": "f03016877",
+  "pathway_addresses": {
+    "msig": "f2v4lcttpwtiou2wsijws5etsmy2spzvotxlaq6hi",
+    "signers": [
+      "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i",
+      "f1nhqjphdxs4nusdmtnsvekwgzll3yji6egt5nqgq"
+    ]
+  },
   "associated_org_addresses": "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i",
   "application": {
     "audit": [
