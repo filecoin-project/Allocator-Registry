@@ -2,10 +2,8 @@
   "application_number": 1030,
   "address": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
   "name": "Helmsman",
-  "allocator_id": "f03613603",
   "organization": "Helmsman",
   "pathway_addresses": {
-    "msig": "f2qmtkrgnk3evrrhzqq6if7tyj7ywav4tof53wrhy",
     "signers": [
       "f1nqe6atf7jwynyslzjkd7idfl4c43dhtm6ni4l2q",
       "f1ujoxoktdyffbhkwkqbgozdflryplc6wrsn4u4sy"
@@ -30,7 +28,7 @@
     "Application Submitted": "2025-07-09T09:11:39.000Z",
     "KYC Submitted": "2025-07-10T01:36:10.000Z",
     "Approved": "",
-    "Declined": "",
+    "Declined": "2025-07-15T17:58:34.000Z",
     "DC Allocated": ""
   },
   "audits": [
@@ -38,7 +36,7 @@
       "started": "2025-07-09T09:11:32.000Z",
       "ended": "",
       "dc_allocated": "",
-      "outcome": "PENDING",
+      "outcome": "DENIED",
       "datacap_amount": 5
     }
   ],
