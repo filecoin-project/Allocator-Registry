@@ -2,8 +2,10 @@
   "application_number": 973,
   "address": "f2g6nfx52jb2o743mikkrtkboio5t4h5qxah6glca",
   "name": "chimsen",
+  "allocator_id": "f03618575",
   "organization": "chimsen",
   "pathway_addresses": {
+    "msig": "f2g6nfx52jb2o743mikkrtkboio5t4h5qxah6glca",
     "signers": [
       "f1ugu3p54hyzc6vo4fgx24fer7zxmtgqmnwuh2fdy",
       "f17dlzyxwri4gq7cgomc4ciqdqmxsx2qe7s4duzua"
