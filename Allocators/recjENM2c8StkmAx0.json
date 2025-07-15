@@ -3,7 +3,9 @@
   "address": "f2gbzkcgemun7xu6qbbxgqad5tksaqihmf5ykf6fi",
   "name": "DAYOU",
   "organization": "BigFrog Technology",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq",
   "application": {
     "audit": [
@@ -23,7 +25,7 @@
     "Application Submitted": "2025-06-27T06:13:53.000Z",
     "KYC Submitted": "2025-07-15T03:17:41.000Z",
     "Approved": "",
-    "Declined": "",
+    "Declined": "2025-07-15T17:51:21.000Z",
     "DC Allocated": ""
   },
   "audits": [
@@ -31,7 +33,7 @@
       "started": "2025-06-27T06:13:46.000Z",
       "ended": "",
       "dc_allocated": "",
-      "outcome": "PENDING",
+      "outcome": "DENIED",
       "datacap_amount": 5
     }
   ],
