@@ -2,10 +2,8 @@
   "application_number": 992,
   "address": "f2lypsoki3pgimeroul2fo35kcczkzklmjanwycja",
   "name": "StellarStake Allocator",
-  "allocator_id": "f03283239",
   "organization": "Stellar",
   "pathway_addresses": {
-    "msig": "f2lypsoki3pgimeroul2fo35kcczkzklmjanwycja",
     "signers": [
       "f1eekcbnnnj5v6ilthik2odtel7ivp2p2sthiyodi"
     ]
@@ -27,7 +25,7 @@
   },
   "history": {
     "Application Submitted": "2025-07-01T09:53:56.000Z",
-    "KYC Submitted": "",
+    "KYC Submitted": "2025-07-15T17:53:10.000Z",
     "Approved": "",
     "Declined": "",
     "DC Allocated": ""
