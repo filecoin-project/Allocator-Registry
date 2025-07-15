@@ -2,10 +2,8 @@
   "application_number": 1011,
   "address": "f2abticfsmadgxh567htprvlmo4tgsi6ggxq2s7si",
   "name": "OpenLedger Open Data PathWay",
-  "allocator_id": "f03613301",
   "organization": "OpenLedger",
   "pathway_addresses": {
-    "msig": "f2abticfsmadgxh567htprvlmo4tgsi6ggxq2s7si",
     "signers": [
       "f16fn2w2rjyo3hnbpbxcywiyw6whxecg6xrt6hsvq",
       "f1o3bfapqea3e7mfwcb4sbj3n76uasn2ob2gufrxi",
@@ -31,7 +29,7 @@
     "Application Submitted": "2025-07-04T01:54:56.000Z",
     "KYC Submitted": "2025-07-04T02:08:07.000Z",
     "Approved": "",
-    "Declined": "",
+    "Declined": "2025-07-15T18:01:29.000Z",
     "DC Allocated": ""
   },
   "audits": [
@@ -39,7 +37,7 @@
       "started": "2025-07-04T01:54:46.000Z",
       "ended": "",
       "dc_allocated": "",
-      "outcome": "PENDING",
+      "outcome": "DENIED",
       "datacap_amount": 5
     }
   ],
