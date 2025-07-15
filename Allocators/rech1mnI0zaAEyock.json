@@ -2,8 +2,10 @@
   "application_number": 914,
   "address": "f2f3skvqnphoapuvkbd7kolezyx5sksjod34gipgi",
   "name": "Chimsen Fil+ Datacap Allocator (CFDA)",
+  "allocator_id": "f03612574",
   "organization": "Tech Chimsen",
   "pathway_addresses": {
+    "msig": "f2f3skvqnphoapuvkbd7kolezyx5sksjod34gipgi",
     "signers": [
       "f1vhuylefto74wllu2f7zppgdg3d3y4e2svo3psza",
       "f1opmapqazp27aptfcag5qc4ujx56yqa5q4ckolfy"
@@ -28,7 +30,7 @@
     "Application Submitted": "2025-06-12T06:13:06.000Z",
     "KYC Submitted": "2025-06-14T05:31:14.000Z",
     "Approved": "",
-    "Declined": "",
+    "Declined": "2025-07-15T18:04:41.000Z",
     "DC Allocated": ""
   },
   "audits": [
@@ -36,7 +38,7 @@
       "started": "2025-06-12T06:12:58.000Z",
       "ended": "",
       "dc_allocated": "",
-      "outcome": "PENDING",
+      "outcome": "DENIED",
       "datacap_amount": 5
     }
   ],
