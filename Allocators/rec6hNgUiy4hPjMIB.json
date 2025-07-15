@@ -2,8 +2,10 @@
   "application_number": 984,
   "address": "f2fvwsscwmj2iv4ambki6pp2i6m4hh53lottuihha",
   "name": "Starry Market-based Allocator",
+  "allocator_id": "f03618912",
   "organization": "Hong Kong Starry Blue Ocean Technology Co., Limited",
   "pathway_addresses": {
+    "msig": "f2fvwsscwmj2iv4ambki6pp2i6m4hh53lottuihha",
     "signers": [
       "f1fioa3lf45tceovtaiuq7pd6d4sfalevm6ag7ghq"
     ]
@@ -27,7 +29,7 @@
     "Application Submitted": "2025-06-28T13:53:54.000Z",
     "KYC Submitted": "2025-07-15T18:24:23.000Z",
     "Approved": "",
-    "Declined": "",
+    "Declined": "2025-07-15T18:24:48.000Z",
     "DC Allocated": ""
   },
   "audits": [
@@ -35,7 +37,7 @@
       "started": "2025-06-28T13:53:45.000Z",
       "ended": "",
       "dc_allocated": "",
-      "outcome": "PENDING",
+      "outcome": "DENIED",
       "datacap_amount": 5
     }
   ],
