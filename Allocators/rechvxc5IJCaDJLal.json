@@ -2,10 +2,12 @@
   "application_number": 896,
   "address": "f26opx5wbhpfytt4tmcbebkbvkdzl2emypxzvzzba",
   "name": "Caro allocator",
+  "allocator_id": "f03018489",
   "organization": "None",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
+    "msig": "f26opx5wbhpfytt4tmcbebkbvkdzl2emypxzvzzba",
     "signers": [
       "f1w4uyrtnvie2bf2ya4i6xne7fn6ifmkm5tdamali"
     ]
