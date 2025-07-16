@@ -2,8 +2,10 @@
   "application_number": 983,
   "address": "f2akxc76pclc7e5tuflbwctwytncdhp5tsmkdhypi",
   "name": "Starry Manual Allocator",
+  "allocator_id": "f03251444",
   "organization": "Hong Kong Starry Blue Ocean Technology Co., Limited",
   "pathway_addresses": {
+    "msig": "f2akxc76pclc7e5tuflbwctwytncdhp5tsmkdhypi",
     "signers": [
       "f1fioa3lf45tceovtaiuq7pd6d4sfalevm6ag7ghq"
     ]
