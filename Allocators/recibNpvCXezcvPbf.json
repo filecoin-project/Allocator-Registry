@@ -3,7 +3,9 @@
   "address": "f410fvwp5dwsfcicqhmpspdoloo43xzvzpyelhqelg2y",
   "name": "Ehume Allocator",
   "organization": "YugaTech",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1gjfz3qnbqjcdal6geo5vemmdqvseaia2l6kwj7i",
   "application": {
     "audit": [
