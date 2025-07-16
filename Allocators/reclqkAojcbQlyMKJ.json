@@ -1,0 +1,49 @@
+{
+  "application_number": 981,
+  "address": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
+  "name": "StorSwift - Manual Pathway",
+  "organization": "StorSwift",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va"
+    ]
+  },
+  "associated_org_addresses": "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "spaceT9"
+    ],
+    "allocation_bookkeeping": "https://github.com/StorSwift-team/fil-allocator-bookkeeping",
+    "client_contract_address": "f410ft6h42gg2yl3wcyqsnp6lpwnynj5zsrez7tvi7di"
+  },
+  "history": {
+    "Application Submitted": "2025-06-27T07:58:53.000Z",
+    "KYC Submitted": "2025-07-02T04:37:14.000Z",
+    "Approved": "2025-07-16T04:38:34.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-16T05:00:03.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-06-27T07:58:46.000Z",
+      "ended": "",
+      "dc_allocated": "2025-07-16T05:00:03.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": "f03019866"
+}
