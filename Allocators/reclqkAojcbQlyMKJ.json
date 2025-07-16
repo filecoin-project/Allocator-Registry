@@ -4,6 +4,8 @@
   "name": "StorSwift - Manual Pathway",
   "allocator_id": "f03019866",
   "organization": "StorSwift",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
     "signers": [
@@ -20,6 +22,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "spaceT9"
     ],
@@ -29,7 +34,7 @@
   "history": {
     "Application Submitted": "2025-06-27T07:58:53.000Z",
     "KYC Submitted": "2025-07-02T04:37:14.000Z",
-    "Approved": "",
+    "Approved": "2025-07-16T04:38:34.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
