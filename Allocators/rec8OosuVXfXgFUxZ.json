@@ -2,8 +2,10 @@
   "application_number": 1002,
   "address": "f25lx7knkfafifxiuxzvjav4xb3n5mmyl6gizydza",
   "name": "Windwill",
+  "allocator_id": "f03148218",
   "organization": "Kingfil",
   "pathway_addresses": {
+    "msig": "f25lx7knkfafifxiuxzvjav4xb3n5mmyl6gizydza",
     "signers": [
       "f1xbj7xnu2lu4sn5vt4653p7jjzhpgdz6bc34ktxa"
     ]
