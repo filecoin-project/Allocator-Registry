@@ -2,12 +2,10 @@
   "application_number": 981,
   "address": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
   "name": "StorSwift - Manual Pathway",
-  "allocator_id": "f03019866",
   "organization": "StorSwift",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
-    "msig": "f2pmrzdodnfovzo47quxgs76y3y6ecwtd73qdqeay",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1id4vdnfmhic5lgf33jpwdugqphso7kmauc2w4va"
@@ -36,14 +34,14 @@
     "KYC Submitted": "2025-07-02T04:37:14.000Z",
     "Approved": "2025-07-16T04:38:34.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-07-16T05:00:03.000Z"
   },
   "audits": [
     {
       "started": "2025-06-27T07:58:46.000Z",
       "ended": "",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "dc_allocated": "2025-07-16T05:00:03.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": 5
     }
   ],
