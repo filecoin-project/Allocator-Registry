@@ -2,8 +2,10 @@
   "application_number": 1043,
   "address": "f2ugbpgnae63gcz77xx6z35v465yrhwdxkpupkjfq",
   "name": "Nebula Block Pathway",
+  "allocator_id": "f03019861",
   "organization": "Nebula Block",
   "pathway_addresses": {
+    "msig": "f2ugbpgnae63gcz77xx6z35v465yrhwdxkpupkjfq",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1vsrfjdgi3acyi7ijhpu25bhmlat23eenoy52aqa"
