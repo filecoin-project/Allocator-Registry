@@ -3,7 +3,9 @@
   "address": "f1dsncl35jgq4jq74szxzier5zgfagoee2oi5deea",
   "name": "StorageDAO",
   "organization": "NodeDAO",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1dsncl35jgq4jq74szxzier5zgfagoee2oi5deea",
   "application": {
     "audit": [
