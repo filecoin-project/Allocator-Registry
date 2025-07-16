@@ -2,8 +2,10 @@
   "application_number": 1044,
   "address": "f2uclrtf42ninfqtvofh4nq25jxwuz2og243klfwa",
   "name": "crypsail allocator",
+  "allocator_id": "f03624163",
   "organization": "crypsail",
   "pathway_addresses": {
+    "msig": "f2uclrtf42ninfqtvofh4nq25jxwuz2og243klfwa",
     "signers": [
       "f1pqhlm6coogpis7ie4acc4pqtlskodmuew6t4mji"
     ]
