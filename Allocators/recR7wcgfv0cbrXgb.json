@@ -1,10 +1,16 @@
 {
-  "application_number": 1057,
+  "application_number": 1058,
   "address": "f25lhveiq4tnpnafhzw5wz3kbe7lzskqdeqwtmsoy",
   "name": "CFDA",
+  "allocator_id": "f03626472",
   "organization": "Chengxin Technology Co., Ltd.",
   "pathway_addresses": {
-    "signers": []
+    "msig": "f25lhveiq4tnpnafhzw5wz3kbe7lzskqdeqwtmsoy",
+    "signers": [
+      "f1l6l4ir7637s7a2uzttjpz7rc3f5an65h7qlv6ia",
+      "f1al26trv7kjdacykgoeuo4ouwqcum3damb6hgaei",
+      "f1dval6t7m2vrxdw2csg66mai55gmynjrfhmen5oa"
+    ]
   },
   "associated_org_addresses": "f2xpyh7dmuh63bfi4kxxw2g5wwlfdbtb35gnatbqi",
   "application": {
