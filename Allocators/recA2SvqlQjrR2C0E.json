@@ -2,10 +2,12 @@
   "application_number": 938,
   "address": "f2a2ssk6ijg2nnjoewazyjxwqu77uahe5o6xrfvoy",
   "name": "DSPA Filecoin Pathway",
+  "allocator_id": "f03010575",
   "organization": "Decentralised Storage Provider Accelerator (DSPA)",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
+    "msig": "f2a2ssk6ijg2nnjoewazyjxwqu77uahe5o6xrfvoy",
     "signers": [
       "f1xdpvmkm75sinulbz5j73wseupq4equmchxonvjy"
     ]
@@ -26,7 +28,7 @@
       "pandacrypto"
     ],
     "allocation_bookkeeping": "https://github.com/pandacrypto/DSPA-Allocator",
-    "client_contract_address": "f410fpthnazskfzvl3obfdtyzwhahi2ucewcltplerky"
+    "client_contract_address": ""
   },
   "history": {
     "Application Submitted": "2025-06-17T02:56:10.000Z",
@@ -44,5 +46,5 @@
       "datacap_amount": 20
     }
   ],
-  "old_allocator_id": "f03010575"
+  "old_allocator_id": ""
 }
