@@ -2,10 +2,12 @@
   "application_number": 892,
   "address": "f2xkccy6oyl5g6cdr3fgmpldifkxjv42mcnyrqjpi",
   "name": "HK CyberPort pathway",
+  "allocator_id": "f03012747",
   "organization": "ND LABS",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
+    "msig": "f2xkccy6oyl5g6cdr3fgmpldifkxjv42mcnyrqjpi",
     "signers": [
       "f1yayfsv6whu3rheviucvventj3y6t542xfpb47ei"
     ]
