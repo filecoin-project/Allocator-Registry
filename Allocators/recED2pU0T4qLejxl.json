@@ -2,8 +2,10 @@
   "application_number": 952,
   "address": "f2ru35g5sjz7q5atm6mb6nh7bo7tastgluqydxsoa",
   "name": "LendMi Storage",
+  "allocator_id": "f03011025",
   "organization": "LendMi",
   "pathway_addresses": {
+    "msig": "f2ru35g5sjz7q5atm6mb6nh7bo7tastgluqydxsoa",
     "signers": [
       "f12mckci3omexgzoeosjvstcfxfe4vqw7owdia3da"
     ]
