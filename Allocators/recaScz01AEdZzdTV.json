@@ -1,0 +1,46 @@
+{
+  "address": "f2y7lcn4xcjrr3evfaw3zcckevxq5qllpkctqgfma",
+  "name": "SWST FIL+",
+  "allocator_id": "f03626553",
+  "organization": "Shenzhen Wanxin Science and Technology Co., Ltd. ",
+  "pathway_addresses": {
+    "msig": "f2y7lcn4xcjrr3evfaw3zcckevxq5qllpkctqgfma",
+    "signers": [
+      "f1glkxojbqukh7oiltvm65vokj44quakfpyskd36i",
+      "f1oj4jyj5urajhn7hrs6i6uh7ifmkz2sdolbul3aq",
+      "f1hoozqnbe73due3whmtpmvy5jnloxpvnuzbr2uvy"
+    ]
+  },
+  "associated_org_addresses": "f2y4zmsw27uhm4kbulfid4df7qubrhr4w4lbjzdla",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "github_handles": [
+      "onestech-cn"
+    ],
+    "allocation_bookkeeping": "https://github.com/onestech-cn/SWST-Bookkeeping ",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-16T09:56:19.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
