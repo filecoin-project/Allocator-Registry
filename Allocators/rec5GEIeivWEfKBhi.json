@@ -2,8 +2,10 @@
   "application_number": 1018,
   "address": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
   "name": "Fil-DC-Allocator-Allen",
+  "allocator_id": "f03018530",
   "organization": "ZetaCube Inc",
   "pathway_addresses": {
+    "msig": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
     "signers": [
       "f1s5v3clres7a63cidjotn6gfhzmy3go6ne5retri"
     ]
