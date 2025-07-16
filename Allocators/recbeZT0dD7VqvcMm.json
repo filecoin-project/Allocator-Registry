@@ -2,10 +2,12 @@
   "application_number": 835,
   "address": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
   "name": "MediaPlatformData",
+  "allocator_id": "f03014641",
   "organization": "MetaEra",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
+    "msig": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
     "signers": [
       "f1kvvcth2eoumgdhs6otmuzsuig7owcfh2tft4gki"
     ]
@@ -26,7 +28,7 @@
       "metaeraworkops"
     ],
     "allocation_bookkeeping": "https://github.com/metaeraworkops/MediaPlatformData",
-    "client_contract_address": "f410fcjacnm6p2iyduto6hqjsi3ibqbs226mrefbynsy"
+    "client_contract_address": ""
   },
   "history": {
     "Application Submitted": "2025-05-30T08:27:06.000Z",
@@ -44,5 +46,5 @@
       "datacap_amount": 5
     }
   ],
-  "old_allocator_id": "f03014641"
+  "old_allocator_id": ""
 }
