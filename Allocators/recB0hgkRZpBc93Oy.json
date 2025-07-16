@@ -3,7 +3,9 @@
   "address": "f1stjz2inu3og7qm3jgwnshcx37tgjpydyluxgnea",
   "name": "Allocator-Rivtower",
   "organization": "Rivtower",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1bh6rjofoe6ntapbop7kakjwo2fnbdp73sdedryi",
   "application": {
     "audit": [
