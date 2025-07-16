@@ -1,0 +1,46 @@
+{
+  "address": "f2o3qlrayvmzuqrz44s2kel3g4wekdmcjuk6bcgqa",
+  "name": "hlm-miner",
+  "allocator_id": "f03626432",
+  "organization": "Jiangxi Zhengduozhe Network Technology Co., Ltd.",
+  "pathway_addresses": {
+    "msig": "f2o3qlrayvmzuqrz44s2kel3g4wekdmcjuk6bcgqa",
+    "signers": [
+      "f1wlgrsplvqclprjea6fqzgkcmgysd7njbfmvtxoa",
+      "f1uu7pgfhujqc6w42jmjnlz4c6qcrxc5qh64oywpy",
+      "f1vwjtbluyel6ctowhpiwahjpvcieojbzntjqhmza"
+    ]
+  },
+  "associated_org_addresses": "f2usu726kay2bwur3nuvnf5btyywqxt633etpomrq",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Acumes"
+    ],
+    "allocation_bookkeeping": "https://github.com/Acumes/hlm-miner-bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-16T04:24:36.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
