@@ -2,12 +2,10 @@
   "application_number": 918,
   "address": "f24siazyti3akorqyvi33rvlq3i73j23rwohdamuy",
   "name": "ZCFIL+",
-  "allocator_id": "f03014659",
   "organization": "ZC LABS",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
-    "msig": "f24siazyti3akorqyvi33rvlq3i73j23rwohdamuy",
     "signers": [
       "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
       "f1j5awdc2swdbrxlnn2y6txwjtiymrvuox4rexoii"
@@ -29,7 +27,7 @@
       "zcfil"
     ],
     "allocation_bookkeeping": "https://github.com/zcfil/ZCFIL",
-    "client_contract_address": "f410ffnflsbfqxiu34r3yqjjv4wo6w2h3uuqav56eemy"
+    "client_contract_address": ""
   },
   "history": {
     "Application Submitted": "2025-06-13T07:03:07.000Z",
@@ -47,5 +45,5 @@
       "datacap_amount": 5
     }
   ],
-  "old_allocator_id": "f03014659"
+  "old_allocator_id": ""
 }
