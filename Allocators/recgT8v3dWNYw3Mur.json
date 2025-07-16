@@ -2,8 +2,10 @@
   "application_number": 937,
   "address": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
   "name": "Venus Fil+ Datacap Allocator (VFDA)",
+  "allocator_id": "f03019831",
   "organization": "Venus Team",
   "pathway_addresses": {
+    "msig": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
     "signers": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
       "f1wzmrjlhu244jyjlpsjlyhp7en35ue4wpwbfsv3y"
