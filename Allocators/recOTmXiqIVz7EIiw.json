@@ -2,12 +2,10 @@
   "application_number": 982,
   "address": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
   "name": "Storify Data Fortress",
-  "allocator_id": "f03012494",
   "organization": "Storify LLC.",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
-    "msig": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
     "signers": [
       "f13a6ov3nrxllvyqkduwczpyashgu3luivodwyvgq"
     ]
@@ -28,7 +26,7 @@
       "https://github.com/shizhigu"
     ],
     "allocation_bookkeeping": "https://github.com/Storify-LLC/Storify-Data-Pathway/issues",
-    "client_contract_address": "f410fv3pb7yehrqarlivqxjgbifegglphsscrcoknrwi"
+    "client_contract_address": ""
   },
   "history": {
     "Application Submitted": "2025-06-27T08:18:54.000Z",
@@ -46,5 +44,5 @@
       "datacap_amount": 20
     }
   ],
-  "old_allocator_id": "f03012494"
+  "old_allocator_id": ""
 }
