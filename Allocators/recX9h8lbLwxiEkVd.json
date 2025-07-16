@@ -5,7 +5,9 @@
   "organization": "Kernelogic Software Inc",
   "metapathway_type": "RKH",
   "ma_address": "f080",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
   "application": {
     "audit": [
