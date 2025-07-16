@@ -4,6 +4,8 @@
   "name": "Storify Data Fortress",
   "allocator_id": "f03012494",
   "organization": "Storify LLC.",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "https://github.com/shizhigu"
     ],
@@ -28,17 +33,17 @@
   "history": {
     "Application Submitted": "2025-06-27T08:18:54.000Z",
     "KYC Submitted": "2025-07-08T22:03:43.000Z",
-    "Approved": "",
+    "Approved": "2025-07-16T04:40:49.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-07-16T04:40:49.000Z"
   },
   "audits": [
     {
       "started": "2025-06-27T08:18:45.000Z",
-      "ended": "",
-      "dc_allocated": "",
-      "outcome": "PENDING",
-      "datacap_amount": 5
+      "ended": "2025-07-16T04:40:49.000Z",
+      "dc_allocated": "2025-07-16T04:40:49.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 20
     }
   ],
   "old_allocator_id": ""
