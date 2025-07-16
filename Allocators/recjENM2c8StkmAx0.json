@@ -3,7 +3,9 @@
   "address": "f2gbzkcgemun7xu6qbbxgqad5tksaqihmf5ykf6fi",
   "name": "DAYOU",
   "organization": "BigFrog Technology",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1cl4gtwjlt5udxwootzllba3kcyisjphujviiimq",
   "application": {
     "audit": [
