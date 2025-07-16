@@ -1,0 +1,40 @@
+{
+  "address": "f25lhveiq4tnpnafhzw5wz3kbe7lzskqdeqwtmsoy",
+  "name": "CFDA",
+  "organization": "Chengxin Technology Co., Ltd.",
+  "pathway_addresses": {
+    "signers": []
+  },
+  "associated_org_addresses": "f2xpyh7dmuh63bfi4kxxw2g5wwlfdbtb35gnatbqi",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "github_handles": [
+      "LM-1207"
+    ],
+    "allocation_bookkeeping": "https://github.com/LM-1207/CFDA-bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-16T05:51:19.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
