@@ -5,7 +5,9 @@
   "organization": "DCENT BV",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1eiw5gn24wpa44azzxhbyj545vzm7jqjdrcdv2fy",
   "application": {
     "audit": [
