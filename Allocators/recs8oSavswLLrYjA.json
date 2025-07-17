@@ -2,10 +2,19 @@
   "application_number": 811,
   "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "name": "Manual Diligence Meta Allocator",
+  "allocator_id": "f03358620",
   "organization": "Fil+ Governance Team",
   "metapathway_type": "RKH",
   "ma_address": "f080",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+    "signers": [
+      "f410fnulov6fntwrhpsztyu2sr64xpk4t2wrog6i2say",
+      "f410fcbvdogvwnlfhc5jxk7v5toykgi7akurj7wogbai",
+      "f410f3k5oq6fw2ecfvfax5lzmyqua3pcrb47wocnp2qq"
+    ]
+
+  },
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
     "audit": [
