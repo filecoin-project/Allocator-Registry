@@ -1,0 +1,43 @@
+{
+    "application_number": 1083,
+    "address": "f410fyfz7afhoduqt4nyac6f44qwccvvux4y6mdusdra",
+    "name": "Dataswap",
+    "organization": "Dataswap",
+    "location": "China",
+    "status": "Active",
+    "metapathway_type": "Automatic",
+    "associated_org_addresses": "f410fyfz7afhoduqt4nyac6f44qwccvvux4y6mdusdra",
+    "application": {
+        "allocations": {
+            "standardized": "Yes; standardized"
+        },
+        "target_clients": [
+            "Individuals learning about Filecoin",
+            "Small-scale developers or data owners"
+        ],
+        "required_sps": "5+",
+        "required_replicas": "5+",
+        "tooling": [],
+        "data_types": [
+            "Public Open Dataset (Research/Non-Profit)",
+            "Public Open Commercial/Enterprise"
+        ],
+        "12m_requested": 200,
+        "github_handles": [
+            "kennyauh"
+        ],
+        "allocation_bookkeeping": "https://github.com/dataswap"
+    },
+    "poc": {
+        "slack": "@kennynwu",
+        "github_user": "Kennynauh"
+    },
+    "pathway_addresses": {
+        "msig": null,
+        "signer": [
+            null,
+            null,
+            null
+        ]
+    }
+}

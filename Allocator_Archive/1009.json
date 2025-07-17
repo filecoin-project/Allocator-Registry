@@ -1,0 +1,48 @@
+{
+  "application_number": 1009,
+  "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "name": "ZCFIL+",
+  "organization": "ZC LABS",
+  "location": "China",
+  "status": "Active",
+  "metapathway_type": "Manual Pathway MetaAllocator",
+  "associated_org_addresses": "f1j5awdc2swdbrxlnn2y6txwjtiymrvuox4rexoii",
+  "application": {
+    "allocations": {
+      "standardized": "Yes; standardized"
+    },
+    "target_clients": [
+      "Individuals learning about Filecoin",
+      "Small-scale developers or data owners",
+      "Enterprise Data Clients"
+    ],
+    "required_sps": "4+",
+    "required_replicas": "4+",
+    "tooling": [
+      "common_ui",
+      "smart_contract_allocator"
+    ],
+    "data_types": [
+      "Public Open Dataset (Research/Non-Profit)",
+      "Public Open Commercial/Enterprise"
+    ],
+    "12m_requested": 200,
+    "github_handles": [
+      "zcfil"
+    ],
+    "allocation_bookkeeping": "https://github.com/zcfil/ZCFIL",
+    "client_contract_address": "f410ffnflsbfqxiu34r3yqjjv4wo6w2h3uuqav56eemy"
+  },
+  "poc": {
+    "slack": "U0344P8J9FU",
+    "github_user": "zcfil"
+  },
+  "pathway_addresses": {
+    "msig": "f24siazyti3akorqyvi33rvlq3i73j23rwohdamuy",
+    "signer": [
+      "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
+      "f1j5awdc2swdbrxlnn2y6txwjtiymrvuox4rexoii"
+    ]
+  },
+  "allocator_id": "f03014659"
+}
