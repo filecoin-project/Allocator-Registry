@@ -1,12 +1,12 @@
 {
-  "application_number": 1009,
+  "application_number": 1056,
   "address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "name": "ZCFIL+",
-  "organization": "ZC LABS",
+  "name": "EF",
+  "organization": "EF",
   "location": "China",
   "status": "Active",
   "metapathway_type": "Manual Pathway MetaAllocator",
-  "associated_org_addresses": "f1j5awdc2swdbrxlnn2y6txwjtiymrvuox4rexoii",
+  "associated_org_addresses": "f13ujyzruulb6isvjlto2snyj5weptr4shqbh4bvq",
   "application": {
     "allocations": {
       "standardized": "Yes; standardized"
@@ -28,21 +28,21 @@
     ],
     "12m_requested": 200,
     "github_handles": [
-      "zcfil"
+      "Lind111"
     ],
-    "allocation_bookkeeping": "https://github.com/zcfil/ZCFIL",
-    "client_contract_address": "f410ffnflsbfqxiu34r3yqjjv4wo6w2h3uuqav56eemy"
+    "allocation_bookkeeping": "https://github.com/Lind111/EF",
+    "client_contract_address": "f410fs72ei5u5zmtdtiahn7rb5jymjleoh2ztmu7cppq"
   },
   "poc": {
-    "slack": "U0344P8J9FU",
-    "github_user": "zcfil"
+    "slack": "U05HNT2EJNB",
+    "github_user": "Lind111"
   },
   "pathway_addresses": {
-    "msig": "f24siazyti3akorqyvi33rvlq3i73j23rwohdamuy",
+    "msig": "f27ltg7qozyhtei2otrpxouilznihitzhvt52l22a",
     "signer": [
-      "f1cjzbiy5xd4ehera4wmbz63pd5ku4oo7g52cldga",
-      "f1j5awdc2swdbrxlnn2y6txwjtiymrvuox4rexoii"
+      "f1edi46m4ry7smqnk3p6nb4azmcythf4bl57lw3uy",
+      "f13ujyzruulb6isvjlto2snyj5weptr4shqbh4bvq"
     ]
   },
-  "allocator_id": "f03014659"
+  "allocator_id": "f03014490"
 }

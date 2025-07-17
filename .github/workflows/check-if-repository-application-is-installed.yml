@@ -1,0 +1,45 @@
+name: Check If Repository Application Is Installed
+
+on:
+  pull_request:
+    types:
+      - edited
+      - opened
+      - synchronize
+
+jobs:
+  check-repo-installation:
+    runs-on: ubuntu-latest
+    env:
+      BACKEND_URL: https://api.allocator.tech
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v3
+
+      - name: Get changed files
+        id: changed-files
+        uses: tj-actions/changed-files@v44
+        with:
+          files: '**/*.json'
+
+      - name: Extract owner and repo from allocation_bookkeeping
+        id: extract
+        run: |
+          file="${{ steps.changed-files.outputs.all_changed_files }}"
+          echo "Parsing $file"
+          repo_url=$(jq -r '.application.allocation_bookkeeping' "$file")
+          echo "Repo URL: $repo_url"
+
+          if [[ "$repo_url" == https://github.com/* ]]; then
+            owner=$(echo "$repo_url" | cut -d'/' -f4)
+            repo=$(echo "$repo_url" | cut -d'/' -f5)
+            echo "owner=$owner" >> $GITHUB_OUTPUT
+            echo "repo=$repo" >> $GITHUB_OUTPUT
+          else
+            echo "allocation_bookkeeping is not a valid GitHub URL"
+            exit 1
+          fi
+
+      - name: Check if repository application is installed
+        run: |
+          curl -f -X GET "${BACKEND_URL}/allocator/check_if_repository_application_is_installed?owner=${{ steps.extract.outputs.owner }}&repo=${{ steps.extract.outputs.repo }}"

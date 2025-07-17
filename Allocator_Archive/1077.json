@@ -1,12 +1,12 @@
 {
-  "application_number": 1091,
-  "address": "f2nnwazenqu7spvte45f6m4lajso4xoxmxwjwckti",
-  "name": "Power Meta Corp",
-  "organization": "Power Meta Corp",
+  "application_number": 1077,
+  "address": "f262hsabfg4hjrk7u77istvf3fffgg4tworhth5fa",
+  "name": "XnMatrix",
+  "organization": "XnMatrix",
   "location": "North America",
   "status": "inactive",
   "metapathway_type": "Manual",
-  "associated_org_addresses": "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea",
+  "associated_org_addresses": "f1bcvvwv3w6az7ivhdzory7anha54ocrlkxazm3yq",
   "application": {
     "allocations": {
       "standardized": "Yes; standardized"
@@ -29,22 +29,22 @@
       "Private Non-Profit/Social Impact",
       "Other (specified elsewhere)"
     ],
-    "12m_requested": 30,
+    "12m_requested": 20,
     "github_handles": [
-      "PowerMetaCorp"
+      "XnMatrixSV"
     ],
-    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/Power-Meta-Corp"
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/XnMatrix"
   },
   "poc": {
-    "slack": "Andromeda’s Handle: @andromedaH; Andromeda’s Slack ID: U0489BU3LM9; Dailon’s Handle: @dailon; Dailon’s Slack ID:  U04THCA3NKY",
-    "github_user": "Both Dailon and Andromeda will be using the company Github @PowerMetaCorp"
+    "slack": "Slack Handle: @XnMatrix  ID: U01RS364Q9H",
+    "github_user": "Github Handle: @XnMatrixSV"
   },
   "pathway_addresses": {
-    "msig": "f2nnwazenqu7spvte45f6m4lajso4xoxmxwjwckti",
+    "msig": "f262hsabfg4hjrk7u77istvf3fffgg4tworhth5fa",
     "signer": [
       "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
-      "f1djpie44jwwhyi5kofgbfn54mcwcvsps2dpdvgea"
+      "f1bcvvwv3w6az7ivhdzory7anha54ocrlkxazm3yq"
     ]
   },
-  "allocator_id": "f03019948"
+  "allocator_id": "f03019938"
 }
