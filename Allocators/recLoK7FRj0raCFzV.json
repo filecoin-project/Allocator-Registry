@@ -2,10 +2,17 @@
   "application_number": 947,
   "address": "f27au4b3z7a243fz43y55hqwfdrso6kcfdork7moa",
   "name": "IPFSTT",
+  "allocator_id": "f03011612",
   "organization": "Huineng Network",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f27au4b3z7a243fz43y55hqwfdrso6kcfdork7moa",
+    "signers": [
+      "f16hmuu3w247dkkhsrbbcbeqbugmpjbxpkrpcdatq",
+      "f1uep4ud4bf2filzcrfxlrjkxtk67dx6olkvgz7aa"
+    ]
+  },
   "associated_org_addresses": "f16hmuu3w247dkkhsrbbcbeqbugmpjbxpkrpcdatq",
   "application": {
     "audit": [
