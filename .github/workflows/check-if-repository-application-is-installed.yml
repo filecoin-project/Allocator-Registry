@@ -11,7 +11,7 @@ jobs:
   check-repo-installation:
     runs-on: ubuntu-latest
     env:
-      BACKEND_URL: https://api.allocator.tech
+      BACKEND_URL: https://api.staging.allocator.tech
     steps:
       - name: Check out repository
         uses: actions/checkout@v3
@@ -20,26 +20,57 @@ jobs:
         id: changed-files
         uses: tj-actions/changed-files@v44
         with:
-          files: '**/*.json'
+          files: 'Allocators/**/*.json'
 
-      - name: Extract owner and repo from allocation_bookkeeping
-        id: extract
+      - name: Check allocator bookkeeping URLs
+        if: ${{ steps.changed-files.outputs.any_changed == 'true' }}
         run: |
-          file="${{ steps.changed-files.outputs.all_changed_files }}"
-          echo "Parsing $file"
-          repo_url=$(jq -r '.application.allocation_bookkeeping' "$file")
-          echo "Repo URL: $repo_url"
+          failed=0
+          failures=""
+          invalid_files=""
 
-          if [[ "$repo_url" == https://github.com/* ]]; then
-            owner=$(echo "$repo_url" | cut -d'/' -f4)
-            repo=$(echo "$repo_url" | cut -d'/' -f5)
-            echo "owner=$owner" >> $GITHUB_OUTPUT
-            echo "repo=$repo" >> $GITHUB_OUTPUT
-          else
-            echo "allocation_bookkeeping is not a valid GitHub URL"
+          for file in ${{ steps.changed-files.outputs.all_changed_files }}; do
+            echo ""
+            echo "🔍 Processing $file"
+
+            repo_url=$(jq -r '.application.allocation_bookkeeping // empty' "$file")
+
+            if [[ "$repo_url" == https://github.com/* ]]; then
+              owner=$(echo "$repo_url" | cut -d'/' -f4)
+              repo=$(echo "$repo_url" | cut -d'/' -f5)
+              echo "Found GitHub repo: $owner/$repo"
+
+              echo "Checking installation status..."
+              if curl -f -X GET "${BACKEND_URL}/allocator/check_if_repository_application_is_installed?owner=$owner&repo=$repo"; then
+                :
+              else
+                echo ""
+                echo "::error file=$file,title=Repository Check Failed::Repository check failed for $owner/$repo"
+                failures="${failures}\n- $owner/$repo (from $file)"
+                failed=1
+              fi
+
+            else
+              echo ""
+              echo "::warning file=$file,title=Invalid allocation_bookkeeping::Missing or invalid GitHub URL in $file"
+              invalid_files="${invalid_files}\n- $file"
+            fi
+          done
+
+          if [[ "$failed" -eq 1 ]]; then
+            echo ""
+            echo -e "Repository checks failed:\n$failures"
             exit 1
           fi
 
-      - name: Check if repository application is installed
-        run: |
-          curl -f -X GET "${BACKEND_URL}/allocator/check_if_repository_application_is_installed?owner=${{ steps.extract.outputs.owner }}&repo=${{ steps.extract.outputs.repo }}"
+          if [[ -n "$invalid_files" ]]; then
+            echo ""
+            echo -e "::warning title=Invalid or Missing GitHub URLs::The following files have missing or invalid allocation_bookkeeping GitHub URLs:\n$invalid_files"
+          fi
+
+          echo ""
+          echo "All repository checks passed."
+
+      - name: No relevant JSON files found
+        if: ${{ steps.changed-files.outputs.any_changed == 'false' }}
+        run: echo "No changed JSON files in Allocators/ — nothing to check."
