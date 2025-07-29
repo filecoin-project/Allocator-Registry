@@ -4,6 +4,8 @@
   "name": "Nebula Block Pathway",
   "allocator_id": "f03019861",
   "organization": "Nebula Block",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2ugbpgnae63gcz77xx6z35v465yrhwdxkpupkjfq",
     "signers": [
@@ -20,6 +22,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "bq1024"
     ],
@@ -29,14 +34,14 @@
   "history": {
     "Application Submitted": "2025-07-10T19:24:38.000Z",
     "KYC Submitted": "2025-07-10T19:45:50.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T05:23:18.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-10T19:24:30.000Z",
-      "ended": "",
+      "ended": "2025-07-29T05:23:18.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
