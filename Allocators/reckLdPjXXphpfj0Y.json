@@ -4,6 +4,8 @@
   "name": "Yunphant Allocator",
   "allocator_id": "f03251448",
   "organization": "Yunphant",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2dlznwhck4bnlkuncp4vjb4uuuaj7ha2fy3scz4y",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "leier1987"
     ],
@@ -28,14 +33,14 @@
   "history": {
     "Application Submitted": "2025-06-27T02:48:53.000Z",
     "KYC Submitted": "2025-06-27T03:13:25.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T03:57:22.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-27T02:48:45.000Z",
-      "ended": "",
+      "ended": "2025-07-29T03:57:22.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
