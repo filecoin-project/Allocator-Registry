@@ -1,0 +1,44 @@
+{
+  "application_number": 1010,
+  "address": "f2grhgddmyxti7g3jfu6esos6sxlgd6xveuzt3coa",
+  "name": "FILCOIN-DAILY ",
+  "organization": "FILCOIN DAILY COMMUNITY",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1azekglh2sc566jghbdi3c2j2ymr3biehhtrtpbi",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "filecoindaily"
+    ],
+    "allocation_bookkeeping": "https://github.com/filecoindaily/filplus-onboard",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-07-03T14:34:52.000Z",
+    "KYC Submitted": "2025-07-04T06:56:39.000Z",
+    "Approved": "2025-07-29T04:17:50.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-29T06:42:08.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-07-03T14:34:45.000Z",
+      "ended": "2025-07-29T04:17:50.000Z",
+      "dc_allocated": "2025-07-29T06:42:08.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
