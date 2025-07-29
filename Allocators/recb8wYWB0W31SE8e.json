@@ -1,0 +1,42 @@
+{
+  "application_number": 877,
+  "address": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
+  "name": "Gitcoin Faucet",
+  "organization": "FIDL",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
+  "application": {
+    "audit": [
+      "Automated Allocator "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "1",
+    "required_replicas": "1",
+    "tooling": [],
+    "github_handles": [
+      "willscott"
+    ],
+    "allocation_bookkeeping": "https://github.com/fidlabs/filplus-faucet",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-06-06T15:43:08.000Z",
+    "KYC Submitted": "2025-07-01T01:48:25.000Z",
+    "Approved": "2025-07-29T03:17:53.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-29T03:17:53.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-06-06T15:42:55.000Z",
+      "ended": "2025-07-29T03:17:53.000Z",
+      "dc_allocated": "2025-07-29T03:17:53.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
