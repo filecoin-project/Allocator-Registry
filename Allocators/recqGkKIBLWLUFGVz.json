@@ -1,0 +1,50 @@
+{
+  "application_number": 997,
+  "address": "f2q5bs54s7srw6dk3urvuqwdjb3nxz7senjmn5g2i",
+  "name": "EasyOnboard Allocator",
+  "allocator_id": "f03617871",
+  "organization": "Tech Greedy",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2q5bs54s7srw6dk3urvuqwdjb3nxz7senjmn5g2i",
+    "signers": [
+      "f1ffzgattgx5v7w7vqdckiy2rjhhgcsohpdmjeq5q"
+    ]
+  },
+  "associated_org_addresses": "f1ffzgattgx5v7w7vqdckiy2rjhhgcsohpdmjeq5q",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "8",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "LucasLucas1987"
+    ],
+    "allocation_bookkeeping": "https://github.com/tech-greedy/EasyOnboard-Allocator/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-07-01T16:23:56.000Z",
+    "KYC Submitted": "2025-07-09T21:37:11.000Z",
+    "Approved": "2025-07-29T04:09:32.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-29T06:30:57.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-07-01T16:23:48.000Z",
+      "ended": "2025-07-29T04:09:32.000Z",
+      "dc_allocated": "2025-07-29T06:30:57.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
