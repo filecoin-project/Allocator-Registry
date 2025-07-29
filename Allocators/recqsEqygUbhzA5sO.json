@@ -4,6 +4,8 @@
   "name": "METAVERSEDATAMINING",
   "allocator_id": "f03024159",
   "organization": "METAVERSE DATA MINING PTE.LTD.",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2l2hzyxmr6wjoc7il4yxkq2vkgdvxwigsmc6apta",
     "signers": [
@@ -20,6 +22,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "METAVERSEDATAMINING"
     ],
@@ -29,16 +34,16 @@
   "history": {
     "Application Submitted": "2025-07-08T08:23:18.000Z",
     "KYC Submitted": "2025-07-08T13:12:03.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T04:44:02.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-07-29T04:44:02.000Z"
   },
   "audits": [
     {
       "started": "2025-07-08T08:23:09.000Z",
-      "ended": "",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "ended": "2025-07-29T04:44:02.000Z",
+      "dc_allocated": "2025-07-29T04:44:02.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": 5
     }
   ],
