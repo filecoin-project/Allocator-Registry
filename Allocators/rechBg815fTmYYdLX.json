@@ -1,0 +1,51 @@
+{
+  "application_number": 1027,
+  "address": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
+  "name": "Ramo",
+  "allocator_id": "f03019928",
+  "organization": "web3mine AG",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca"
+    ]
+  },
+  "associated_org_addresses": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "3",
+    "required_replicas": "7",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "vvkio"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/web3mine-AG",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-07-08T14:26:39.000Z",
+    "KYC Submitted": "2025-07-10T07:57:50.000Z",
+    "Approved": "2025-07-29T04:59:26.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-29T06:53:52.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-07-08T14:26:31.000Z",
+      "ended": "2025-07-29T04:59:26.000Z",
+      "dc_allocated": "2025-07-29T06:53:52.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
