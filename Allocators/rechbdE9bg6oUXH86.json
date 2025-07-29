@@ -1,0 +1,50 @@
+{
+  "application_number": 1025,
+  "address": "f2a7f7rocg4yh7nc2fnfxqulzxk2yohrb63yqevcy",
+  "name": "NewHuoPoolPathway",
+  "allocator_id": "f03019924",
+  "organization": "NewHuoPool",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2a7f7rocg4yh7nc2fnfxqulzxk2yohrb63yqevcy",
+    "signers": [
+      "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y"
+    ]
+  },
+  "associated_org_addresses": "f1svmuvsv2nnd6ilxihuokkxu6veagv7ppgubyq5y",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "NewHuoPool"
+    ],
+    "allocation_bookkeeping": "https://github.com/NewHuoPool/NewHuoPoolPathway",
+    "client_contract_address": "f410ftxfwosodbtmof536bqzzduksaken2evj4ehkeny"
+  },
+  "history": {
+    "Application Submitted": "2025-07-08T08:23:08.000Z",
+    "KYC Submitted": "2025-07-09T02:21:26.000Z",
+    "Approved": "2025-07-29T04:56:59.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-29T04:56:59.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-07-08T08:22:59.000Z",
+      "ended": "2025-07-29T04:56:59.000Z",
+      "dc_allocated": "2025-07-29T04:56:59.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": "f03019924"
+}
