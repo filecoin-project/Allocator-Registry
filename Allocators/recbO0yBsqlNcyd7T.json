@@ -4,6 +4,8 @@
   "name": "MisteryFIL",
   "allocator_id": "f03617945",
   "organization": "MisteryFIL",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f26ciuqfbmigpabzcd3etdggmcfoce3jxxq7lszcq",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "nicelulu"
     ],
@@ -28,14 +33,14 @@
   "history": {
     "Application Submitted": "2025-07-03T09:11:53.000Z",
     "KYC Submitted": "2025-07-03T15:06:55.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T04:16:34.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-03T09:11:46.000Z",
-      "ended": "",
+      "ended": "2025-07-29T04:16:34.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
