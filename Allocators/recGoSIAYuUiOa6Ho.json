@@ -4,6 +4,8 @@
   "name": "DFly Allocator Pathway",
   "allocator_id": "f03157277",
   "organization": "Drust",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2uctdzfi2jsifxr65kzt3rm2apxeilmywbuecqwa",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "6",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "Conor15"
     ],
@@ -28,14 +33,14 @@
   "history": {
     "Application Submitted": "2025-07-04T10:59:53.000Z",
     "KYC Submitted": "2025-07-07T07:15:46.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T04:19:40.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-04T10:59:46.000Z",
-      "ended": "",
+      "ended": "2025-07-29T04:19:40.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
