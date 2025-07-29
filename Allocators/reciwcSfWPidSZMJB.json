@@ -2,10 +2,10 @@
   "application_number": 995,
   "address": "f2io5hjiqklyfwrrb5xpst6russ3bonakkcydazsy",
   "name": "Lilagin Allocator",
-  "allocator_id": "f03618913",
   "organization": "Lilagin（Liang Ru Jin）",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
-    "msig": "f2io5hjiqklyfwrrb5xpst6russ3bonakkcydazsy",
     "signers": [
       "f1dgnjt63pi26nbpwmqx3xctzmhehrdvpyv2zj2qa"
     ]
@@ -19,6 +19,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "zhaohongwei201109"
     ],
@@ -28,14 +31,14 @@
   "history": {
     "Application Submitted": "2025-07-01T13:40:25.000Z",
     "KYC Submitted": "2025-07-05T13:07:37.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T04:06:15.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-01T13:40:18.000Z",
-      "ended": "",
+      "ended": "2025-07-29T04:06:15.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
