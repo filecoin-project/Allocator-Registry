@@ -2,10 +2,12 @@
   "application_number": 995,
   "address": "f2io5hjiqklyfwrrb5xpst6russ3bonakkcydazsy",
   "name": "Lilagin Allocator",
+  "allocator_id": "f03618913",
   "organization": "Lilagin（Liang Ru Jin）",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
+    "msig": "f2io5hjiqklyfwrrb5xpst6russ3bonakkcydazsy",
     "signers": [
       "f1dgnjt63pi26nbpwmqx3xctzmhehrdvpyv2zj2qa"
     ]
