@@ -4,6 +4,8 @@
   "name": "Fil-DC-Allocator-Allen",
   "allocator_id": "f03018530",
   "organization": "ZetaCube Inc",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f25h7rohl3giczsv67rbrjm55y3mwd25tlk3cxkmq",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "ipfsAllen"
     ],
@@ -28,17 +33,17 @@
   "history": {
     "Application Submitted": "2025-07-07T07:49:54.000Z",
     "KYC Submitted": "2025-07-07T11:48:16.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T04:22:04.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-07T07:49:46.000Z",
-      "ended": "",
+      "ended": "2025-07-29T04:22:04.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": 2.5
     }
   ],
   "old_allocator_id": ""
