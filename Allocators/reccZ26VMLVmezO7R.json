@@ -4,6 +4,8 @@
   "name": "YMHB",
   "allocator_id": "f03623544",
   "organization": "Yunnan Yimiao Environmental Protection Technology Co., Ltd",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2725oo3fc2gi77yda4hyp4ryyzjhyffal7zpvnbq",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "4",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "liruior"
     ],
@@ -28,14 +33,14 @@
   "history": {
     "Application Submitted": "2025-07-10T06:59:33.000Z",
     "KYC Submitted": "2025-07-10T15:10:05.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T05:13:45.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-10T06:59:25.000Z",
-      "ended": "",
+      "ended": "2025-07-29T05:13:45.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
