@@ -1,0 +1,50 @@
+{
+  "application_number": 894,
+  "address": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
+  "name": "OpenGate",
+  "allocator_id": "f03019921",
+  "organization": "OpenGate",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
+    "signers": [
+      "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq"
+    ]
+  },
+  "associated_org_addresses": "f1mcbkmojzegd3rgm4aphdha7dukxbqhwhwbrnwfq",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "OpenGate01"
+    ],
+    "allocation_bookkeeping": "https://github.com/OpenGate01/Allocator-Pathway-OpenGate01",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-06-10T08:58:04.000Z",
+    "KYC Submitted": "2025-07-10T09:48:40.000Z",
+    "Approved": "2025-07-29T03:20:53.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-07-29T03:20:53.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-06-10T08:57:57.000Z",
+      "ended": "2025-07-29T03:20:53.000Z",
+      "dc_allocated": "2025-07-29T03:20:53.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 2.5
+    }
+  ],
+  "old_allocator_id": ""
+}
