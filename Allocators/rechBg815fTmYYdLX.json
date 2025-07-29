@@ -4,6 +4,8 @@
   "name": "Ramo",
   "allocator_id": "f03019928",
   "organization": "web3mine AG",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
     "signers": [
@@ -20,6 +22,9 @@
     "tranche_schedule": "I will use a custom calculation. ",
     "required_sps": "3",
     "required_replicas": "7",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "vvkio"
     ],
@@ -29,14 +34,14 @@
   "history": {
     "Application Submitted": "2025-07-08T14:26:39.000Z",
     "KYC Submitted": "2025-07-10T07:57:50.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T04:59:26.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-08T14:26:31.000Z",
-      "ended": "",
+      "ended": "2025-07-29T04:59:26.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
       "datacap_amount": 5
