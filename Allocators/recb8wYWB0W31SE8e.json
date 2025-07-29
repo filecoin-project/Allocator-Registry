@@ -3,6 +3,8 @@
   "address": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
   "name": "Gitcoin Faucet",
   "organization": "FIDL",
+  "metapathway_type": "RKH",
+  "ma_address": "f080",
   "pathway_addresses": {},
   "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
   "application": {
@@ -13,6 +15,7 @@
     "tranche_schedule": "I will use a custom calculation. ",
     "required_sps": "1",
     "required_replicas": "1",
+    "tooling": [],
     "github_handles": [
       "willscott"
     ],
@@ -22,16 +25,16 @@
   "history": {
     "Application Submitted": "2025-06-06T15:43:08.000Z",
     "KYC Submitted": "2025-07-01T01:48:25.000Z",
-    "Approved": "",
+    "Approved": "2025-07-29T03:17:53.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-07-29T03:17:53.000Z"
   },
   "audits": [
     {
       "started": "2025-06-06T15:42:55.000Z",
-      "ended": "",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "ended": "2025-07-29T03:17:53.000Z",
+      "dc_allocated": "2025-07-29T03:17:53.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": 5
     }
   ],
