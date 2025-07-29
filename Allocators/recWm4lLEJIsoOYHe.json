@@ -2,10 +2,16 @@
   "application_number": 1024,
   "address": "f2agazpszuzp6teu4cz5gsfruhbf775vgp67ju5hy",
   "name": "STCloud",
+  "allocator_id": "f03013315",
   "organization": "Shenzhen SpaceTime Cloud Technology Co.; Ltd.",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f2agazpszuzp6teu4cz5gsfruhbf775vgp67ju5hy",
+    "signers": [
+      "f1n5jufq5n5gdm3tiycpi3ujqgyh3yyj52rd72vdq"
+    ]
+  },
   "associated_org_addresses": "f1n5jufq5n5gdm3tiycpi3ujqgyh3yyj52rd72vdq",
   "application": {
     "audit": [
@@ -33,10 +39,17 @@
   },
   "audits": [
     {
-      "started": "2025-07-08T08:22:46.000Z",
-      "ended": "2025-07-29T04:52:26.000Z",
-      "dc_allocated": "2025-07-29T04:52:26.000Z",
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
       "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2025-02-28T01:00:00.000Z",
+      "ended": "2025-03-31T01:00:00.000Z",
+      "dc_allocated": "2025-04-02T01:00:00.000Z",
+      "outcome": "THROTTLED",
       "datacap_amount": 2.5
     }
   ],

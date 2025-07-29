@@ -39,6 +39,20 @@
   },
   "audits": [
     {
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2025-01-02T01:00:00.000Z",
+      "ended": "2025-02-10T01:00:00.000Z",
+      "dc_allocated": "2025-02-17T01:00:00.000Z",
+      "outcome": "MATCH",
+      "datacap_amount": 5
+    },
+    {
       "started": "2025-07-07T07:49:46.000Z",
       "ended": "2025-07-29T04:22:04.000Z",
       "dc_allocated": "2025-07-29T06:49:42.000Z",
@@ -46,5 +60,5 @@
       "datacap_amount": 2.5
     }
   ],
-  "old_allocator_id": ""
+  "old_allocator_id": "f03018530"
 }

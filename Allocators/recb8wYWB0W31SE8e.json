@@ -2,10 +2,14 @@
   "application_number": 877,
   "address": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
   "name": "Gitcoin Faucet",
+  "allocator_id": "f03220716",
   "organization": "FIDL",
   "metapathway_type": "RKH",
   "ma_address": "f080",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
+    "signer": []
+  },
   "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
   "application": {
     "audit": [
@@ -38,5 +42,5 @@
       "datacap_amount": 5
     }
   ],
-  "old_allocator_id": ""
+  "old_allocator_id": "f03220716"
 }
