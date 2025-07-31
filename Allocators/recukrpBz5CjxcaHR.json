@@ -2,10 +2,17 @@
   "application_number": 1021,
   "address": "f2v4lcttpwtiou2wsijws5etsmy2spzvotxlaq6hi",
   "name": "FIL-DC-Allocator",
+  "allocator_id": "f03016877",
   "organization": "BlockchainWorld",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f2v4lcttpwtiou2wsijws5etsmy2spzvotxlaq6hi",
+    "signers": [
+      "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i",
+      "f1nhqjphdxs4nusdmtnsvekwgzll3yji6egt5nqgq"
+    ]
+  },
   "associated_org_addresses": "f1qdko4jg25vo35qmyvcrw4ak4fmuu3f5rif2kc7i",
   "application": {
     "audit": [
@@ -33,10 +40,17 @@
   },
   "audits": [
     {
-      "started": "2025-07-07T15:26:17.000Z",
-      "ended": "2025-07-29T04:34:12.000Z",
-      "dc_allocated": "2025-07-29T04:34:12.000Z",
+      "started": "2024-03-15T01:00:00.000Z",
+      "ended": "2024-03-15T01:00:00.000Z",
+      "dc_allocated": "2024-03-15T01:00:00.000Z",
       "outcome": "GRANTED",
+      "datacap_amount": 5
+    },
+    {
+      "started": "2024-05-17T01:00:00.000Z",
+      "ended": "2024-06-07T01:00:00.000Z",
+      "dc_allocated": "2024-07-01T01:00:00.000Z",
+      "outcome": "DOUBLED",
       "datacap_amount": 10
     }
   ],
