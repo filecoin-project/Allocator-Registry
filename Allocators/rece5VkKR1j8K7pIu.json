@@ -2,8 +2,10 @@
   "application_number": 969,
   "address": "f2skzbajkxghcr54uaqfd2vxzx4r5ijo5sfihag4a",
   "name": "Xingchi Allocator",
+  "allocator_id": "f03251436",
   "organization": "Xingchi",
   "pathway_addresses": {
+    "msig": "f2skzbajkxghcr54uaqfd2vxzx4r5ijo5sfihag4a",
     "signers": [
       "f1ozvq6zbhlsxopu56c4irprb3opgdvtsyavibgjq"
     ]
