@@ -3,7 +3,9 @@
   "address": "f1pwityjf7zqokgwpjqple46ma5j5v7lsdfxwsasy",
   "name": "datacap-data-preparation-and-onboarding",
   "organization": "CIDgravity",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1kxfgwrlwqh2uhkjujwsozvj2qyiyhco5dda67ka",
   "application": {
     "audit": [
