@@ -2,8 +2,10 @@
   "application_number": 1060,
   "address": "f26oafqpnh7lncjc5hoyj6xib5o62s6gzozdkx5gy",
   "name": "GOME Fil+",
+  "allocator_id": "f03626500",
   "organization": "Gome Real Joy E-Commerce Co., Ltd.",
   "pathway_addresses": {
+    "msig": "f26oafqpnh7lncjc5hoyj6xib5o62s6gzozdkx5gy",
     "signers": [
       "f1kkvbhw5k7sbfnzfup475vwmda4cz4p4lbvnvgla",
       "f14njfc7zafdsyb3ippcqnt74xcougjawktdfstjq",
