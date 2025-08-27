@@ -3,7 +3,9 @@
   "address": "f1pfupotgwsrx5ahby6yafean7uxfmzc7foeqwb6q",
   "name": "Oula Allocator",
   "organization": "Oula Network Organization",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f1pfupotgwsrx5ahby6yafean7uxfmzc7foeqwb6q",
   "application": {
     "audit": [
