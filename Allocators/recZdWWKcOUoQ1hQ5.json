@@ -4,6 +4,8 @@
   "name": "OneForm-SocialCap",
   "allocator_id": "f03619939",
   "organization": "this allocator developed by myself",
+  "metapathway_type": "AMA",
+  "ma_address": "f410ftbbxnk6r75krrnvotudfyqdjnlurnxei735ruja",
   "pathway_addresses": {
     "msig": "f2rohxaxoxwhtrmy7gkoa4r6m7qbdtl4ler3eswoq",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "PeaceWorld"
     ],
@@ -28,17 +33,17 @@
   "history": {
     "Application Submitted": "2025-06-30T15:35:25.000Z",
     "KYC Submitted": "2025-07-08T11:25:08.000Z",
-    "Approved": "",
+    "Approved": "2025-08-28T16:39:56.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-06-30T15:35:17.000Z",
-      "ended": "",
+      "ended": "2025-08-28T16:39:56.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "5"
     }
   ],
   "old_allocator_id": ""
