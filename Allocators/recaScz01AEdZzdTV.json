@@ -4,6 +4,8 @@
   "name": "SWST FIL+",
   "allocator_id": "f03626553",
   "organization": "Shenzhen Wanxin Science and Technology Co., Ltd. ",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2y7lcn4xcjrr3evfaw3zcckevxq5qllpkctqgfma",
     "signers": [
@@ -21,6 +23,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "onestech-cn"
     ],
@@ -30,17 +35,17 @@
   "history": {
     "Application Submitted": "2025-07-16T09:56:27.000Z",
     "KYC Submitted": "2025-07-16T10:07:27.000Z",
-    "Approved": "",
+    "Approved": "2025-08-28T20:49:46.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-16T09:56:19.000Z",
-      "ended": "",
+      "ended": "2025-08-28T20:49:46.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "5"
     }
   ],
   "old_allocator_id": ""
