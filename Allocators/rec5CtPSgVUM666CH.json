@@ -4,6 +4,8 @@
   "name": "Future Storage",
   "allocator_id": "f03011062",
   "organization": "Origin Storage",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2mkq7zjmtoinrjsk7em4i2gnq5vgw723vhhduvvy",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "7",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "chainupk, Tom-OriginStorage"
     ],
@@ -28,17 +33,17 @@
   "history": {
     "Application Submitted": "2025-08-21T02:10:04.000Z",
     "KYC Submitted": "2025-08-28T21:07:43.000Z",
-    "Approved": "",
+    "Approved": "2025-08-28T21:07:58.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-08-21T02:09:53.000Z",
-      "ended": "",
+      "ended": "2025-08-28T21:07:58.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "5"
     }
   ],
   "old_allocator_id": ""
