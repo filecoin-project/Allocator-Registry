@@ -4,6 +4,8 @@
   "name": "LiongLabs",
   "allocator_id": "f03623615",
   "organization": "LiongLabs",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2ch6wkvgpyme2x4pz33wcev4brl3irscriiky5uy",
     "signers": [
@@ -20,6 +22,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "lyjmry"
     ],
@@ -29,17 +34,17 @@
   "history": {
     "Application Submitted": "2025-07-10T09:53:20.000Z",
     "KYC Submitted": "2025-07-10T10:33:25.000Z",
-    "Approved": "",
+    "Approved": "2025-08-28T20:14:51.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-07-10T09:53:12.000Z",
-      "ended": "",
+      "ended": "2025-08-28T20:14:51.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "5"
     }
   ],
   "old_allocator_id": ""
