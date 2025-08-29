@@ -1,0 +1,51 @@
+{
+  "application_number": 963,
+  "address": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
+  "name": "Venus Fil+ Datacap Allocator (VFDA)",
+  "allocator_id": "f03019831",
+  "organization": "Venus Team",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {
+    "msig": "f2hxivxs3we5afsuyx32lwwn44evopz7yea2fsmhy",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1wzmrjlhu244jyjlpsjlyhp7en35ue4wpwbfsv3y"
+    ]
+  },
+  "associated_org_addresses": "f1wdnx2g2rffbg2pmu2ilguedw2oxg25ettfjl5fy",
+  "application": {
+    "audit": [
+      "Public Open "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "VenusOfficial"
+    ],
+    "allocation_bookkeeping": "https://github.com/VenusOfficial/Pathway-VFDA",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-06-23T07:43:50.000Z",
+    "KYC Submitted": "2025-06-23T07:48:29.000Z",
+    "Approved": "2025-08-28T17:04:17.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-08-28T17:04:17.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-06-23T07:43:43.000Z",
+      "ended": "2025-08-28T17:04:17.000Z",
+      "dc_allocated": "2025-08-28T17:04:17.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": "1"
+    }
+  ],
+  "old_allocator_id": ""
+}
