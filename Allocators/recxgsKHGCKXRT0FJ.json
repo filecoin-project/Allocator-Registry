@@ -3,7 +3,13 @@
   "address": "f1e4cq352vsbxdj5mm32qcbqtikapie6m4wzgz6eq",
   "name": "datacap-decentralized-onboarding-to-self-selected-sps",
   "organization": "CIDgravity",
-  "pathway_addresses": {},
+  "allocator_id": "f03019298",
+  "pathway_addresses": {
+    "msig": "f1e4cq352vsbxdj5mm32qcbqtikapie6m4wzgz6eq",
+    "signers": [
+      "f1e4cq352vsbxdj5mm32qcbqtikapie6m4wzgz6eq"
+    ]
+  },
   "associated_org_addresses": "f1kxfgwrlwqh2uhkjujwsozvj2qyiyhco5dda67ka",
   "application": {
     "audit": [
@@ -22,16 +28,16 @@
   "history": {
     "Application Submitted": "2025-07-13T22:59:44.000Z",
     "KYC Submitted": "2025-07-13T23:25:30.000Z",
-    "Approved": "",
+    "Approved": "2025-09-02T23:27:07.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-09-02T23:27:07.000Z"
   },
   "audits": [
     {
       "started": "2025-07-13T22:59:37.000Z",
-      "ended": "",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "ended": 2025-09-02T23:27:07.000Z"",
+      "dc_allocated": "2025-09-02T23:27:07.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": 5
     }
   ],
