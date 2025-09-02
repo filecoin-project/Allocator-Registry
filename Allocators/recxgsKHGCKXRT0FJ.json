@@ -1,0 +1,39 @@
+{
+  "application_number": 1051,
+  "address": "f1e4cq352vsbxdj5mm32qcbqtikapie6m4wzgz6eq",
+  "name": "datacap-decentralized-onboarding-to-self-selected-sps",
+  "organization": "CIDgravity",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1kxfgwrlwqh2uhkjujwsozvj2qyiyhco5dda67ka",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": "1",
+    "required_replicas": "1",
+    "github_handles": [
+      "s0nik42"
+    ],
+    "allocation_bookkeeping": "https://github.com/CIDgravity/datacap-decentralized-onboarding-to-self-selected-sps",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-07-13T22:59:44.000Z",
+    "KYC Submitted": "2025-07-13T23:25:30.000Z",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-07-13T22:59:37.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
