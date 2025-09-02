@@ -1,0 +1,33 @@
+{
+  "address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
+  "name": "On-Ramp Metaallocator",
+  "organization": "Fil+ Gov Team",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f410f72wlzjtgzirx6apqwgjpxh2d2yptf5a2f6ns7gi",
+  "application": {
+    "audit": [],
+    "distribution": [],
+    "github_handles": [
+      "Kevin-FF-USA"
+    ],
+    "allocation_bookkeeping": "https://github.com/fidlabs/ORMA",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-09-02T14:24:33.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
