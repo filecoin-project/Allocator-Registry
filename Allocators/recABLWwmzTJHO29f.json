@@ -5,7 +5,12 @@
   "organization": "Xman Team",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f2a4eel3xtwqw7sboqo47z2gjbymkqhe2fukffiui",
+    "signers": [
+      "f1rto7zthkzfazt7baq6kpls4mozpmh2m7oxehcqy"
+    ]
+  },  
   "associated_org_addresses": "f1rto7zthkzfazt7baq6kpls4mozpmh2m7oxehcqy",
   "application": {
     "audit": [
