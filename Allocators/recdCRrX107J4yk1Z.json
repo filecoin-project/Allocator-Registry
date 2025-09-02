@@ -8,6 +8,9 @@
   "application": {
     "audit": [],
     "distribution": [],
+    "tranche_schedule": null,
+    "required_sps": null,
+    "required_replicas": null,
     "github_handles": [
       "Kevin-Foundation"
     ],
