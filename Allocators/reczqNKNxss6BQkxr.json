@@ -3,7 +3,9 @@
   "address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
   "name": "On-Ramp Metaallocator",
   "organization": "Fil+ Gov Team",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "signers": []
+  },
   "associated_org_addresses": "f410f72wlzjtgzirx6apqwgjpxh2d2yptf5a2f6ns7gi",
   "application": {
     "audit": [],
