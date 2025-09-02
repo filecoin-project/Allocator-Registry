@@ -1,0 +1,35 @@
+{
+  "address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
+  "name": "Test OnRamp",
+  "organization": "Test OnRamp",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
+  "application": {
+    "audit": [
+      "On-Ramps"
+    ],
+    "distribution": [],
+    "github_handles": [
+      "martapiekarska"
+    ],
+    "allocation_bookkeeping": "https://github.com/fidlabs/Experimental-Pathway-Metaallocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-09-02T13:49:28.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
