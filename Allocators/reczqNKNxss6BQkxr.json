@@ -3,6 +3,8 @@
   "address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
   "name": "On-Ramp Metaallocator",
   "organization": "Fil+ Gov Team",
+  "metapathway_type": "ORMA",
+  "ma_address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
   "pathway_addresses": {},
   "associated_org_addresses": "f410f72wlzjtgzirx6apqwgjpxh2d2yptf5a2f6ns7gi",
   "application": {
@@ -11,6 +13,9 @@
     "tranche_schedule": null,
     "required_sps": null,
     "required_replicas": null,
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "Kevin-FF-USA"
     ],
@@ -20,17 +25,17 @@
   "history": {
     "Application Submitted": "2025-09-02T14:24:41.000Z",
     "KYC Submitted": "2025-09-03T11:48:31.000Z",
-    "Approved": "",
+    "Approved": "2025-09-03T11:49:38.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-09-02T14:24:33.000Z",
-      "ended": "",
+      "ended": "2025-09-03T11:49:38.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "5"
     }
   ],
   "old_allocator_id": ""
