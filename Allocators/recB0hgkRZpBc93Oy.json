@@ -1,0 +1,44 @@
+{
+  "application_number": 874,
+  "address": "f1stjz2inu3og7qm3jgwnshcx37tgjpydyluxgnea",
+  "name": "Allocator-Rivtower",
+  "organization": "Rivtower",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f1bh6rjofoe6ntapbop7kakjwo2fnbdp73sdedryi",
+  "application": {
+    "audit": [
+      "Enterprise Data "
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "over 5",
+    "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "Rivtower-2025"
+    ],
+    "allocation_bookkeeping": "https://github.com/Rivtower-2025/Allocator-Rivtower",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-06-06T08:34:37.000Z",
+    "KYC Submitted": "2025-06-09T06:28:56.000Z",
+    "Approved": "2025-08-27T18:53:53.000Z",
+    "Declined": "",
+    "DC Allocated": "2025-08-29T15:08:43.000Z"
+  },
+  "audits": [
+    {
+      "started": "2025-06-06T08:34:29.000Z",
+      "ended": "2025-08-27T18:53:53.000Z",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": "5"
+    }
+  ],
+  "old_allocator_id": ""
+}
