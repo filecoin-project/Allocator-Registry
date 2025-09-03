@@ -1,11 +1,17 @@
 {
   "application_number": 874,
-  "address": "f1stjz2inu3og7qm3jgwnshcx37tgjpydyluxgnea",
+  "address": "f2k5ch5vuaig7js26a7o4usoadriaq5skgvb7q5wa",
   "name": "Allocator-Rivtower",
   "organization": "Rivtower",
+  "allocator_id": "f03142876",
   "metapathway_type": "MDMA",
   "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f2k5ch5vuaig7js26a7o4usoadriaq5skgvb7q5wa",
+    "signers": [
+      "f1stjz2inu3og7qm3jgwnshcx37tgjpydyluxgnea"
+    ],
+  },
   "associated_org_addresses": "f1bh6rjofoe6ntapbop7kakjwo2fnbdp73sdedryi",
   "application": {
     "audit": [
@@ -22,7 +28,7 @@
       "Rivtower-2025"
     ],
     "allocation_bookkeeping": "https://github.com/Rivtower-2025/Allocator-Rivtower",
-    "client_contract_address": ""
+    "client_contract_address": "f410fvanmswvbapubtstkzjakdtoe5f726nhcuxbijei"
   },
   "history": {
     "Application Submitted": "2025-06-06T08:34:37.000Z",
@@ -35,8 +41,8 @@
     {
       "started": "2025-06-06T08:34:29.000Z",
       "ended": "2025-08-27T18:53:53.000Z",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "dc_allocated": "2025-08-29T15:08:43.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": "5"
     }
   ],
