@@ -3,9 +3,14 @@
   "address": "f410fvwp5dwsfcicqhmpspdoloo43xzvzpyelhqelg2y",
   "name": "Ehume Allocator",
   "organization": "YugaTech",
-  "metapathway_type": "RKH",
-  "ma_address": "f080",
-  "pathway_addresses": {},
+  "metapathway_type": "AMA",
+  "ma_address": "f410ftbbxnk6r75krrnvotudfyqdjnlurnxei735ruja",
+  "pathway_addresses": {
+    "msig": "f410fvwp5dwsfcicqhmpspdoloo43xzvzpyelhqelg2y",
+    "signers": [
+      "f410fvwp5dwsfcicqhmpspdoloo43xzvzpyelhqelg2y"
+    ]
+  },
   "associated_org_addresses": "f1gjfz3qnbqjcdal6geo5vemmdqvseaia2l6kwj7i",
   "application": {
     "audit": [
