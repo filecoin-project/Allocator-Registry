@@ -83,9 +83,9 @@
     },
     {
       "started": "2025-08-12T01:00:00.000Z",
-      "ended": "",
-      "dc_allocated": "",
-      "outcome": "",
+      "ended": "2025-08-212T01:00:00.000Z",
+      "dc_allocated": "2025-08-22T01:00:00.000Z",
+      "outcome": "THROTTLE",
       "datacap_amount": 5
     }
   ],
