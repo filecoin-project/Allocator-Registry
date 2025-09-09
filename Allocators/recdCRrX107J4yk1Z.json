@@ -1,0 +1,42 @@
+{
+  "application_number": 1106,
+  "address": "f410ftbbxnk6r75krrnvotudfyqdjnlurnxei735ruja",
+  "name": "Automated Dilligence Metaallocator",
+  "organization": "Fil+ Gov Team",
+  "metapathway_type": "AMA",
+  "ma_address": "f410ftbbxnk6r75krrnvotudfyqdjnlurnxei735ruja",
+  "pathway_addresses": {},
+  "associated_org_addresses": "f410f42r3ll74sx4nulhwdc5nprrtcgv45wq5rwcsh3y",
+  "application": {
+    "audit": [],
+    "distribution": [],
+    "tranche_schedule": null,
+    "required_sps": null,
+    "required_replicas": null,
+    "tooling": [
+      "smart_contract_allocator"
+    ],
+    "github_handles": [
+      "Kevin-Foundation"
+    ],
+    "allocation_bookkeeping": "https://github.com/filecoin-project/Allocator-Governance/issues",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2025-09-02T14:25:57.000Z",
+    "KYC Submitted": "2025-09-03T11:48:55.000Z",
+    "Approved": "2025-09-03T11:49:57.000Z",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-09-02T14:25:49.000Z",
+      "ended": "2025-09-03T11:49:57.000Z",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": "5"
+    }
+  ],
+  "old_allocator_id": ""
+}
