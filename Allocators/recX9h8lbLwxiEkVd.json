@@ -3,8 +3,8 @@
   "address": "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
   "name": "Kernelogic Fil+ Datacap Allocator",
   "organization": "Kernelogic Software Inc",
-  "metapathway_type": "RKH",
-  "ma_address": "f080",
+  "metapathway_type": "AMA",
+  "ma_address": "f410ftbbxnk6r75krrnvotudfyqdjnlurnxei735ruja",
   "pathway_addresses": {
     "msig" : "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
     "signers": [
@@ -14,7 +14,7 @@
   "associated_org_addresses": "f1yvo2nutvy6a4ortrvv2tguhpsi64a7fgrc42owy",
   "application": {
     "audit": [
-      "Automated Allocator "
+      "Automated"
     ],
     "distribution": [],
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
