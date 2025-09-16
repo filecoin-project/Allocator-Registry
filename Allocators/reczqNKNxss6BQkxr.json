@@ -3,9 +3,17 @@
   "address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
   "name": "On-Ramp Metaallocator",
   "organization": "Fil+ Gov Team",
+  "allocator_id": "f03634130",
   "metapathway_type": "ORMA",
   "ma_address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
-  "pathway_addresses": {},
+  "pathway_addresses": {
+    "msig": "f410f72wlzjtgzirx6apqwgjpxh2d2yptf5a2f6ns7gi",
+    "signers": [
+      "f410fokc3puzer7pbzt46bb4zh7p4phwfjnkkzz37n3q",
+      "f410f3k5oq6fw2ecfvfax5lzmyqua3pcrb47wocnp2qq",
+      "f410fl2phvedtfrtg56zzwf6pdqvppzznp3uq5mmorha"
+    ]
+  },
   "associated_org_addresses": "f410f72wlzjtgzirx6apqwgjpxh2d2yptf5a2f6ns7gi",
   "application": {
     "audit": [],
@@ -17,7 +25,8 @@
       "smart_contract_allocator"
     ],
     "github_handles": [
-      "Kevin-FF-USA"
+      "Kevin-FF-USA",
+      "Amin-Foundation"
     ],
     "allocation_bookkeeping": "https://github.com/fidlabs/ORMA",
     "client_contract_address": ""
@@ -27,15 +36,15 @@
     "KYC Submitted": "2025-09-03T11:48:31.000Z",
     "Approved": "2025-09-03T11:49:38.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2025-09-03T11:49:38.000Z"
   },
   "audits": [
     {
       "started": "2025-09-02T14:24:33.000Z",
       "ended": "2025-09-03T11:49:38.000Z",
-      "dc_allocated": "",
-      "outcome": "PENDING",
-      "datacap_amount": "5"
+      "dc_allocated": "2025-09-03T11:49:38.000Z",
+      "outcome": "GRANTED",
+      "datacap_amount": "50"
     }
   ],
   "old_allocator_id": ""
