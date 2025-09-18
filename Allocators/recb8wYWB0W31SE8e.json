@@ -4,8 +4,8 @@
   "name": "Gitcoin Faucet",
   "allocator_id": "f03220716",
   "organization": "FIDL",
-  "metapathway_type": "RKH",
-  "ma_address": "f080",
+  "metapathway_type": "AMA",
+  "ma_address": "f410ftbbxnk6r75krrnvotudfyqdjnlurnxei735ruja",
   "pathway_addresses": {
     "msig": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
     "signer": []
@@ -13,7 +13,7 @@
   "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
   "application": {
     "audit": [
-      "Automated Allocator"
+      "Automated"
     ],
     "distribution": [],
     "tranche_schedule": "I will use a custom calculation.",
