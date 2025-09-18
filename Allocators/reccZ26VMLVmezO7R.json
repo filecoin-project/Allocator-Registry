@@ -15,7 +15,7 @@
   "associated_org_addresses": "f1nwzr7e6hpmbvx73qetdqz7xzzrlz7uk2sybwica",
   "application": {
     "audit": [
-      "Public Open "
+      "Public Open"
     ],
     "distribution": [],
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
@@ -45,15 +45,13 @@
       "outcome": "GRANTED",
       "datacap_amount": 5
     },
-     {
+    {
       "started": "2025-09-02T01:00:00.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "",
       "datacap_amount": ""
     }
-
-    
   ],
   "old_allocator_id": ""
 }

@@ -13,7 +13,6 @@
       "f410fcbvdogvwnlfhc5jxk7v5toykgi7akurj7wogbai",
       "f410f3k5oq6fw2ecfvfax5lzmyqua3pcrb47wocnp2qq"
     ]
-
   },
   "associated_org_addresses": "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
   "application": {
@@ -21,7 +20,7 @@
       "Other"
     ],
     "distribution": [],
-    "tranche_schedule": "I will use a custom calculation. ",
+    "tranche_schedule": "I will use a custom calculation.",
     "required_sps": "5",
     "required_replicas": "5",
     "tooling": [],

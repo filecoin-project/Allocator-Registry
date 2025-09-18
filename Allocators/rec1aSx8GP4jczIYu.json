@@ -7,8 +7,7 @@
   "ma_address": "f410ftbbxnk6r75krrnvotudfyqdjnlurnxei735ruja",
   "pathway_addresses": {
     "msig": "f16l3walhmmr3rreaurzmznjq3xypjg3p27t2ht2i",
-    "signers": [
-    ]
+    "signers": []
   },
   "associated_org_addresses": "f1kxfgwrlwqh2uhkjujwsozvj2qyiyhco5dda67ka",
   "application": {
@@ -16,7 +15,7 @@
       "Automated"
     ],
     "distribution": [],
-    "tranche_schedule": "I will use a custom calculation. ",
+    "tranche_schedule": "I will use a custom calculation.",
     "required_sps": "over 5",
     "required_replicas": "2",
     "tooling": [],
