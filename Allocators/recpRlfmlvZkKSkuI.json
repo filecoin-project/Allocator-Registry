@@ -60,6 +60,13 @@
       "dc_allocated": "",
       "outcome": "REJECTED",
       "datacap_amount": 0
+    },
+    {
+      "started": "2025-10-02T14:25:25.488Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": ""
     }
   ],
   "old_allocator_id": "f03019926"
