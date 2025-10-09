@@ -83,10 +83,10 @@
     },
     {
       "started": "2025-08-27T01:00:00.000Z",
-      "ended": "",
-      "dc_allocated": "",
-      "outcome": "",
-      "datacap_amount": ""
+      "ended": "2025-09-16T01:00:00.000Z",
+      "dc_allocated": "2025-09-19T01:00:00.000Z",
+      "outcome": "THROTTLE",
+      "datacap_amount": 10
     }
   ],
   "old_allocator_id": "f03018029"
