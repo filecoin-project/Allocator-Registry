@@ -1,0 +1,46 @@
+{
+  "address": "f2ii4vteekhiho7t2njfjm6iy5u4hmxdh3unm4ahi",
+  "name": "Dekeinfo Fil+",
+  "allocator_id": "f03651796",
+  "organization": "Shenzhen Derkee Information Technology Co.,Ltd",
+  "pathway_addresses": {
+    "msig": "f2ii4vteekhiho7t2njfjm6iy5u4hmxdh3unm4ahi",
+    "signers": [
+      "f14fjmzmc5seqn72qxlscngly2xluauiygencdq2a",
+      "f17u4pduilc67jgencwurfid6padqc2z3xjbmjlei",
+      "f1karobmqqbuvngynuw55y7aabuwb36lzq4kzzw6y"
+    ]
+  },
+  "associated_org_addresses": "f2ptkuua5og4pubgau3ucylnspct5cuutu2vds27a",
+  "application": {
+    "audit": [
+      "Public Open"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "MetazoaZ"
+    ],
+    "allocation_bookkeeping": "https://github.com/MetazoaZ/Dekeinfo-Bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2025-11-19T15:59:41.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
