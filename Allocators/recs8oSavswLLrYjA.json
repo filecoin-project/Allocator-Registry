@@ -51,6 +51,13 @@
       "dc_allocated": "2025-09-03T20:00:30.000Z",
       "outcome": "THROTTLE",
       "datacap_amount": 150
+    },
+    {
+      "started": "2025-12-02T14:17:28.421Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": ""
     }
   ],
   "old_allocator_id": "f03358620"
