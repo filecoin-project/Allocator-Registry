@@ -49,10 +49,10 @@
     },
     {
       "started": "2025-11-24T09:08:54.075Z",
-      "ended": "",
-      "dc_allocated": "",
-      "outcome": "PENDING",
-      "datacap_amount": ""
+      "ended": "2025-12-05T21:21:30.000Z",
+      "dc_allocated": "2025-12-05T21:21:30.000Z",
+      "outcome": "MATCH",
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
