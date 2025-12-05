@@ -4,6 +4,8 @@
   "name": "Dekeinfo Fil+",
   "allocator_id": "f03651796",
   "organization": "Shenzhen Derkee Information Technology Co.,Ltd",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2ii4vteekhiho7t2njfjm6iy5u4hmxdh3unm4ahi",
     "signers": [
@@ -21,6 +23,9 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "MetazoaZ"
     ],
@@ -30,17 +35,17 @@
   "history": {
     "Application Submitted": "2025-11-19T15:59:51.000Z",
     "KYC Submitted": "2025-11-21T07:20:29.000Z",
-    "Approved": "",
+    "Approved": "2025-12-05T21:28:09.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2025-11-19T15:59:41.000Z",
-      "ended": "",
+      "ended": "2025-12-05T21:28:09.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "5"
     }
   ],
   "old_allocator_id": ""
