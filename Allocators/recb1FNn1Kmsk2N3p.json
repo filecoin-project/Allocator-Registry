@@ -1,11 +1,8 @@
 {
-  "application_number": 860,
   "address": "f2x2djhw54agyes32iyi2colhflb4ekm32iz54tjq",
   "name": "DCENT FIL+ Non-Commercial Deals",
   "allocator_id": "f03018494",
   "organization": "DCENT BV",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2x2djhw54agyes32iyi2colhflb4ekm32iz54tjq",
     "signers": [
@@ -21,51 +18,27 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "cryptowhizzard"
     ],
-    "allocation_bookkeeping": "https://github.com/cryptowhizzard/Fil-A-2",
-    "client_contract_address": "f410femjultrstspavt3ityq3hv3g3lu5mf7vlvdxa2a"
+    "allocation_bookkeeping": "https://github.com/cryptowhizzard",
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-04T07:33:33.000Z",
-    "KYC Submitted": "2025-06-04T07:38:03.000Z",
-    "Approved": "2025-07-02T22:03:58.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-02T22:11:30.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2024-03-15T01:00:00.000Z",
-      "ended": "2024-03-15T01:00:00.000Z",
-      "dc_allocated": "2024-03-15T01:00:00.000Z",
-      "outcome": "GRANTED",
+      "started": "2025-12-31T13:52:27.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
-    },
-    {
-      "started": "2024-05-17T01:00:00.000Z",
-      "ended": "2024-06-07T01:00:00.000Z",
-      "dc_allocated": "2024-06-11T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 10
-    },
-    {
-      "started": "2024-11-04T01:00:00.000Z",
-      "ended": "2024-12-06T01:00:00.000Z",
-      "dc_allocated": "2024-12-12T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 20
-    },
-    {
-      "started": "2025-06-11T01:00:00.000Z",
-      "ended": "2025-06-27T01:00:00.000Z",
-      "dc_allocated": "2025-07-02T22:11:30.000Z",
-      "outcome": "THROTTLED",
-      "datacap_amount": 10
     }
   ],
-  "old_allocator_id": "f03018494"
+  "old_allocator_id": ""
 }
