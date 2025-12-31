@@ -1,13 +1,12 @@
 {
+  "application_number": 2131,
   "address": "f2oasaaoofntz53tw4vggdcfdwfyyngm25iognanq",
   "name": "Leizileiindustry Manual Allocator",
-  "allocator_id": "f03617873",
+  "allocator_id": "f2oasaaoofntz53tw4vggdcfdwfyyngm25iognanq",
   "organization": "QT LZL Commerce",
   "pathway_addresses": {
-    "msig": "f2oasaaoofntz53tw4vggdcfdwfyyngm25iognanq",
-    "signers": [
-      "f1tku4mqv4nnp44h22lacx4oahmcbu2wxd2tc54kq"
-    ]
+    "msig": "",
+    "signers": []
   },
   "associated_org_addresses": "f1tku4mqv4nnp44h22lacx4oahmcbu2wxd2tc54kq",
   "application": {
@@ -25,7 +24,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2025-12-31T14:46:38.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
