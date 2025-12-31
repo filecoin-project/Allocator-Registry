@@ -1,11 +1,8 @@
 {
-  "application_number": 998,
   "address": "f26khxkbrm2mucrebsgejyd3bpc3gmvhhmdqb6aki",
   "name": "Web3-Data-Storage",
   "allocator_id": "f03617914",
   "organization": "Web3-Data-Storage",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f26khxkbrm2mucrebsgejyd3bpc3gmvhhmdqb6aki",
     "signers": [
@@ -21,28 +18,25 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "Gioelev"
     ],
     "allocation_bookkeeping": "https://github.com/Gioelev/Web3-Data-Storage-Bookkeeping",
-    "client_contract_address": "f410fhtkhnhwfztb2nn3lfywwj5gtlsuhgtxx32bpxjq"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-02T08:03:56.000Z",
-    "KYC Submitted": "2025-07-02T13:58:14.000Z",
-    "Approved": "2025-07-29T04:10:18.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T06:33:02.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-07-02T08:03:48.000Z",
-      "ended": "2025-07-29T04:10:18.000Z",
-      "dc_allocated": "2025-07-29T06:33:02.000Z",
-      "outcome": "GRANTED",
+      "started": "2025-12-31T12:54:41.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
     }
   ],
