@@ -1,11 +1,8 @@
 {
-  "application_number": 990,
   "address": "f2rohxaxoxwhtrmy7gkoa4r6m7qbdtl4ler3eswoq",
   "name": "OneForm-SocialCap",
   "allocator_id": "f03619939",
   "organization": "this allocator developed by myself",
-  "metapathway_type": "AMA",
-  "ma_address": "f410ftbbxnk6r75krrnvotudfyqdjnlurnxei735ruja",
   "pathway_addresses": {
     "msig": "f2rohxaxoxwhtrmy7gkoa4r6m7qbdtl4ler3eswoq",
     "signers": [
@@ -15,41 +12,31 @@
   "associated_org_addresses": "f15bhsxs5ty57uaaghoc4gllftwfltacra4earczq",
   "application": {
     "audit": [
-      "Automated"
+      "Automated Allocator"
     ],
     "distribution": [],
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "5",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
-      "worldpeace1121"
+      "PeaceWorld"
     ],
     "allocation_bookkeeping": "https://github.com/WorldPeace1121/OneForm-SocialCap",
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-30T15:35:25.000Z",
-    "KYC Submitted": "2025-07-08T11:25:08.000Z",
-    "Approved": "2025-08-28T16:39:56.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-09-16T15:16:30.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-06-30T15:35:17.000Z",
-      "ended": "2025-08-28T16:39:56.000Z",
-      "dc_allocated": "2025-09-16T15:16:30.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-11-25T11:39:50.307Z",
-      "ended": "2025-11-25T21:26:30.000Z",
-      "dc_allocated": "2025-11-25T21:26:30.000Z",
-      "outcome": "MATCH",
+      "started": "2025-12-31T11:55:15.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
     }
   ],
