@@ -1,11 +1,8 @@
 {
-  "application_number": 978,
   "address": "f2dlznwhck4bnlkuncp4vjb4uuuaj7ha2fy3scz4y",
   "name": "Yunphant Allocator",
   "allocator_id": "f03251448",
   "organization": "Yunphant",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2dlznwhck4bnlkuncp4vjb4uuuaj7ha2fy3scz4y",
     "signers": [
@@ -21,36 +18,26 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "leier1987"
     ],
     "allocation_bookkeeping": "https://github.com/leier1987/Yunphant-Allocator",
-    "client_contract_address": "f410f4otpi2lkfymmhxbwbupsc3rxynzeqsmm2e25jbi"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-27T02:48:53.000Z",
-    "KYC Submitted": "2025-06-27T03:13:25.000Z",
-    "Approved": "2025-07-29T03:57:22.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T06:03:52.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-06-27T02:48:45.000Z",
-      "ended": "2025-07-29T03:57:22.000Z",
-      "dc_allocated": "2025-07-29T06:03:52.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-10-22T16:53:51.924Z",
-      "ended": "2025-12-12T17:14:16.982Z",
+      "started": "2025-12-31T13:02:39.000Z",
+      "ended": "",
       "dc_allocated": "",
-      "outcome": "REJECTED",
-      "datacap_amount": ""
+      "outcome": "PENDING",
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
