@@ -1,11 +1,8 @@
 {
-  "application_number": 1037,
   "address": "f2ch6wkvgpyme2x4pz33wcev4brl3irscriiky5uy",
   "name": "LiongLabs",
   "allocator_id": "f03623615",
   "organization": "LiongLabs",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2ch6wkvgpyme2x4pz33wcev4brl3irscriiky5uy",
     "signers": [
@@ -22,43 +19,26 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "lyjmry"
     ],
     "allocation_bookkeeping": "https://github.com/lyjmry/Open-Data-Pathway",
-    "client_contract_address": "f410f2xgqfmpd53zdbfy36etp5lduum56cvxm4ziraty"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-10T09:53:20.000Z",
-    "KYC Submitted": "2025-07-10T10:33:25.000Z",
-    "Approved": "2025-08-28T20:14:51.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-08-29T19:18:15.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-07-10T09:53:12.000Z",
-      "ended": "2025-08-28T20:14:51.000Z",
-      "dc_allocated": "2025-08-29T19:18:15.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": "5"
-    },
-    {
-      "started": "2025-10-12T15:09:48.864Z",
-      "ended": "2025-10-23T17:19:00.000Z",
-      "dc_allocated": "2025-10-23T17:19:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-12-26T13:22:22.448Z",
+      "started": "2025-12-31T14:56:22.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": ""
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
