@@ -1,11 +1,8 @@
 {
-  "application_number": 822,
   "address": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
   "name": "FIDL Enterprise Data",
   "allocator_id": "f03015757",
   "organization": "FIDL",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f27vme4xvjuzwnrx4djdd52jnj5y3arvrtvhc5niy",
     "signers": [
@@ -24,45 +21,27 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "2",
     "required_replicas": "2",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
-      "martapiekarska",
-      "dampud"
+      "martapiekarska"
     ],
     "allocation_bookkeeping": "https://github.com/fidlabs/Enterprise-Data-Pathway",
-    "client_contract_address": "f410fqslkkgx5ehy4qnghg6uhy55exo2tg5mpck7jpri"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-05-28T19:33:39.000Z",
-    "KYC Submitted": "2025-05-28T20:15:19.000Z",
-    "Approved": "2025-05-28T20:16:09.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-05-28T20:31:59.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2024-03-15T01:00:00.000Z",
-      "ended": "2024-03-15T01:00:00.000Z",
-      "dc_allocated": "2024-03-15T01:00:00.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T15:38:17.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
-    },
-    {
-      "started": "2024-07-19T01:00:00.000Z",
-      "ended": "2024-08-01T01:00:00.000Z",
-      "dc_allocated": "2024-08-07T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 10
-    },
-    {
-      "started": "2025-01-31T01:00:00.000Z",
-      "ended": "2025-02-12T01:00:00.000Z",
-      "dc_allocated": "2025-02-17T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 20
     }
   ],
-  "old_allocator_id": "f03015757"
+  "old_allocator_id": ""
 }
