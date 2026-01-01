@@ -1,11 +1,8 @@
 {
-  "application_number": 962,
   "address": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
   "name": "NonEntropy",
   "allocator_id": "f03018029",
   "organization": "NonEntropy Technology Pte. Ltd.",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2qdxvqizz6fqoongs65l4eswodf6zm7g3wr6dt3y",
     "signers": [
@@ -22,79 +19,27 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "4",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "joshua-ne"
     ],
     "allocation_bookkeeping": "https://github.com/joshua-ne/FIL_DC_Allocator_1022",
-    "client_contract_address": "f410fwpvrx5oapejeoun3pu3ussvlwko47caa6duoy2q"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-23T03:00:20.000Z",
-    "KYC Submitted": "2025-06-30T07:39:12.000Z",
-    "Approved": "2025-07-02T22:25:56.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-02T22:25:56.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2024-03-15T01:00:00.000Z",
-      "ended": "2024-03-15T01:00:00.000Z",
-      "dc_allocated": "2024-03-15T01:00:00.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T15:48:00.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
-    },
-    {
-      "started": "2024-06-19T01:00:00.000Z",
-      "ended": "2024-08-01T01:00:00.000Z",
-      "dc_allocated": "2024-08-07T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2024-08-29T01:00:00.000Z",
-      "ended": "2024-10-15T01:00:00.000Z",
-      "dc_allocated": "2024-10-28T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 10
-    },
-    {
-      "started": "2024-11-19T01:00:00.000Z",
-      "ended": "2024-12-06T01:00:00.000Z",
-      "dc_allocated": "2024-12-24T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 20
-    },
-    {
-      "started": "2025-02-06T01:00:00.000Z",
-      "ended": "2025-03-31T01:00:00.000Z",
-      "dc_allocated": "2025-04-02T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 20
-    },
-    {
-      "started": "2025-05-30T01:00:00.000Z",
-      "ended": "2025-06-18T01:00:00.000Z",
-      "dc_allocated": "2025-07-02T22:25:56.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 20
-    },
-    {
-      "started": "2025-08-27T01:00:00.000Z",
-      "ended": "2025-09-16T01:00:00.000Z",
-      "dc_allocated": "2025-09-19T01:00:00.000Z",
-      "outcome": "THROTTLE",
-      "datacap_amount": 10
-    },
-    {
-      "started": "2025-11-18T07:42:48.325Z",
-      "ended": "2025-11-25T21:30:00.000Z",
-      "dc_allocated": "2025-11-25T21:30:00.000Z",
-      "outcome": "DOUBLE",
-      "datacap_amount": 20
     }
   ],
-  "old_allocator_id": "f03018029"
+  "old_allocator_id": ""
 }
