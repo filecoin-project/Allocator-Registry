@@ -1,11 +1,8 @@
 {
-  "application_number": 1010,
   "address": "f2grhgddmyxti7g3jfu6esos6sxlgd6xveuzt3coa",
-  "name": "Filecoin-Daily",
+  "name": "FILCOIN-DAILY ",
   "allocator_id": "f03622605",
-  "organization": "Filecoin Daily Community",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "organization": "FILCOIN DAILY COMMUNITY",
   "pathway_addresses": {
     "msig": "f2grhgddmyxti7g3jfu6esos6sxlgd6xveuzt3coa",
     "signers": [
@@ -22,50 +19,26 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "filecoindaily"
     ],
     "allocation_bookkeeping": "https://github.com/filecoindaily/filplus-onboard",
-    "client_contract_address": "f410fayxonlr7f2ezgfx4ggjsewsd2ebytgn7p4c3mjq"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-03T14:34:52.000Z",
-    "KYC Submitted": "2025-07-04T06:56:39.000Z",
-    "Approved": "2025-07-29T04:17:50.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T06:42:08.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-07-03T14:34:45.000Z",
-      "ended": "2025-07-29T04:17:50.000Z",
-      "dc_allocated": "2025-07-29T06:42:08.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-08-28T01:00:00.000Z",
-      "ended": "2025-09-16T01:00:00.000Z",
-      "dc_allocated": "2025-09-19T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-10-14T15:52:03.239Z",
-      "ended": "2025-10-22T17:54:30.000Z",
-      "dc_allocated": "2025-10-22T17:54:30.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-12-18T12:04:26.551Z",
+      "started": "2026-01-01T16:42:55.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": ""
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
