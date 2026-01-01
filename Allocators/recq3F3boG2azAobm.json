@@ -1,11 +1,8 @@
 {
-  "application_number": 980,
   "address": "f2tv5dsxja2g4d2nryd5bwb62ae4ifldxzek52bki",
   "name": "StudyBlock Allocator",
   "allocator_id": "f03251479",
   "organization": "StudyBlock",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2tv5dsxja2g4d2nryd5bwb62ae4ifldxzek52bki",
     "signers": [
@@ -21,43 +18,26 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "Neilneil333"
     ],
     "allocation_bookkeeping": "https://github.com/Neilneil333/StudyBlock",
-    "client_contract_address": "f410fhgrqajsdjec6ljxuk33uvopkyopu4jecok4gvaa"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-27T06:43:54.000Z",
-    "KYC Submitted": "2025-06-27T08:09:08.000Z",
-    "Approved": "2025-07-29T03:57:48.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T06:06:43.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-06-27T06:43:46.000Z",
-      "ended": "2025-07-29T03:57:48.000Z",
-      "dc_allocated": "2025-07-29T06:06:43.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-09-05T01:01:00.000Z",
-      "ended": "2025-09-19T01:01:00.000Z",
-      "dc_allocated": "2025-09-22T01:01:00.000Z",
-      "outcome": "THROTTLE",
-      "datacap_amount": 2.5
-    },
-    {
-      "started": "2025-12-22T11:56:26.289Z",
+      "started": "2026-01-01T16:41:26.000Z",
       "ended": "",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": ""
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
