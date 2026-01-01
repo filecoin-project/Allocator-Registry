@@ -1,11 +1,8 @@
 {
-  "application_number": 977,
   "address": "f2ezkaba4iy7iqfnwwzopj3h364y2j5rrekwmksri",
   "name": "CineVault Allocator",
   "allocator_id": "f03251477",
   "organization": "CineVault",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2ezkaba4iy7iqfnwwzopj3h364y2j5rrekwmksri",
     "signers": [
@@ -21,36 +18,26 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "himomo007"
     ],
     "allocation_bookkeeping": "https://github.com/himomo007/CineVault-Allocator",
-    "client_contract_address": "f410febaipikn3srp274wemzg2jn2w5wbgrb5np5vqni"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-26T17:28:52.000Z",
-    "KYC Submitted": "2025-06-27T01:20:15.000Z",
-    "Approved": "2025-07-29T03:55:44.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T05:55:32.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-06-26T17:28:45.000Z",
-      "ended": "2025-07-29T03:55:44.000Z",
-      "dc_allocated": "2025-07-29T05:55:32.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T15:42:48.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
-    },
-    {
-      "started": "2025-09-22T14:23:00.767Z",
-      "ended": "2025-09-30T21:34:30.000Z",
-      "dc_allocated": "2025-10-07T21:34:30.000Z",
-      "outcome": "THROTTLE",
-      "datacap_amount": 2.5
     }
   ],
   "old_allocator_id": ""
