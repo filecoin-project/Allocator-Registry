@@ -1,25 +1,21 @@
 {
-  "application_number": 877,
   "address": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
   "name": "Gitcoin Faucet",
-  "allocator_id": "f03220716",
+  "allocator_id": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
   "organization": "FIDL",
-  "metapathway_type": "AMA",
-  "ma_address": "f410ftbbxnk6r75krrnvotudfyqdjnlurnxei735ruja",
   "pathway_addresses": {
-    "msig": "f410f7l5mtq7w3m52y4joj4ckkiaaqgireqton3l6joy",
-    "signer": []
+    "msig": "",
+    "signers": []
   },
-  "associated_org_addresses": "f1v24knjbqv5p6qrmfjj5xmlaoddzqnon2oxkzkyq",
+  "associated_org_addresses": "f410foygeoeocfkqi7bqaa6zheomu2xvmblvtpwsctiy",
   "application": {
     "audit": [
-      "Automated"
+      "Automated Allocator"
     ],
     "distribution": [],
-    "tranche_schedule": "I will use a custom calculation.",
+    "tranche_schedule": "I will use a custom calculation. ",
     "required_sps": "1",
     "required_replicas": "1",
-    "tooling": [],
     "github_handles": [
       "willscott"
     ],
@@ -27,20 +23,20 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-06T15:43:08.000Z",
-    "KYC Submitted": "2025-07-01T01:48:25.000Z",
-    "Approved": "2025-07-29T03:17:53.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T03:17:53.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-06-06T15:42:55.000Z",
-      "ended": "2025-07-29T03:17:53.000Z",
-      "dc_allocated": "2025-07-29T03:17:53.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T15:41:25.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
     }
   ],
-  "old_allocator_id": "f03220716"
+  "old_allocator_id": ""
 }
