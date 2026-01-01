@@ -1,0 +1,42 @@
+{
+  "address": "f410fro5c7z5rxkxdkncgpxcetbpmsxuhptxlpo2hfgi",
+  "name": "FILLiquid Allocator",
+  "allocator_id": "f410fro5c7z5rxkxdkncgpxcetbpmsxuhptxlpo2hfgi",
+  "organization": "FILLiquid Foundation",
+  "pathway_addresses": {
+    "msig": "",
+    "signers": []
+  },
+  "associated_org_addresses": "f410fro5c7z5rxkxdkncgpxcetbpmsxuhptxlpo2hfgi",
+  "application": {
+    "audit": [
+      "Public Open"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "1",
+    "required_replicas": "3",
+    "github_handles": [
+      "FILLiquidAllocator"
+    ],
+    "allocation_bookkeeping": "https://github.com/FILLiquidAllocator/FILLiquid-Allocator",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2026-01-01T17:49:10.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
