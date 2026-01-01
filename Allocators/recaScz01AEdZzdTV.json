@@ -1,17 +1,15 @@
 {
-  "application_number": 1061,
   "address": "f2y7lcn4xcjrr3evfaw3zcckevxq5qllpkctqgfma",
   "name": "SWST FIL+",
   "allocator_id": "f03626553",
-  "organization": "Shenzhen Wanxin Science and Technology Co., Ltd.",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
+  "organization": "Shenzhen Wanxin Science and Technology Co., Ltd. ",
   "pathway_addresses": {
     "msig": "f2y7lcn4xcjrr3evfaw3zcckevxq5qllpkctqgfma",
     "signers": [
       "f1glkxojbqukh7oiltvm65vokj44quakfpyskd36i",
       "f1oj4jyj5urajhn7hrs6i6uh7ifmkz2sdolbul3aq",
-      "f1hoozqnbe73due3whmtpmvy5jnloxpvnuzbr2uvy"
+      "f1hoozqnbe73due3whmtpmvy5jnloxpvnuzbr2uvy",
+      "f1vhuylefto74wllu2f7zppgdg3d3y4e2svo3psza"
     ]
   },
   "associated_org_addresses": "f2y4zmsw27uhm4kbulfid4df7qubrhr4w4lbjzdla",
@@ -23,35 +21,25 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "onestech-cn"
     ],
-    "allocation_bookkeeping": "https://github.com/onestech-cn/SWST-Bookkeeping",
-    "client_contract_address": "f410fdtmld7fdg4qhnxnl6jicpjbqm2xtxga4pxke5ga"
+    "allocation_bookkeeping": "https://github.com/onestech-cn/SWST-Bookkeeping ",
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-16T09:56:27.000Z",
-    "KYC Submitted": "2025-07-16T10:07:27.000Z",
-    "Approved": "2025-08-28T20:49:46.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-09-03T21:54:26.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-07-16T09:56:19.000Z",
-      "ended": "2025-08-28T20:49:46.000Z",
-      "dc_allocated": "2025-09-03T21:54:26.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": "5"
-    },
-    {
-      "started": "2025-11-24T09:08:54.075Z",
-      "ended": "2025-12-05T21:21:30.000Z",
-      "dc_allocated": "2025-12-05T21:21:30.000Z",
-      "outcome": "MATCH",
+      "started": "2026-01-01T15:42:59.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
     }
   ],
