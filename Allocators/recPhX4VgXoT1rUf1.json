@@ -1,11 +1,8 @@
 {
-  "application_number": 930,
   "address": "f2jrkwdnzmmzkgwuhv7bzts474kupilkp5kjfly2a",
   "name": "Greaterheat",
   "allocator_id": "f03010601",
   "organization": "Greaterheat",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2jrkwdnzmmzkgwuhv7bzts474kupilkp5kjfly2a",
     "signers": [
@@ -21,30 +18,27 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "AlanGreaterheat"
     ],
     "allocation_bookkeeping": "https://github.com/AlanGreaterheat/Greaterheat-Allocator",
-    "client_contract_address": "f410f66xoxrwo5hhgyxbr44xjzzpt3dtzfulzxhonmca"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-16T09:08:10.000Z",
-    "KYC Submitted": "2025-06-17T01:44:09.000Z",
-    "Approved": "2025-07-16T04:01:12.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-16T04:01:12.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-06-16T09:08:00.000Z",
-      "ended": "2025-07-16T04:01:12.000Z",
-      "dc_allocated": "2025-07-16T04:01:12.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 20
+      "started": "2026-01-01T15:37:17.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
     }
   ],
-  "old_allocator_id": "f03010601"
+  "old_allocator_id": ""
 }
