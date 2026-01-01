@@ -1,11 +1,8 @@
 {
-  "application_number": 1014,
   "address": "f2uctdzfi2jsifxr65kzt3rm2apxeilmywbuecqwa",
   "name": "DFly Allocator Pathway",
   "allocator_id": "f03157277",
   "organization": "Drust",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2uctdzfi2jsifxr65kzt3rm2apxeilmywbuecqwa",
     "signers": [
@@ -21,28 +18,25 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "6",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "Conor15"
     ],
     "allocation_bookkeeping": "https://github.com/Conor15/DFly-AllocatorPathway/issues",
-    "client_contract_address": "f410fhabfdajgnpvn3fjnwohdg5lckomrnglmf3lysby"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-04T10:59:53.000Z",
-    "KYC Submitted": "2025-07-07T07:15:46.000Z",
-    "Approved": "2025-07-29T04:19:40.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T06:45:32.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-07-04T10:59:46.000Z",
-      "ended": "2025-07-29T04:19:40.000Z",
-      "dc_allocated": "2025-07-29T06:45:32.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T16:41:34.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
     }
   ],
