@@ -1,11 +1,8 @@
 {
-  "application_number": 961,
   "address": "f2idqwfdtg25oqthtefjfb3pm2afkjs3t2dzqzlyi",
   "name": "Marshall-Fil-Data-Pathway",
   "allocator_id": "f03012911",
   "organization": "Marshall",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2idqwfdtg25oqthtefjfb3pm2afkjs3t2dzqzlyi",
     "signers": [
@@ -21,58 +18,27 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "Marshall-btc"
     ],
     "allocation_bookkeeping": "https://github.com/Marshall-btc/Marshall-Fil-Data-Pathway",
-    "client_contract_address": "f410fu5ni74qkmmqp7sfqxlwijpatwb6lijziu4zcf3a"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-22T14:55:22.000Z",
-    "KYC Submitted": "2025-06-22T15:11:02.000Z",
-    "Approved": "2025-07-16T04:24:08.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-16T04:24:08.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2024-03-15T01:00:00.000Z",
-      "ended": "2024-03-15T01:00:00.000Z",
-      "dc_allocated": "2024-03-15T01:00:00.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T18:00:50.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
-    },
-    {
-      "started": "2024-08-20T01:00:00.000Z",
-      "ended": "2024-09-07T01:00:00.000Z",
-      "dc_allocated": "2024-09-17T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2024-11-05T01:00:00.000Z",
-      "ended": "2024-12-19T01:00:00.000Z",
-      "dc_allocated": "2024-12-20T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 10
-    },
-    {
-      "started": "2025-02-20T01:00:00.000Z",
-      "ended": "2025-03-31T01:00:00.000Z",
-      "dc_allocated": "2025-04-02T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 10
-    },
-    {
-      "started": "2025-05-09T01:00:00.000Z",
-      "ended": "2025-05-26T01:00:00.000Z",
-      "dc_allocated": "2025-06-07T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 10
     }
   ],
-  "old_allocator_id": "f03012911"
+  "old_allocator_id": ""
 }
