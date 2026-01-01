@@ -1,11 +1,8 @@
 {
-  "application_number": 835,
   "address": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
   "name": "MediaPlatformData",
   "allocator_id": "f03014641",
   "organization": "MetaEra",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2y7haenxlzx372nqgt56ndf5qjxcokbub62glpky",
     "signers": [
@@ -21,58 +18,27 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "4",
     "required_replicas": "4",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "metaeraworkops"
     ],
     "allocation_bookkeeping": "https://github.com/metaeraworkops/MediaPlatformData",
-    "client_contract_address": "f410fcjacnm6p2iyduto6hqjsi3ibqbs226mrefbynsy"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-05-30T08:27:06.000Z",
-    "KYC Submitted": "2025-06-09T12:27:12.000Z",
-    "Approved": "2025-07-16T03:40:39.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-16T03:40:39.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2024-03-15T01:00:00.000Z",
-      "ended": "2024-03-15T01:00:00.000Z",
-      "dc_allocated": "2024-03-15T01:00:00.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T15:42:25.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
-    },
-    {
-      "started": "2024-05-22T01:00:00.000Z",
-      "ended": "2024-06-26T01:00:00.000Z",
-      "dc_allocated": "2024-07-01T01:00:00.000Z",
-      "outcome": "THROTTLED",
-      "datacap_amount": 2.5
-    },
-    {
-      "started": "2024-07-19T01:00:00.000Z",
-      "ended": "2024-09-24T01:00:00.000Z",
-      "dc_allocated": "2024-09-29T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 2.5
-    },
-    {
-      "started": "2024-11-06T01:00:00.000Z",
-      "ended": "2024-12-19T01:00:00.000Z",
-      "dc_allocated": "2024-12-20T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-08-06T01:00:00.000Z",
-      "ended": "2025-08-18T01:00:00.000Z",
-      "dc_allocated": "2025-08-19T01:00:00.000Z",
-      "outcome": "THROTTLE",
-      "datacap_amount": 2.5
     }
   ],
-  "old_allocator_id": "f03014641"
+  "old_allocator_id": ""
 }
