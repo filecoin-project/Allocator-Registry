@@ -1,11 +1,16 @@
 {
+  "application_number": 2394,
   "address": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
   "name": "WaterdropLab",
-  "allocator_id": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
+  "allocator_id": "f03019840",
   "organization": "SSDMINER CLOUD INTELLIGENT",
   "pathway_addresses": {
-    "msig": "",
-    "signers": []
+    "msig": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1i2znbisevlalmctotghgnroprplkioss73ka24i",
+      "f1ctfpa5uzzvyl6phc5vck4xzv2isjacd6hcggw7i"
+    ]
   },
   "associated_org_addresses": "f1i2znbisevlalmctotghgnroprplkioss73ka24i",
   "application": {
@@ -23,7 +28,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2026-01-01T15:48:22.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
