@@ -1,11 +1,8 @@
 {
-  "application_number": 1078,
   "address": "f26ctg76vbymx74i7fywodxc45gnipclz3i667cvi",
   "name": "SilverPower - Manual",
   "allocator_id": "f03618002",
   "organization": "Silver Power Enterprise Limited",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f26ctg76vbymx74i7fywodxc45gnipclz3i667cvi",
     "signers": [
@@ -21,29 +18,26 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "5",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "SilverPowerEnterprise"
     ],
     "allocation_bookkeeping": "https://github.com/SilverPowerEnterprise/filcoin-allocator-bookkeeping",
-    "client_contract_address": "f410fz574sgpenpscyv766yzr2q4cxwwgeux25bnderq"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-25T06:31:55.000Z",
-    "KYC Submitted": "2025-08-28T20:51:47.000Z",
-    "Approved": "2025-08-28T20:52:08.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-08-29T19:09:55.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-07-25T06:31:48.000Z",
-      "ended": "2025-08-28T20:52:08.000Z",
-      "dc_allocated": "2025-08-29T19:09:55.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": "5"
+      "started": "2026-01-01T18:22:08.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
