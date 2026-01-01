@@ -1,11 +1,8 @@
 {
-  "application_number": 1081,
   "address": "f2njirmib44pred3khly4d4y4755oav3glsjkmvsi",
   "name": "TopBlocks",
   "allocator_id": "f03617631",
   "organization": "TopBlocks",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2njirmib44pred3khly4d4y4755oav3glsjkmvsi",
     "signers": [
@@ -23,29 +20,26 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "4",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "hsdifasi"
     ],
     "allocation_bookkeeping": "https://github.com/hsdifasi/Bookkeeping",
-    "client_contract_address": "f410fecvrfjgmi2pezw6pndwsindyvblkmbtl6x7avnq"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-29T06:20:50.000Z",
-    "KYC Submitted": "2025-07-31T06:09:53.000Z",
-    "Approved": "2025-08-28T16:59:32.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-08-29T19:11:01.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-07-29T06:20:37.000Z",
-      "ended": "2025-08-28T16:59:32.000Z",
-      "dc_allocated": "2025-08-29T19:11:01.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": "5"
+      "started": "2026-01-01T18:00:06.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
