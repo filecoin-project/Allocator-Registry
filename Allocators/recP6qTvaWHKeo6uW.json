@@ -1,11 +1,8 @@
 {
-  "application_number": 885,
   "address": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
   "name": "WaterdropLab",
   "allocator_id": "f03019840",
   "organization": "SSDMINER CLOUD INTELLIGENT",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2ddjxnv4bvvl6br7nuuthgk6cx5ad53jnqefszka",
     "signers": [
@@ -23,44 +20,27 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "5",
     "required_replicas": "5",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "amiclan666"
     ],
     "allocation_bookkeeping": "https://github.com/amiclan666/WaterdropLab/issues",
-    "client_contract_address": "f410fq7hups4hhh2befqqnik7jeeb6njggdycnwocdmq"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-09T06:38:04.000Z",
-    "KYC Submitted": "2025-07-07T23:10:34.000Z",
-    "Approved": "2025-07-07T23:12:12.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-08T16:54:32.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-06-09T06:37:57.000Z",
-      "ended": "2025-07-07T23:12:12.000Z",
-      "dc_allocated": "2025-07-08T16:54:32.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-08-18T01:00:00.000Z",
-      "ended": "2025-09-08T01:00:00.000Z",
-      "dc_allocated": "2025-09-10T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-10-29T17:14:32.594Z",
-      "ended": "2025-11-07T20:28:00.000Z",
-      "dc_allocated": "2025-11-07T20:28:00.000Z",
-      "outcome": "MATCH",
+      "started": "2026-01-01T15:40:30.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
     }
   ],
-  "old_allocator_id": "f03019840"
+  "old_allocator_id": ""
 }
