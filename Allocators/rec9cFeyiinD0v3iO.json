@@ -1,11 +1,8 @@
 {
-  "application_number": 996,
   "address": "f2qfgl2ybxx7dul5qe7rmmzwmaq7xp4woscu3lbnq",
   "name": "JingBeiTrade Allocator",
   "allocator_id": "f03617869",
   "organization": "JN Trade",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2qfgl2ybxx7dul5qe7rmmzwmaq7xp4woscu3lbnq",
     "signers": [
@@ -21,36 +18,26 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "baogebaoge178"
     ],
     "allocation_bookkeeping": "https://github.com/baogebaoge178/JingBeiTrade-Allocator",
-    "client_contract_address": "f410fwtfuun5yiffpa5i6s5tcmwsjrktjtmwfrmcmy4i"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-01T15:48:55.000Z",
-    "KYC Submitted": "2025-07-02T02:38:36.000Z",
-    "Approved": "2025-07-29T04:06:39.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T06:27:33.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-07-01T15:48:47.000Z",
-      "ended": "2025-07-29T04:06:39.000Z",
-      "dc_allocated": "2025-07-29T06:27:33.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-10-14T04:27:50.526Z",
-      "ended": "2025-12-12T17:16:03.920Z",
+      "started": "2026-01-01T16:45:12.000Z",
+      "ended": "",
       "dc_allocated": "",
-      "outcome": "REJECTED",
-      "datacap_amount": ""
+      "outcome": "PENDING",
+      "datacap_amount": 5
     }
   ],
   "old_allocator_id": ""
