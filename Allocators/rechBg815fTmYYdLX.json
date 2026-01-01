@@ -1,11 +1,8 @@
 {
-  "application_number": 1027,
   "address": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
   "name": "Ramo",
   "allocator_id": "f03019928",
   "organization": "web3mine AG",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
     "signers": [
@@ -19,12 +16,9 @@
       "Enterprise Data"
     ],
     "distribution": [],
-    "tranche_schedule": "I will use a custom calculation.",
+    "tranche_schedule": "I will use a custom calculation. ",
     "required_sps": "3",
     "required_replicas": "7",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "vvkio"
     ],
@@ -32,34 +26,20 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-08T14:26:39.000Z",
-    "KYC Submitted": "2025-07-10T07:57:50.000Z",
-    "Approved": "2025-07-29T04:59:26.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T06:53:52.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2024-03-15T01:00:00.000Z",
-      "ended": "2024-03-15T01:00:00.000Z",
-      "dc_allocated": "2024-03-15T01:00:00.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-03-24T01:00:00.000Z",
-      "ended": "2025-04-16T01:00:00.000Z",
-      "dc_allocated": "2025-04-17T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 5
-    },
-    {
-      "started": "2025-05-20T01:00:00.000Z",
-      "ended": "2025-06-27T01:00:00.000Z",
-      "dc_allocated": "2025-07-29T06:53:52.000Z",
-      "outcome": "MATCH",
+      "started": "2026-01-01T15:47:02.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
     }
   ],
-  "old_allocator_id": "f03019928"
+  "old_allocator_id": ""
 }
