@@ -1,14 +1,12 @@
 {
+  "application_number": 2288,
   "address": "f2xhj666jsewrgjd53hqlijhc5edrezrkortncjpa",
   "name": "TOPPOOL",
-  "allocator_id": "f03004870",
+  "allocator_id": "f2xhj666jsewrgjd53hqlijhc5edrezrkortncjpa",
   "organization": "TOPPOOL",
   "pathway_addresses": {
-    "msig": "f2xhj666jsewrgjd53hqlijhc5edrezrkortncjpa",
-    "signers": [
-      "f1grjkkw3p5hw3vx5gonvppkkzpcgmu4xnwfm7sli",
-      "f1qjpkncmx22mhjq75snuwsgiph2zowhkwfsxnuli"
-    ]
+    "msig": "",
+    "signers": []
   },
   "associated_org_addresses": "f1grjkkw3p5hw3vx5gonvppkkzpcgmu4xnwfm7sli",
   "application": {
@@ -26,7 +24,7 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "",
+    "Application Submitted": "2026-01-01T15:40:35.000Z",
     "KYC Submitted": "",
     "Approved": "",
     "Declined": "",
