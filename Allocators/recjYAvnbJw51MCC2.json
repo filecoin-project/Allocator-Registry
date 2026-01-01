@@ -1,11 +1,8 @@
 {
-  "application_number": 985,
   "address": "f2onxvf2zmed2gctynicq5zg2mdd4ilucmzmovjsa",
   "name": "Space Lab",
   "allocator_id": "f03617939",
   "organization": "Space Lab",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2onxvf2zmed2gctynicq5zg2mdd4ilucmzmovjsa",
     "signers": [
@@ -21,28 +18,25 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "york0320"
     ],
-    "allocation_bookkeeping": "https://github.com/york0320/Space-Lab",
-    "client_contract_address": "f410fu6luqparfgebtrnfjibz5udm2w5nat3cwed24qa"
+    "allocation_bookkeeping": "https://github.com/york0320/Space-Lab-Bookkeeping",
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-30T03:38:55.000Z",
-    "KYC Submitted": "2025-07-01T13:15:02.000Z",
-    "Approved": "2025-07-29T03:59:03.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T06:22:37.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-06-30T03:38:47.000Z",
-      "ended": "2025-07-29T03:59:03.000Z",
-      "dc_allocated": "2025-07-29T06:22:37.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T17:27:26.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
     }
   ],
