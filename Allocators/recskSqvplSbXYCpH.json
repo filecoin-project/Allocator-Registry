@@ -1,11 +1,8 @@
 {
-  "application_number": 894,
   "address": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
   "name": "OpenGate",
   "allocator_id": "f03019921",
   "organization": "OpenGate",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2chmjasnwjwbmtbasoipel6xzhyex5deyawg2lsq",
     "signers": [
@@ -21,51 +18,27 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "5",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "OpenGate01"
     ],
     "allocation_bookkeeping": "https://github.com/OpenGate01/Allocator-Pathway-OpenGate01",
-    "client_contract_address": "f410fi3ejzxehuqgsgxks7fyg2i3gyaqul25laechqma"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-10T08:58:04.000Z",
-    "KYC Submitted": "2025-07-10T09:48:40.000Z",
-    "Approved": "2025-07-29T03:20:53.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-29T03:20:53.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2024-03-15T01:00:00.000Z",
-      "ended": "2024-03-15T01:00:00.000Z",
-      "dc_allocated": "2024-03-15T01:00:00.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T17:56:38.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
-    },
-    {
-      "started": "2024-08-14T01:00:00.000Z",
-      "ended": "2024-09-07T01:00:00.000Z",
-      "dc_allocated": "2024-09-17T01:00:00.000Z",
-      "outcome": "THROTTLED",
-      "datacap_amount": 2.5
-    },
-    {
-      "started": "2024-10-29T01:00:00.000Z",
-      "ended": "2025-03-06T01:00:00.000Z",
-      "dc_allocated": "2025-03-06T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 2.5
-    },
-    {
-      "started": "2025-07-31T01:00:00.000Z",
-      "ended": "2025-08-06T01:00:00.000Z",
-      "dc_allocated": "2025-08-22T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 2.5
     }
   ],
-  "old_allocator_id": "f03019921"
+  "old_allocator_id": ""
 }
