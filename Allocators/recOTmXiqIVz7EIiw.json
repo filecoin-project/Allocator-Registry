@@ -1,11 +1,8 @@
 {
-  "application_number": 982,
   "address": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
   "name": "Storify Data Fortress",
   "allocator_id": "f03012494",
   "organization": "Storify LLC.",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f23cfhgj4q2c475knavu4ulmaiv5wcolgf7vyhola",
     "signers": [
@@ -21,58 +18,27 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "shizhigu"
     ],
     "allocation_bookkeeping": "https://github.com/Storify-LLC/Storify-Data-Pathway/issues",
-    "client_contract_address": "f410fv3pb7yehrqarlivqxjgbifegglphsscrcoknrwi"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-06-27T08:18:54.000Z",
-    "KYC Submitted": "2025-07-08T22:03:43.000Z",
-    "Approved": "2025-07-16T04:40:49.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-07-16T04:40:49.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2024-03-15T01:00:00.000Z",
-      "ended": "2024-03-15T01:00:00.000Z",
-      "dc_allocated": "2024-03-15T01:00:00.000Z",
-      "outcome": "GRANTED",
+      "started": "2026-01-01T17:44:31.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
-    },
-    {
-      "started": "2024-09-29T01:00:00.000Z",
-      "ended": "2024-10-15T01:00:00.000Z",
-      "dc_allocated": "2024-10-28T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 10
-    },
-    {
-      "started": "2025-01-09T01:00:00.000Z",
-      "ended": "2025-02-10T01:00:00.000Z",
-      "dc_allocated": "2025-02-17T01:00:00.000Z",
-      "outcome": "DOUBLED",
-      "datacap_amount": 20
-    },
-    {
-      "started": "2025-05-07T01:00:00.000Z",
-      "ended": "2025-05-26T01:00:00.000Z",
-      "dc_allocated": "2025-06-05T01:00:00.000Z",
-      "outcome": "MATCH",
-      "datacap_amount": 20
-    },
-    {
-      "started": "2025-07-10T01:00:00.000Z",
-      "ended": "2025-07-24T01:00:00.000Z",
-      "dc_allocated": "2025-08-22T01:00:00.000Z",
-      "outcome": "THROTTLED",
-      "datacap_amount": 10
     }
   ],
-  "old_allocator_id": "f03012494"
+  "old_allocator_id": ""
 }
