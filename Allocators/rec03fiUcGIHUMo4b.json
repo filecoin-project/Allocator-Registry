@@ -1,17 +1,15 @@
 {
-  "application_number": 1060,
   "address": "f26oafqpnh7lncjc5hoyj6xib5o62s6gzozdkx5gy",
   "name": "GOME Fil+",
   "allocator_id": "f03626500",
   "organization": "Gome Real Joy E-Commerce Co., Ltd.",
-  "metapathway_type": "MDMA",
-  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f26oafqpnh7lncjc5hoyj6xib5o62s6gzozdkx5gy",
     "signers": [
       "f1kkvbhw5k7sbfnzfup475vwmda4cz4p4lbvnvgla",
       "f14njfc7zafdsyb3ippcqnt74xcougjawktdfstjq",
-      "f1dgyvfw2iqfufbxouietpj6qvydnk2l54fk5pg2i"
+      "f1dgyvfw2iqfufbxouietpj6qvydnk2l54fk5pg2i",
+      "f1jwpid6t2bzf6dfyyhsjiaemets53qcgn7lgseyq"
     ]
   },
   "associated_org_addresses": "f2fxlzt7dljootlr6qaru5axap3ufspjymsj75pzi",
@@ -23,35 +21,25 @@
     "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
     "required_sps": "over 5",
     "required_replicas": "8",
-    "tooling": [
-      "smart_contract_allocator"
-    ],
     "github_handles": [
       "chenzhi201901"
     ],
     "allocation_bookkeeping": "https://github.com/HBCrop/GOME-Filplus",
-    "client_contract_address": "f410fqgrzta5lgircinczexbtrz3dbvithgtdakbs37a"
+    "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2025-07-16T07:41:23.000Z",
-    "KYC Submitted": "2025-08-06T09:52:23.000Z",
-    "Approved": "2025-08-28T20:43:07.000Z",
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
     "Declined": "",
-    "DC Allocated": "2025-08-29T19:34:47.000Z"
+    "DC Allocated": ""
   },
   "audits": [
     {
-      "started": "2025-07-16T07:41:15.000Z",
-      "ended": "2025-08-28T20:43:07.000Z",
-      "dc_allocated": "2025-08-29T19:34:47.000Z",
-      "outcome": "GRANTED",
-      "datacap_amount": "5"
-    },
-    {
-      "started": "2025-12-03T07:44:24.502Z",
-      "ended": "2025-12-11T22:22:30.000Z",
-      "dc_allocated": "2025-12-11T22:22:30.000Z",
-      "outcome": "MATCH",
+      "started": "2026-01-01T17:38:13.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
       "datacap_amount": 5
     }
   ],
