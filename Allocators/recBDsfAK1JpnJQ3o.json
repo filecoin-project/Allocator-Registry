@@ -87,6 +87,13 @@
       "dc_allocated": "2025-09-19T01:00:00.000Z",
       "outcome": "MATCH",
       "datacap_amount": 5
+    },
+    {
+      "started": "2026-01-04T08:27:56.629Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": ""
     }
   ],
   "old_allocator_id": "f03014608"
