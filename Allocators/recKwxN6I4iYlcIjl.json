@@ -46,6 +46,13 @@
       "dc_allocated": "2025-07-29T05:36:47.000Z",
       "outcome": "GRANTED",
       "datacap_amount": 5
+    },
+    {
+      "started": "2026-01-05T01:49:34.280Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": ""
     }
   ],
   "old_allocator_id": ""
