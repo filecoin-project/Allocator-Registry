@@ -33,4 +33,4 @@ Some portions of the JSON records here are maintained autoamtically by bot servi
 
 ** **  
 ## Maintainer
-This project is maintained by 💼 @Kevin-FF-USA    💼 @galen-mcandrew
+This project is maintained by 💼 @Kevin-FF-USA  
