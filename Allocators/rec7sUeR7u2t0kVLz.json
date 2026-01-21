@@ -1,0 +1,46 @@
+{
+  "address": "f26x4nj64x3byk56zzjebrc2akmvkskygjhiz3u2q",
+  "name": "novatech fil+",
+  "allocator_id": "f03737898",
+  "organization": "novatech",
+  "pathway_addresses": {
+    "msig": "f26x4nj64x3byk56zzjebrc2akmvkskygjhiz3u2q",
+    "signers": [
+      "f1be3jarmb4ecump5k2stba4rcd6kqiwgmuq2np2y",
+      "f1y6rleflmpg33vr45ng3eoyxw4lngtcsnh75vu4a",
+      "f1mncp6nfbhi3yhmnz2m6khuc4sizn5xkkdd4swea"
+    ]
+  },
+  "associated_org_addresses": "f2hgo7oo5htgddn2rg5tm2a47rn3hd6djrb35osya",
+  "application": {
+    "audit": [
+      "Enterprise Data"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "usita-md"
+    ],
+    "allocation_bookkeeping": "https://github.com/usita-md/nova-bookkeeping",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2026-01-21T20:21:47.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
