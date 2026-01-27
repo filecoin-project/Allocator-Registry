@@ -1,0 +1,46 @@
+{
+  "application_number": 3006,
+  "address": "f2ie5kumtwqhhelv5evb6iyqxguveucupaiyhkwvi",
+  "name": "Guazi Dynamic",
+  "allocator_id": "f03019847",
+  "organization": "Guazi Dynamic",
+  "pathway_addresses": {
+    "msig": "f2ie5kumtwqhhelv5evb6iyqxguveucupaiyhkwvi",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1j3u7crhjzwb2cj5mq7vodlt4o66yoyci7lhcauy"
+    ]
+  },
+  "associated_org_addresses": "f1j3u7crhjzwb2cj5mq7vodlt4o66yoyci7lhcauy",
+  "application": {
+    "audit": [
+      "Enterprise Data"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use the standard Allocation Tranche Schedule",
+    "required_sps": "5",
+    "required_replicas": "5",
+    "github_handles": [
+      "Fatman13"
+    ],
+    "allocation_bookkeeping": "https://github.com/py-guazi/GZ-FIP0078-Pathway",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "2026-01-21T20:22:09.000Z",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2026-01-21T20:22:01.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
