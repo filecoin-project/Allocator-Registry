@@ -1,0 +1,40 @@
+{
+  "address": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
+  "name": "Ramo Cloud",
+  "allocator_id": "f03019928",
+  "organization": "w3m, Inc.",
+  "pathway_addresses": {
+    "msig": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
+    "signers": [
+      "f1a5b5cn5xgsmui2kivzj2eryzrqmhmew4tytj3by",
+      "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca"
+    ]
+  },
+  "associated_org_addresses": "f1xmitblrmxo6ubt2jyokg4flfiruqkaag2oe3gca",
+  "application": {
+    "audit": [],
+    "distribution": [],
+    "github_handles": [
+      "https://github.com/vvkio"
+    ],
+    "allocation_bookkeeping": "https://github.com/filplus-bookkeeping/web3mine-AG",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2026-02-02T16:41:20.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
