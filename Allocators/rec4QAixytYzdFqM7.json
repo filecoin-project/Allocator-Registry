@@ -4,8 +4,8 @@
   "name": "Ramo Cloud",
   "allocator_id": "f03019928",
   "organization": "w3m, Inc.",
-  "metapathway_type": "ORMA",
-  "ma_address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f273mpjrylbwsxje72m7tzdklcmhoj57xzwlbp5ta",
     "signers": [
@@ -34,14 +34,14 @@
     "KYC Submitted": "2026-02-05T17:18:07.000Z",
     "Approved": "2026-02-05T17:18:52.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2026-02-05T17:21:47.000Z"
   },
   "audits": [
     {
       "started": "2026-02-02T16:41:20.000Z",
       "ended": "2026-02-05T17:18:52.000Z",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "dc_allocated": "2026-02-05T17:21:47.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": "5"
     }
   ],
