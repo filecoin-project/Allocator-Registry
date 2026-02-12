@@ -1,0 +1,91 @@
+sequenceDiagram
+    title ORMA DC Flow
+    actor GH as GitHub
+    actor SC as Metaallocator dApp
+    actor ORMA
+    actor OR as On-Ramp
+
+
+    %% On-Ramp applies to ORMA
+    OR->>ORMA: Apply to become Allocator
+    ORMA->>OR: Reviews application
+    alt Basic Review Passed
+        ORMA->>OR: Provide Documents
+        alt Optionally NDA
+            OR->>ORMA: Request NDA Signing
+            ORMA->>OR: Sign NDA
+        end
+        OR->>ORMA: Submit Documents
+        ORMA->>OR: Review Documents
+        alt Optionally Secondary Review
+            ORMA->>OR: Conduct an Interview
+            ORMA->>OR: Request Referrals
+        end
+        alt OnRamp Approved
+            Note right of SC: Use "address" as controller (in 0x)
+            ORMA->>SC: Deploy On-Ramp Smart Contract  
+            SC->>ORMA: Return OR_SC (On-ramp Smart Contract)
+            Note right of SC: Use OR_SC as controller (in 0x)
+            ORMA->>SC: Deploy Client Smart Contract
+            SC->>ORMA: Return Client Smart Contract address
+            ORMA->>GH: Update json with "client_contract_address" = "OR_SC"
+            ORMA->>OR: On-Ramp Approved as an allocator
+        else Reject
+            ORMA-->>OR: Reject Application
+        end
+
+    else Reject
+        ORMA-->>OR: Reject Application
+    end
+
+
+sequenceDiagram
+    title DC Flow From Start to Finish
+    actor RKH as Root Key Holders
+    actor GT as Governance Team
+    actor MA as Metaallocator
+    actor Alloc as Allocator
+    actor Client
+    actor SP as Storage Provider
+    actor SC as Smart Contract
+    actor FIL as Chain
+
+    %% Compliance review
+    RKH->>GT: Review compliance
+
+    %% Metaallocator requests DC, Governance audits
+    MA->>GT: Request DC (DataCap)
+    GT->>MA: Audit application
+    alt Audit passes
+        GT->>RKH: Request DC allocation to MA
+        RKH->>MA: Allocate DC
+    else Audit fails
+        GT-->>MA: Reject DC request
+    end
+
+    %% Allocator requests DC, Metaallocator audits
+    Alloc->>MA: Request DC allocation
+    MA->>Alloc: Review Allocator application
+    alt Audit passes
+        MA->>Alloc: Allocate DC
+    else Audit fails
+        MA-->>Alloc: Reject DC request
+    end
+
+    %% Client requests DC for SPs
+    Client->>Alloc: Request DC for Storage Providers
+
+    Alloc->>Client: Review SP & Client application
+
+    alt Application approved
+        Alloc->>SC: Allocate DC to Smart Contract (with list of SPs)
+        SC->>SP: Authorize minting of DC for deal
+        Note over FIL: From here on this is simplified for general public
+        SP->>SP: Prepare/seal dataset & generate proof
+        SP->>FIL: Submit proof on-chain
+        SP->>SC: Claim: "I am storing dataset for this deal"
+        SC->>FIL: Allow SP to receive DC 
+        SP->>FIL: Mint DC for deal
+    else Application rejected
+        MA-->>Client: Reject application
+    end
