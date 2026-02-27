@@ -69,10 +69,10 @@
     },
     {
       "started": "2026-02-23T19:51:01.624Z",
-      "ended": "",
-      "dc_allocated": "",
-      "outcome": "PENDING",
-      "datacap_amount": ""
+      "ended": "2026-02-27T03:29:30.000Z",
+      "dc_allocated": "2026-02-27T03:29:30.000Z",
+      "outcome": "UNKNOWN",
+      "datacap_amount": 544.13
     }
   ],
   "old_allocator_id": "f03358620"
