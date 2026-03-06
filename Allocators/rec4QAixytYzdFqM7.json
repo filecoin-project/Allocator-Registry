@@ -18,8 +18,8 @@
     "audit": [],
     "distribution": [],
     "tranche_schedule": null,
-    "required_sps": null,
-    "required_replicas": null,
+    "required_sps": "1",
+    "required_replicas": "1",
     "tooling": [
       "smart_contract_allocator"
     ],
