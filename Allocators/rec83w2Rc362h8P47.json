@@ -66,6 +66,13 @@
       "dc_allocated": "2025-12-05T21:25:30.000Z",
       "outcome": "DOUBLE",
       "datacap_amount": 10
+    },
+    {
+      "started": "2026-03-12T02:02:46.711Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": ""
     }
   ],
   "old_allocator_id": ""
