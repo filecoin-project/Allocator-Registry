@@ -4,6 +4,8 @@
   "name": "Aurora S3 ",
   "allocator_id": "f03774029",
   "organization": "Aurora Infrastructure EU",
+  "metapathway_type": "ORMA",
+  "ma_address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
   "pathway_addresses": {
     "msig": "f2afsmaqcdpyvpq3m2ll7gwub3ictcfyn3ed7zeay",
     "signers": [
@@ -19,6 +21,9 @@
     "tranche_schedule": null,
     "required_sps": null,
     "required_replicas": null,
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "magik6k"
     ],
@@ -28,17 +33,17 @@
   "history": {
     "Application Submitted": "2026-04-24T08:27:04.000Z",
     "KYC Submitted": "2026-04-24T16:32:57.000Z",
-    "Approved": "",
+    "Approved": "2026-04-24T16:34:38.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2026-04-24T08:26:55.000Z",
-      "ended": "",
+      "ended": "2026-04-24T16:34:38.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "5"
     }
   ],
   "old_allocator_id": ""
