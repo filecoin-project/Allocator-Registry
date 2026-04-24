@@ -4,8 +4,8 @@
   "name": "Aurora S3 ",
   "allocator_id": "f03774029",
   "organization": "Aurora Infrastructure EU",
-  "metapathway_type": "ORMA",
-  "ma_address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2afsmaqcdpyvpq3m2ll7gwub3ictcfyn3ed7zeay",
     "signers": [
@@ -35,14 +35,14 @@
     "KYC Submitted": "2026-04-24T16:32:57.000Z",
     "Approved": "2026-04-24T16:34:38.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2026-04-24T16:36:32.000Z"
   },
   "audits": [
     {
       "started": "2026-04-24T08:26:55.000Z",
       "ended": "2026-04-24T16:34:38.000Z",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "dc_allocated": "2026-04-24T16:36:32.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": "5"
     }
   ],
