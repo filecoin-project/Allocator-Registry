@@ -1,0 +1,41 @@
+{
+  "address": "f03774029",
+  "name": "Aurora S3 ",
+  "allocator_id": "f03774029",
+  "organization": "Aurora Infrastructure EU",
+  "pathway_addresses": {
+    "msig": "f2afsmaqcdpyvpq3m2ll7gwub3ictcfyn3ed7zeay",
+    "signers": [
+      "f1vjvnnlikd4uiyodie2ia5prifbctljzbvw2wgti"
+    ]
+  },
+  "associated_org_addresses": "f03774029",
+  "application": {
+    "audit": [
+      "On-Ramps"
+    ],
+    "distribution": [],
+    "github_handles": [
+      "magik6k"
+    ],
+    "allocation_bookkeeping": "https://github.com/aurorainfra/datacap-s3-onramp",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2026-04-24T08:26:55.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
