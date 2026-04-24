@@ -16,6 +16,9 @@
       "On-Ramps"
     ],
     "distribution": [],
+    "tranche_schedule": null,
+    "required_sps": null,
+    "required_replicas": null,
     "github_handles": [
       "magik6k"
     ],
@@ -23,8 +26,8 @@
     "client_contract_address": ""
   },
   "history": {
-    "Application Submitted": "2026-04-24T08:27:07.000Z",
-    "KYC Submitted": "",
+    "Application Submitted": "2026-04-24T08:27:04.000Z",
+    "KYC Submitted": "2026-04-24T16:32:57.000Z",
     "Approved": "",
     "Declined": "",
     "DC Allocated": ""
