@@ -1,0 +1,44 @@
+{
+  "address": "f2afsmaqcdpyvpq3m2ll7gwub3ictcfyn3ed7zeay",
+  "name": "Aurora Object Storage",
+  "allocator_id": "f03774029",
+  "organization": "Aurora Infra",
+  "pathway_addresses": {
+    "msig": "f2afsmaqcdpyvpq3m2ll7gwub3ictcfyn3ed7zeay",
+    "signers": [
+      "f1vjvnnlikd4uiyodie2ia5prifbctljzbvw2wgti",
+      "f1cphlrsql6jzr2p77tbpjw2ruhyuqrmzwjpgelqa"
+    ]
+  },
+  "associated_org_addresses": "f2afsmaqcdpyvpq3m2ll7gwub3ictcfyn3ed7zeay",
+  "application": {
+    "audit": [
+      "Enterprise Data"
+    ],
+    "distribution": [],
+    "tranche_schedule": "I will use a custom calculation. ",
+    "required_replicas": "2",
+    "github_handles": [
+      "magik6k"
+    ],
+    "allocation_bookkeeping": "https://github.com/aurorainfra/filplus-bureaucracy",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2026-04-30T21:51:59.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
