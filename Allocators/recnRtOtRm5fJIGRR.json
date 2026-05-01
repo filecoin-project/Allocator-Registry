@@ -18,6 +18,7 @@
     ],
     "distribution": [],
     "tranche_schedule": "I will use a custom calculation. ",
+    "required_sps": null,
     "required_replicas": "2",
     "github_handles": [
       "magik6k"
@@ -27,7 +28,7 @@
   },
   "history": {
     "Application Submitted": "2026-04-30T21:52:09.000Z",
-    "KYC Submitted": "",
+    "KYC Submitted": "2026-05-01T17:52:13.000Z",
     "Approved": "",
     "Declined": "",
     "DC Allocated": ""
