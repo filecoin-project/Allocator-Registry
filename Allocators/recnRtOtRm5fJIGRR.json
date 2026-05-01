@@ -4,6 +4,8 @@
   "name": "Aurora Object Storage",
   "allocator_id": "f03774029",
   "organization": "Aurora Infra",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f2afsmaqcdpyvpq3m2ll7gwub3ictcfyn3ed7zeay",
     "signers": [
@@ -20,6 +22,9 @@
     "tranche_schedule": "I will use a custom calculation. ",
     "required_sps": null,
     "required_replicas": "2",
+    "tooling": [
+      "smart_contract_allocator"
+    ],
     "github_handles": [
       "magik6k"
     ],
@@ -29,17 +34,17 @@
   "history": {
     "Application Submitted": "2026-04-30T21:52:09.000Z",
     "KYC Submitted": "2026-05-01T17:52:13.000Z",
-    "Approved": "",
+    "Approved": "2026-05-01T17:52:48.000Z",
     "Declined": "",
     "DC Allocated": ""
   },
   "audits": [
     {
       "started": "2026-04-30T21:51:59.000Z",
-      "ended": "",
+      "ended": "2026-05-01T17:52:48.000Z",
       "dc_allocated": "",
       "outcome": "PENDING",
-      "datacap_amount": 5
+      "datacap_amount": "5"
     }
   ],
   "old_allocator_id": ""
