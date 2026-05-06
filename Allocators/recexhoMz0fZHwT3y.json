@@ -1,0 +1,43 @@
+{
+  "address": "f262kka65txh3nixza5s2dduc6z64e7s24kappljq",
+  "name": "Large Data Onboarding",
+  "allocator_id": "f03777695",
+  "organization": "LDO Pod",
+  "pathway_addresses": {
+    "msig": "f262kka65txh3nixza5s2dduc6z64e7s24kappljq",
+    "signers": [
+      "f1p3u6tmz7j275iz72f6pqlqywdhrbryuyaae4j3i",
+      "f1msap4wvgzzv4xlzeq6kycmgx55ferfloxnt2rcy",
+      "f1tmewdaoz2wmoocpyforkqamwevw65jehxszct6i"
+    ]
+  },
+  "associated_org_addresses": "f410foygeoeocfkqi7bqaa6zheomu2xvmblvtpwsctiy",
+  "application": {
+    "audit": [
+      "On-Ramps"
+    ],
+    "distribution": [],
+    "github_handles": [
+      "martapiekarska"
+    ],
+    "allocation_bookkeeping": "https://github.com/fidlabs/large-data-onboarding-pod",
+    "client_contract_address": ""
+  },
+  "history": {
+    "Application Submitted": "",
+    "KYC Submitted": "",
+    "Approved": "",
+    "Declined": "",
+    "DC Allocated": ""
+  },
+  "audits": [
+    {
+      "started": "2026-05-06T18:17:02.000Z",
+      "ended": "",
+      "dc_allocated": "",
+      "outcome": "PENDING",
+      "datacap_amount": 5
+    }
+  ],
+  "old_allocator_id": ""
+}
