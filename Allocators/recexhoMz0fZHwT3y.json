@@ -18,6 +18,9 @@
       "On-Ramps"
     ],
     "distribution": [],
+    "tranche_schedule": null,
+    "required_sps": null,
+    "required_replicas": null,
     "github_handles": [
       "martapiekarska"
     ],
@@ -26,7 +29,7 @@
   },
   "history": {
     "Application Submitted": "2026-05-06T18:17:12.000Z",
-    "KYC Submitted": "",
+    "KYC Submitted": "2026-05-06T21:19:45.000Z",
     "Approved": "",
     "Declined": "",
     "DC Allocated": ""
