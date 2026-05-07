@@ -20,9 +20,9 @@
       "On-Ramps"
     ],
     "distribution": [],
-    "tranche_schedule": null,
-    "required_sps": null,
-    "required_replicas": null,
+    "tranche_schedule": "",
+    "required_sps": "",
+    "required_replicas": "",
     "tooling": [
       "smart_contract_allocator"
     ],
