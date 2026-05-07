@@ -4,8 +4,8 @@
   "name": "Large Data Onboarding",
   "allocator_id": "f03777695",
   "organization": "LDO Pod",
-  "metapathway_type": "ORMA",
-  "ma_address": "f410f5clmcx2recqhyjeb4d6phuai4he6o3a77guvfny",
+  "metapathway_type": "MDMA",
+  "ma_address": "f410fw325e6novwl57jcsbhz6koljylxuhqq5jnp5ftq",
   "pathway_addresses": {
     "msig": "f262kka65txh3nixza5s2dduc6z64e7s24kappljq",
     "signers": [
@@ -37,14 +37,14 @@
     "KYC Submitted": "2026-05-06T21:19:45.000Z",
     "Approved": "2026-05-06T21:20:49.000Z",
     "Declined": "",
-    "DC Allocated": ""
+    "DC Allocated": "2026-05-07T10:51:36.000Z"
   },
   "audits": [
     {
       "started": "2026-05-06T18:17:02.000Z",
       "ended": "2026-05-06T21:20:49.000Z",
-      "dc_allocated": "",
-      "outcome": "PENDING",
+      "dc_allocated": "2026-05-07T10:51:36.000Z",
+      "outcome": "GRANTED",
       "datacap_amount": "10"
     }
   ],
